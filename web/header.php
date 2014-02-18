@@ -4,7 +4,17 @@
 
 
 British Museum - About
-</title><link href="http://www.britishmuseum.org/WebResource.axd?d=9SIonGbKeFVKuKsR_reirFktlYIIvlsRzc0rYI78h5uGJubjr5Gu1szq_pN7EXWmvegrJTmqH2vzyf_dhQ-I_UAyXIzm-Wxv3p4FHxzjSMgNMDm8qUyr1635tGEo3CFJxFWq-Dt6kspCudR5nNQ7MNEqVgI1&amp;t=634383934428827289" type="text/css" rel="stylesheet" /><base href="http://www.britishmuseum.org/" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><link rel="stylesheet" href="http://www.britishmuseum.org/templates/default/css/v2/system/stylesheet.css?tick=2013.12.10-1020" type="text/css" media="screen" /><link rel="stylesheet" href="http://www.britishmuseum.org/templates/default/css/v2/system/default.css?tick=2013.12.10-1020" type="text/css" media="screen" /><link rel="stylesheet" href="http://www.britishmuseum.org/templates/default/css/v2/system/v2a_defaults.css?tick=2013.12.10-1020" type="text/css" media="screen" /><link rel="stylesheet" href="http://www.britishmuseum.org/templates/default/css/v2/system/print.css?tick=2013.12.10-1020" type="text/css" media="print" /><link rel="stylesheet" href="http://www.britishmuseum.org/templates/default/css/v2_exhibition_vikings.css" type="text/css" media="screen" />
+</title>
+
+<link href="http://www.britishmuseum.org/WebResource.axd?d=9SIonGbKeFVKuKsR_reirFktlYIIvlsRzc0rYI78h5uGJubjr5Gu1szq_pN7EXWmvegrJTmqH2vzyf_dhQ-I_UAyXIzm-Wxv3p4FHxzjSMgNMDm8qUyr1635tGEo3CFJxFWq-Dt6kspCudR5nNQ7MNEqVgI1&amp;t=634383934428827289" type="text/css" rel="stylesheet" />
+<!-- <base href="http://www.britishmuseum.org/" /> -->
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="http://www.britishmuseum.org/templates/default/css/v2/system/stylesheet.css?tick=2013.12.10-1020" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.britishmuseum.org/templates/default/css/v2/system/default.css?tick=2013.12.10-1020" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.britishmuseum.org/templates/default/css/v2/system/v2a_defaults.css?tick=2013.12.10-1020" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.britishmuseum.org/templates/default/css/v2/system/print.css?tick=2013.12.10-1020" type="text/css" media="print" />
+<link rel="stylesheet" href="http://www.britishmuseum.org/templates/default/css/v2_exhibition_vikings.css" type="text/css" media="screen" />
 
 <!--[if IE]>
     <link rel="stylesheet" href="http://www.britishmuseum.org/templates/default/css/v2/system/ie_all.css?tick=2013.02.26-1120" type="text/css" />
