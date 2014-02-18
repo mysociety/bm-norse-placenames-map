@@ -1,0 +1,13 @@
+# Apache configuration for British Museum.
+#
+
+<Location /fcgi>
+    Options +ExecCGI
+    SetHandler fastcgi-script
+</Location>
+
+DirectoryIndex index.php
+
+# PHP files can be referred without PHP
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}.php -f
+RewriteRule /(.+) /$1.php
