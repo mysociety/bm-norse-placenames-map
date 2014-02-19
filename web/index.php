@@ -30,9 +30,7 @@
     <script type="text/javascript"
         src="https://maps.googleapis.com/maps/api/js?key=<?=GOOGLE_MAPS_API_KEY?>&sensor=false">
     </script>
-    <script type="text/javascript"
-        src="http://google-maps-utility-library-v3.googlecode.com/svn/tags/markerclusterer/1.0.2/src/markerclusterer_compiled.js">
-    </script>
+    <script type="text/javascript" src="/js/vendor/markerclusterer.js"></script>
 
     <script type="text/javascript">
         window.mySociety = window.mySociety || {};
