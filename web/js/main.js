@@ -25,8 +25,7 @@
 
         var markers = [];
         var markerClusterOptions = {
-            maxZoomLevel: 7,
-            gridSize: 30
+            minimumClusterSize: 4
         };
         var markerCluster;
 
