@@ -1,4 +1,5 @@
 .map-search {
+    position: relative;
     margin-bottom: 1em;
 
     .map-search__label {
@@ -25,6 +26,40 @@
             text-indent: -9000px;
             &:hover, &:focus {
                 background-position: 4px -99px;
+            }
+        }
+    }
+    .map-search__results {
+        display: none;
+        position: absolute;
+        top: 31px;
+        z-index: 9999;
+        background-color: #1d1d1d;
+        color: #CCC;
+        border: 1px solid #333;
+        border-top: none;
+        width: 316px; // Same as the text input for now
+        ul {
+            margin-bottom: 0;
+            li {
+                margin-bottom: 0;
+                a {
+                    display: block;
+                    border-bottom: 1px solid #333;
+                    padding: 1em;
+                    margin-bottom: 1em;
+                    cursor: pointer;
+                    &:hover {
+                        background-color: lighten(#1d1d1d, 10%);
+                        color: #FFF;
+                    }
+                }
+                &:last-child {
+                    a {
+                        border-bottom: none;
+                        margin-bottom: 0;
+                    }
+                }
             }
         }
     }

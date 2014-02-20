@@ -17,13 +17,13 @@
     <p class="pullOut">Discover Norse placenames near you</p>
     <div class="map-search">
         <form id="mapSearchForm" action="" method="GET">
-            <label for="mapPlaceSearch" class="map-search__label">Search for Norse names near you: </label>
+            <label for="mapSearchInput" class="map-search__label">Search for Norse names near you: </label>
             <div class="map-search__input__wrapper">
-                <input type="text" name="placeQuery" class="map-search__input" id="mapPlaceSearch" placeholder="Enter a location, e.g. Scunthorpe, or SW11AA..." />
+                <input type="text" name="placeQuery" class="map-search__input" id="mapSearchInput" placeholder="Enter a location, e.g. Scunthorpe, or SW11AA..." />
                 <button type="submit" class="map-search__button">Search</button>
             </div>
         </form>
-        <div class="map-search__results"></div>
+        <div class="map-search__results" id="mapSearchResults"></div>
     </div>
     <div id="map-canvas"></div>
 
