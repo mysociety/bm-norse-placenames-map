@@ -3,7 +3,7 @@
     // Build the HTML for a markerInfo object showing a particular placename's
     // data from the KEPN project.
     // TODO - Replace with a client side template
-    var buildMarkerInfo = function(place) {
+    var buildMarkerInfoHTML = function(place) {
         var markerInfo = '<div>';
         markerInfo += '<h2 style="color: black;">' + place.placename + '</h2>';
         markerInfo += '<p style="color: black;">' + place.etymology + '</p>';
@@ -63,7 +63,7 @@
             // Filter results to those that are actually in the UK, despite
             // supplying a region and bounds, it's not guaranteed otherwise
             var filteredResults = filterGeocodeResultsToUK(results);
-            var resultsHTML = buildGeocoderResults(filteredResults);
+            var resultsHTML = buildGeocoderResultsHTML(filteredResults);
             $mapSearchResults.html(resultsHTML);
             $mapSearchResults.find('a').click(function(e) {
                 e.preventDefault();
@@ -163,7 +163,7 @@
                 position: new google.maps.LatLng(place.lat, place.lng),
                 title: place.placename
             });
-            var markerInfo = buildMarkerInfo(place);
+            var markerInfo = buildMarkerInfoHTML(place);
             google.maps.event.addListener(marker, 'click', function() {
                 infoWindow.setContent(markerInfo);
                 infoWindow.open(map, marker);
