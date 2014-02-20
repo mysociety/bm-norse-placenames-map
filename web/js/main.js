@@ -161,7 +161,8 @@
         $.each(mySociety.kepnData, function(index, place) {
             var marker = new google.maps.Marker({
                 position: new google.maps.LatLng(place.lat, place.lng),
-                title: place.placename
+                title: place.placename,
+                icon: '/img/helmet.png',
             });
             var markerInfo = buildMarkerInfoHTML(place);
             google.maps.event.addListener(marker, 'click', function() {
