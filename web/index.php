@@ -5,13 +5,27 @@
     require_once "header.php";
 ?>
 
-    <!--
-    Map container.
+    <!-- Our styles -->
+    <link type="text/css" rel="stylesheet" href="/css/main.css" />
 
-    The size of this is such that we show almost all of England at zoom level
-    7 in Google Maps (sorry southern Cornwall, you're not very Norse anyway).
-    -->
-    <div id="map-canvas" style="width: 100%; height: 650px"></div>
+<?php
+    // British Museum page, from:
+    // www.britishmuseum.org/whats_on/exhibitions/vikings.aspx
+    require_once "document-header.php";
+?>
+
+    <p class="pullOut">Discover Norse placenames near you</p>
+    <div class="map-search">
+        <form id="mapSearchForm" action="" method="GET">
+            <label for="mapPlaceSearch" class="map-search__label">Search for Norse names near you: </label>
+            <div class="map-search__input__wrapper">
+                <input type="text" name="placeQuery" class="map-search__input" id="mapPlaceSearch" placeholder="Enter a location, e.g. Scunthorpe, or SW11AA..." />
+                <button type="submit" class="map-search__button">Search</button>
+            </div>
+        </form>
+        <div class="map-search__results"></div>
+    </div>
+    <div id="map-canvas"></div>
 
 <?php
     // Footer, from British Museum's templates
