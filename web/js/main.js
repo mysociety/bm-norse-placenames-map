@@ -1,7 +1,10 @@
 (function($, google, mySociety){
     $(function(){
-
+        // Cache some selectors
         var $map = $('#map-canvas');
+        var $mapSearchForm = $('#mapSearchForm');
+
+        // Create the map
         var mapOptions = {
             zoom: 6,
             // Centered on "The centre of England" as per:
@@ -10,6 +13,7 @@
         };
         var map = new google.maps.Map($map[0], mapOptions);
 
+        // Create watling street
         var watlingStreet = new google.maps.Polyline({
             path: mySociety.watlingStreetCoordinates,
             geodesic: true,
@@ -18,6 +22,7 @@
             strokeWeight: 3
         });
 
+        // Create an infowindow to show details in
         var infoWindow = new google.maps.InfoWindow({
             content: "",
             maxWidth: Math.round($map.innerWidth() * 0.75)
@@ -29,10 +34,10 @@
         };
         var markerCluster;
 
-        // Add Watling Street
+        // Add Watling Street to the map
         watlingStreet.setMap(map);
 
-        // Add the markers
+        // Add the markers to the map
         $.each(mySociety.kepnData, function(index, place) {
             var marker = new google.maps.Marker({
                 position: new google.maps.LatLng(place.lat, place.lng),
@@ -54,7 +59,7 @@
                 markerInfo += "</li>";
             });
             markerInfo += '</ul>';
-            markerInfo += "</div>";
+            markerInfo += '</div>';
             google.maps.event.addListener(marker, 'click', function() {
                 infoWindow.setContent(markerInfo);
                 infoWindow.open(map, marker);
@@ -62,8 +67,8 @@
             markers.push(marker);
         });
 
-
         markerCluster = new MarkerClusterer(map, markers, markerClusterOptions);
+
     });
 
 })(window.jQuery, window.google, window.mySociety);
