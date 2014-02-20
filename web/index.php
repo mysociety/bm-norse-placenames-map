@@ -18,9 +18,11 @@
     <div class="map-search">
         <form id="mapSearchForm" action="" method="GET">
             <label for="mapSearchInput" class="map-search__label">Search for Norse names near you: </label>
-            <div class="map-search__input__wrapper">
-                <input type="text" name="placeQuery" class="map-search__input" id="mapSearchInput" placeholder="Enter a location, e.g. Scunthorpe, or SW11AA..." />
-                <button type="submit" class="map-search__button">Search</button>
+            <div class="map-search__form clearfix">
+                <button type="submit" class="map-search__form__button">Search</button>
+                <div class="map-search__form__input-wrapper">
+                    <input type="text" name="placeQuery" class="map-search__form__input" id="mapSearchInput" placeholder="Enter a location, e.g. Scunthorpe, or SW11AA..." />
+                </div>
             </div>
         </form>
         <div class="map-search__results" id="mapSearchResults"></div>

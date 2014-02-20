@@ -6,39 +6,41 @@
         display: none;
         visibility: hidden;
     }
-    // Copied from the BM's "search" at the top of the pae
-    .map-search__input__wrapper {
+    .map-search__form {
         border: 1px solid #333;
-        display: inline-block;
         background-color: #1d1d1d;
-        .map-search__input {
-            color: #CCC;
-            background-color: #1d1d1d;
-            border: none;
+        .map-search__form__input-wrapper {
+            overflow: hidden;
+            .map-search__form__input {
+                width: 100%;
+                color: #CCC;
+                background-color: #1d1d1d;
+                border: none;
+                padding: 15px 6px 15px 14px;
+            }
         }
-        .map-search__button {
-            height: 27px;
-            width: 28px;
-            // This should be switched back to a relative url if this is
-            // combined into the main CSS
-            background: url("http://www.britishmuseum.org/images/v2/defaults/searchIcon.gif") no-repeat scroll 4px -125px #1d1d1d;
+        .map-search__form__button {
+            float: right;
+            color: #CCC;
+            font-size: 1.8em;
+            padding: 11px 6px 11px 14px;
             cursor: pointer;
-            text-indent: -9000px;
+            background-color: #1d1d1d;
+            // TODO - this should probably have an arrow and perhaps be in the
+            // defined color?
             &:hover, &:focus {
-                background-position: 4px -99px;
+                color: #FFF;
+                background-color: lighten(#1d1d1d, 10%);
             }
         }
     }
     .map-search__results {
         display: none;
         position: absolute;
-        top: 31px;
         z-index: 9999;
         background-color: #1d1d1d;
         color: #CCC;
-        border: 1px solid #333;
-        border-top: none;
-        width: 316px; // Same as the text input for now
+        width: 100%;
         ul {
             margin-bottom: 0;
             li {
