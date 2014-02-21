@@ -68,12 +68,7 @@
             $mapSearchResults.find('a').click(function(e) {
                 e.preventDefault();
                 var location = $(this).data('location');
-                var parts = location.split(',');
-                var lat = parseFloat(parts[0]);
-                var lng = parseFloat(parts[1]);
-                var point = new google.maps.LatLng(lat, lng);
-                map.panTo(point);
-                map.setZoom(10);
+                showGeocodeResult(location, map);
                 $mapSearchResults.hide();
             });
             $mapSearchResults.show();
@@ -88,6 +83,18 @@
             // TODO - report the issue to the user better than this
             alert("Google Maps could not respond to your request, please try again later.");
         }
+    };
+
+    // Function to show a geocoder result on the map
+    // Takes a lat/lng string from google.maps.LatLng.toUrlValue() and a
+    // google.maps.Map object
+    var showGeocodeResult = function(location, map) {
+        var parts = location.split(',');
+        var lat = parseFloat(parts[0]);
+        var lng = parseFloat(parts[1]);
+        var point = new google.maps.LatLng(lat, lng);
+        map.panTo(point);
+        map.setZoom(10);
     };
 
     $(function(){
