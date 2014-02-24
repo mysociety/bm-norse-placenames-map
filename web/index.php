@@ -44,7 +44,7 @@
         src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
     </script>
     <script type="text/javascript"
-        src="https://maps.googleapis.com/maps/api/js?key=<?=GOOGLE_MAPS_API_KEY?>&sensor=false">
+        src="https://maps.googleapis.com/maps/api/js?libraries=geometry&key=<?=GOOGLE_MAPS_API_KEY?>&sensor=false">
     </script>
     <script type="text/javascript" src="/js/vendor/markerclusterer.js"></script>
 
