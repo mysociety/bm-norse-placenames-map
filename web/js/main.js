@@ -31,7 +31,7 @@
         for (var i = 0; i < results.length; i++) {
             for (var j = 0; j < results[i].address_components.length; j++) {
                if ($.inArray("country", results[i].address_components[j].types) >= 0) {
-                    if (results[i].address_components[j].short_name == "GB") {
+                    if (results[i].address_components[j].short_name === "GB") {
                         filteredResults.push(results[i]);
                     }
                 }
