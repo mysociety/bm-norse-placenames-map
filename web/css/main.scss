@@ -50,7 +50,6 @@
                     display: block;
                     border-bottom: 1px solid #333;
                     padding: 1em;
-                    margin-bottom: 1em;
                     cursor: pointer;
                     &:hover {
                         background-color: lighten(#1d1d1d, 10%);
@@ -59,6 +58,9 @@
                     &.norse {
                         background: url(../img/helmet_inverted.png) no-repeat 14px 5px;
                         padding-left: 60px;
+                        &:hover {
+                            background: lighten(#1d1d1d, 10%) url(../img/helmet_inverted_hover.png) no-repeat 14px 5px;
+                        }
                     }
                 }
                 &:last-child {
