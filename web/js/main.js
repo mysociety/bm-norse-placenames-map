@@ -141,10 +141,22 @@
     // Show a specific Norse place on the map
     // Takes a google.maps.Marker object and a google.maps.Map object
     var showNorsePlace = function(marker, map) {
-        map.panTo(marker.getPosition());
-        map.setZoom(10);
-        // This is an easy way to open the right InfoWindow for the marker
-        google.maps.event.trigger(marker, 'click');
+        if(!marker.getPosition().equals(map.getCenter()) || map.getZoom() !== 10) {
+            // The map will need to pan and/or zoom, which will cause marker
+            // clusterer to do some re-drawing afterwards, and hence we must
+            // wait till the map is idle before we can show the marker
+            map.panTo(marker.getPosition());
+            map.setZoom(10);
+            google.maps.event.addListenerOnce(map, 'idle', function() {
+                // This is an easy way to open the InfoWindow for the marker
+                google.maps.event.trigger(marker, 'click');
+            });
+        }
+        else {
+            // We're probably already centred on the marker, so make sure it's
+            // open
+            google.maps.event.trigger(marker, 'click');
+        }
     };
 
     // Callback function for use with google.maps.Geocoder.geocode()
