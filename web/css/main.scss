@@ -1,6 +1,7 @@
 .map-search {
     position: relative;
     margin-bottom: 1em;
+    z-index: 2;
 
     .map-search__label {
         display: none;
@@ -38,7 +39,6 @@
     .map-search__results {
         display: none;
         position: absolute;
-        z-index: 9999;
         background-color: #1d1d1d;
         color: #CCC;
         width: 100%;
