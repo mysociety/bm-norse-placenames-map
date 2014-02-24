@@ -40,14 +40,85 @@
         return filteredResults;
     };
 
-    // Build the HTML for results from the geocoder
+    // Try to find the name of an address component from the results of
+    // google.maps.Geocoder.geocode() within the KEPN data and return the slug
+    // for the placename if there's a match, or null otherwise.
+    var compareNames = function(result, placename) {
+        var placenameSearch = placename.toLowerCase().trim();
+        var slug = null;
+        if (mySociety.kepnData.hasOwnProperty(placenameSearch)) {
+            // There's at least one matching name, we want to return the
+            // closest one, so long is it's close enough
+            var places = mySociety.kepnData[placenameSearch];
+            // Distances are measured in meters, so this enforces a maximum of
+            // 10KM from the place, which is hopefully enough to deal with
+            // varying centers of big cities, but not so far as to associate
+            // totally the wrong place.
+            var closestDistance = 10000;
+            $.each(places, function(index, place) {
+                var distance = google.maps.geometry.spherical.computeDistanceBetween(
+                    new google.maps.LatLng(place.lat, place.lng),
+                    result.geometry.location
+                );
+                if (distance <= closestDistance) {
+                    closestDistance = distance;
+                    slug = place.slug;
+                }
+            });
+        }
+        return slug;
+    };
+
+    // Get the slugs for places from the KEPN data for a geocode results list.
     // Takes an array of results from google.maps.Geocoder.geocode()
+    // Returns an array with each result having the slug of the matching Norse
+    // name, or null if there is no matching Norse name.
+    //
+    // Note: this matches on exact name only (case-insensitive), then compares
+    // the distance between the location from the geocoder and the location
+    // from KEPN to double check that they're the same place.
+    var getPlaceSlugs = function(results) {
+        slugs = [];
+        $.each(results, function(i, result) {
+            slugs[i] = null;
+            $.each(result.address_components, function(j, component) {
+                // We give sublocality preference, but check locality too
+                if ($.inArray("sublocality", component.types) >= 0) {
+                    var sublocalityName = compareNames(result, component.long_name);
+                    if(sublocalityName !== null) {
+                        slugs[i] = sublocalityName;
+                        // We've found a match at sublocality level, so we can
+                        // stop looking elsewhere
+                        return false;
+                    }
+                }
+                else if ($.inArray("locality", component.types) >= 0) {
+                    slugs[i] = compareNames(result, component.long_name);
+                }
+                // TODO - should we look beyond locality and sublocality? I
+                // think this covers everything we're interested in...
+            });
+        });
+        return slugs;
+    };
+
+    // Build the HTML for results from the geocoder.
+    // Takes an array of results from google.maps.Geocoder.geocode() and
+    // returns HTML to represent them as a list of links.
     // TODO - Replace with a client side template
     var buildGeocoderResultsHTML = function(results) {
+        var slugs = getPlaceSlugs(results);
         var resultsHTML = '<ul>';
         $.each(results, function(index, result) {
             resultsHTML += '<li>';
-            resultsHTML += '<a href="#" data-location="' + result.geometry.location.toUrlValue() + '">';
+            if(slugs[index] !== null) {
+                resultsHTML += '<a href="#" class="norse" data-slug="';
+                resultsHTML += slugs[index] + '">';
+            }
+            else {
+                resultsHTML += '<a href="#" data-location="';
+                resultsHTML += result.geometry.location.toUrlValue() + '">';
+            }
             resultsHTML += result.formatted_address;
             resultsHTML += '</a></li>';
         });
@@ -55,10 +126,31 @@
         return resultsHTML;
     };
 
+    // Show a geocoder result on the map
+    // Takes a lat/lng string from google.maps.LatLng.toUrlValue() and a
+    // google.maps.Map object
+    var showGeocodeResult = function(location, map) {
+        var parts = location.split(',');
+        var lat = parseFloat(parts[0]);
+        var lng = parseFloat(parts[1]);
+        var point = new google.maps.LatLng(lat, lng);
+        map.panTo(point);
+        map.setZoom(10);
+    };
+
+    // Show a specific Norse place on the map
+    // Takes a google.maps.Marker object and a google.maps.Map object
+    var showNorsePlace = function(marker, map) {
+        map.panTo(marker.getPosition());
+        map.setZoom(10);
+        // This is an easy way to open the right InfoWindow for the marker
+        google.maps.event.trigger(marker, 'click');
+    };
+
     // Callback function for use with google.maps.Geocoder.geocode()
     // Takes the results and status objects as per normal, plus a jQuery
     // element in which to place the results and a google.maps.Map
-    var geocoderCallback = function(results, status, $mapSearchResults, map) {
+    var geocoderCallback = function(results, status, $mapSearchResults, map, markersBySlug) {
         if(status == google.maps.GeocoderStatus.OK) {
             // Filter results to those that are actually in the UK, despite
             // supplying a region and bounds, it's not guaranteed otherwise
@@ -67,8 +159,17 @@
             $mapSearchResults.html(resultsHTML);
             $mapSearchResults.find('a').click(function(e) {
                 e.preventDefault();
-                var location = $(this).data('location');
-                showGeocodeResult(location, map);
+                var $this = $(this);
+                if($this.hasClass('norse')) {
+                    // This result has a norse placename, so show that
+                    var slug = $this.data('slug');
+                    var marker = markersBySlug[slug];
+                    showNorsePlace(marker, map);
+                }
+                else {
+                    var location = $(this).data('location');
+                    showGeocodeResult(location, map);
+                }
                 $mapSearchResults.hide();
             });
             $mapSearchResults.show();
@@ -83,18 +184,6 @@
             // TODO - report the issue to the user better than this
             alert("Google Maps could not respond to your request, please try again later.");
         }
-    };
-
-    // Function to show a geocoder result on the map
-    // Takes a lat/lng string from google.maps.LatLng.toUrlValue() and a
-    // google.maps.Map object
-    var showGeocodeResult = function(location, map) {
-        var parts = location.split(',');
-        var lat = parseFloat(parts[0]);
-        var lng = parseFloat(parts[1]);
-        var point = new google.maps.LatLng(lat, lng);
-        map.panTo(point);
-        map.setZoom(10);
     };
 
     $(function(){
@@ -131,6 +220,7 @@
         });
 
         var markers = [];
+        var markersBySlug = {};
         var markerClusterOptions = {
             minimumClusterSize: 4
         };
@@ -145,6 +235,30 @@
         var sw = new google.maps.LatLng(49.00, -13.00);
         var geocodingBounds = new google.maps.LatLngBounds(sw, ne);
 
+        // Add Watling Street to the map
+        watlingStreet.setMap(map);
+
+        // Add the markers to the map
+        $.each(mySociety.kepnData, function(name, placelist) {
+            $.each(placelist, function(index, place) {
+                var marker = new google.maps.Marker({
+                    position: new google.maps.LatLng(place.lat, place.lng),
+                    title: place.placename,
+                    icon: '/img/helmet.png'
+                });
+                var markerInfo = buildMarkerInfoHTML(place);
+                google.maps.event.addListener(marker, 'click', function() {
+                    infoWindow.setContent(markerInfo);
+                    infoWindow.open(map, marker);
+                });
+                markers.push(marker);
+                markersBySlug[place.slug] = marker;
+            });
+        });
+
+        // Create a marker cluster to manage the markers
+        markerCluster = new MarkerClusterer(map, markers, markerClusterOptions);
+
         // Handle the geocoding of location searches
         $mapSearchResults.hide();
         $mapSearchForm.submit(function(e) {
@@ -157,30 +271,9 @@
                 bounds: geocodingBounds
             };
             geocoder.geocode(geocodingOptions, function(results, status) {
-                geocoderCallback(results, status, $mapSearchResults, map);
+                geocoderCallback(results, status, $mapSearchResults, map, markersBySlug);
             });
         });
-
-        // Add Watling Street to the map
-        watlingStreet.setMap(map);
-
-        // Add the markers to the map
-        $.each(mySociety.kepnData, function(index, place) {
-            var marker = new google.maps.Marker({
-                position: new google.maps.LatLng(place.lat, place.lng),
-                title: place.placename,
-                icon: '/img/helmet.png',
-            });
-            var markerInfo = buildMarkerInfoHTML(place);
-            google.maps.event.addListener(marker, 'click', function() {
-                infoWindow.setContent(markerInfo);
-                infoWindow.open(map, marker);
-            });
-            markers.push(marker);
-        });
-
-        // Create a marker cluster to manage the markers
-        markerCluster = new MarkerClusterer(map, markers, markerClusterOptions);
 
     });
 
