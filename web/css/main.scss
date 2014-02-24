@@ -56,6 +56,10 @@
                         background-color: lighten(#1d1d1d, 10%);
                         color: #FFF;
                     }
+                    &.norse {
+                        background: url(../img/helmet_inverted.png) no-repeat 14px 5px;
+                        padding-left: 60px;
+                    }
                 }
                 &:last-child {
                     a {
