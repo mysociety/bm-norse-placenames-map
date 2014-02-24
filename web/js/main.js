@@ -140,7 +140,7 @@
         var lng = parseFloat(parts[1]);
         var point = new google.maps.LatLng(lat, lng);
         map.panTo(point);
-        map.setZoom(10);
+        map.setZoom(12);
     };
 
     // Show a specific Norse place on the map
@@ -151,7 +151,7 @@
             // clusterer to do some re-drawing afterwards, and hence we must
             // wait till the map is idle before we can show the marker
             map.panTo(marker.getPosition());
-            map.setZoom(10);
+            map.setZoom(12);
             google.maps.event.addListenerOnce(map, 'idle', function() {
                 // This is an easy way to open the InfoWindow for the marker
                 google.maps.event.trigger(marker, 'click');
