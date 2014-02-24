@@ -109,6 +109,7 @@
     var buildGeocoderResultsHTML = function(results) {
         var slugs = getPlaceSlugs(results);
         var resultsHTML = '<ul>';
+        // TODO - show something when there's no results too!
         $.each(results, function(index, result) {
             resultsHTML += '<li>';
             if(slugs[index] !== null) {
@@ -179,7 +180,7 @@
                     showNorsePlace(marker, map);
                 }
                 else {
-                    var location = $(this).data('location');
+                    var location = $this.data('location');
                     showGeocodeResult(location, map);
                 }
                 $mapSearchResults.hide();
