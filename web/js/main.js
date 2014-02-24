@@ -109,20 +109,24 @@
     var buildGeocoderResultsHTML = function(results) {
         var slugs = getPlaceSlugs(results);
         var resultsHTML = '<ul>';
-        // TODO - show something when there's no results too!
-        $.each(results, function(index, result) {
-            resultsHTML += '<li>';
-            if(slugs[index] !== null) {
-                resultsHTML += '<a href="#" class="norse" data-slug="';
-                resultsHTML += slugs[index] + '">';
-            }
-            else {
-                resultsHTML += '<a href="#" data-location="';
-                resultsHTML += result.geometry.location.toUrlValue() + '">';
-            }
-            resultsHTML += result.formatted_address;
-            resultsHTML += '</a></li>';
-        });
+        if (results.length > 0) {
+            $.each(results, function(index, result) {
+                resultsHTML += '<li>';
+                if(slugs[index] !== null) {
+                    resultsHTML += '<a href="#" class="norse" data-slug="';
+                    resultsHTML += slugs[index] + '">';
+                }
+                else {
+                    resultsHTML += '<a href="#" data-location="';
+                    resultsHTML += result.geometry.location.toUrlValue() + '">';
+                }
+                resultsHTML += result.formatted_address;
+                resultsHTML += '</a></li>';
+            });
+        }
+        else {
+            resultsHTML += '<li><span>Sorry, no results were found for that search.</span></li>';
+        }
         resultsHTML += '</ul>';
         return resultsHTML;
     };
@@ -164,7 +168,7 @@
     // Takes the results and status objects as per normal, plus a jQuery
     // element in which to place the results and a google.maps.Map
     var geocoderCallback = function(results, status, $mapSearchResults, map, markersBySlug) {
-        if(status == google.maps.GeocoderStatus.OK) {
+        if(status == google.maps.GeocoderStatus.OK || status == google.maps.GeocoderStatus.ZERO_RESULTS) {
             // Filter results to those that are actually in the UK, despite
             // supplying a region and bounds, it's not guaranteed otherwise
             var filteredResults = filterGeocodeResultsToUK(results);
@@ -186,11 +190,6 @@
                 $mapSearchResults.hide();
             });
             $mapSearchResults.show();
-        }
-        else if (status == google.maps.GeocoderStatus.ZERO_RESULTS) {
-            // No results found
-            // TODO - report the issue to the user better than this
-            alert("No matching addresses found.");
         }
         else {
             // Over our quota, or some other issue

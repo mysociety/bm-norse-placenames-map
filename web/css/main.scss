@@ -46,21 +46,20 @@
             margin-bottom: 0;
             li {
                 margin-bottom: 0;
-                a {
+                a, span {
                     display: block;
                     border-bottom: 1px solid #333;
                     padding: 1em;
-                    cursor: pointer;
+                }
+                a:hover {
+                    background-color: lighten(#1d1d1d, 10%);
+                    color: #FFF;
+                }
+                a.norse {
+                    background: url(../img/helmet_inverted.png) no-repeat 14px 5px;
+                    padding-left: 60px;
                     &:hover {
-                        background-color: lighten(#1d1d1d, 10%);
-                        color: #FFF;
-                    }
-                    &.norse {
-                        background: url(../img/helmet_inverted.png) no-repeat 14px 5px;
-                        padding-left: 60px;
-                        &:hover {
-                            background: lighten(#1d1d1d, 10%) url(../img/helmet_inverted_hover.png) no-repeat 14px 5px;
-                        }
+                        background: lighten(#1d1d1d, 10%) url(../img/helmet_inverted_hover.png) no-repeat 14px 5px;
                     }
                 }
                 &:last-child {
