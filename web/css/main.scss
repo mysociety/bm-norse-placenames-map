@@ -77,3 +77,20 @@
     width: 100%;
     height: 650px;
 }
+
+.map-marker {
+    .map-marker__header,
+    .map-marker__elements-header,
+    .map-marker__etymology,
+    .map-marker__etymology,
+    .map-marker__elements__item {
+        color: #333;
+    }
+
+    .map-marker__elements__item {
+        .map-marker__elements__item__headword,
+        .map-marker__elements__item__hword {
+            font-weight: bold;
+        }
+    }
+}

@@ -4,20 +4,20 @@
     // data from the KEPN project.
     // TODO - Replace with a client side template
     var buildMarkerInfoHTML = function(place) {
-        var markerInfo = '<div>';
-        markerInfo += '<h2 style="color: black;">' + place.placename + '</h2>';
-        markerInfo += '<p style="color: black;">' + place.etymology + '</p>';
-        markerInfo += '<h3 style="color: black;">Elements and their meanings:</h3>';
-        markerInfo += '<ul>';
+        var markerInfo = '<div class="map-marker">';
+        markerInfo += '<h2 class="map-marker__header">' + place.placename + '</h2>';
+        markerInfo += '<p class="map-marker__etymology">' + place.etymology + '</p>';
+        markerInfo += '<h3 class="map-marker__elements-header">Elements and their meanings:</h3>';
+        markerInfo += '<ul class="map-marker__elements">';
         $.each(place.elements, function(index, element) {
-            markerInfo += "<li>";
+            markerInfo += '<li class="map-marker__elements__item">';
             if (element.headword !== null) {
-                markerInfo += "<strong>" + element.headword + "</strong>";
+                markerInfo += '<span class="map-marker__elements__item__headword">' + element.headword + '</span>';
             } else {
-                markerInfo += "<strong>" + element.hword + "</strong>";
+                markerInfo += '<span class="map-marker__elements__item__hword">' + element.hword + '</span>';
             }
-            markerInfo += " (" + element.language + ") " + element.note;
-            markerInfo += "</li>";
+            markerInfo += ' (' + element.language + ') ' + element.note;
+            markerInfo += '</li>';
         });
         markerInfo += '</ul>';
         markerInfo += '</div>';
