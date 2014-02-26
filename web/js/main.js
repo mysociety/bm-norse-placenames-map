@@ -1,4 +1,4 @@
-(function($, google, mySociety){
+(function(window, $, google, mySociety){
 
     // Build the HTML for a markerInfo object showing a particular placename's
     // data from the KEPN project.
@@ -113,8 +113,8 @@
             $.each(results, function(index, result) {
                 resultsHTML += '<li>';
                 if(slugs[index] !== null) {
-                    resultsHTML += '<a href="#" class="norse" data-slug="';
-                    resultsHTML += slugs[index] + '">';
+                    resultsHTML += '<a href="# ' + slugs[index] + '" class="norse"';
+                    resultsHTML += ' data-slug="' + slugs[index] + '">';
                 }
                 else {
                     resultsHTML += '<a href="#" data-location="';
@@ -262,6 +262,7 @@
                 google.maps.event.addListener(marker, 'click', function() {
                     infoWindow.setContent(markerInfo);
                     infoWindow.open(map, marker);
+                    window.location.hash = place.slug;
                 });
                 markers.push(marker);
                 markersBySlug[place.slug] = marker;
@@ -270,6 +271,12 @@
 
         // Create a marker cluster to manage the markers
         markerCluster = new MarkerClusterer(map, markers, markerClusterOptions);
+
+        // See if we should be showing a specific location and show that if so
+        if(window.location.hash !== "") {
+            var marker = markersBySlug[window.location.hash.substr(1)];
+            showNorsePlace(marker, map);
+        }
 
         // Handle the geocoding of location searches
         $mapSearchResults.hide();
@@ -289,4 +296,4 @@
 
     });
 
-})(window.jQuery, window.google, window.mySociety);
+})(window, window.jQuery, window.google, window.mySociety);
