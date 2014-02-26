@@ -20,6 +20,12 @@
             markerInfo += '</li>';
         });
         markerInfo += '</ul>';
+        // Social buttons
+        markerInfo += '<ul class="map-marker__social-buttons social-buttons">';
+        markerInfo += '<li class="social-facebook"><a href="#' + place.slug + '" title="Share on Facebook" data-social="facebook"><img src="http://www.britishmuseum.org/images/v2/defaults/facebook.png" /></a></li>';
+        markerInfo += '<li class="social-twitter"><a href="#' + place.slug + '" title="Share on Twitter" data-social="twitter" data-twittertext="' + place.placename + ": " + place.eytomology + '" data-hashtags=""><img src="http://www.britishmuseum.org/images/v2/defaults/twitter.png" /></a></li>';
+        markerInfo += '<li class="social-google-plus"><a href="#' + place.slug + '" title="Share on Google+" data-social="googleplus" data-title="About"><img src="http://www.britishmuseum.org/images/v2/defaults/googleplus.png" /></a></li>';
+        markerInfo += '</ul>';
         markerInfo += '</div>';
         return markerInfo;
     };
