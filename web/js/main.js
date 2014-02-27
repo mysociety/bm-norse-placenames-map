@@ -31,7 +31,7 @@
             // varying centers of big cities, but not so far as to associate
             // totally the wrong place.
             var closestDistance = 10000;
-            $.each(places, function(index, place) {
+            _.each(places, function(place) {
                 var distance = google.maps.geometry.spherical.computeDistanceBetween(
                     new google.maps.LatLng(place.lat, place.lng),
                     result.geometry.location
@@ -55,9 +55,9 @@
     // from KEPN to double check that they're the same place.
     var getPlaceSlugs = function(results) {
         slugs = [];
-        $.each(results, function(i, result) {
+        _.each(results, function(result, i) {
             slugs[i] = null;
-            $.each(result.address_components, function(j, component) {
+            _.each(result.address_components, function(component) {
                 // We give sublocality preference, but check locality too
                 if ($.inArray("sublocality", component.types) >= 0) {
                     var sublocalityName = compareNames(result, component.long_name);
@@ -71,64 +71,33 @@
                 else if ($.inArray("locality", component.types) >= 0) {
                     slugs[i] = compareNames(result, component.long_name);
                 }
-                // TODO - should we look beyond locality and sublocality? I
-                // think this covers everything we're interested in...
             });
         });
         return slugs;
     };
 
-    // Build the HTML for results from the geocoder.
-    // Takes an array of results from google.maps.Geocoder.geocode() and
-    // returns HTML to represent them as a list of links.
-    // TODO - Replace with a client side template
-    var buildGeocoderResultsHTML = function(results) {
-        var slugs = getPlaceSlugs(results);
-        var resultsHTML = '<ul>';
-        if (results.length > 0) {
-            $.each(results, function(index, result) {
-                resultsHTML += '<li>';
-                if(slugs[index] !== null) {
-                    resultsHTML += '<a href="# ' + slugs[index] + '" class="norse"';
-                    resultsHTML += ' data-slug="' + slugs[index] + '">';
-                }
-                else {
-                    resultsHTML += '<a href="#" data-location="';
-                    resultsHTML += result.geometry.location.toUrlValue() + '">';
-                }
-                resultsHTML += result.formatted_address;
-                resultsHTML += '</a></li>';
-            });
-        }
-        else {
-            resultsHTML += '<li><span>Sorry, no results were found for that search.</span></li>';
-        }
-        resultsHTML += '</ul>';
-        return resultsHTML;
-    };
-
     // Show a geocoder result on the map
     // Takes a lat/lng string from google.maps.LatLng.toUrlValue() and a
     // google.maps.Map object
-    var showGeocodeResult = function(location, map) {
+    var showGeocodeResult = function(location) {
         var parts = location.split(',');
         var lat = parseFloat(parts[0]);
         var lng = parseFloat(parts[1]);
         var point = new google.maps.LatLng(lat, lng);
-        map.panTo(point);
-        map.setZoom(12);
+        mySociety.map.panTo(point);
+        mySociety.map.setZoom(12);
     };
 
     // Show a specific Norse place on the map
     // Takes a google.maps.Marker object and a google.maps.Map object
-    var showNorsePlace = function(marker, map) {
-        if(!marker.getPosition().equals(map.getCenter()) || map.getZoom() !== 10) {
+    var showNorsePlace = function(marker) {
+        if(!marker.getPosition().equals(mySociety.map.getCenter()) || mySociety.map.getZoom() !== 10) {
             // The map will need to pan and/or zoom, which will cause marker
             // clusterer to do some re-drawing afterwards, and hence we must
             // wait till the map is idle before we can show the marker
-            map.panTo(marker.getPosition());
-            map.setZoom(12);
-            google.maps.event.addListenerOnce(map, 'idle', function() {
+            mySociety.map.panTo(marker.getPosition());
+            mySociety.map.setZoom(12);
+            google.maps.event.addListenerOnce(mySociety.map, 'idle', function() {
                 // This is an easy way to open the InfoWindow for the marker
                 google.maps.event.trigger(marker, 'click');
             });
@@ -143,7 +112,7 @@
     // Callback function for use with google.maps.Geocoder.geocode()
     // Takes the results and status objects as per normal, plus a jQuery
     // element in which to place the results and a google.maps.Map
-    var geocoderCallback = function(results, status, $mapSearchResults, map, markersBySlug) {
+    var geocoderCallback = function(results, status, $mapSearchResults) {
         if(status == google.maps.GeocoderStatus.OK || status == google.maps.GeocoderStatus.ZERO_RESULTS) {
             // Filter results to those that are actually in the UK, despite
             // supplying a region and bounds, it's not guaranteed otherwise
@@ -160,12 +129,12 @@
                 if($this.hasClass('norse')) {
                     // This result has a norse placename, so show that
                     var slug = $this.data('slug');
-                    var marker = markersBySlug[slug];
-                    showNorsePlace(marker, map);
+                    var marker = mySociety.markersBySlug[slug];
+                    showNorsePlace(marker);
                 }
                 else {
                     var location = $this.data('location');
-                    showGeocodeResult(location, map);
+                    showGeocodeResult(location);
                 }
                 $mapSearchResults.hide();
             });
@@ -271,7 +240,7 @@
         // See if we should be showing a specific location and show that if so
         if(window.location.hash !== "") {
             var marker = markersBySlug[window.location.hash.substr(1)];
-            showNorsePlace(marker, map);
+            showNorsePlace(marker);
         }
 
         // Handle the geocoding of location searches
@@ -286,10 +255,10 @@
                 bounds: geocodingBounds
             };
             geocoder.geocode(geocodingOptions, function(results, status) {
-                geocoderCallback(results, status, $mapSearchResults, map, markersBySlug);
+                geocoderCallback(results, status, $mapSearchResults);
             });
         });
 
     });
 
-})(window, window.jQuery, window.google, window.mySociety);
+})(window, window.jQuery, window.google, window._, window._gaq, window.mySociety);
