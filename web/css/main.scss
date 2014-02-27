@@ -83,7 +83,8 @@
     .map-marker__elements-header,
     .map-marker__etymology,
     .map-marker__etymology,
-    .map-marker__elements__item {
+    .map-marker__elements__item,
+    .map-marker__social-header {
         color: #333;
     }
 
@@ -91,6 +92,19 @@
         .map-marker__elements__item__headword,
         .map-marker__elements__item__hword {
             font-weight: bold;
+        }
+    }
+
+    .map-marker__social-buttons {
+        li {
+            display: inline;
+            margin-right: 16px;
+            width: 37px;
+            height: 37px;
+            img {
+                width: 37px;
+                height: 37px;
+            }
         }
     }
 }
