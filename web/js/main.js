@@ -147,6 +147,31 @@
         }
     };
 
+    // Click handler for social sharing buttons on map marker popups
+    var mapSocialClick = function(e) {
+        e.preventDefault();
+        var openUrl = $(this).attr("href");
+        var shareName = $(this).attr("data-social");
+        var w = 0;
+        var h = 0;
+
+        _gaq.push(['_trackEvent', 'SocialButtons', shareName, shareUrl]);
+
+        if (shareName == "facebook") {
+            w = 750;
+            h = 612;
+        }
+        if (shareName == "twitter") {
+            w = 558;
+            h = 260;
+        }
+        if (shareName == "googleplus") {
+            w = 564;
+            h = 351;
+        }
+        window.open(openUrl, shareName, "location=1,status=1,scrollbars=1,  width=" + w + ",height=" + h);
+    };
+
     $(function(){
         // Cache some selectors
         var $map = $('#map-canvas');
@@ -228,29 +253,9 @@
                     infoWindow.setContent(markerInfo);
                     infoWindow.open(map, marker);
                     window.location.hash = place.slug;
-                    $("ul.map-marker__social-buttons li > a").click(function(e) {
-                        e.preventDefault();
-                        var openUrl = $(this).attr("href");
-                        var shareName = $(this).attr("data-social");
-                        var w = 0;
-                        var h = 0;
-
-                        //_gaq.push(['_trackEvent', 'SocialButtons', shareName, shareUrl]);
-
-                        if (shareName == "facebook") {
-                            w = 750;
-                            h = 612;
-                        }
-                        if (shareName == "twitter") {
-                            w = 558;
-                            h = 260;
-                        }
-                        if (shareName == "googleplus") {
-                            w = 564;
-                            h = 351;
-                        }
-                        window.open(openUrl, shareName, "location=1,status=1,scrollbars=1,  width=" + w + ",height=" + h);
-                    });
+                    // Register a click handler for the social buttons in the
+                    // marker window
+                    $("ul.map-marker__social-buttons li > a").click(mapSocialClick);
                 });
                 markers.push(marker);
                 markersBySlug[place.slug] = marker;
