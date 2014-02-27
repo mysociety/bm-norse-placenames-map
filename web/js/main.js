@@ -1,34 +1,4 @@
-(function(window, $, google, mySociety){
-
-    // Build the HTML for a markerInfo object showing a particular placename's
-    // data from the KEPN project.
-    // TODO - Replace with a client side template
-    var buildMarkerInfoHTML = function(place) {
-        var markerInfo = '<div class="map-marker">';
-        markerInfo += '<h2 class="map-marker__header">' + place.placename + '</h2>';
-        markerInfo += '<p class="map-marker__etymology">' + place.etymology + '</p>';
-        markerInfo += '<h3 class="map-marker__elements-header">Elements and their meanings:</h3>';
-        markerInfo += '<ul class="map-marker__elements">';
-        $.each(place.elements, function(index, element) {
-            markerInfo += '<li class="map-marker__elements__item">';
-            if (element.headword !== null) {
-                markerInfo += '<span class="map-marker__elements__item__headword">' + element.headword + '</span>';
-            } else {
-                markerInfo += '<span class="map-marker__elements__item__hword">' + element.hword + '</span>';
-            }
-            markerInfo += ' (' + element.language + ') ' + element.note;
-            markerInfo += '</li>';
-        });
-        markerInfo += '</ul>';
-        // Social buttons
-        markerInfo += '<ul class="map-marker__social-buttons social-buttons">';
-        markerInfo += '<li class="social-facebook"><a href="#' + place.slug + '" title="Share on Facebook" data-social="facebook"><img src="http://www.britishmuseum.org/images/v2/defaults/facebook.png" /></a></li>';
-        markerInfo += '<li class="social-twitter"><a href="#' + place.slug + '" title="Share on Twitter" data-social="twitter" data-twittertext="' + place.placename + ": " + place.eytomology + '" data-hashtags=""><img src="http://www.britishmuseum.org/images/v2/defaults/twitter.png" /></a></li>';
-        markerInfo += '<li class="social-google-plus"><a href="#' + place.slug + '" title="Share on Google+" data-social="googleplus" data-title="About"><img src="http://www.britishmuseum.org/images/v2/defaults/googleplus.png" /></a></li>';
-        markerInfo += '</ul>';
-        markerInfo += '</div>';
-        return markerInfo;
-    };
+(function(window, $, google, _, _gaq, mySociety){
 
     // Filter the results from google.maps.Geocoder.geocode() into just
     // results that are actually in the UK.
@@ -178,7 +148,11 @@
             // Filter results to those that are actually in the UK, despite
             // supplying a region and bounds, it's not guaranteed otherwise
             var filteredResults = filterGeocodeResultsToUK(results);
-            var resultsHTML = buildGeocoderResultsHTML(filteredResults);
+            var slugs = getPlaceSlugs(filteredResults);
+            var resultsHTML = mySociety.searchResultsTemplate({
+                results: filteredResults,
+                slugs: slugs
+            });
             $mapSearchResults.html(resultsHTML);
             $mapSearchResults.find('a').click(function(e) {
                 e.preventDefault();
@@ -210,6 +184,10 @@
         var $mapSearchForm = $('#mapSearchForm');
         var $mapSearchInput = $('#mapSearchInput');
         var $mapSearchResults = $('#mapSearchResults');
+
+        // Compile clientside templates
+        var markerInfoTemplate = _.template($('script#markerInfo').html());
+        var searchResultsTemplate = _.template($('script#searchResults').html());
 
         // Map options
         var mapOptions = {
@@ -253,18 +231,30 @@
         var sw = new google.maps.LatLng(49.00, -13.00);
         var geocodingBounds = new google.maps.LatLngBounds(sw, ne);
 
+        // Export things to the global object
+        mySociety.map = map;
+        mySociety.markersBySlug = markersBySlug;
+        mySociety.markerInfoTemplate = markerInfoTemplate;
+        mySociety.searchResultsTemplate = searchResultsTemplate;
+
         // Add Watling Street to the map
         watlingStreet.setMap(map);
 
         // Add the markers to the map
-        $.each(mySociety.kepnData, function(name, placelist) {
-            $.each(placelist, function(index, place) {
+        _.each(mySociety.kepnData, function(placelist, name) {
+            _.each(placelist, function(place) {
+                var shareUrl = window.location.href.split('#')[0] + "#" + place.slug;
+                var shareText = place.placename;
                 var marker = new google.maps.Marker({
                     position: new google.maps.LatLng(place.lat, place.lng),
                     title: place.placename,
                     icon: '/img/helmet.png'
                 });
-                var markerInfo = buildMarkerInfoHTML(place);
+                var markerInfo = markerInfoTemplate({
+                    place: place,
+                    shareUrl: shareUrl,
+                    shareText: shareText
+                });
                 google.maps.event.addListener(marker, 'click', function() {
                     infoWindow.setContent(markerInfo);
                     infoWindow.open(map, marker);

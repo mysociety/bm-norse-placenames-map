@@ -50,6 +50,70 @@
     <script type="text/javascript" src="/js/vendor/markerclusterer.js"></script>
     <script type="text/javascript" src="/js/vendor/underscore.js"></script>
 
+    <!-- Client side templates -->
+    <script type="text/html" id="markerInfo">
+        <div class="map-marker">
+            <h2 class="map-marker__header"><%= place.placename %></h2>
+            <p class="map-marker__etymology"><%= place.etymology %></p>
+            <h3 class="map-marker__elements-header">Elements and their meanings:</h3>
+            <ul class="map-marker__elements">
+            <% _.each(place.elements, function(element) { %>
+                <li class="map-marker__elements__item">
+                <% if (element.headword !== null) { %>
+                    <span class="map-marker__elements__item__headword"><%= element.headword %></span>
+                <% } else { %>
+                    <span class="map-marker__elements__item__hword"><%= element.hword %></span>
+                <% } %>
+                (<%= element.language %>) <%= element.note %>
+                </li>
+            <% }); %>
+            </ul>
+            <h3 class="map-marker__social-header">Share this place</h3>
+            <ul class="map-marker__social-buttons">
+                <li>
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=<%=shareUrl%>"
+                       title="Share on Facebook" data-social="facebook">
+                        <img src="http://www.britishmuseum.org/images/v2/defaults/facebook.png" />
+                    </a>
+                </li>
+                <li>
+                    <a href="http://twitter.com/share?url=<%=shareUrl%>&amp;text=<%=shareText%>"
+                       title="Share on Twitter" data-social="twitter">
+                        <img src="http://www.britishmuseum.org/images/v2/defaults/twitter.png" />
+                    </a>
+                </li>
+                <li>
+                    <a href="https://plusone.google.com/_/+1/confirm?hl=en&url=<%=shareUrl%>&amp;title=<%=shareText%>"
+                       title="Share on Google+" data-social="googleplus">
+                        <img src="http://www.britishmuseum.org/images/v2/defaults/googleplus.png" />
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </script>
+
+    <script type="text/html" id="searchResults">
+        <ul>
+            <% if (results.length > 0) { %>
+                <% _.each(results, function(result, index) { %>
+                    <li>
+                        <% if(slugs[index] !== null) { %>
+                            <a href="#<%=slugs[index]%>" class="norse" data-slug="<%=slugs[index]%>">
+                        <% } else { %>
+                            <a href="#" data-location="<%=result.geometry.location.toUrlValue()%>">
+                        <% } %>
+                        <%= result.formatted_address %>
+                        </a>
+                    </li>
+                <% }); %>
+            <% } else { %>
+                <li>
+                    <span>Sorry, no results were found for that search.</span>
+                </li>
+            <% } %>
+        </ul>
+    </script>
+
     <script type="text/javascript">
         window.mySociety = window.mySociety || {};
     </script>
