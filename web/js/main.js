@@ -173,7 +173,7 @@
         window.open(openUrl, shareName, "location=1,status=1,scrollbars=1,  width=" + w + ",height=" + h);
     };
 
-    $(function(){
+    $(function() {
         // Cache some selectors
         var $map = $('#map-canvas');
         var $mapSearchForm = $('#mapSearchForm');
@@ -194,15 +194,6 @@
 
         // Create the map
         var map = new google.maps.Map($map[0], mapOptions);
-
-        // Create watling street
-        var watlingStreet = new google.maps.Polyline({
-            path: mySociety.watlingStreetCoordinates,
-            geodesic: true,
-            strokeColor: '#333333',
-            strokeOpacity: 0.6,
-            strokeWeight: 3
-        });
 
         // Create an infowindow to show details in
         var infoWindow = new google.maps.InfoWindow({
@@ -233,7 +224,7 @@
         mySociety.searchResultsTemplate = searchResultsTemplate;
 
         // Add Watling Street to the map
-        watlingStreet.setMap(map);
+        mySociety.watlingStreet.setMap(map);
 
         // Add the markers to the map
         _.each(mySociety.kepnData, function(placelist, name) {
