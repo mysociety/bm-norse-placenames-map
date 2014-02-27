@@ -212,7 +212,7 @@
         // Add the markers to the map
         _.each(mySociety.kepnData, function(placelist, name) {
             _.each(placelist, function(place) {
-                var shareUrl = window.location.href.split('#')[0] + "#" + place.slug;
+                var shareUrl = window.location.href.split('#')[0] + "%23" + place.slug;
                 var shareText = place.placename;
                 var marker = new google.maps.Marker({
                     position: new google.maps.LatLng(place.lat, place.lng),

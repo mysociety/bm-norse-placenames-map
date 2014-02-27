@@ -77,13 +77,13 @@
                     </a>
                 </li>
                 <li>
-                    <a href="http://twitter.com/share?url=<%=shareUrl%>&amp;text=<%=shareText%>"
+                    <a href="http://twitter.com/share?url=<%=shareUrl%>&text=<%=shareText%>"
                        title="Share on Twitter" data-social="twitter">
                         <img src="http://www.britishmuseum.org/images/v2/defaults/twitter.png" />
                     </a>
                 </li>
                 <li>
-                    <a href="https://plusone.google.com/_/+1/confirm?hl=en&url=<%=shareUrl%>&amp;title=<%=shareText%>"
+                    <a href="https://plusone.google.com/_/+1/confirm?hl=en&url=<%=shareUrl%>"
                        title="Share on Google+" data-social="googleplus">
                         <img src="http://www.britishmuseum.org/images/v2/defaults/googleplus.png" />
                     </a>
