@@ -48,6 +48,7 @@
         src="https://maps.googleapis.com/maps/api/js?libraries=geometry&key=<?=GOOGLE_MAPS_API_KEY?>&sensor=false">
     </script>
     <script type="text/javascript" src="/js/vendor/markerclusterer.js"></script>
+    <script type="text/javascript" src="/js/vendor/underscore.js"></script>
 
     <script type="text/javascript">
         window.mySociety = window.mySociety || {};
