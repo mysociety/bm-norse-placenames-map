@@ -148,14 +148,15 @@
     };
 
     // Click handler for social sharing buttons on map marker popups
-    var mapSocialClick = function(e) {
-        e.preventDefault();
-        var openUrl = $(this).attr("href");
-        var shareName = $(this).attr("data-social");
+    var mapSocialClick = function($link, shareUrl) {
+        var openUrl = $link.attr("href");
+        var shareName = $link.attr("data-social");
         var w = 0;
         var h = 0;
 
-        _gaq.push(['_trackEvent', 'SocialButtons', shareName, shareUrl]);
+        if(typeof(_gaq) !== 'undefined') {
+            _gaq.push(['_trackEvent', 'SocialButtons', shareName, shareUrl]);
+        }
 
         if (shareName == "facebook") {
             w = 750;
@@ -255,7 +256,10 @@
                     window.location.hash = place.slug;
                     // Register a click handler for the social buttons in the
                     // marker window
-                    $("ul.map-marker__social-buttons li > a").click(mapSocialClick);
+                    $("ul.map-marker__social-buttons li > a").click(function(e) {
+                        e.preventDefault();
+                        mapSocialClick($(this), shareUrl);
+                    });
                 });
                 markers.push(marker);
                 markersBySlug[place.slug] = marker;
