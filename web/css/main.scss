@@ -7,25 +7,36 @@
         display: none;
         visibility: hidden;
     }
+
+    // Mobile-first styling for the search form. Things should be full-width
+    // when on small screens, and then float up onto one line on bigger ones
     .map-search__form {
+        position: relative;
+        overflow: hidden;
         border: 1px solid #333;
         background-color: #1d1d1d;
+        height: 91px;
         .map-search__form__input-wrapper {
-            overflow: hidden;
             .map-search__form__input {
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                border: none;
+                border-bottom: 1px solid #333;
                 width: 100%;
                 color: #CCC;
                 background-color: #1d1d1d;
-                border: none;
                 padding: 15px 6px 15px 14px;
             }
         }
         .map-search__form__button {
-            float: right;
+            position: absolute;
+            top: 46px;
+            left: 0px;
+            width: 100%;
             color: #CCC;
             font-size: 1.8em;
             padding: 11px 11px 11px 14px;
-            border-left: 1px solid #333;
             cursor: pointer;
             background-color: #1d1d1d;
             // TODO - this should probably have an arrow and perhaps be in the
@@ -36,6 +47,27 @@
             }
         }
     }
+    @media only screen and (min-width: 48em) {
+        .map-search__form {
+            height: auto;
+            .map-search__form__input-wrapper {
+                overflow: hidden;
+                .map-search__form__input {
+                    position: relative;
+                    border-bottom: none;
+                }
+            }
+            .map-search__form__button {
+                position: relative;
+                float: right;
+                top: auto;
+                left: auto;
+                width: auto;
+                border-left: 1px solid #333;
+            }
+        }
+    }
+
     .map-search__results {
         display: none;
         position: absolute;
