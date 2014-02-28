@@ -76,6 +76,12 @@
 #map-canvas {
     width: 100%;
     height: 650px;
+    img {
+        // These are necessary to undo some of the styling in the British
+        // Museum's mobile stylesheets
+        display: inline;
+        max-width: none;
+    }
 }
 
 .map-marker {
