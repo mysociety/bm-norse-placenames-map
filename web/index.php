@@ -110,6 +110,13 @@
         </div>
     </script>
 
+    <script type="text/html" id="watlingStreetMarkerInfo">
+        <div class="map-marker">
+            <h2 class="map-marker__header">Watling Street</h2>
+            <p class="map-marker__etymology">An ancient trackway that formed the boundary between Anglo-Saxon Britain and the Danelaw.</p>
+        </div>
+    </script>
+
     <script type="text/html" id="searchResults">
         <ul>
             <% if (results.length > 0) { %>

@@ -120,13 +120,25 @@
     };
 
     $(function() {
+        var $map = $('#map-canvas');
         // Create watling street
         var watlingStreet = new google.maps.Polyline({
             path: createWatlingStreetPath(watlingStreetCoordinates),
             geodesic: true,
-            strokeColor: '#333333',
-            strokeOpacity: 0.6,
-            strokeWeight: 3
+            strokeColor: '#111111',
+            strokeOpacity: 1,
+            strokeWeight: 4
+        });
+        var markerInfoTemplate = _.template($('script#watlingStreetMarkerInfo').html());
+        var markerInfo = markerInfoTemplate();
+        // Create an infowindow to show details in
+        var infoWindow = new google.maps.InfoWindow({
+            content: markerInfo,
+            maxWidth: Math.round($map.innerWidth() * 0.65)
+        });
+        google.maps.event.addListener(watlingStreet, 'click', function(e) {
+            infoWindow.setPosition(e.latLng);
+            infoWindow.open(mySociety.map);
         });
 
         // Export Watling Street
