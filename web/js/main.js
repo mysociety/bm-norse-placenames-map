@@ -179,6 +179,7 @@
         var $mapSearchForm = $('#mapSearchForm');
         var $mapSearchInput = $('#mapSearchInput');
         var $mapSearchResults = $('#mapSearchResults');
+        var $geolocationButton = $('#geolocationButton');
 
         // Compile clientside templates
         var markerInfoTemplate = _.template($('script#markerInfo').html());
@@ -285,6 +286,20 @@
                 geocoderCallback(results, status, $mapSearchResults);
             });
         });
+
+        // Handle browser geolocation
+        if ("geolocation" in window.navigator) {
+            console.log(navigator);
+            $geolocationButton.click(function(e) {
+                e.preventDefault();
+                navigator.geolocation.getCurrentPosition(function(position) {
+                    var point = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+                    mySociety.map.panTo(point);
+                    mySociety.map.setZoom(12);
+                });
+            });
+            $geolocationButton.show();
+        }
 
     });
 
