@@ -173,6 +173,60 @@
         window.open(openUrl, shareName, "location=1,status=1,scrollbars=1,  width=" + w + ",height=" + h);
     };
 
+    // Function to determine if a lat/lng is in England, using Google Map's
+    // Reverse Geocoder. Takes a google.maps.LatLng and two callback functions
+    // to call if the point either is in England, or isn't
+    var pointIsInEngland = function(point, success, failure) {
+        mySociety.geocoder.geocode({'latLng': point}, function(results, status) {
+            if(status == google.maps.GeocoderStatus.OK) {
+                // Find the country from the first result
+                var countryComponent = _.filter(results[0].address_components, function(component) {
+                    return _.contains(component.types, 'administrative_area_level_1');
+                });
+                if(countryComponent.length > 0 && countryComponent[0].long_name === 'England') {
+                    success();
+                } else if(countryComponent.length > 0) {
+                    failure(countryComponent[0].long_name);
+                } else {
+                    failure();
+                }
+            } else {
+                // This is a bit of a cop out, assume that it is in England if
+                // we can't contact google, or google can't find it since it's
+                // better for them to see a map with no markers than get an
+                // error about something they can't fix.
+                success();
+            }
+        });
+    };
+
+    // Success callback for geolocation using the browser's geolocation api
+    // Takes a Position object from the browser, a jQuery object for the
+    // button and the text to set the button to
+    var geolocationSuccess = function(position, $geolocationButton, originalText) {
+        var point = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+        pointIsInEngland(
+            point,
+            function() {
+                mySociety.map.panTo(point);
+                mySociety.map.setZoom(12);
+                $geolocationButton.text(originalText);
+                $geolocationButton.attr("disabled", false);
+            },
+            function(country) {
+                $geolocationButton.text(originalText);
+                $geolocationButton.attr("disabled", false);
+                var message = "Sorry, this map only covers places in England.";
+                if(typeof country !== undefined) {
+                    message += " From your location, it looks like you're in " + country;
+                    alert(message);
+                } else {
+                    alert(message);
+                }
+            }
+        );
+    };
+
     $(function() {
         // Cache some selectors
         var $map = $('#map-canvas');
@@ -225,6 +279,7 @@
 
         // Export things to the global object
         mySociety.map = map;
+        mySociety.geocoder = geocoder;
         mySociety.markersBySlug = markersBySlug;
         mySociety.markerInfoTemplate = markerInfoTemplate;
         mySociety.searchResultsTemplate = searchResultsTemplate;
@@ -298,11 +353,7 @@
                 $geolocationButton.text(loadingText);
                 navigator.geolocation.getCurrentPosition(
                     function(position) {
-                        var point = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
-                        mySociety.map.panTo(point);
-                        mySociety.map.setZoom(12);
-                        $geolocationButton.text(originalText);
-                        $geolocationButton.attr("disabled", false);
+                        geolocationSuccess(position, $geolocationButton, originalText);
                     },
                     function() {
                         // An error in the position finding
