@@ -1,8 +1,13 @@
 <?php
     // mySociety config
     require_once "../conf/general";
+
     // Header, from British Museum's templates
-    require_once "header.php";
+    if (array_key_exists('mobile', $_GET)) {
+        require_once "mobile-header.php";
+    } else {
+        require_once "header.php";
+    }
 ?>
 
     <!-- Our styles -->
@@ -11,7 +16,11 @@
 <?php
     // British Museum page, from:
     // www.britishmuseum.org/whats_on/exhibitions/vikings.aspx
-    require_once "document-header.php";
+    if (array_key_exists('mobile', $_GET)) {
+        require_once "mobile-document-header.php";
+    } else {
+        require_once "document-header.php";
+    }
 ?>
 
     <p class="pullOut">Discover Norse placenames near you</p>
@@ -31,7 +40,11 @@
 
 <?php
     // Footer, from British Museum's templates
-    require_once "footer.php";
+    if (array_key_exists('mobile', $_GET)) {
+        require_once "mobile-footer.php";
+    } else {
+        require_once "footer.php";
+    }
 ?>
 
     <!-- Our scripts -->
