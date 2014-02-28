@@ -189,7 +189,11 @@
             zoom: 6,
             // Centered on "The centre of England" as per:
             // http://en.wikipedia.org/wiki/Centre_points_of_the_United_Kingdom
-            center: new google.maps.LatLng(52.561928, -1.464854)
+            center: new google.maps.LatLng(52.561928, -1.464854),
+            mapTypeId: google.maps.MapTypeId.ROADMAP,
+            mapTypeControl: false,
+            streetViewControl: false,
+            panControl: false
         };
 
         // Create the map
