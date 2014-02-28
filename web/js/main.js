@@ -202,7 +202,7 @@
         // Create an infowindow to show details in
         var infoWindow = new google.maps.InfoWindow({
             content: "",
-            maxWidth: Math.round($map.innerWidth() * 0.75)
+            maxWidth: Math.round($map.innerWidth() * 0.65)
         });
 
         var markers = [];
