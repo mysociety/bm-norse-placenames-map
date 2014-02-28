@@ -266,7 +266,15 @@
         var markers = [];
         var markersBySlug = {};
         var markerClusterOptions = {
-            minimumClusterSize: 4
+            minimumClusterSize: 4,
+            styles: [{
+                url: '/img/cluster_new.png',
+                height: 40,
+                width: 40,
+                anchor: [15, 15],
+                textColor: '#333333',
+                textSize: 10
+            }]
         };
         var markerCluster;
 
@@ -297,7 +305,7 @@
                 var marker = new google.maps.Marker({
                     position: new google.maps.LatLng(place.lat, place.lng),
                     title: place.placename,
-                    icon: '/img/helmet.png'
+                    icon: '/img/marker_new.png'
                 });
                 var markerInfo = markerInfoTemplate({
                     place: place,
