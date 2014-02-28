@@ -16,6 +16,13 @@
             color: #FFF;
             background-color: lighten(#1d1d1d, 10%);
         }
+
+        &:disabled,
+        &:disabled:hover,
+        &:disabled:focus {
+            color: darken(#CCC, 10%);
+            background-color: darken(#1d1d1d, 10%);
+        }
     }
 }
 

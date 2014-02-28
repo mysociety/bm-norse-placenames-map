@@ -290,14 +290,27 @@
 
         // Handle browser geolocation
         if ("geolocation" in window.navigator) {
-            console.log(navigator);
+            var originalText = $geolocationButton.text();
+            var loadingText = "Locating...";
             $geolocationButton.click(function(e) {
                 e.preventDefault();
-                navigator.geolocation.getCurrentPosition(function(position) {
-                    var point = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
-                    mySociety.map.panTo(point);
-                    mySociety.map.setZoom(12);
-                });
+                $geolocationButton.attr("disabled", true);
+                $geolocationButton.text(loadingText);
+                navigator.geolocation.getCurrentPosition(
+                    function(position) {
+                        var point = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+                        mySociety.map.panTo(point);
+                        mySociety.map.setZoom(12);
+                        $geolocationButton.text(originalText);
+                        $geolocationButton.attr("disabled", false);
+                    },
+                    function() {
+                        // An error in the position finding
+                        $geolocationButton.text(originalText);
+                        $geolocationButton.attr("disabled", false);
+                        alert("Sorry, we couldn't find your position automatically, perhaps try searching instead?");
+                    }
+                );
             });
             $geolocation.show();
         }
