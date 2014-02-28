@@ -217,7 +217,7 @@
                 $geolocationButton.text(originalText);
                 $geolocationButton.attr("disabled", false);
                 var message = "Sorry, this map only covers places in England.";
-                if(typeof country !== undefined) {
+                if(typeof country !== 'undefined') {
                     message += " From your location, it looks like you're in " + country;
                     alert(message);
                 } else {
