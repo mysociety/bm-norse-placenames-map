@@ -24,7 +24,11 @@
 ?>
 
     <p class="pullOut">Discover Norse placenames near you</p>
-    <p><button href="#" id="geolocationButton" class="geolocation-button" style="display:none;">Find my location</button>
+    <div class="geolocation clearfix" id="geolocation" style="display:none;">
+        <p><button href="#" id="geolocationButton" class="geolocation__button">Find my location automatically</button></p>
+        <p class="geolocation__divider pullOut">- or -</p>
+    </div>
+
     <div class="map-search">
         <form id="mapSearchForm" action="" method="GET">
             <label for="mapSearchInput" class="map-search__label">Search for Norse names near you: </label>

@@ -1,3 +1,24 @@
+.geolocation {
+    width: 100%;
+    p {
+        text-align: center;
+    }
+    .geolocation__button {
+        color: #CCC;
+        padding: 11px 11px 11px 14px;
+        cursor: pointer;
+        font-size: 1.2em;
+        background-color: #1d1d1d;
+        border: 1px solid #333;
+        // TODO - this should probably have an arrow and perhaps be in the
+        // defined color?
+        &:hover, &:focus {
+            color: #FFF;
+            background-color: lighten(#1d1d1d, 10%);
+        }
+    }
+}
+
 .map-search {
     position: relative;
     margin-bottom: 1em;

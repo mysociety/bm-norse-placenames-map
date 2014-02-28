@@ -180,6 +180,7 @@
         var $mapSearchInput = $('#mapSearchInput');
         var $mapSearchResults = $('#mapSearchResults');
         var $geolocationButton = $('#geolocationButton');
+        var $geolocation = $('#geolocation');
 
         // Compile clientside templates
         var markerInfoTemplate = _.template($('script#markerInfo').html());
@@ -298,7 +299,7 @@
                     mySociety.map.setZoom(12);
                 });
             });
-            $geolocationButton.show();
+            $geolocation.show();
         }
 
     });
