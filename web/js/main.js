@@ -334,10 +334,12 @@
         markerCluster = new MarkerClusterer(map, markers, markerClusterOptions);
 
         // See if we should be showing a specific location and show that if so
-        if(window.location.hash !== "") {
-            var marker = markersBySlug[window.location.hash.substr(1)];
-            showNorsePlace(marker);
-        }
+        google.maps.event.addListenerOnce(map, 'idle', function(){
+            if(window.location.hash !== "") {
+                var marker = markersBySlug[window.location.hash.substr(1)];
+                showNorsePlace(marker);
+            }
+        });
 
         // Handle the geocoding of location searches
         $mapSearchResults.hide();
