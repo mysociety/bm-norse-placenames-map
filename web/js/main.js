@@ -85,18 +85,18 @@
         var lng = parseFloat(parts[1]);
         var point = new google.maps.LatLng(lat, lng);
         mySociety.map.panTo(point);
-        mySociety.map.setZoom(12);
+        mySociety.map.setZoom(mySociety.placeZoomLevel);
     };
 
     // Show a specific Norse place on the map
     // Takes a google.maps.Marker object and a google.maps.Map object
     var showNorsePlace = function(marker) {
-        if(!marker.getPosition().equals(mySociety.map.getCenter()) || mySociety.map.getZoom() !== 10) {
+        if(!marker.getPosition().equals(mySociety.map.getCenter()) || mySociety.map.getZoom() !== mySociety.placeZoomLevel) {
             // The map will need to pan and/or zoom, which will cause marker
             // clusterer to do some re-drawing afterwards, and hence we must
             // wait till the map is idle before we can show the marker
             mySociety.map.panTo(marker.getPosition());
-            mySociety.map.setZoom(12);
+            mySociety.map.setZoom(mySociety.placeZoomLevel);
             google.maps.event.addListenerOnce(mySociety.map, 'idle', function() {
                 // This is an easy way to open the InfoWindow for the marker
                 google.maps.event.trigger(marker, 'click');
@@ -209,7 +209,7 @@
             point,
             function() {
                 mySociety.map.panTo(point);
-                mySociety.map.setZoom(12);
+                mySociety.map.setZoom(mySociety.placeZoomLevel);
                 $geolocationButton.text(originalText);
                 $geolocationButton.attr("disabled", false);
             },
@@ -293,6 +293,8 @@
         mySociety.markersBySlug = markersBySlug;
         mySociety.markerInfoTemplate = markerInfoTemplate;
         mySociety.searchResultsTemplate = searchResultsTemplate;
+        // What zoom level to go to when showing a specific place
+        mySociety.placeZoomLevel = 12;
 
         // Add Watling Street to the map
         mySociety.watlingStreet.setMap(map);
