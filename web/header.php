@@ -14,7 +14,7 @@ British Museum - About
 <link rel="stylesheet" href="http://www.britishmuseum.org/templates/default/css/v2/system/default.css?tick=2013.12.10-1020" type="text/css" media="screen" />
 <link rel="stylesheet" href="http://www.britishmuseum.org/templates/default/css/v2/system/v2a_defaults.css?tick=2013.12.10-1020" type="text/css" media="screen" />
 <link rel="stylesheet" href="http://www.britishmuseum.org/templates/default/css/v2/system/print.css?tick=2013.12.10-1020" type="text/css" media="print" />
-<link rel="stylesheet" href="http://www.britishmuseum.org/templates/default/css/v2_exhibition_vikings.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.britishmuseum.org/templates/default/css/v2_exhibition_vikings_live.css" type="text/css" media="screen" />
 
 <!--[if IE]>
     <link rel="stylesheet" href="http://www.britishmuseum.org/templates/default/css/v2/system/ie_all.css?tick=2013.02.26-1120" type="text/css" />
