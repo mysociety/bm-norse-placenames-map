@@ -191,31 +191,21 @@ article
                     <div class="container">
                             <div class="grid_12" id="mainContent">
 
-<div class="grid_12 alpha">
+<div class="grid_12">
 
 <div class="grid_3 alpha suffix_1">
-<div class="heading contentBlock">
-<p class="pullOut white">The BP exhibition</p>
-<h1><a href="http://www.britishmuseum.org/whats_on/exhibitions/vikings.aspx">Vikings<br />
-<span class="highlight">life and legend</span></a></h1>
-</div>
-<p class="pullOut lightGrey">6 March &ndash; 22 June 2014<br />
-<span class="highlight">Tickets on sale</span></p>
-<div class="contentBlock topCorner">
-<div class="immediacyFix"></div>
-<div class="cta mediumButton color clearfix"><a href="http://www.britishmuseumshoponline.org/invt/mexviking#book-now">Book
-online<span>&nbsp;</span></a></div>
-</div>
-<div class="contentBlock largerMargin">
-<div class="immediacyFix"></div>
-<p class="metaData lightGrey hideFromMobile"><a href="http://www.britishmuseum.org/membership.aspx">Members free</a><span>/</span><a href="http://www.britishmuseum.org/whats_on/friday_lates_programme.aspx">Open late Fridays</a></p>
-</div>
-<div class="mobileMoveMe">
-<p style="COLOR: #fff">Supported by BP</p>
-<div class="contentBlock"><img alt="BP logo" class="mobileFriendly" title="BP logo" src="http://www.britishmuseum.org/images/bp-logo-digital-size_64x83.png" style="DISPLAY: block"/></div>
-<p style="COLOR: #fff">Organised by the British Museum, the
-National Museum of Denmark, and the Museum f&uuml;r Vor- und
-Fr&uuml;hgeschichte, Staatliche Museen zu Berlin.</p>
-</div>
+    <div class="heading contentBlock">
+
+    <h1><a href="http://www.britishmuseum.org/whats_on/exhibitions/vikings.aspx">Vikings Live<br />
+    <span class="highlight">from the British Museum</span></a></h1>
+    </div>
+    <p class="pullOut lightGrey">Live show: 24 April 2014</p>
+    <p class="highlight">#VikingsLive</p>
 </div>
 <div class="grid_8 omega">
+    <h2>Norse placenames map</h2>
+    <p>Some introductory text explaining the Watling Street divide, encouraging sharing and thanking Nottingham for the use of their data...</p>
+</div>
+</div>
+<div class="grid_12">
+<div class="hr"><hr /></div>
