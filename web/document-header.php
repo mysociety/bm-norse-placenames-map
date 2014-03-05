@@ -64,12 +64,6 @@ article
     </div>
 
 
-
-
-
-
-
-
 <div id="headerWrapper">
 
 <!-- div#headerBar - open -->
@@ -81,89 +75,63 @@ article
 
         <!-- Global Menu -->
         <div id="headerMenu" class="mobileMenus">
-
                     <ul class="clearfix">
-
-
                     <li>
                         <div>
                         <a href="http://www.britishmuseum.org/visiting.aspx?ref=header" id="Header1" title="Visiting"><span></span>Visiting</a>
                         </div>
                     </li>
-
-
                     <li>
                         <div>
                         <a href="http://www.britishmuseum.org/membership.aspx?ref=header" id="Header1030" title="Membership"><span></span>Membership</a>
                         </div>
                     </li>
-
-
                     <li class="current">
                         <div>
                         <a href="http://www.britishmuseum.org/whats_on.aspx?ref=header" id="Header3" title="What's on"><span></span>What's on</a>
                         </div>
                     </li>
-
-
                     <li>
                         <div>
                         <a href="http://www.britishmuseum.org/support_us.aspx?ref=header" id="Header1014" title="Support us"><span></span>Support us</a>
                         </div>
                     </li>
-
-
                     <li>
                         <div>
                         <a href="http://www.britishmuseum.org/explore.aspx?ref=header" id="Header45" title="Explore"><span></span>Explore</a>
                         </div>
                     </li>
-
-
                     <li>
                         <div>
                         <a href="http://www.britishmuseum.org/channel.aspx?ref=header" id="Header32415" title="Channel"><span></span>Channel</a>
                         </div>
                     </li>
-
-
                     <li>
                         <div>
                         <a href="http://www.britishmuseum.org/research.aspx?ref=header" id="Header13" title="Research"><span></span>Research</a>
                         </div>
                     </li>
-
-
                     <li>
                         <div>
                         <a href="http://www.britishmuseum.org/blog.aspx?ref=header" id="Header33363" title="Blog"><span></span>Blog</a>
                         </div>
                     </li>
-
-
                     <li>
                         <div>
                         <a href="http://www.britishmuseum.org/learning.aspx?ref=header" id="Header20" title="Learning"><span></span>Learning</a>
                         </div>
                     </li>
-
-
                     <li>
                         <div>
                         <a href="http://www.britishmuseum.org/shop.aspx?ref=header" id="Header25" title="Shop"><span></span>Shop</a>
                         </div>
                     </li>
-
-
                     <li>
                         <div>
                         <a href="http://www.britishmuseum.org/about_us.aspx?ref=header" id="Header22" title="About us"><span></span>About us</a>
                         </div>
                     </li>
-
-
                     </ul>
-
         </div>
 
         <!-- Site search -->
@@ -187,14 +155,8 @@ article
         </form>
 
 
-    </div>
-<!-- div#headerBar - close -->
-</div>
-
-
-
-
-                <!-- div#headerWrapper - close -->
+    </div><!-- div#headerBar - close -->
+</div><!-- div#headerWrapper - close -->
 
 
                 <div id="subMenuWrapper">
@@ -204,41 +166,18 @@ article
 
 
 <ul>
-
         <li class="deepLink"><a href="http://www.britishmuseum.org/whats_on.aspx">What's on</a></li>
-
-
         <li class="deepLink"><a href="http://www.britishmuseum.org/whats_on/exhibitions.aspx">Exhibitions</a></li>
-
-
         <li class="deepLink"><a href="http://www.britishmuseum.org/whats_on/exhibitions/vikings.aspx">Vikings</a></li>
-
-
+        <li class="deepLink"><a href="http://www.britishmuseum.org/whats_on/exhibitions/vikings_live.aspx">Vikings Live</a></li>
+        <li class="deepLink"><a href="http://www.britishmuseum.org/whats_on/exhibitions/vikings_live.aspx">Fun stuff</a></li>
 </ul>
 
 <ul>
-
-        <li><a href="http://www.britishmuseum.org/whats_on/exhibitions/vikings/tickets.aspx">Tickets</a></li>
-
-
-        <li><a href="http://www.britishmuseum.org/whats_on/exhibitions/vikings/visiting.aspx">Visiting</a></li>
-
-
-        <li class="active">About</li>
-
-
-        <li><a href="http://www.britishmuseum.org/whats_on/exhibitions/vikings/schools.aspx">Schools</a></li>
-
-
-        <li><a href="http://www.britishmuseum.org/whats_on/exhibitions/vikings/supporters.aspx">Supporters</a></li>
-
-
-        <li><a href="http://www.britishmuseum.org/whats_on/exhibitions/vikings/vikings_live.aspx">Vikings Live</a></li>
-
-
-        <li><a href="http://www.britishmuseum.org/whats_on/exhibitions/vikings/viking_cruise_competition.aspx">Viking cruise competition</a></li>
-
-
+        <li><a href="#">Viking yourself</a></li>
+        <li><a href="#">Viking words</a></li>
+        <li class="active">Norse placenames</li>
+        <li><a href="#">Ship building</a></li>
 </ul>
 
 
