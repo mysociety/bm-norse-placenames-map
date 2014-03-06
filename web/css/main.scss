@@ -1,31 +1,3 @@
-.geolocation {
-    width: 100%;
-    p {
-        text-align: center;
-    }
-    .geolocation__button {
-        color: #CCC;
-        padding: 11px 11px 11px 14px;
-        cursor: pointer;
-        font-size: 1.2em;
-        background-color: #1d1d1d;
-        border: 1px solid #333;
-        // TODO - this should probably have an arrow and perhaps be in the
-        // defined color?
-        &:hover, &:focus {
-            color: #FFF;
-            background-color: lighten(#1d1d1d, 10%);
-        }
-
-        &:disabled,
-        &:disabled:hover,
-        &:disabled:focus {
-            color: darken(#CCC, 10%);
-            background-color: darken(#1d1d1d, 10%);
-        }
-    }
-}
-
 .map-search {
     position: relative;
     margin-bottom: 1em;
@@ -43,7 +15,7 @@
         overflow: hidden;
         border: 1px solid #333;
         background-color: #1d1d1d;
-        height: 91px;
+        height: 137px;
         .map-search__form__input-wrapper {
             .map-search__form__input {
                 position: absolute;
@@ -57,21 +29,35 @@
                 padding: 15px 6px 15px 14px;
             }
         }
-        .map-search__form__button {
+        .map-search__form__buttons {
             position: absolute;
             top: 46px;
             left: 0px;
             width: 100%;
-            color: #CCC;
-            font-size: 1.8em;
-            padding: 11px 11px 11px 14px;
-            cursor: pointer;
-            background-color: #1d1d1d;
-            // TODO - this should probably have an arrow and perhaps be in the
-            // defined color?
-            &:hover, &:focus {
-                color: #FFF;
-                background-color: lighten(#1d1d1d, 10%);
+            .map-search__form__buttons__geolocation,
+            .map-search__form__buttons__submit {
+                display:block;
+                width: 100%;
+                font-size: 1.8em;
+                color: #CCC;
+                padding: 11px 11px 11px 14px;
+                cursor: pointer;
+                background-color: #1d1d1d;
+                // TODO - this should probably have an arrow and perhaps be in the
+                // defined color?
+                &:hover, &:focus {
+                    color: #FFF;
+                    background-color: lighten(#1d1d1d, 10%);
+                }
+            }
+            .map-search__form__buttons__geolocation {
+                border-top: 1px solid #333;
+                &:disabled,
+                &:disabled:hover,
+                &:disabled:focus {
+                    color: darken(#CCC, 10%);
+                    background-color: darken(#1d1d1d, 10%);
+                }
             }
         }
     }
@@ -85,13 +71,21 @@
                     border-bottom: none;
                 }
             }
-            .map-search__form__button {
+            .map-search__form__buttons {
                 position: relative;
                 float: right;
                 top: auto;
                 left: auto;
                 width: auto;
-                border-left: 1px solid #333;
+                .map-search__form__buttons__geolocation,
+                .map-search__form__buttons__submit {
+                    width: auto;
+                    display: inline;
+                    border-left: 1px solid #333;
+                }
+                .map-search__form__buttons__geolocation {
+                    border-top: none;
+                }
             }
         }
     }
