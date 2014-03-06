@@ -201,6 +201,8 @@
         var mapStyles = [{"featureType":"water","elementType":"geometry","stylers":[{"color":"#a6d3e0"}]},{"featureType":"road.highway","elementType":"geometry","stylers":[{"color":"#d4c03e"},{"saturation":0}]},{"featureType":"road.arterial","elementType":"geometry.stroke","stylers":[{"color":"#eeeeee"}]},{"featureType":"road.local","elementType":"geometry.stroke","stylers":[{"color":"#eeeeee"}]},{"featureType":"road.local","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"road.highway.controlled_access","elementType":"geometry.fill","stylers":[{"color":"#5ca5d6"}]},{"featureType":"road.highway.controlled_access","elementType":"geometry.stroke","stylers":[{"color":"#3f89b0"}]}];
         var mapOptions = {
             zoom: 6,
+            maxZoom: 12,
+            minZoom: 6,
             // Centered on "The centre of England" as per:
             // http://en.wikipedia.org/wiki/Centre_points_of_the_United_Kingdom
             center: new google.maps.LatLng(53.65, -3.02),
