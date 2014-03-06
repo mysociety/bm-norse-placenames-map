@@ -110,6 +110,12 @@
         </div>
     </script>
 
+    <script type="text/html" id="markerTitle">
+        <div class="map-marker">
+            <h2 class="map-marker__header"><%= place.placename %></h2>
+        </div>
+    </script>
+
     <script type="text/html" id="watlingStreetMarkerInfo">
         <div class="map-marker">
             <h2 class="map-marker__header">Watling Street</h2>

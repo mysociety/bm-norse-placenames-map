@@ -195,6 +195,7 @@
 
         // Compile clientside templates
         var markerInfoTemplate = _.template($('script#markerInfo').html());
+        var markerTitleTemplate = _.template($('script#markerTitle').html());
         var searchResultsTemplate = _.template($('script#searchResults').html());
 
         // Map options
@@ -218,6 +219,11 @@
 
         // Create an infowindow to show details in
         var infoWindow = new google.maps.InfoWindow({
+            content: "",
+            maxWidth: Math.round($map.innerWidth() * 0.65)
+        });
+        // And one to show titles in
+        var titleWindow = new google.maps.InfoWindow({
             content: "",
             maxWidth: Math.round($map.innerWidth() * 0.65)
         });
@@ -273,7 +279,18 @@
                     shareUrl: shareUrl,
                     shareText: shareText
                 });
+                var markerTitle = markerTitleTemplate({
+                    place: place
+                });
+                // Show a big popup when it's clicked
                 google.maps.event.addListener(marker, 'click', function() {
+                    // Close any other popups
+                    titleWindow.close();
+                    // Remove mouseover handlers for now so we don't get two
+                    // popups showing
+                    google.maps.event.clearListeners(marker, 'mouseover');
+
+                    // Show the main popup
                     infoWindow.setContent(markerInfo);
                     infoWindow.open(map, marker);
                     window.location.hash = place.slug;
@@ -283,6 +300,24 @@
                         e.preventDefault();
                         mapSocialClick($(this), shareUrl);
                     });
+
+                    // When this window is closed, re-register the hover popup
+                    // handler
+                    google.maps.event.addListenerOnce(infoWindow, 'closeclick', function() {
+                        google.maps.event.addListener(marker, 'mouseover', function() {
+                            titleWindow.setContent(markerTitle);
+                            titleWindow.open(map, marker);
+                        });
+                    });
+                });
+                // Show a small popup when it's hovered
+                google.maps.event.addListener(marker, 'mouseover', function() {
+                    titleWindow.setContent(markerTitle);
+                    titleWindow.open(map, marker);
+                });
+                // assuming you also want to hide the infowindow when user mouses-out
+                google.maps.event.addListener(marker, 'mouseout', function() {
+                    titleWindow.close();
                 });
                 markers.push(marker);
                 markersBySlug[place.slug] = marker;
