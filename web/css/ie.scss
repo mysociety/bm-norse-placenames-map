@@ -1,26 +1,28 @@
-.map-search__form {
-    height: auto;
-    .map-search__form__input-wrapper {
-        overflow: hidden;
-        .map-search__form__input {
+.map-search {
+    .map-search__form {
+        height: auto;
+        .map-search__form__input-wrapper {
+            overflow: hidden;
+            .map-search__form__input {
+                position: relative;
+                border-bottom: none;
+            }
+        }
+        .map-search__form__buttons {
             position: relative;
-            border-bottom: none;
-        }
-    }
-    .map-search__form__buttons {
-        position: relative;
-        float: right;
-        top: auto;
-        left: auto;
-        width: auto;
-        .map-search__form__buttons__geolocation,
-        .map-search__form__buttons__submit {
+            float: right;
+            top: auto;
+            left: auto;
             width: auto;
-            display: inline;
-            border-left: 1px solid #333;
-        }
-        .map-search__form__buttons__geolocation {
-            border-top: none;
+            .map-search__form__buttons__geolocation,
+            .map-search__form__buttons__submit {
+                width: auto;
+                display: inline;
+                border-left: 1px solid #333;
+            }
+            .map-search__form__buttons__geolocation {
+                border-top: none;
+            }
         }
     }
 }
