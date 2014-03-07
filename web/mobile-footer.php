@@ -1,5 +1,7 @@
 <div class="hr">
 <hr></div>
+
+</div>
 <div class="grid_4 alpha">
 <h3>Recommend this exhibition</h3>
 <br>
