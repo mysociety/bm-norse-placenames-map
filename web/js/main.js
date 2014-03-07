@@ -184,6 +184,14 @@
         $geolocationButton.attr("disabled", false);
     };
 
+    // Failure for geolocation using the browser's geolocation api
+    // Takes a jQuery object for the button
+    var geolocationFailure = function($geolocationButton) {
+        // There's no point showing the button any more if it didn't work.
+        $geolocationButton.hide();
+        alert("Sorry, we couldn't find your position automatically, perhaps try searching instead?");
+    };
+
     $(function() {
         // Cache some selectors
         var $map = $('#map-canvas');
@@ -363,10 +371,7 @@
                         geolocationSuccess(position, $geolocationButton, originalText);
                     },
                     function() {
-                        // An error in the position finding
-                        $geolocationButton.text(originalText);
-                        $geolocationButton.attr("disabled", false);
-                        alert("Sorry, we couldn't find your position automatically, perhaps try searching instead?");
+                        geolocationFailure($geolocationButton);
                     }
                 );
             });
