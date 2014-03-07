@@ -12,6 +12,9 @@
 
     <!-- Our styles -->
     <link type="text/css" rel="stylesheet" href="/css/main.css" />
+    <!--[if IE]>
+        <link type="text/css" rel="stylesheet" href="/css/ie.css" />
+    <![endif]-->
 
 <?php
     // British Museum page, from:
