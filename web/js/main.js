@@ -215,7 +215,7 @@
             // Centered on "The centre of England" as per:
             // http://en.wikipedia.org/wiki/Centre_points_of_the_United_Kingdom
             center: new google.maps.LatLng(53.65, -3.02),
-            mapTypeId: google.maps.MapTypeId.ROADMAP,
+            mapTypeId: google.maps.MapTypeId.TERRAIN,
             mapTypeControl: false,
             streetViewControl: false,
             panControl: false,
