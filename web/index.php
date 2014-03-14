@@ -12,6 +12,15 @@
 
     <!-- Our styles -->
     <link type="text/css" rel="stylesheet" href="/css/main.css" />
+    <!-- IE Styles - Note: these apply to all IE's because of the special meta
+        tag that's included in the <head> that forces them to behave like IE7,
+        if that's removed, it's probably likely that this could only be
+        included for IE8 and below, since all it does is repeat the css that's
+        otherwise inside a media query.
+    -->
+    <!--[if IE]>
+        <link type="text/css" rel="stylesheet" href="/css/ie.css" />
+    <![endif]-->
 
 <?php
     // British Museum page, from:

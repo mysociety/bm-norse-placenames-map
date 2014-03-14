@@ -240,3 +240,10 @@ online<span>&nbsp;</span></a></div>
 
 </div>
 <div class="grid_8 omega">
+    <h2>Norse placenames map</h2>
+    <p>Some introductory text explaining the Watling Street divide, encouraging sharing and thanking Nottingham for the use of their data...</p>
+</div>
+
+</div>
+<div class="grid_12 alpha">
+<div class="hr"><hr /></div>

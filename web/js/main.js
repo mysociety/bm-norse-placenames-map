@@ -184,6 +184,14 @@
         $geolocationButton.attr("disabled", false);
     };
 
+    // Failure for geolocation using the browser's geolocation api
+    // Takes a jQuery object for the button
+    var geolocationFailure = function($geolocationButton) {
+        // There's no point showing the button any more if it didn't work.
+        $geolocationButton.hide();
+        alert("Sorry, we couldn't find your position automatically, perhaps try searching instead?");
+    };
+
     $(function() {
         // Cache some selectors
         var $map = $('#map-canvas');
@@ -198,7 +206,8 @@
         var searchResultsTemplate = _.template($('script#searchResults').html());
 
         // Map options
-        var mapStyles = [{"featureType":"water","elementType":"geometry","stylers":[{"color":"#a6d3e0"}]},{"featureType":"road.highway","elementType":"geometry","stylers":[{"color":"#d4c03e"},{"saturation":0}]},{"featureType":"road.arterial","elementType":"geometry.stroke","stylers":[{"color":"#eeeeee"}]},{"featureType":"road.local","elementType":"geometry.stroke","stylers":[{"color":"#eeeeee"}]},{"featureType":"road.local","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"road.highway.controlled_access","elementType":"geometry.fill","stylers":[{"color":"#5ca5d6"}]},{"featureType":"road.highway.controlled_access","elementType":"geometry.stroke","stylers":[{"color":"#3f89b0"}]}];
+        var mapStyles = [ { "featureType": "road.highway", "elementType": "labels", "stylers": [ { "visibility": "off" } ] },{ "featureType": "poi", "elementType": "labels", "stylers": [ { "visibility": "off" } ] },{ "featureType": "administrative.locality" },{ "featureType": "road", "elementType": "geometry.stroke", "stylers": [ { "visibility": "off" } ] },{ "featureType": "road", "elementType": "geometry", "stylers": [ { "gamma": 1.71 } ] } ];
+
         var mapOptions = {
             zoom: 6,
             maxZoom: 12,
@@ -206,7 +215,7 @@
             // Centered on "The centre of England" as per:
             // http://en.wikipedia.org/wiki/Centre_points_of_the_United_Kingdom
             center: new google.maps.LatLng(53.65, -3.02),
-            mapTypeId: google.maps.MapTypeId.ROADMAP,
+            mapTypeId: google.maps.MapTypeId.TERRAIN,
             mapTypeControl: false,
             streetViewControl: false,
             panControl: false,
@@ -363,10 +372,7 @@
                         geolocationSuccess(position, $geolocationButton, originalText);
                     },
                     function() {
-                        // An error in the position finding
-                        $geolocationButton.text(originalText);
-                        $geolocationButton.attr("disabled", false);
-                        alert("Sorry, we couldn't find your position automatically, perhaps try searching instead?");
+                        geolocationFailure($geolocationButton);
                     }
                 );
             });
