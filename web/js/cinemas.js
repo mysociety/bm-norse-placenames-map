@@ -1,4 +1,4 @@
-(function($, mySociety){
+(function($, _, mySociety, google){
     var cinemas = [
         {
             "chain": "Apollo",
@@ -9,7 +9,9 @@
             "phone": "0871 220 6000",
             "cinemaurl": "http://www.apollostafford.com/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.8011194,
+            "lng": -2.1278144999999995
         },
         {
             "chain": "Cineworld",
@@ -20,7 +22,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=78",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 57.1435647,
+            "lng": -2.096861399999966
         },
         {
             "chain": "Cineworld",
@@ -31,7 +35,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=87",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.2493329,
+            "lng": -0.7687688999999409
         },
         {
             "chain": "Cineworld",
@@ -42,7 +48,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=12",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.1614184,
+            "lng": 0.8716349999999693
         },
         {
             "chain": "Cineworld",
@@ -53,7 +61,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=23",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 53.4872253,
+            "lng": -2.115149200000019
         },
         {
             "chain": "Cineworld",
@@ -64,7 +74,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/cinemas/34",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 52.1367876,
+            "lng": -0.44483709999997245
         },
         {
             "chain": "Cineworld",
@@ -75,7 +87,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=45",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.456405,
+            "lng": 0.1499217000000499
         },
         {
             "chain": "Cineworld",
@@ -86,7 +100,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=56",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 52.4741824,
+            "lng": -1.9157523000000083
         },
         {
             "chain": "Cineworld",
@@ -97,7 +113,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=67",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 54.9467858,
+            "lng": -1.466316499999948
         },
         {
             "chain": "Cineworld",
@@ -108,7 +126,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=72",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 53.59718549999999,
+            "lng": -2.4239562000000205
         },
         {
             "chain": "Cineworld",
@@ -119,7 +139,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=73",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 53.79151,
+            "lng": -1.7470822999999882
         },
         {
             "chain": "Cineworld",
@@ -130,7 +152,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=2",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.8697598,
+            "lng": 0.5701784000000316
         },
         {
             "chain": "Cineworld",
@@ -141,7 +165,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=3",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 50.8126377,
+            "lng": -0.10069290000001274
         },
         {
             "chain": "Cineworld",
@@ -152,7 +178,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/cinemas/bristol",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.4136619,
+            "lng": -2.5828177999999298
         },
         {
             "chain": "Cineworld",
@@ -163,7 +191,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=5",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 52.8062206,
+            "lng": -1.6323770000000195
         },
         {
             "chain": "Cineworld",
@@ -174,7 +204,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=6",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 52.2434185,
+            "lng": 0.6902297999999973
         },
         {
             "chain": "Cineworld",
@@ -185,7 +217,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=7",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 52.1901631,
+            "lng": 0.13696200000003955
         },
         {
             "chain": "Cineworld",
@@ -196,7 +230,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=8",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.4791446,
+            "lng": -3.173082700000009
         },
         {
             "chain": "Cineworld",
@@ -207,7 +243,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=9",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 53.7101734,
+            "lng": -1.3418964999999616
         },
         {
             "chain": "Cineworld",
@@ -218,7 +256,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=11",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.903484,
+            "lng": -2.0748449000000164
         },
         {
             "chain": "Cineworld",
@@ -229,7 +269,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=13",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 53.1988268,
+            "lng": -2.9375185999999758
         },
         {
             "chain": "Cineworld",
@@ -240,7 +282,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=14",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 53.2293826,
+            "lng": -1.422002799999973
         },
         {
             "chain": "Cineworld",
@@ -251,7 +295,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=15",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 50.8304363,
+            "lng": -0.7861086000000341
         },
         {
             "chain": "Cineworld",
@@ -262,7 +308,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=16",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.1324008,
+            "lng": -0.1859749999999849
         },
         {
             "chain": "Cineworld",
@@ -273,7 +321,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=17",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.60749029999999,
+            "lng": -1.239929200000006
         },
         {
             "chain": "Cineworld",
@@ -284,7 +334,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=18",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 53.4097833,
+            "lng": -2.2189370999999483
         },
         {
             "chain": "Cineworld",
@@ -295,7 +347,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.ie/whatson?cinema=75",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 53.3507118,
+            "lng": -6.267349200000012
         },
         {
             "chain": "Cineworld",
@@ -306,7 +360,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=19",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 56.4776102,
+            "lng": -3.0313386000000264
         },
         {
             "chain": "Cineworld",
@@ -317,7 +373,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=20",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 50.7948536,
+            "lng": 0.32284549999997125
         },
         {
             "chain": "Cineworld",
@@ -328,7 +386,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=21",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 55.9418595,
+            "lng": -3.2164761000000226
         },
         {
             "chain": "Cineworld",
@@ -339,7 +399,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=22",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.64965979999999,
+            "lng": -0.06047260000002552
         },
         {
             "chain": "Cineworld",
@@ -350,7 +412,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=24",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 56.0037736,
+            "lng": -3.779903300000001
         },
         {
             "chain": "Cineworld",
@@ -361,7 +425,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=25",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.44358829999999,
+            "lng": -0.40644799999995485
         },
         {
             "chain": "Cineworld",
@@ -372,7 +438,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=26",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.4871516,
+            "lng": -0.1794280000000299
         },
         {
             "chain": "Cineworld",
@@ -383,7 +451,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=27",
             "eventurl": "",
-            "cinemaemail": "Glasgow@cineworld.co.uk "
+            "cinemaemail": "Glasgow@cineworld.co.uk ",
+            "lat": 55.8534415,
+            "lng": -4.199821799999995
         },
         {
             "chain": "Cineworld",
@@ -394,7 +464,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=28",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 55.8650293,
+            "lng": -4.2542194999999765
         },
         {
             "chain": "Cineworld",
@@ -405,7 +477,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/cinemas/glasgow-science-centre",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 55.8585416,
+            "lng": -4.29380279999998
         },
         {
             "chain": "Cineworld",
@@ -416,7 +490,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=90",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.8575952,
+            "lng": -2.253618899999992
         },
         {
             "chain": "Cineworld",
@@ -427,7 +503,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=31",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.7838769,
+            "lng": 0.10806430000002365
         },
         {
             "chain": "Cineworld",
@@ -438,7 +516,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=76",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 52.0791158,
+            "lng": 0.44630819999997584
         },
         {
             "chain": "Cineworld",
@@ -449,7 +529,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/cinemas/london-haymarket",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.5088011,
+            "lng": -0.13168740000003254
         },
         {
             "chain": "Cineworld",
@@ -460,7 +542,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=33",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.6308237,
+            "lng": -0.7562494000000015
         },
         {
             "chain": "Cineworld",
@@ -471,7 +555,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=35",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 53.79248519999999,
+            "lng": -0.35299370000007
         },
         {
             "chain": "Cineworld",
@@ -482,7 +568,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=36",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 52.3498707,
+            "lng": -0.17915389999996023
         },
         {
             "chain": "Cineworld",
@@ -493,7 +581,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=37",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.55763469999999,
+            "lng": 0.07411330000002181
         },
         {
             "chain": "Cineworld",
@@ -504,7 +594,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=38",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 52.052645,
+            "lng": 1.1508318999999574
         },
         {
             "chain": "Cineworld",
@@ -515,7 +607,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=40",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 49.183103,
+            "lng": -2.114544099999989
         },
         {
             "chain": "Cineworld",
@@ -526,7 +620,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=83",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 53.4949824,
+            "lng": -2.516791000000012
         },
         {
             "chain": "Cineworld",
@@ -537,7 +633,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=41",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 53.4083994,
+            "lng": -2.922888100000023
         },
         {
             "chain": "Cineworld",
@@ -548,7 +646,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=42",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 53.28205699999999,
+            "lng": -3.8088798999999653
         },
         {
             "chain": "Cineworld",
@@ -559,7 +659,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=43",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.8818484,
+            "lng": -0.41765940000004775
         },
         {
             "chain": "Cineworld",
@@ -570,7 +672,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=44",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 54.574656,
+            "lng": -1.2262613999999985
         },
         {
             "chain": "Cineworld",
@@ -581,7 +685,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=46",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 52.040976,
+            "lng": -0.749655999999959
         },
         {
             "chain": "Cineworld",
@@ -592,7 +698,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=47",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.5775701,
+            "lng": -2.9435826000000134
         },
         {
             "chain": "Cineworld",
@@ -603,7 +711,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=39",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 50.7006008,
+            "lng": -1.2892693000000008
         },
         {
             "chain": "Cineworld",
@@ -614,7 +724,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=48",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 52.240932,
+            "lng": -0.9192077000000154
         },
         {
             "chain": "Cineworld",
@@ -625,7 +737,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=49",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 52.9550305,
+            "lng": -1.1491512000000057
         },
         {
             "chain": "Cineworld",
@@ -636,7 +750,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=50",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.3800311,
+            "lng": 0.47708320000003823
         },
         {
             "chain": "Cineworld",
@@ -647,7 +763,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=51",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 52.3926963,
+            "lng": -1.251752500000066
         },
         {
             "chain": "Cineworld",
@@ -658,7 +776,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/cinemas/52?WT.srch=1&gclid=COOVks2Ag7wCFQPmwgodQWsAog",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 53.3261839,
+            "lng": -2.6999680000000126
         },
         {
             "chain": "Cineworld",
@@ -669,7 +789,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=59",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 53.4511906,
+            "lng": -2.7385328999999956
         },
         {
             "chain": "Cineworld",
@@ -680,7 +802,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=54",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 53.4015201,
+            "lng": -1.4149660000000495
         },
         {
             "chain": "Cineworld",
@@ -691,7 +815,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=55",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 52.7043763,
+            "lng": -2.7425101999999697
         },
         {
             "chain": "Cineworld",
@@ -702,7 +828,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=57",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 52.4124038,
+            "lng": -1.7793878999999606
         },
         {
             "chain": "Cineworld",
@@ -713,7 +841,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/cinemas/southampton",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 50.8957822,
+            "lng": -1.3934185000000525
         },
         {
             "chain": "Cineworld",
@@ -724,7 +854,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=61",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.9008527,
+            "lng": -0.20970009999996364
         },
         {
             "chain": "Cineworld",
@@ -735,7 +867,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=62",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 53.40690600000001,
+            "lng": -2.1609124000000293
         },
         {
             "chain": "Cineworld",
@@ -746,7 +880,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=63",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.5607979,
+            "lng": -1.8313336999999592
         },
         {
             "chain": "Cineworld",
@@ -757,7 +893,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=79",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.5016289,
+            "lng": 0.004701800000020739
         },
         {
             "chain": "Cineworld",
@@ -768,7 +906,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=64",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 53.6766437,
+            "lng": -1.5030877000000373
         },
         {
             "chain": "Cineworld",
@@ -779,7 +919,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=65",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.4554025,
+            "lng": -0.19419279999999617
         },
         {
             "chain": "Cineworld",
@@ -790,7 +932,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=89&WT.srch=1&gclid=CMTr3_OBg7wCFeLHtAod8G8AVQ",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.5530199,
+            "lng": -0.2889581,
         },
         {
             "chain": "Cineworld",
@@ -801,7 +945,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=68",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 50.6100294,
+            "lng": -2.456340700000055
         },
         {
             "chain": "Cineworld",
@@ -812,7 +958,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/cinemas/london-west-india-quay",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.507623,
+            "lng": -0.02161290000003646
         },
         {
             "chain": "Cineworld",
@@ -823,7 +971,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=77",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.7871481,
+            "lng": -1.4860604000000421
         },
         {
             "chain": "Cineworld",
@@ -834,7 +984,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=69",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 52.5962723,
+            "lng": -2.0932001999999557
         },
         {
             "chain": "Cineworld",
@@ -845,7 +997,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=70",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 51.594326,
+            "lng": -0.10815419999994447
         },
         {
             "chain": "Cineworld",
@@ -856,7 +1010,9 @@
             "phone": "0871 200 2000",
             "cinemaurl": "http://www.cineworld.co.uk/whatson?cinema=71",
             "eventurl": "",
-            "cinemaemail": "conferencing@cineworld.co.uk"
+            "cinemaemail": "conferencing@cineworld.co.uk",
+            "lat": 50.940636,
+            "lng": -2.624663999999939
         },
         {
             "chain": "Curzon",
@@ -867,7 +1023,9 @@
             "phone": "0330 500 1331",
             "cinemaurl": "http://www.curzoncinemas.com/cinemas/chelsea/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.4881135,
+            "lng": -0.16741130000002613
         },
         {
             "chain": "Curzon",
@@ -878,7 +1036,9 @@
             "phone": "0330 500 1331",
             "cinemaurl": "http://www.curzoncinemas.com/knutsford/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 53.3023835,
+            "lng": -2.373347400000057
         },
         {
             "chain": "Curzon",
@@ -889,7 +1049,9 @@
             "phone": "0330 500 1331",
             "cinemaurl": "http://www.curzoncinemas.com/now_showing/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.5065744,
+            "lng": -0.14803110000002562
         },
         {
             "chain": "Curzon",
@@ -900,7 +1062,9 @@
             "phone": "0330 500 1331",
             "cinemaurl": "http://www.curzoncinemas.com/cinemas/renoir/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.52423229999999,
+            "lng": -0.12260270000001583
         },
         {
             "chain": "Curzon",
@@ -911,7 +1075,9 @@
             "phone": "0330 500 1331",
             "cinemaurl": "http://www.curzoncinemas.com/now_showing/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.4590689,
+            "lng": -0.3073348000000351
         },
         {
             "chain": "Curzon",
@@ -922,7 +1088,9 @@
             "phone": "0330 500 1331",
             "cinemaurl": "http://www.curzoncinemas.com/cinemas/ripon/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 54.1385215,
+            "lng": -1.5242209000000457
         },
         {
             "chain": "HMV Curzon",
@@ -933,7 +1101,9 @@
             "phone": "0843 221 0359",
             "cinemaurl": "http://www.hmvcurzon.com/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.4203744,
+            "lng": -0.2052516999999625
         },
         {
             "chain": "Curzon",
@@ -944,7 +1114,9 @@
             "phone": "01330 825431",
             "cinemaurl": "http://creative-imaging-grays.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 57.063303,
+            "lng": -2.463185000000067
         },
         {
             "chain": "Empire",
@@ -955,7 +1127,9 @@
             "phone": "0871 471 4714",
             "cinemaurl": "",
             "eventurl": "",
-            "cinemaemail": "basildon@empirecinemas.co.uk"
+            "cinemaemail": "basildon@empirecinemas.co.uk",
+            "lat": 51.58304889999999,
+            "lng": 0.4710403999999926
         },
         {
             "chain": "Empire",
@@ -966,7 +1140,9 @@
             "phone": "0871 471 4714",
             "cinemaurl": "",
             "eventurl": "",
-            "cinemaemail": "greatpark@empirecinemas.co.uk"
+            "cinemaemail": "greatpark@empirecinemas.co.uk",
+            "lat": 52.39802,
+            "lng": -2.007439999999974
         },
         {
             "chain": "Empire",
@@ -977,7 +1153,9 @@
             "phone": "0871 471 4714",
             "cinemaurl": "",
             "eventurl": "",
-            "cinemaemail": "bishopsstortford@empirecinemas.co.uk"
+            "cinemaemail": "bishopsstortford@empirecinemas.co.uk",
+            "lat": 51.867251,
+            "lng": 0.16298440000002756
         },
         {
             "chain": "Empire",
@@ -988,7 +1166,9 @@
             "phone": "0871 471 4714",
             "cinemaurl": "",
             "eventurl": "",
-            "cinemaemail": "bromley@empirecinemas.co.uk"
+            "cinemaemail": "bromley@empirecinemas.co.uk",
+            "lat": 51.4066205,
+            "lng": 0.012352700000064942
         },
         {
             "chain": "Empire",
@@ -999,7 +1179,9 @@
             "phone": "0871 471 4714",
             "cinemaurl": "",
             "eventurl": "",
-            "cinemaemail": "clydebank@empirecinemas.co.uk"
+            "cinemaemail": "clydebank@empirecinemas.co.uk",
+            "lat": 55.9045321,
+            "lng": -4.40279570000007
         },
         {
             "chain": "Empire",
@@ -1010,7 +1192,9 @@
             "phone": "0871 471 4714",
             "cinemaurl": "",
             "eventurl": "",
-            "cinemaemail": "hemelhempstead@empirecinemas.co.uk"
+            "cinemaemail": "hemelhempstead@empirecinemas.co.uk",
+            "lat": 51.74863329999999,
+            "lng": -0.4561056999999664
         },
         {
             "chain": "Empire",
@@ -1021,7 +1205,9 @@
             "phone": "0871 471 4714",
             "cinemaurl": "",
             "eventurl": "",
-            "cinemaemail": "highwycombe@empirecinemas.co.uk"
+            "cinemaemail": "highwycombe@empirecinemas.co.uk",
+            "lat": 51.6126882,
+            "lng": -0.7725984999999582
         },
         {
             "chain": "Empire",
@@ -1032,7 +1218,9 @@
             "phone": "0871 471 4714",
             "cinemaurl": "",
             "eventurl": "",
-            "cinemaemail": "theempire@empirecinemas.co.uk"
+            "cinemaemail": "theempire@empirecinemas.co.uk",
+            "lat": 51.5102657,
+            "lng": -0.1315813999999591
         },
         {
             "chain": "Empire",
@@ -1043,7 +1231,9 @@
             "phone": "0871 471 4714",
             "cinemaurl": "",
             "eventurl": "",
-            "cinemaemail": "newcastle@empirecinemas.co.uk"
+            "cinemaemail": "newcastle@empirecinemas.co.uk",
+            "lat": 54.97238180000001,
+            "lng": -1.6185395999999628
         },
         {
             "chain": "Empire",
@@ -1054,7 +1244,9 @@
             "phone": "0871 471 4714",
             "cinemaurl": "",
             "eventurl": "",
-            "cinemaemail": "poole@empirecinemas.co.uk"
+            "cinemaemail": "poole@empirecinemas.co.uk",
+            "lat": 50.7464316,
+            "lng": -1.951729099999966
         },
         {
             "chain": "Empire",
@@ -1065,7 +1257,9 @@
             "phone": "0871 471 4714",
             "cinemaurl": "",
             "eventurl": "",
-            "cinemaemail": "sunderland@empirecinemas.co.uk"
+            "cinemaemail": "sunderland@empirecinemas.co.uk",
+            "lat": 54.9074609,
+            "lng": -1.381278199999997
         },
         {
             "chain": "Empire",
@@ -1076,7 +1270,9 @@
             "phone": "0871 471 4714",
             "cinemaurl": "",
             "eventurl": "",
-            "cinemaemail": "suttoncoldfield@empirecinemas.co.uk "
+            "cinemaemail": "suttoncoldfield@empirecinemas.co.uk ",
+            "lat": 52.5477421,
+            "lng": -1.8244727999999668
         },
         {
             "chain": "Empire",
@@ -1087,7 +1283,9 @@
             "phone": "0871 471 4714",
             "cinemaurl": "",
             "eventurl": "",
-            "cinemaemail": "swindon@empirecinemas.co.uk"
+            "cinemaemail": "swindon@empirecinemas.co.uk",
+            "lat": 51.5709793,
+            "lng": -1.7575226999999813
         },
         {
             "chain": "Empire",
@@ -1098,7 +1296,9 @@
             "phone": "0871 471 4714",
             "cinemaurl": "",
             "eventurl": "",
-            "cinemaemail": "wigan@empirecinemas.co.uk "
+            "cinemaemail": "wigan@empirecinemas.co.uk ",
+            "lat": 53.54639,
+            "lng": -2.6569762999999966
         },
         {
             "chain": "Everyman",
@@ -1109,7 +1309,9 @@
             "phone": "0871 906 9060",
             "cinemaurl": "http://www.everymancinema.com/cinemas/oxted",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.257488,
+            "lng": -0.005419800000026953
         },
         {
             "chain": "Everyman",
@@ -1120,7 +1322,9 @@
             "phone": "0871 906 9060",
             "cinemaurl": "http://www.everymancinema.com/venues/leeds/whats-on/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 53.796813,
+            "lng": -1.543976
         },
         {
             "chain": "Everyman",
@@ -1131,7 +1335,9 @@
             "phone": "0871 906 9060",
             "cinemaurl": "http://www.everymancinema.com/venues/reigate/whats-on/#list",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.2367608,
+            "lng": -0.20379700000000867
         },
         {
             "chain": "Everyman",
@@ -1142,7 +1348,9 @@
             "phone": "0871 906 9060",
             "cinemaurl": "http://www.everymancinema.com/cinemas/walton",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.3841094,
+            "lng": -0.41680670000005193
         },
         {
             "chain": "Everyman",
@@ -1153,7 +1361,9 @@
             "phone": "0871 906 9060",
             "cinemaurl": "http://www.everymancinema.com/cinemas/winchester",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.06056,
+            "lng": -1.318716
         },
         {
             "chain": "ICO",
@@ -1164,7 +1374,9 @@
             "phone": "01227 769 075",
             "cinemaurl": "http://www.kent.ac.uk/gulbenkian/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.2982666,
+            "lng": 1.0693525000000363
         },
         {
             "chain": "ICO",
@@ -1175,7 +1387,9 @@
             "phone": "01332 285 444",
             "cinemaurl": "http://www.derbyquad.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.9231626,
+            "lng": -1.4754696999999624
         },
         {
             "chain": "ICO",
@@ -1186,7 +1400,9 @@
             "phone": "0116 242 2800",
             "cinemaurl": "http://phoenix.org.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.6358371,
+            "lng": -1.1244890000000396
         },
         {
             "chain": "ICO",
@@ -1197,7 +1413,9 @@
             "phone": "0115 9526 611",
             "cinemaurl": "http://www.broadway.org.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.95429919999999,
+            "lng": -1.1439626999999746
         },
         {
             "chain": "ICO",
@@ -1208,7 +1426,9 @@
             "phone": "01799 500238",
             "cinemaurl": "http://www.saffronscreen.com/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.01730370000001,
+            "lng": 0.23190099999999347
         },
         {
             "chain": "ICO",
@@ -1219,7 +1439,9 @@
             "phone": "01803 847074",
             "cinemaurl": "http://www.dartington.org/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 50.4514267,
+            "lng": -3.6939795000000686
         },
         {
             "chain": "ICO",
@@ -1230,7 +1452,9 @@
             "phone": "01923 225671",
             "cinemaurl": "http://www.watfordpalacetheatre.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.65694329999999,
+            "lng": -0.39666650000003756
         },
         {
             "chain": "Independent",
@@ -1241,7 +1465,9 @@
             "phone": "01970 62 32 32",
             "cinemaurl": "http://www.aberystwythartscentre.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.416996,
+            "lng": -4.0627240999999685
         },
         {
             "chain": "Independent",
@@ -1252,7 +1478,9 @@
             "phone": "015394 33845",
             "cinemaurl": "http://www.zeffirellis.com/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 54.431388,
+            "lng": -2.964206900000022
         },
         {
             "chain": "Independent",
@@ -1263,7 +1491,9 @@
             "phone": "01461 206901",
             "cinemaurl": "http://www.lonsdalecitycinemas.co.uk/",
             "eventurl": "",
-            "cinemaemail": "annanlonsdale@btconnect.com"
+            "cinemaemail": "annanlonsdale@btconnect.com",
+            "lat": 54.9888688,
+            "lng": -3.2627167000000554
         },
         {
             "chain": "Independent",
@@ -1274,7 +1504,9 @@
             "phone": "0208 912 5161",
             "cinemaurl": "http://www.olympiccinema.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.4751673,
+            "lng": -0.2406840999999531
         },
         {
             "chain": "Independent",
@@ -1285,7 +1517,9 @@
             "phone": "01283 716257",
             "cinemaurl": "http://www.redcarpetcinema.co.uk/",
             "eventurl": "",
-            "cinemaemail": "contact@redcarpetcinema.co.uk"
+            "cinemaemail": "contact@redcarpetcinema.co.uk",
+            "lat": 52.76017539999999,
+            "lng": -1.708790399999998
         },
         {
             "chain": "Independent",
@@ -1296,7 +1530,9 @@
             "phone": "02890 739 134",
             "cinemaurl": "http://www.odysseycinemas.co.uk/en.aspx",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 54.602644,
+            "lng": -5.917696100000057
         },
         {
             "chain": "Independent",
@@ -1307,7 +1543,9 @@
             "phone": "01289 330999",
             "cinemaurl": "http://www.maltingsberwick.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 55.7689996,
+            "lng": -2.004217899999958
         },
         {
             "chain": "Independent",
@@ -1318,7 +1556,9 @@
             "phone": "01982 552 555",
             "cinemaurl": "http://www.wyeside.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.15025499999999,
+            "lng": -3.3989294000000427
         },
         {
             "chain": "Independent",
@@ -1329,7 +1569,9 @@
             "phone": "01308 426366",
             "cinemaurl": "http://www.electricpalace.org.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 50.7323682,
+            "lng": -2.758192099999974
         },
         {
             "chain": "Independent",
@@ -1340,7 +1582,9 @@
             "phone": "01986 895367",
             "cinemaurl": "http://www.fishertheatre.org",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.4572532,
+            "lng": 1.4362896000000092
         },
         {
             "chain": "Independent",
@@ -1351,7 +1595,9 @@
             "phone": "01239 621300",
             "cinemaurl": "http://www.mwldan.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.0880174,
+            "lng": -4.662293099999943
         },
         {
             "chain": "Independent",
@@ -1362,7 +1608,9 @@
             "phone": "01843 832019",
             "cinemaurl": "http://www.westgatecinema.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.3821339,
+            "lng": 1.3368527000000086
         },
         {
             "chain": "Independent",
@@ -1373,7 +1621,9 @@
             "phone": "01255 689708",
             "cinemaurl": "http://www.centurycinema.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.7923696,
+            "lng": 1.1485956000000215
         },
         {
             "chain": "Independent",
@@ -1384,7 +1634,9 @@
             "phone": "0800 9 101404",
             "cinemaurl": "",
             "eventurl": "",
-            "cinemaemail": "chepstowmuseum@monmouthshire.gov.uk"
+            "cinemaemail": "chepstowmuseum@monmouthshire.gov.uk",
+            "lat": 51.644166,
+            "lng": -2.670981799999936
         },
         {
             "chain": "Independent",
@@ -1395,7 +1647,9 @@
             "phone": "020 7241 9415",
             "cinemaurl": "http://www.riocinema.org.uk",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.549529,
+            "lng": -0.07555590000004031
         },
         {
             "chain": "Independent",
@@ -1406,7 +1660,9 @@
             "phone": "01803 839530",
             "cinemaurl": "http://theflavel.org.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 50.3521765,
+            "lng": -3.5790638999999373
         },
         {
             "chain": "Independent",
@@ -1417,7 +1673,9 @@
             "phone": "01306 879311",
             "cinemaurl": "http://www.dorkinghalls.co.uk/article/10368/Cinema",
             "eventurl": "",
-            "cinemaemail": "Box.office@molevalley.gov.uk"
+            "cinemaemail": "Box.office@molevalley.gov.uk",
+            "lat": 51.2378495,
+            "lng": -0.309340900000052
         },
         {
             "chain": "Independent",
@@ -1428,7 +1686,9 @@
             "phone": "01382 909900",
             "cinemaurl": "http://www.dca.org.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 56.4574351,
+            "lng": -2.975149299999998
         },
         {
             "chain": "Independent",
@@ -1439,7 +1699,9 @@
             "phone": "01369 704545",
             "cinemaurl": "http://dunoon.westcoastcinemas.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 55.95116489999999,
+            "lng": -4.926433599999996
         },
         {
             "chain": "Independent",
@@ -1450,7 +1712,9 @@
             "phone": "01896 752767",
             "cinemaurl": "http://www.pavilioncinema.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 55.6156908,
+            "lng": -2.8057177000000593
         },
         {
             "chain": "Independent",
@@ -1461,7 +1725,9 @@
             "phone": "0141 332 6535",
             "cinemaurl": "http://www.glasgowfilm.org/theatre",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 55.8656674,
+            "lng": -4.261423499999978
         },
         {
             "chain": "Independent",
@@ -1472,7 +1738,9 @@
             "phone": "01475 732201",
             "cinemaurl": "http://www.waterfrontcinema.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 55.9495462,
+            "lng": -4.754272399999991
         },
         {
             "chain": "Independent",
@@ -1483,7 +1751,9 @@
             "phone": "01580 754321",
             "cinemaurl": "http://www.kinodigital.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.0450035,
+            "lng": 0.5263234999999895
         },
         {
             "chain": "Independent",
@@ -1494,7 +1764,9 @@
             "phone": "01227 360569",
             "cinemaurl": "http://www.kavanaghcinema.com/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.3713602,
+            "lng": 1.1285292000000027
         },
         {
             "chain": "Independent",
@@ -1505,7 +1777,9 @@
             "phone": "01324 506850",
             "cinemaurl": "http://www.falkirkcommunitytrust.org/",
             "eventurl": "",
-            "cinemaemail": "arts@falkirkcommunitytrust.org "
+            "cinemaemail": "arts@falkirkcommunitytrust.org ",
+            "lat": 56.0173528,
+            "lng": -3.608400999999958
         },
         {
             "chain": "Independent",
@@ -1516,7 +1790,9 @@
             "phone": "01463 732660",
             "cinemaurl": "http://www.eden-court.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 57.4724839,
+            "lng": -4.231408500000043
         },
         {
             "chain": "Independent",
@@ -1527,7 +1803,9 @@
             "phone": "01534 511 110",
             "cinemaurl": "http://www.jerseyoperahouse.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 49.1864924,
+            "lng": -2.113656100000071
         },
         {
             "chain": "Independent",
@@ -1538,7 +1816,9 @@
             "phone": "01462 681300",
             "cinemaurl": "http://www.broadway-cinema.com/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.9780775,
+            "lng": -0.22851700000001074
         },
         {
             "chain": "Independent",
@@ -1549,7 +1829,9 @@
             "phone": "01584 873229",
             "cinemaurl": "http://www.ludlowassemblyrooms.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.36655769999999,
+            "lng": -2.720502300000021
         },
         {
             "chain": "Independent",
@@ -1560,7 +1842,9 @@
             "phone": "01684 892 277",
             "cinemaurl": "http://www.malvern-theatres.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.1103964,
+            "lng": -2.327372999999966
         },
         {
             "chain": "Independent",
@@ -1571,7 +1855,9 @@
             "phone": "01624 648032",
             "cinemaurl": "www.manxnationalheritage.im",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 54.154467,
+            "lng": -4.481905
         },
         {
             "chain": "Independent",
@@ -1582,7 +1868,9 @@
             "phone": "01646 695 267",
             "cinemaurl": "http://www.torchtheatre.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.7150295,
+            "lng": -5.0399446000000125
         },
         {
             "chain": "Independent",
@@ -1593,7 +1881,9 @@
             "phone": "01600 719 401",
             "cinemaurl": "http://www.theblaketheatre.org/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.81086390000001,
+            "lng": -2.712242100000026
         },
         {
             "chain": "Independent",
@@ -1604,7 +1894,9 @@
             "phone": "01274 203409",
             "cinemaurl": "http://www.nationalmediamuseum.org.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 53.7905575,
+            "lng": -1.7564597000000504
         },
         {
             "chain": "Independent",
@@ -1615,7 +1907,9 @@
             "phone": "0151 214 1370",
             "cinemaurl": "http://www.lightcinemas.co.uk/en.aspx",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 53.4406957,
+            "lng": -3.0453258000000005
         },
         {
             "chain": "Independent",
@@ -1626,7 +1920,9 @@
             "phone": "01334 474902",
             "cinemaurl": "http://nph.nphcinema.co.uk/en.aspx",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 56.3417118,
+            "lng": -2.7977209000000585
         },
         {
             "chain": "Independent",
@@ -1637,7 +1933,9 @@
             "phone": "01628 788997",
             "cinemaurl": "http://nordenfarm.org/",
             "eventurl": "",
-            "cinemaemail": "robyn.bunyan@nordenfarm.org"
+            "cinemaemail": "robyn.bunyan@nordenfarm.org",
+            "lat": 51.5156344,
+            "lng": -0.7519282000000658
         },
         {
             "chain": "Independent",
@@ -1648,7 +1946,9 @@
             "phone": "01226 248218",
             "cinemaurl": "http://barnsley.parkwaycinemas.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 53.5538319,
+            "lng": -1.479253500000027
         },
         {
             "chain": "Independent",
@@ -1659,7 +1959,9 @@
             "phone": "01472 290100",
             "cinemaurl": "http://bookings.parkwaycinemas.co.uk/cleethorpes",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 53.5473375,
+            "lng": -0.01542210000002342
         },
         {
             "chain": "Independent",
@@ -1670,7 +1972,9 @@
             "phone": "01768 862 400",
             "cinemaurl": "http://www.penrith-alhambra.co.uk/",
             "eventurl": "",
-            "cinemaemail": "penrithcinema@hotmail.com"
+            "cinemaemail": "penrithcinema@hotmail.com",
+            "lat": 54.66546,
+            "lng": -2.75399189999996
         },
         {
             "chain": "Independent",
@@ -1681,7 +1985,9 @@
             "phone": "01386 555488",
             "cinemaurl": "http://www.number8.org/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.1103853,
+            "lng": -2.075213299999973
         },
         {
             "chain": "Independent",
@@ -1692,7 +1998,9 @@
             "phone": "01243 841015",
             "cinemaurl": "http://www.picturedromebognor.com/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 50.7863436,
+            "lng": -0.6769696999999724
         },
         {
             "chain": "Independent",
@@ -1703,7 +2011,9 @@
             "phone": "01507 603333",
             "cinemaurl": "http://bookings.parkwaycinemas.co.uk/louth/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 53.3675398,
+            "lng": -0.00526239999999234
         },
         {
             "chain": "Independent",
@@ -1714,7 +2024,9 @@
             "phone": "01305 262488",
             "cinemaurl": "http://www.plazadorchester.com/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 50.7138401,
+            "lng": -2.437971300000072
         },
         {
             "chain": "Independent",
@@ -1725,7 +2037,9 @@
             "phone": "01759 301547",
             "cinemaurl": "http://www.pocklingtonartscentre.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 53.9302801,
+            "lng": -0.7785248999999794
         },
         {
             "chain": "Independent",
@@ -1736,7 +2050,9 @@
             "phone": "01707 660067",
             "cinemaurl": "http://www.hertsmereleisure.co.uk/wyllyotts+theatre/home",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.6992159,
+            "lng": -0.19029180000006818
         },
         {
             "chain": "Independent",
@@ -1747,7 +2063,9 @@
             "phone": "01745 853847",
             "cinemaurl": "http://www.scalaprestatyn.co.uk/",
             "eventurl": "",
-            "cinemaemail": "chris.bond@scalaprestatyn.co.uk"
+            "cinemaemail": "chris.bond@scalaprestatyn.co.uk",
+            "lat": 53.3355839,
+            "lng": -3.4054155000000037
         },
         {
             "chain": "Independent",
@@ -1758,7 +2076,9 @@
             "phone": "020 7613 7498",
             "cinemaurl": "http://www.richmix.org.uk/whats-on/event/vikings-live-from-the-british-museum-12a",
             "eventurl": "",
-            "cinemaemail": "Jessica.Loveless@richmix.org.uk"
+            "cinemaemail": "Jessica.Loveless@richmix.org.uk",
+            "lat": 51.5242313,
+            "lng": -0.07381169999996473
         },
         {
             "chain": "Independent",
@@ -1769,7 +2089,9 @@
             "phone": "01497 820322",
             "cinemaurl": "http://www.boothbooks.co.uk/cinema",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.0749893,
+            "lng": -3.1248530999999957
         },
         {
             "chain": "Independent",
@@ -1780,7 +2102,9 @@
             "phone": "01394 383587",
             "cinemaurl": "http://www.theriverside.co.uk/index.php",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.09191070000001,
+            "lng": 1.3208161999999675
         },
         {
             "chain": "Independent",
@@ -1791,7 +2115,9 @@
             "phone": "0208 296 0555",
             "cinemaurl": "http://www.thebrindley.org.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 53.3418088,
+            "lng": -2.730706899999973
         },
         {
             "chain": "Independent",
@@ -1802,7 +2128,9 @@
             "phone": "01297 625699",
             "cinemaurl": "http://seatongateway.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 50.7058905,
+            "lng": -3.0700400000000627
         },
         {
             "chain": "Independent",
@@ -1813,7 +2141,9 @@
             "phone": "01458 442846",
             "cinemaurl": "http://www.strodetheatre.org.uk/",
             "eventurl": "",
-            "cinemaemail": "theatre@strode-college.ac.uk"
+            "cinemaemail": "theatre@strode-college.ac.uk",
+            "lat": 51.130649,
+            "lng": -2.7340070000000196
         },
         {
             "chain": "Independent",
@@ -1824,7 +2154,9 @@
             "phone": "01584 811442",
             "cinemaurl": "http://regaltenbury.co.uk/RegalCinemaTenbury.dll/Home",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.31248,
+            "lng": -2.5943099999999504
         },
         {
             "chain": "Independent",
@@ -1835,7 +2167,9 @@
             "phone": "01684 853061",
             "cinemaurl": "http://www.rosestheatre.org/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.99606319999999,
+            "lng": -2.155843799999957
         },
         {
             "chain": "Independent",
@@ -1846,7 +2180,9 @@
             "phone": "01432 340555",
             "cinemaurl": "http://www.courtyard.org.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.061229,
+            "lng": -2.718906
         },
         {
             "chain": "Independent",
@@ -1857,7 +2193,9 @@
             "phone": "01847 891 505",
             "cinemaurl": "http://thursocinema.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 58.58539440000001,
+            "lng": -3.538594200000034
         },
         {
             "chain": "Independent",
@@ -1868,7 +2206,9 @@
             "phone": "01825 764909",
             "cinemaurl": "http://www.picturehouseuckfield.com/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.0210521,
+            "lng": 0.06559400000003279
         },
         {
             "chain": "Independent",
@@ -1879,7 +2219,9 @@
             "phone": "024 7652 4524",
             "cinemaurl": "http://www.warwickartscentre.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.3787613,
+            "lng": -1.5604378000000452
         },
         {
             "chain": "Independent",
@@ -1890,7 +2232,9 @@
             "phone": "07900 316606",
             "cinemaurl": "http://www.wells-cinema.com/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.9557043,
+            "lng": 0.852196000000049
         },
         {
             "chain": "Independent",
@@ -1901,7 +2245,9 @@
             "phone": "0844 871 7643",
             "cinemaurl": "http://www.atgtickets.com/venues/ambassadors-cinemas/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.3202927,
+            "lng": -0.5607142999999724
         },
         {
             "chain": "Independent",
@@ -1912,7 +2258,9 @@
             "phone": "01902 716 055",
             "cinemaurl": "http://light-house.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.5873687,
+            "lng": -2.123663899999997
         },
         {
             "chain": "Independent",
@@ -1923,7 +2271,9 @@
             "phone": "01903 206 206",
             "cinemaurl": "http://www.worthingtheatres.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 50.8139969,
+            "lng": -0.3690099000000373
         },
         {
             "chain": "Ireland S",
@@ -1934,7 +2284,9 @@
             "phone": "074 9121976",
             "cinemaurl": "http://www.centurycinemas.ie/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 54.94912619999999,
+            "lng": -7.73409909999998
         },
         {
             "chain": "Ireland S",
@@ -1945,7 +2297,9 @@
             "phone": "01 8728006",
             "cinemaurl": "http://www.lighthousecinema.ie/?dIndex=8&PHPSESSID=ijevf8eoj4b7jq0ror9lbmvfa4",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 53.3498972,
+            "lng": -6.27041250000002
         },
         {
             "chain": "Ireland S",
@@ -1956,7 +2310,9 @@
             "phone": "",
             "cinemaurl": "http://www.mayomovieworld.ie/index.php",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 53.8572687,
+            "lng": -9.28418350000004
         },
         {
             "chain": "Ireland S",
@@ -1967,18 +2323,9 @@
             "phone": "(01) 291 6802",
             "cinemaurl": "http://www.movies-at.ie/index.php?__site=M-DUNDRUM",
             "eventurl": "",
-            "cinemaemail": ""
-        },
-        {
-            "chain": "Ireland S",
-            "cinema": "Movies @ Dungarvan",
-            "live": "24/04/2014",
-            "address": "High Street, Dungarvan, Co. Waterford, Ireland",
-            "postcode": "",
-            "phone": "058 45796",
-            "cinemaurl": "http://www.sgcdungarvan.ie/",
-            "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 53.2844771,
+            "lng": -6.236733400000048
         },
         {
             "chain": "Ireland S",
@@ -1989,7 +2336,9 @@
             "phone": "539489570",
             "cinemaurl": "http://www.moviesatgorey.ie/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.6747241,
+            "lng": -6.282743500000038
         },
         {
             "chain": "Ireland S",
@@ -2000,18 +2349,9 @@
             "phone": "(01) 870 3600",
             "cinemaurl": "http://www.movies-at.ie/index.php?__site=M-SWORDS",
             "eventurl": "",
-            "cinemaemail": ""
-        },
-        {
-            "chain": "Ireland S",
-            "cinema": "The Eye Galway",
-            "live": "24/04/2014",
-            "address": "Wellpark Retail Park, Wellpark ,Galway. Ireland",
-            "postcode": "",
-            "phone": "091 780 078",
-            "cinemaurl": "http://www.eyecinema.ie/cinemas/home.asp?ci=2&ln=1",
-            "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 53.4548041,
+            "lng": -6.2183721000000105
         },
         {
             "chain": "Merlin Cinemas",
@@ -2022,7 +2362,22 @@
             "phone": "01263 510151",
             "cinemaurl": "http://www.merlincinemas.co.uk/cinema/10/cromer-regal-movieplex.html",
             "eventurl": "",
-            "cinemaemail": "greg@merlincinemas.co.uk"
+            "cinemaemail": "greg@merlincinemas.co.uk",
+            "lat": 52.9309962,
+            "lng": 1.3007795999999416
+        },
+        {
+            "chain": "Ireland S",
+            "cinema": "The Eye Galway",
+            "live": "24/04/2014",
+            "address": "Wellpark Retail Park, Wellpark ,Galway. Ireland",
+            "postcode": "",
+            "phone": "091 780 078",
+            "cinemaurl": "http://www.eyecinema.ie/cinemas/home.asp?ci=2&ln=1",
+            "eventurl": "",
+            "cinemaemail": "",
+            "lat": 53.089509,
+            "lng": -8.377269399999932
         },
         {
             "chain": "Merlin Cinemas",
@@ -2033,18 +2388,9 @@
             "phone": "01326 313072",
             "cinemaurl": "http://www.merlincinemas.co.uk/cinema/1/falmouth-phoenix-cinema.html",
             "eventurl": "",
-            "cinemaemail": "greg@merlincinemas.co.uk"
-        },
-        {
-            "chain": "Merlin Cinemas",
-            "cinema": "Redruth Regal",
-            "live": "24/04/2014",
-            "address": "6 Fore Street, Redruth, Cornwall",
-            "postcode": "TR15 2AZ",
-            "phone": "01209 216278",
-            "cinemaurl": "http://www.merlincinemas.co.uk/cinema/4/redruth-regal-cinema.html",
-            "eventurl": "",
-            "cinemaemail": "greg@merlincinemas.co.uk"
+            "cinemaemail": "greg@merlincinemas.co.uk",
+            "lat": 50.1542177,
+            "lng": -5.0743013999999675
         },
         {
             "chain": "Merlin Cinemas",
@@ -2055,7 +2401,22 @@
             "phone": "01736 796843",
             "cinemaurl": "http://www.merlincinemas.co.uk/cinema/5/st--ives-royal-cinema.html",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 50.21130789999999,
+            "lng": -5.481876300000067
+        },
+        {
+            "chain": "Merlin Cinemas",
+            "cinema": "Redruth Regal",
+            "live": "24/04/2014",
+            "address": "6 Fore Street, Redruth, Cornwall",
+            "postcode": "TR15 2AZ",
+            "phone": "01209 216278",
+            "cinemaurl": "http://www.merlincinemas.co.uk/cinema/4/redruth-regal-cinema.html",
+            "eventurl": "",
+            "cinemaemail": "greg@merlincinemas.co.uk",
+            "lat": 50.233465,
+            "lng": -5.227644199999986
         },
         {
             "chain": "Merlin Cinemas",
@@ -2066,7 +2427,9 @@
             "phone": "01837 658586",
             "cinemaurl": "http://www.merlincinemas.co.uk/cinema/7/okehampton-new-carlton.html",
             "eventurl": "",
-            "cinemaemail": "greg@merlincinemas.co.uk"
+            "cinemaemail": "greg@merlincinemas.co.uk",
+            "lat": 50.739857,
+            "lng": -4.004232799999954
         },
         {
             "chain": "Odeon",
@@ -2077,18 +2440,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/andover/181/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
-        },
-        {
-            "chain": "Odeon",
-            "cinema": "Odeon - Aylesbury",
-            "live": "24/04/2014",
-            "address": "Exchange Street, Aylesbury, Buckinghamshire",
-            "postcode": "HP20 1UR",
-            "phone": "0871 22 44 007",
-            "cinemaurl": "http://www.odeon.co.uk/cinemas/aylesbury/61/",
-            "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.2032274,
+            "lng": -1.4860263000000486
         },
         {
             "chain": "Odeon",
@@ -2099,7 +2453,22 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s64/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.6595473,
+            "lng": -0.200272899999959
+        },
+        {
+            "chain": "Odeon",
+            "cinema": "Odeon - Aylesbury",
+            "live": "24/04/2014",
+            "address": "Exchange Street, Aylesbury, Buckinghamshire",
+            "postcode": "HP20 1UR",
+            "phone": "0871 22 44 007",
+            "cinemaurl": "http://www.odeon.co.uk/cinemas/aylesbury/61/",
+            "eventurl": "",
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.8157236,
+            "lng": -0.8089993999999479
         },
         {
             "chain": "Odeon",
@@ -2110,18 +2479,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s149/Basingstoke/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
-        },
-        {
-            "chain": "Odeon",
-            "cinema": "Odeon - Bath",
-            "live": "24/04/2014",
-            "address": "Kingsmead Complex, James St West, Bath",
-            "postcode": "BA1 2BX",
-            "phone": "0871 22 44 007",
-            "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s65/",
-            "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.2662342,
+            "lng": -1.1004852999999457
         },
         {
             "chain": "Odeon",
@@ -2132,7 +2492,22 @@
             "phone": "0871 22 44 007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/beckenham/66/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.4075278,
+            "lng": -0.027533700000049066
+        },
+        {
+            "chain": "Odeon",
+            "cinema": "Odeon - Bath",
+            "live": "24/04/2014",
+            "address": "Kingsmead Complex, James St West, Bath",
+            "postcode": "BA1 2BX",
+            "phone": "0871 22 44 007",
+            "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s65/",
+            "eventurl": "",
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.3808254,
+            "lng": -2.364887700000054
         },
         {
             "chain": "Odeon",
@@ -2143,7 +2518,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s170/Belfast/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 54.5995453,
+            "lng": -5.9247228000000405
         },
         {
             "chain": "Odeon",
@@ -2154,18 +2531,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/birmingham_broadway_plaza/212/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
-        },
-        {
-            "chain": "Odeon",
-            "cinema": "Odeon - Blackpool",
-            "live": "24/04/2014",
-            "address": "Rigby Road, Blackpool, Lancs",
-            "postcode": "FY1 5EP",
-            "phone": "0871 224 4007",
-            "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s68/Blackpool/",
-            "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 52.47429,
+            "lng": -1.9208551000000398
         },
         {
             "chain": "Odeon",
@@ -2176,7 +2544,22 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeoncinemas.ie/fanatic/film_times/s25/Blanchardstown/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.3904355,
+            "lng": -6.405706699999996
+        },
+        {
+            "chain": "Odeon",
+            "cinema": "Odeon - Blackpool",
+            "live": "24/04/2014",
+            "address": "Rigby Road, Blackpool, Lancs",
+            "postcode": "FY1 5EP",
+            "phone": "0871 224 4007",
+            "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s68/Blackpool/",
+            "eventurl": "",
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.80780919999999,
+            "lng": -3.0504570000000513
         },
         {
             "chain": "Odeon",
@@ -2187,18 +2570,9 @@
             "phone": "0871 22 44 007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s69/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
-        },
-        {
-            "chain": "Odeon",
-            "cinema": "Odeon - Bracknell",
-            "live": "24/04/2014",
-            "address": "The Point, Skimped Hill Ln, Bracknell, West Berkshire",
-            "postcode": "RG12 1EN",
-            "phone": "0871 224 4007",
-            "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s2/Bracknell/",
-            "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 50.71870670000001,
+            "lng": -1.8752494999999954
         },
         {
             "chain": "Odeon",
@@ -2209,7 +2583,22 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s70/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.53037279999999,
+            "lng": -3.5743678000000045
+        },
+        {
+            "chain": "Odeon",
+            "cinema": "Odeon - Bracknell",
+            "live": "24/04/2014",
+            "address": "The Point, Skimped Hill Ln, Bracknell, West Berkshire",
+            "postcode": "RG12 1EN",
+            "phone": "0871 224 4007",
+            "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s2/Bracknell/",
+            "eventurl": "",
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.4160747,
+            "lng": -0.7542668999999478
         },
         {
             "chain": "Odeon",
@@ -2220,18 +2609,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/brighton/71/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
-        },
-        {
-            "chain": "Odeon",
-            "cinema": "Odeon - Cardiff",
-            "live": "24/04/2014",
-            "address": "The Red Dragon Centre, Hemingway Rd, Cardiff",
-            "postcode": "CF10 4JY",
-            "phone": "0871 224 4007",
-            "cinemaurl": "http://www.odeon.co.uk/cinemas/cardiff/3/",
-            "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 50.8231709,
+            "lng": -0.14360609999994267
         },
         {
             "chain": "Odeon",
@@ -2242,7 +2622,22 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/chatham/151/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.401427,
+            "lng": 0.5322360000000117
+        },
+        {
+            "chain": "Odeon",
+            "cinema": "Odeon - Cardiff",
+            "live": "24/04/2014",
+            "address": "The Red Dragon Centre, Hemingway Rd, Cardiff",
+            "postcode": "CF10 4JY",
+            "phone": "0871 224 4007",
+            "cinemaurl": "http://www.odeon.co.uk/cinemas/cardiff/3/",
+            "eventurl": "",
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.4678335,
+            "lng": -3.1645750000000135
         },
         {
             "chain": "Odeon",
@@ -2253,18 +2648,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s77/Chelmsford/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
-        },
-        {
-            "chain": "Odeon",
-            "cinema": "Odeon - Colchester",
-            "live": "24/04/2014",
-            "address": "Head Street, Colchester, Essex",
-            "postcode": "CO1 1NH",
-            "phone": "0871 224 4007",
-            "cinemaurl": "http://www.odeon.co.uk/cinemas/colchester/80/",
-            "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.7309101,
+            "lng": 0.475935800000002
         },
         {
             "chain": "Odeon",
@@ -2275,7 +2661,22 @@
             "phone": "+353 1520 880 000",
             "cinemaurl": "http://www.odeoncinemas.ie/cinemas/coolock/23/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.3682533,
+            "lng": -6.226666600000044
+        },
+        {
+            "chain": "Odeon",
+            "cinema": "Odeon - Colchester",
+            "live": "24/04/2014",
+            "address": "Head Street, Colchester, Essex",
+            "postcode": "CO1 1NH",
+            "phone": "0871 224 4007",
+            "cinemaurl": "http://www.odeon.co.uk/cinemas/colchester/80/",
+            "eventurl": "",
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.8888148,
+            "lng": 0.896102400000018
         },
         {
             "chain": "Odeon",
@@ -2286,18 +2687,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/covent_garden/81/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
-        },
-        {
-            "chain": "Odeon",
-            "cinema": "Odeon - Coventry",
-            "live": "24/04/2014",
-            "address": "Sky Dome, Coventry, West Midlands",
-            "postcode": "CV1 3AZ",
-            "phone": "0871 224 4007",
-            "cinemaurl": "http://www.odeon.co.uk/cinemas/coventry/82/",
-            "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.5141875,
+            "lng": -0.1282118999999966
         },
         {
             "chain": "Odeon",
@@ -2308,7 +2700,22 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/crewe/182/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.0959584,
+            "lng": -2.443336600000066
+        },
+        {
+            "chain": "Odeon",
+            "cinema": "Odeon - Coventry",
+            "live": "24/04/2014",
+            "address": "Sky Dome, Coventry, West Midlands",
+            "postcode": "CV1 3AZ",
+            "phone": "0871 224 4007",
+            "cinemaurl": "http://www.odeon.co.uk/cinemas/coventry/82/",
+            "eventurl": "",
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 52.4066864,
+            "lng": -1.5184047000000191
         },
         {
             "chain": "Odeon",
@@ -2319,18 +2726,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/derby/32/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
-        },
-        {
-            "chain": "Odeon",
-            "cinema": "Odeon - Dorchester",
-            "live": "24/04/2014",
-            "address": "3 Drayhorse Yard, Weymouth Avenue, Dorchester, Dorset",
-            "postcode": "DT1 1GS",
-            "phone": "0871 224 4007",
-            "cinemaurl": "http://www.odeon.co.uk/cinemas/dorchester/214/",
-            "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 52.9420537,
+            "lng": -1.4643636000000697
         },
         {
             "chain": "Odeon",
@@ -2341,18 +2739,22 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/dudley_merry_hill/37/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 52.4786151,
+            "lng": -2.1113698999999997
         },
         {
             "chain": "Odeon",
-            "cinema": "Odeon - Dunfermline",
+            "cinema": "Odeon - Dorchester",
             "live": "24/04/2014",
-            "address": "1 Whimbrel Pl, Dunfermline, Fife",
-            "postcode": "KY11 8EX",
+            "address": "3 Drayhorse Yard, Weymouth Avenue, Dorchester, Dorset",
+            "postcode": "DT1 1GS",
             "phone": "0871 224 4007",
-            "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s87/Dunfermline/",
+            "cinemaurl": "http://www.odeon.co.uk/cinemas/dorchester/214/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 50.709568,
+            "lng": -2.43876
         },
         {
             "chain": "Odeon",
@@ -2363,7 +2765,22 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/east_kilbride/33/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 55.7601915,
+            "lng": -4.185303299999987
+        },
+        {
+            "chain": "Odeon",
+            "cinema": "Odeon - Dunfermline",
+            "live": "24/04/2014",
+            "address": "1 Whimbrel Pl, Dunfermline, Fife",
+            "postcode": "KY11 8EX",
+            "phone": "0871 224 4007",
+            "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s87/Dunfermline/",
+            "eventurl": "",
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 56.0779382,
+            "lng": -3.397743699999978
         },
         {
             "chain": "Odeon",
@@ -2374,7 +2791,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/epsom/88/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.3341763,
+            "lng": -0.26156489999993937
         },
         {
             "chain": "Odeon",
@@ -2385,7 +2804,9 @@
             "phone": "0871 22 44 007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s89/Esher/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.3706421,
+            "lng": -0.3637046000000055
         },
         {
             "chain": "Odeon",
@@ -2396,7 +2817,9 @@
             "phone": "0871 22 44 007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/exeter/90/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 50.7272367,
+            "lng": -3.523815499999955
         },
         {
             "chain": "Odeon",
@@ -2407,7 +2830,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s91/Gerrards_Cross/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.5894611,
+            "lng": -0.5525698000000148
         },
         {
             "chain": "Odeon",
@@ -2418,7 +2843,9 @@
             "phone": "0871 22 44 007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/glasgow_quay/120/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 55.85366450000001,
+            "lng": -4.274744000000055
         },
         {
             "chain": "Odeon",
@@ -2429,7 +2856,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s92/Guildford/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.2384867,
+            "lng": -0.5783996000000116
         },
         {
             "chain": "Odeon",
@@ -2440,18 +2869,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s93/Harrogate/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
-        },
-        {
-            "chain": "Odeon",
-            "cinema": "Odeon - Hastings",
-            "live": "24/04/2014",
-            "address": "Queen's Rd, Hastings, Sussex",
-            "postcode": "TN34 1QP",
-            "phone": "0871 224 4007",
-            "cinemaurl": "http://www.odeon.co.uk/cinemas/hastings/94/",
-            "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.995003,
+            "lng": -1.5348891999999523
         },
         {
             "chain": "Odeon",
@@ -2462,18 +2882,22 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s7/Hatfield/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.76166749999999,
+            "lng": -0.23976970000001074
         },
         {
             "chain": "Odeon",
-            "cinema": "Odeon - Holloway",
+            "cinema": "Odeon - Hastings",
             "live": "24/04/2014",
-            "address": "419-427 Holloway Rd, London",
-            "postcode": "N7 6LJ",
+            "address": "Queen's Rd, Hastings, Sussex",
+            "postcode": "TN34 1QP",
             "phone": "0871 224 4007",
-            "cinemaurl": "http://www.odeon.co.uk/cinemas/holloway/97/",
+            "cinemaurl": "http://www.odeon.co.uk/cinemas/hastings/94/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 50.8589085,
+            "lng": 0.5833010000000058
         },
         {
             "chain": "Odeon",
@@ -2484,18 +2908,22 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/huddersfield/8/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.6564017,
+            "lng": -1.7669166000000587
         },
         {
             "chain": "Odeon",
-            "cinema": "Odeon - Kensington",
+            "cinema": "Odeon - Holloway",
             "live": "24/04/2014",
-            "address": "Kensington High St, London",
-            "postcode": "W8 6NA",
+            "address": "419-427 Holloway Rd, London",
+            "postcode": "N7 6LJ",
             "phone": "0871 224 4007",
-            "cinemaurl": "http://www.odeon.co.uk/cinemas/kensington/99/",
+            "cinemaurl": "http://www.odeon.co.uk/cinemas/holloway/97/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.5586914,
+            "lng": -0.12267559999997957
         },
         {
             "chain": "Odeon",
@@ -2506,7 +2934,22 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s100/Kettering/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 52.3740422,
+            "lng": -0.7172699000000193
+        },
+        {
+            "chain": "Odeon",
+            "cinema": "Odeon - Kensington",
+            "live": "24/04/2014",
+            "address": "Kensington High St, London",
+            "postcode": "W8 6NA",
+            "phone": "0871 224 4007",
+            "cinemaurl": "http://www.odeon.co.uk/cinemas/kensington/99/",
+            "eventurl": "",
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.5001639,
+            "lng": -0.19537979999995514
         },
         {
             "chain": "Odeon",
@@ -2517,7 +2960,9 @@
             "phone": "0871 22 44 007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s101/Kilmarnock/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 55.599038,
+            "lng": -4.479417000000012
         },
         {
             "chain": "Odeon",
@@ -2528,7 +2973,9 @@
             "phone": "0871 22 44 007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/kingston/102/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.4117073,
+            "lng": -0.29936380000003737
         },
         {
             "chain": "Odeon",
@@ -2539,7 +2986,9 @@
             "phone": "0871 22 44 007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/lee_valley/9/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.6283472,
+            "lng": -0.0390912999999955
         },
         {
             "chain": "Odeon",
@@ -2550,7 +2999,9 @@
             "phone": "0871 22 44 007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/leeds_bradford/103/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.80000889999999,
+            "lng": -1.7027954000000136
         },
         {
             "chain": "Odeon",
@@ -2561,7 +3012,9 @@
             "phone": "0871 22 44 007",
             "cinemaurl": "Freemens Park, 90 Aylestone Rd, Leicester LE2 7LB",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 52.62233,
+            "lng": -1.132620999999972
         },
         {
             "chain": "Odeon",
@@ -2572,7 +3025,9 @@
             "phone": "+353 1520 880 000",
             "cinemaurl": "http://www.odeoncinemas.ie/cinemas/limerick/201/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 52.665822,
+            "lng": -8.553322900000012
         },
         {
             "chain": "Odeon",
@@ -2583,7 +3038,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s106/Lincoln/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.2293043,
+            "lng": -0.5461161000000629
         },
         {
             "chain": "Odeon",
@@ -2594,7 +3051,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/liverpool_one/171/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.4038188,
+            "lng": -2.9864904999999453
         },
         {
             "chain": "Odeon",
@@ -2605,7 +3064,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/llanelli/213/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.68295080000001,
+            "lng": -4.1574776999999585
         },
         {
             "chain": "Odeon",
@@ -2616,7 +3077,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s183/Loughborough/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 52.7705537,
+            "lng": -1.207193400000051
         },
         {
             "chain": "Odeon",
@@ -2627,7 +3090,9 @@
             "phone": "0871 22 44 007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s10/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.520629,
+            "lng": -0.7206062000000202
         },
         {
             "chain": "Odeon",
@@ -2638,7 +3103,9 @@
             "phone": "0871 22 44 007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s109/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.2698776,
+            "lng": 0.5192253000000164
         },
         {
             "chain": "Odeon",
@@ -2649,7 +3116,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s11/Manchester/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.4854943,
+            "lng": -2.2407110999999986
         },
         {
             "chain": "Odeon",
@@ -2660,7 +3129,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/mansfield/110/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.1360103,
+            "lng": -1.1982176000000209
         },
         {
             "chain": "Odeon",
@@ -2671,7 +3142,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/metrocentre/174/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 54.9576414,
+            "lng": -1.6685552000000143
         },
         {
             "chain": "Odeon",
@@ -2682,18 +3155,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/newark/184/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
-        },
-        {
-            "chain": "Odeon",
-            "cinema": "Odeon - North shields silverlinks",
-            "live": "24/04/2014",
-            "address": "Osprey Drive, Silverlink Retail Park, Wallsend, Tyne and Wear",
-            "postcode": "NE28 9NG",
-            "phone": "0871 224 4007",
-            "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s17/Silverlink/",
-            "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.0740609,
+            "lng": -0.8087708000000475
         },
         {
             "chain": "Odeon",
@@ -2704,7 +3168,22 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 52.6252197,
+            "lng": 1.304191400000036
+        },
+        {
+            "chain": "Odeon",
+            "cinema": "Odeon - North shields silverlinks",
+            "live": "24/04/2014",
+            "address": "Osprey Drive, Silverlink Retail Park, Wallsend, Tyne and Wear",
+            "postcode": "NE28 9NG",
+            "phone": "0871 224 4007",
+            "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s17/Silverlink/",
+            "eventurl": "",
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 55.0127625,
+            "lng": -1.494839
         },
         {
             "chain": "Odeon",
@@ -2715,7 +3194,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/nuneaton/114/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 52.4973739,
+            "lng": -1.4774406000000226
         },
         {
             "chain": "Odeon",
@@ -2726,7 +3207,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s115/Oxford_George_St/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.7536435,
+            "lng": -1.2610131999999794
         },
         {
             "chain": "Odeon",
@@ -2737,7 +3220,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/port_solent/15/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 50.8438404,
+            "lng": -1.0965261999999711
         },
         {
             "chain": "Odeon",
@@ -2748,7 +3233,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/preston/28/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.76173,
+            "lng": -2.728900000000067
         },
         {
             "chain": "Odeon",
@@ -2759,7 +3246,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/richmond/121/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.45876850000001,
+            "lng": -0.30580800000007
         },
         {
             "chain": "Odeon",
@@ -2770,7 +3259,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/rochdale/123/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.6026609,
+            "lng": -2.1636211000000003
         },
         {
             "chain": "Odeon",
@@ -2781,7 +3272,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s124/Salisbury/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.0682045,
+            "lng": -1.7965229999999792
         },
         {
             "chain": "Odeon",
@@ -2792,7 +3285,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s125/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.3799038,
+            "lng": -1.4661518000000342
         },
         {
             "chain": "Odeon",
@@ -2803,7 +3298,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/south_woodford/126/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.5933613,
+            "lng": 0.022667299999966417
         },
         {
             "chain": "Odeon",
@@ -2814,7 +3311,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s127/Southampton/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 50.9023239,
+            "lng": -1.4134905999999319
         },
         {
             "chain": "Odeon",
@@ -2825,7 +3324,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/southend/128/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.5405214,
+            "lng": 0.7111245999999483
         },
         {
             "chain": "Odeon",
@@ -2836,7 +3337,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s129/Stoke/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.025075,
+            "lng": -2.1929712999999538
         },
         {
             "chain": "Odeon",
@@ -2847,7 +3350,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/streatham/130/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.43203099999999,
+            "lng": -0.12942039999995814
         },
         {
             "chain": "Odeon",
@@ -2858,7 +3363,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/surrey_quays/18/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.4953976,
+            "lng": -0.04696349999994709
         },
         {
             "chain": "Odeon",
@@ -2869,7 +3376,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/swadlincote/185/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 52.769001,
+            "lng": -1.554404599999998
         },
         {
             "chain": "Odeon",
@@ -2880,7 +3389,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/swiss_cottage/132/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.5424507,
+            "lng": -0.17451059999996232
         },
         {
             "chain": "Odeon",
@@ -2891,7 +3402,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s30/Tamworth/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 52.6321433,
+            "lng": -1.6904769000000215
         },
         {
             "chain": "Odeon",
@@ -2902,7 +3415,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s134/Taunton/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.01853879999999,
+            "lng": -3.111795700000016
         },
         {
             "chain": "Odeon",
@@ -2913,7 +3428,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/telford/27/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 52.6803667,
+            "lng": -2.4477289000000155
         },
         {
             "chain": "Odeon",
@@ -2924,7 +3441,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/trafford_centre/20/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.4660439,
+            "lng": -2.316858899999943
         },
         {
             "chain": "Odeon",
@@ -2935,7 +3454,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/trowbridge/216/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.3185491,
+            "lng": -2.2063685000000532
         },
         {
             "chain": "Odeon",
@@ -2946,7 +3467,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s136/Tunbridge_Wells/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.1536161,
+            "lng": 0.2962998000000425
         },
         {
             "chain": "Odeon",
@@ -2957,7 +3480,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/uxbridge/137/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.5447487,
+            "lng": -0.4764122999999927
         },
         {
             "chain": "Odeon",
@@ -2968,7 +3493,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/warrington/29/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.4072049,
+            "lng": -2.633079700000053
         },
         {
             "chain": "Odeon",
@@ -2979,7 +3506,9 @@
             "phone": "+353 1520 880 000",
             "cinemaurl": "http://www.odeoncinemas.ie/cinemas/waterford/205/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 52.2520699,
+            "lng": -7.112194899999963
         },
         {
             "chain": "Odeon",
@@ -2990,7 +3519,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/west_bromwich/215/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 52.5370831,
+            "lng": -2.0125611999999364
         },
         {
             "chain": "Odeon",
@@ -3001,7 +3532,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s141/Weston_super_Mare/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.3459015,
+            "lng": -2.9758884999999964
         },
         {
             "chain": "Odeon",
@@ -3012,7 +3545,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s142/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 51.4191641,
+            "lng": -0.1997592000000168
         },
         {
             "chain": "Odeon",
@@ -3023,7 +3558,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/cinemas/worcester/143/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 52.1954024,
+            "lng": -2.2221027000000504
         },
         {
             "chain": "Odeon",
@@ -3034,7 +3571,9 @@
             "phone": "0871 224 4007",
             "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s173/Wrexham_Eagles_Meadow/",
             "eventurl": "",
-            "cinemaemail": "contactcentre.managers@odeonuk.com"
+            "cinemaemail": "contactcentre.managers@odeonuk.com",
+            "lat": 53.0443985,
+            "lng": -2.9884806000000026
         },
         {
             "chain": "Picturehouse",
@@ -3045,7 +3584,9 @@
             "phone": "0871 902 5722",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/Abbeygate_Picturehouse/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 52.2442813,
+            "lng": 0.7143214999999827
         },
         {
             "chain": "Picturehouse",
@@ -3056,7 +3597,9 @@
             "phone": "0871 902 5720",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/Arts_Picturehouse_Cambridge/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 52.2034563,
+            "lng": 0.123441400000047
         },
         {
             "chain": "Picturehouse",
@@ -3067,7 +3610,9 @@
             "phone": "0871 902 5721",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/Belmont_Picturehouse/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 57.14742,
+            "lng": -2.1018913999999995
         },
         {
             "chain": "Picturehouse",
@@ -3078,7 +3623,9 @@
             "phone": "0871 902 5723",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/Cameo_Picturehouse/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 55.9428756,
+            "lng": -3.2039793000000145
         },
         {
             "chain": "Picturehouse",
@@ -3089,7 +3636,9 @@
             "phone": "0871 902 5724",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/Cinema_City/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 52.6305552,
+            "lng": 1.2949740000000247
         },
         {
             "chain": "Picturehouse",
@@ -3100,7 +3649,9 @@
             "phone": "0871 902 5727",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/Clapham_Picturehouse/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 51.462514,
+            "lng": -0.13806399999998575
         },
         {
             "chain": "Picturehouse",
@@ -3111,7 +3662,9 @@
             "phone": "0871 902 5728",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/Duke_Of_Yorks/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 50.8384182,
+            "lng": -0.14711250000004839
         },
         {
             "chain": "Picturehouse",
@@ -3122,7 +3675,9 @@
             "phone": "0871 902 5728",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/Dukes_At_Komedia/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 50.8263828,
+            "lng": -0.13927220000005036
         },
         {
             "chain": "Picturehouse",
@@ -3133,7 +3688,9 @@
             "phone": "0871 902 5730",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/Exeter_Picturehouse/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 50.7206882,
+            "lng": -3.5364591999999675
         },
         {
             "chain": "Picturehouse",
@@ -3144,7 +3701,9 @@
             "phone": "0871 902 5731",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/Gate_Picturehouse/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 51.5088223,
+            "lng": -0.19705640000006497
         },
         {
             "chain": "Picturehouse",
@@ -3155,7 +3714,9 @@
             "phone": "0871 902 5732",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/Greenwich_Picturehouse/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 51.4795716,
+            "lng": -0.009730699999977332
         },
         {
             "chain": "Picturehouse",
@@ -3166,7 +3727,9 @@
             "phone": "0871 902 5734",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/Hackney_Picturehouse/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 51.5447454,
+            "lng": -0.05525339999996959
         },
         {
             "chain": "Picturehouse",
@@ -3177,7 +3740,9 @@
             "phone": "0871 902 5733",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/Harbour_Lights/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 50.8972516,
+            "lng": -1.3896243000000368
         },
         {
             "chain": "Picturehouse",
@@ -3188,7 +3753,9 @@
             "phone": "0871 902 5735",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/The_Little/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 51.3811136,
+            "lng": -2.361844000000019
         },
         {
             "chain": "Picturehouse",
@@ -3199,18 +3766,9 @@
             "phone": "0871 902 5736",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/Phoenix_Picturehouse/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
-        },
-        {
-            "chain": "Picturehouse",
-            "cinema": "Picturehouse at FACT",
-            "live": "24/04/2014",
-            "address": "88 Wood St, Liverpool",
-            "postcode": "L1 4DQ",
-            "phone": "0871 902 5737",
-            "cinemaurl": "http://www.picturehouses.co.uk/cinema/Picturehouse_At_Fact/",
-            "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 51.7602063,
+            "lng": -1.2665389000000005
         },
         {
             "chain": "Picturehouse",
@@ -3221,18 +3779,22 @@
             "phone": "0871 902 5738",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/Regal_Picturehouse/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 51.53908759999999,
+            "lng": -0.9049818999999388
         },
         {
             "chain": "Picturehouse",
-            "cinema": "Ritzy Cinema",
+            "cinema": "Picturehouse at FACT",
             "live": "24/04/2014",
-            "address": "Brixton Oval, London",
-            "postcode": "SW2 1JG",
-            "phone": "0871 902 5739",
-            "cinemaurl": "http://www.picturehouses.co.uk/cinema/Ritzy_Picturehouse/",
+            "address": "88 Wood St, Liverpool",
+            "postcode": "L1 4DQ",
+            "phone": "0871 902 5737",
+            "cinemaurl": "http://www.picturehouses.co.uk/cinema/Picturehouse_At_Fact/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 53.40238009999999,
+            "lng": -2.9778486000000157
         },
         {
             "chain": "Picturehouse",
@@ -3243,7 +3805,22 @@
             "phone": "0871 902 5740",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/Stratford_London/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 51.543426,
+            "lng": 0.0019801999999344844
+        },
+        {
+            "chain": "Picturehouse",
+            "cinema": "Ritzy Cinema",
+            "live": "24/04/2014",
+            "address": "Brixton Oval, London",
+            "postcode": "SW2 1JG",
+            "phone": "0871 902 5739",
+            "cinemaurl": "http://www.picturehouses.co.uk/cinema/Ritzy_Picturehouse/",
+            "eventurl": "",
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 51.4613062,
+            "lng": -0.11501659999998992
         },
         {
             "chain": "Picturehouse",
@@ -3254,18 +3831,9 @@
             "phone": "0871 902 5741",
             "cinemaurl": "http://www.picturehouses.co.uk/cinema/Stratford_Upon_Avon/",
             "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
-        },
-        {
-            "chain": "Picturehouse",
-            "cinema": "York Picturehouse",
-            "live": "24/04/2014",
-            "address": "13-17 Coney Street",
-            "postcode": "YO1 9QL",
-            "phone": "0871 902 5726",
-            "cinemaurl": "http://www.picturehouses.co.uk/cinema/York_Picturehouse/",
-            "eventurl": "",
-            "cinemaemail": "elinor.w@picturehouses.co.uk"
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 52.1939388,
+            "lng": -1.7096159999999827
         },
         {
             "chain": "Picturehouse Virtual Circuit",
@@ -3276,7 +3844,22 @@
             "phone": "01353 669022",
             "cinemaurl": "",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.3458309,
+            "lng": 0.41758549999997285
+        },
+        {
+            "chain": "Picturehouse",
+            "cinema": "York Picturehouse",
+            "live": "24/04/2014",
+            "address": "13-17 Coney Street",
+            "postcode": "YO1 9QL",
+            "phone": "0871 902 5726",
+            "cinemaurl": "http://www.picturehouses.co.uk/cinema/York_Picturehouse/",
+            "eventurl": "",
+            "cinemaemail": "elinor.w@picturehouses.co.uk",
+            "lat": 53.95896579999999,
+            "lng": -1.0841987999999674
         },
         {
             "chain": "Picturehouse Virtual Circuit",
@@ -3287,7 +3870,9 @@
             "phone": "01728 484884",
             "cinemaurl": "http://www.aldeburghcinema.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.1534419,
+            "lng": 1.6013854999999921
         },
         {
             "chain": "Picturehouse Virtual Circuit",
@@ -3298,7 +3883,9 @@
             "phone": "01773 822224",
             "cinemaurl": "http://www.ritz-belper.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 53.0234916,
+            "lng": -1.4794124999999667
         },
         {
             "chain": "Picturehouse Virtual Circuit",
@@ -3309,7 +3896,9 @@
             "phone": "01887 829141",
             "cinemaurl": "http://www.birkscinema.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 56.621752,
+            "lng": -3.86696900000004
         },
         {
             "chain": "Picturehouse Virtual Circuit",
@@ -3320,7 +3909,9 @@
             "phone": "01243 78 66 50",
             "cinemaurl": "http://www.chichestercinema.org/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 50.8383921,
+            "lng": -0.7732214000000113
         },
         {
             "chain": "Picturehouse Virtual Circuit",
@@ -3331,7 +3922,9 @@
             "phone": "020 8245 3099",
             "cinemaurl": "http://www.arthousecrouchend.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.5819437,
+            "lng": -0.12007570000002943
         },
         {
             "chain": "Picturehouse Virtual Circuit",
@@ -3342,7 +3935,9 @@
             "phone": "0121 643 7879",
             "cinemaurl": "https://www.theelectric.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.476566,
+            "lng": -1.8988242000000355
         },
         {
             "chain": "Picturehouse Virtual Circuit",
@@ -3353,7 +3948,9 @@
             "phone": "01434 601144",
             "cinemaurl": "http://www.forumhexham.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 54.9716373,
+            "lng": -2.1012094999999817
         },
         {
             "chain": "Picturehouse Virtual Circuit",
@@ -3364,7 +3961,9 @@
             "phone": "0871 7042069",
             "cinemaurl": "http://thelexicinema.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.5375035,
+            "lng": -0.22243750000006912
         },
         {
             "chain": "Picturehouse Virtual Circuit",
@@ -3375,7 +3974,9 @@
             "phone": "01672 512487",
             "cinemaurl": "http://www.kvat.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.4212468,
+            "lng": -1.729912499999955
         },
         {
             "chain": "Picturehouse Virtual Circuit",
@@ -3386,7 +3987,9 @@
             "phone": "01664 500642",
             "cinemaurl": "http://regalcinemamelton.com/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.7652373,
+            "lng": -0.8859396999999944
         },
         {
             "chain": "Picturehouse Virtual Circuit",
@@ -3397,7 +4000,9 @@
             "phone": "01604 626222",
             "cinemaurl": "http://www.errolflynnfilmhouse.com/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.236311,
+            "lng": -0.8922953000000007
         },
         {
             "chain": "Picturehouse Virtual Circuit",
@@ -3408,7 +4013,9 @@
             "phone": "020 8444 6789",
             "cinemaurl": "http://www.phoenixcinema.co.uk/",
             "eventurl": "",
-            "cinemaemail": "education@phoenixcinema.co.uk"
+            "cinemaemail": "education@phoenixcinema.co.uk",
+            "lat": 51.5879851,
+            "lng": -0.16393800000003012
         },
         {
             "chain": "Picturehouse Virtual Circuit",
@@ -3419,7 +4026,9 @@
             "phone": "0844 406 8666",
             "cinemaurl": "http://www.lighthousepoole.co.uk/whats-on",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 50.7176318,
+            "lng": -1.9772226000000046
         },
         {
             "chain": "Picturehouse Virtual Circuit",
@@ -3430,7 +4039,9 @@
             "phone": "01748 823062",
             "cinemaurl": "http://www.stationcinema.com/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 54.4037889,
+            "lng": -1.7306019000000106
         },
         {
             "chain": "Picturehouse Virtual Circuit",
@@ -3441,7 +4052,9 @@
             "phone": "0845 217 9909",
             "cinemaurl": "https://www.tynesidecinema.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 54.9739253,
+            "lng": -1.611694899999975
         },
         {
             "chain": "Reel Cinemas",
@@ -3452,7 +4065,9 @@
             "phone": "01509 221155",
             "cinemaurl": "http://www.reelcinemas.co.uk/films-out-now/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 53.7673486,
+            "lng": -2.259379099999933
         },
         {
             "chain": "Reel Cinemas",
@@ -3463,7 +4078,9 @@
             "phone": "01509 221155",
             "cinemaurl": "http://www.reelcinemas.co.uk/films-out-now/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 50.8521306,
+            "lng": -1.178855399999975
         },
         {
             "chain": "Reel Cinemas",
@@ -3474,7 +4091,9 @@
             "phone": "01509 221155",
             "cinemaurl": "http://www.reelcinemas.co.uk/films-out-now/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 54.0706927,
+            "lng": -2.8693901000000324
         },
         {
             "chain": "Reel Cinemas",
@@ -3485,7 +4104,9 @@
             "phone": "01792 643127",
             "cinemaurl": "http://www.reelcinemas.co.uk/films-out-now/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.5882466,
+            "lng": -3.8088516000000254
         },
         {
             "chain": "Savoy Cinemas",
@@ -3496,7 +4117,9 @@
             "phone": "01205 363634",
             "cinemaurl": "http://www.westendcinema.co.uk/SavoyBoston.dll/Home",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.9764207,
+            "lng": -0.02647690000003422
         },
         {
             "chain": "Savoy Cinemas",
@@ -3507,7 +4130,9 @@
             "phone": "0115 947 2580",
             "cinemaurl": "http://www.savoyonline.co.uk/SavoyNottingham.dll/Home",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 52.9511072,
+            "lng": -1.1741204999999582
         },
         {
             "chain": "Savoy Cinemas",
@@ -3518,7 +4143,9 @@
             "phone": "01909 481 900",
             "cinemaurl": "http://www.savoyworksop.co.uk/SavoyWorksop.dll/Home",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 53.30179469999999,
+            "lng": -1.1245933999999806
         },
         {
             "chain": "Scott Cinemas",
@@ -3529,7 +4156,9 @@
             "phone": "0871 230 3200",
             "cinemaurl": "http://www.scottcinemas.co.uk/index.php?localpage=barnstaple",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.0794726,
+            "lng": -4.058478899999955
         },
         {
             "chain": "Scott Cinemas",
@@ -3540,7 +4169,9 @@
             "phone": "0871 230 3200",
             "cinemaurl": "http://bridgwater.scottcinemas.co.uk/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.1275594,
+            "lng": -3.008406599999944
         },
         {
             "chain": "Scott Cinemas",
@@ -3551,7 +4182,9 @@
             "phone": "0871 230 3200",
             "cinemaurl": "http://www.scottcinemas.co.uk/index.php?localpage=lymeregis",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 51.1264659,
+            "lng": -0.009055100000068705
         },
         {
             "chain": "Scott Cinemas",
@@ -3562,7 +4195,9 @@
             "phone": "0871 230 3200",
             "cinemaurl": "http://www.scottcinemas.co.uk/index.php?localpage=exmouth",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 50.6198081,
+            "lng": -3.41355980000003
         },
         {
             "chain": "Scott Cinemas",
@@ -3573,7 +4208,9 @@
             "phone": "0871 230 3200",
             "cinemaurl": "http://www.scottcinemas.co.uk/index.php?localpage=lymeregis",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 50.72511590000001,
+            "lng": -2.9359512999999424
         },
         {
             "chain": "Scott Cinemas",
@@ -3584,18 +4221,9 @@
             "phone": "0871 230 3200",
             "cinemaurl": "http://www.scottcinemas.co.uk/index.php?localpage=sidmouth",
             "eventurl": "",
-            "cinemaemail": ""
-        },
-        {
-            "chain": "Showcase",
-            "cinema": "Showcase - Bluewater",
-            "live": "24/04/2014",
-            "address": "Water Circus Bluewater, Greenhithe, Kent",
-            "postcode": "DS9 9SG",
-            "phone": "0871 220 1000",
-            "cinemaurl": "http://www.showcasecinemas.co.uk/films/now-booking/bluewater",
-            "eventurl": "",
-            "cinemaemail": "Bluewater_0118@NATIONAL-AMUSEMENTS.COM"
+            "cinemaemail": "",
+            "lat": 50.6830149,
+            "lng": -3.238630599999965
         },
         {
             "chain": "Showcase",
@@ -3606,7 +4234,22 @@
             "phone": "0871 220 1000",
             "cinemaurl": "http://www.showcasecinemas.co.uk/locations/bristol",
             "eventurl": "",
-            "cinemaemail": "BRISTOLCDL_0102@NATIONAL-AMUSEMENTS.COM"
+            "cinemaemail": "BRISTOLCDL_0102@NATIONAL-AMUSEMENTS.COM",
+            "lat": 51.45815349999999,
+            "lng": -2.5845961999999645
+        },
+        {
+            "chain": "Showcase",
+            "cinema": "Showcase - Bluewater",
+            "live": "24/04/2014",
+            "address": "Water Circus Bluewater, Greenhithe, Kent",
+            "postcode": "DS9 9SG",
+            "phone": "0871 220 1000",
+            "cinemaurl": "http://www.showcasecinemas.co.uk/films/now-booking/bluewater",
+            "eventurl": "",
+            "cinemaemail": "Bluewater_0118@NATIONAL-AMUSEMENTS.COM",
+            "lat": 51.436676,
+            "lng": 0.269999
         },
         {
             "chain": "Showcase",
@@ -3617,18 +4260,9 @@
             "phone": "0871 220 1000",
             "cinemaurl": "http://www.showcasecinemas.co.uk/locations/nantgarw",
             "eventurl": "",
-            "cinemaemail": "0114@NATIONAL-AMUSEMENTS.COM"
-        },
-        {
-            "chain": "Showcase",
-            "cinema": "Showcase - Coventry",
-            "live": "24/04/2014",
-            "address": "Gielgud Way, Coventry",
-            "postcode": "CV2 55Z",
-            "phone": "0871 220 1000",
-            "cinemaurl": "http://www.showcasecinemas.co.uk/locations/coventry",
-            "eventurl": "",
-            "cinemaemail": "0146@NATIONAL-AMUSEMENTS.COM"
+            "cinemaemail": "0114@NATIONAL-AMUSEMENTS.COM",
+            "lat": 51.5656118,
+            "lng": -3.2745325999999295
         },
         {
             "chain": "Showcase",
@@ -3639,7 +4273,22 @@
             "phone": "0871 220 1000",
             "cinemaurl": "http://www.showcasecinemas.co.uk/locations/derby",
             "eventurl": "",
-            "cinemaemail": "DERBYCDL_0110@NATIONAL-AMUSEMENTS.COM"
+            "cinemaemail": "DERBYCDL_0110@NATIONAL-AMUSEMENTS.COM",
+            "lat": 52.9190941,
+            "lng": -1.4722467999999935
+        },
+        {
+            "chain": "Showcase",
+            "cinema": "Showcase - Coventry",
+            "live": "24/04/2014",
+            "address": "Gielgud Way, Coventry",
+            "postcode": "CV2 55Z",
+            "phone": "0871 220 1000",
+            "cinemaurl": "http://www.showcasecinemas.co.uk/locations/coventry",
+            "eventurl": "",
+            "cinemaemail": "0146@NATIONAL-AMUSEMENTS.COM",
+            "lat": 52.4343213,
+            "lng": -1.4289320999999973
         },
         {
             "chain": "Showcase",
@@ -3650,7 +4299,9 @@
             "phone": "0871 220 1000",
             "cinemaurl": "http://www.showcasecinemas.co.uk/locations/dudley",
             "eventurl": "",
-            "cinemaemail": "0116@NATIONAL-AMUSEMENTS.COM"
+            "cinemaemail": "0116@NATIONAL-AMUSEMENTS.COM",
+            "lat": 52.51513199999999,
+            "lng": -2.0720754999999826
         },
         {
             "chain": "Showcase",
@@ -3661,7 +4312,9 @@
             "phone": "0871 220 1000",
             "cinemaurl": "http://www.showcasecinemas.co.uk/locations/glasgow",
             "eventurl": "",
-            "cinemaemail": "0128@NATIONAL-AMUSEMENTS.COM"
+            "cinemaemail": "0128@NATIONAL-AMUSEMENTS.COM",
+            "lat": 55.8475367,
+            "lng": -4.064517799999976
         },
         {
             "chain": "Showcase",
@@ -3672,7 +4325,9 @@
             "phone": "0871 220 1000",
             "cinemaurl": "http://www.showcasecinemas.co.uk/locations/leeds",
             "eventurl": "",
-            "cinemaemail": "0140@NATIONAL-AMUSEMENTS.COM"
+            "cinemaemail": "0140@NATIONAL-AMUSEMENTS.COM",
+            "lat": 53.744188,
+            "lng": -1.6396679
         },
         {
             "chain": "Showcase",
@@ -3683,7 +4338,9 @@
             "phone": "0871 220 1000",
             "cinemaurl": "http://www.showcasecinemas.co.uk/locations/leicester",
             "eventurl": "",
-            "cinemaemail": "LEICESTERCDL_0104@NATIONAL-AMUSEMENTS.COM"
+            "cinemaemail": "LEICESTERCDL_0104@NATIONAL-AMUSEMENTS.COM",
+            "lat": 52.636348,
+            "lng": -1.1384912999999415
         },
         {
             "chain": "Showcase",
@@ -3694,7 +4351,9 @@
             "phone": "0871 220 1000",
             "cinemaurl": "http://www.showcasecinemas.co.uk/locations/nottingham",
             "eventurl": "",
-            "cinemaemail": "0132@NATIONAL-AMUSEMENTS.COM"
+            "cinemaemail": "0132@NATIONAL-AMUSEMENTS.COM",
+            "lat": 52.93638610000001,
+            "lng": -1.1759481999999934
         },
         {
             "chain": "Showcase",
@@ -3705,7 +4364,9 @@
             "phone": "0871 220 1000",
             "cinemaurl": "http://www.showcasecinemas.co.uk/locations/paisley",
             "eventurl": "",
-            "cinemaemail": "0112@NATIONAL-AMUSEMENTS.COM"
+            "cinemaemail": "0112@NATIONAL-AMUSEMENTS.COM",
+            "lat": 55.84670029999999,
+            "lng": -4.473734899999954
         },
         {
             "chain": "Showcase",
@@ -3716,7 +4377,9 @@
             "phone": "0871 220 1000",
             "cinemaurl": "http://www.showcasecinemas.co.uk/locations/peterborough",
             "eventurl": "",
-            "cinemaemail": "0134@NATIONAL-AMUSEMENTS.COM"
+            "cinemaemail": "0134@NATIONAL-AMUSEMENTS.COM",
+            "lat": 52.57437,
+            "lng": -0.221408
         },
         {
             "chain": "Showcase",
@@ -3727,7 +4390,9 @@
             "phone": "0871 220 1000",
             "cinemaurl": "http://www.showcasecinemas.co.uk/locations/reading",
             "eventurl": "",
-            "cinemaemail": "ReadingCinema_0126@National-Amusements.com"
+            "cinemaemail": "ReadingCinema_0126@National-Amusements.com",
+            "lat": 51.429488,
+            "lng": -0.8789735000000292
         },
         {
             "chain": "Showcase",
@@ -3738,7 +4403,9 @@
             "phone": "0871 220 1000",
             "cinemaurl": "http://www.showcasecinemas.co.uk/locations/teesside",
             "eventurl": "",
-            "cinemaemail": "Teesside_0120@NATIONAL-AMUSEMENTS.Com"
+            "cinemaemail": "Teesside_0120@NATIONAL-AMUSEMENTS.Com",
+            "lat": 54.560176,
+            "lng": -1.2738242000000355
         },
         {
             "chain": "Showcase",
@@ -3749,7 +4416,9 @@
             "phone": "0871 220 1000",
             "cinemaurl": "http://www.showcasecinemas.co.uk/locations/walsall",
             "eventurl": "",
-            "cinemaemail": "0138@NATIONAL-AMUSEMENTS.COM"
+            "cinemaemail": "0138@NATIONAL-AMUSEMENTS.COM",
+            "lat": 52.5807178,
+            "lng": -2.0170530000000326
         },
         {
             "chain": "Vue",
@@ -3760,7 +4429,9 @@
             "phone": "0871 224 0240",
             "cinemaurl": "http://www.myvue.com/home/cinema/aberdeen",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 57.1472209,
+            "lng": -2.094818499999974
         },
         {
             "chain": "Vue",
@@ -3771,7 +4442,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/altrincham",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.3849975,
+            "lng": -2.3493773000000147
         },
         {
             "chain": "Vue",
@@ -3782,7 +4455,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/barrow",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 54.1147909,
+            "lng": -3.2385253999999577
         },
         {
             "chain": "Vue",
@@ -3793,7 +4468,9 @@
             "phone": "0871 224 0240",
             "cinemaurl": "http://www.myvue.com/latest-movies/cinema/bicester",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.8978656,
+            "lng": -1.1525874999999814
         },
         {
             "chain": "Vue",
@@ -3804,7 +4481,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/bolton",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.5829038,
+            "lng": -2.5336704000000054
         },
         {
             "chain": "Vue",
@@ -3815,7 +4494,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/bristol-cribbs-causeway",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.5230616,
+            "lng": -2.6027813000000606
         },
         {
             "chain": "Vue",
@@ -3826,7 +4507,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://myvue.com/home/cinema/bristol-longwell-green",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.4497958,
+            "lng": -2.4979594000000134
         },
         {
             "chain": "Vue",
@@ -3837,7 +4520,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/bury-the-rock",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.5940283,
+            "lng": -2.2963773000000174
         },
         {
             "chain": "Vue",
@@ -3848,7 +4533,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/camberley",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.3367713,
+            "lng": -0.7480780999999297
         },
         {
             "chain": "Vue",
@@ -3859,7 +4546,9 @@
             "phone": "0871 224 0240",
             "cinemaurl": "www.myvue.com/home/cinema/cambridge",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 52.2069728,
+            "lng": 0.13327530000003662
         },
         {
             "chain": "Vue",
@@ -3870,7 +4559,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/carlisle",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 54.8929012,
+            "lng": -2.977915199999984
         },
         {
             "chain": "Vue",
@@ -3881,7 +4572,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/carmarthen",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.85862239999999,
+            "lng": -4.309077000000002
         },
         {
             "chain": "Vue",
@@ -3892,7 +4585,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/cheshire-oaks",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.26422609999999,
+            "lng": -2.886016599999948
         },
         {
             "chain": "Vue",
@@ -3903,7 +4598,9 @@
             "phone": "01253 827285",
             "cinemaurl": "http://www.myvue.com/home/cinema/cleveleys",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.8794078,
+            "lng": -3.0468511000000262
         },
         {
             "chain": "Vue",
@@ -3914,7 +4611,9 @@
             "phone": "0871 224 0240",
             "cinemaurl": "http://www.myvue.com/latest-movies/cinema/cramlington",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 55.0873782,
+            "lng": -1.594238300000029
         },
         {
             "chain": "Vue",
@@ -3925,7 +4624,9 @@
             "phone": "0871 224 0240",
             "cinemaurl": "http://www.myvue.com/cinemas/about-vue-cinemas/cinema/croydon-purley-way",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.3781229,
+            "lng": -0.12452600000005987
         },
         {
             "chain": "Vue",
@@ -3936,7 +4637,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/cinemas/about-vue-cinemas/cinema/cwmbran",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.6548549,
+            "lng": -3.0193706999999677
         },
         {
             "chain": "Vue",
@@ -3947,7 +4650,9 @@
             "phone": "0871 224 0240",
             "cinemaurl": "http://www.myvue.com/home/cinema/doncaster",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.5065282,
+            "lng": -1.084814999999935
         },
         {
             "chain": "Vue",
@@ -3958,7 +4663,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/dublin",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.352374,
+            "lng": -6.391867100000013
         },
         {
             "chain": "Vue",
@@ -3969,7 +4676,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/edinburgh-ocean-terminal",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 55.9800589,
+            "lng": -3.1796684999999343
         },
         {
             "chain": "Vue",
@@ -3980,7 +4689,9 @@
             "phone": "0871 224 0240",
             "cinemaurl": "http://www.myvue.com/home/cinema/exeter",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 50.7267253,
+            "lng": -3.5236778999999387
         },
         {
             "chain": "Vue",
@@ -3991,7 +4702,9 @@
             "phone": "0871 224 0240",
             "cinemaurl": "http://www.myvue.com/cinemas/about-vue-cinemas/cinema/north-finchley",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.5377045,
+            "lng": -0.0888019000000213
         },
         {
             "chain": "Vue",
@@ -4002,7 +4715,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/finchley-road-(o2-centre)",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.5481691,
+            "lng": -0.18073040000001583
         },
         {
             "chain": "Vue",
@@ -4013,7 +4728,9 @@
             "phone": "0871 224 0240",
             "cinemaurl": "http://www.myvue.com/home/cinema/fulham-broadway",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.4801944,
+            "lng": -0.1916980999999396
         },
         {
             "chain": "Vue",
@@ -4024,7 +4741,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/latest-movies/cinema/gateshead",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 54.9628032,
+            "lng": -1.6025895
         },
         {
             "chain": "Vue",
@@ -4035,7 +4754,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/glasgow-fort",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 55.8729747,
+            "lng": -4.136889500000052
         },
         {
             "chain": "Vue",
@@ -4046,7 +4767,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/halifax",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.7240762,
+            "lng": -1.8622397999999976
         },
         {
             "chain": "Vue",
@@ -4057,7 +4780,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/hamilton",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 55.7784545,
+            "lng": -4.02935279999997
         },
         {
             "chain": "Vue",
@@ -4068,7 +4793,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/harrow",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.581446,
+            "lng": -0.33884599999998954
         },
         {
             "chain": "Vue",
@@ -4079,7 +4806,9 @@
             "phone": "0871 224 0240",
             "cinemaurl": "http://www.myvue.com/cinemas/about-vue-cinemas/cinema/hartlepool",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 54.6878349,
+            "lng": -1.207546099999945
         },
         {
             "chain": "Vue",
@@ -4090,7 +4819,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/hull-princes-quay",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.7420991,
+            "lng": -0.33916439999995873
         },
         {
             "chain": "Vue",
@@ -4101,7 +4832,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/inverness",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 57.4819845,
+            "lng": -4.178970700000036
         },
         {
             "chain": "Vue",
@@ -4112,7 +4845,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/cinemas/about-vue-cinemas/cinema/islington",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.53419,
+            "lng": -0.1066728000000694
         },
         {
             "chain": "Vue",
@@ -4123,7 +4858,9 @@
             "phone": "0871 224 0240",
             "cinemaurl": "http://www.myvue.com/cinemas/about-vue-cinemas/cinema/lancaster",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 54.0502599,
+            "lng": -2.80360440000004
         },
         {
             "chain": "Vue",
@@ -4134,7 +4871,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/leamington-spa",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 52.2891343,
+            "lng": -1.5389073000000053
         },
         {
             "chain": "Vue",
@@ -4145,7 +4884,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/leeds-kirkstall-road",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.80436340000001,
+            "lng": -1.5833410999999842
         },
         {
             "chain": "Vue",
@@ -4156,7 +4897,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/leeds-the-light",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.7991064,
+            "lng": -1.5427521000000297
         },
         {
             "chain": "Vue",
@@ -4167,7 +4910,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/leicester",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 52.6138195,
+            "lng": -1.185589899999968
         },
         {
             "chain": "Vue",
@@ -4178,7 +4923,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/livingston",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 55.8830137,
+            "lng": -3.520392500000071
         },
         {
             "chain": "Vue",
@@ -4189,7 +4936,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/manchester-lowry",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.4707517,
+            "lng": -2.2930613999999423
         },
         {
             "chain": "Vue",
@@ -4200,7 +4949,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/merthyr-tydfil",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.7382876,
+            "lng": -3.3782162999999628
         },
         {
             "chain": "Vue",
@@ -4211,7 +4962,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/newbury",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.3999967,
+            "lng": -1.3239859000000251
         },
         {
             "chain": "Vue",
@@ -4222,7 +4975,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/newcastle-under-lyme",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.0330859,
+            "lng": -2.2195913000000473
         },
         {
             "chain": "Vue",
@@ -4233,7 +4988,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/cinemas/about-vue-cinemas/cinema/oxford",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.7175959,
+            "lng": -1.2112016999999469
         },
         {
             "chain": "Vue",
@@ -4244,7 +5001,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/piccadilly",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.5084224,
+            "lng": -0.13382790000002842
         },
         {
             "chain": "Vue",
@@ -4255,7 +5014,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/plymouth",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 50.3670657,
+            "lng": -4.125342100000012
         },
         {
             "chain": "Vue",
@@ -4266,7 +5027,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/portsmouth",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 50.7930489,
+            "lng": -1.1044879999999466
         },
         {
             "chain": "Vue",
@@ -4277,7 +5040,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/cinemas/about-vue-cinemas/cinema/preston",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.7517417,
+            "lng": -2.677346899999975
         },
         {
             "chain": "Vue",
@@ -4288,18 +5053,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/reading",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
-        },
-        {
-            "chain": "Vue",
-            "cinema": "Vue - Redditch",
-            "live": "24/04/2014",
-            "address": "Unit 1 Leisure Level, Kingfisher Centre, Redditch",
-            "postcode": "B97 4EQ",
-            "phone": "08712 240 240",
-            "cinemaurl": "http://www.myvue.com/home/cinema/redditch",
-            "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.4524655,
+            "lng": -0.9697685999999521
         },
         {
             "chain": "Vue",
@@ -4310,7 +5066,22 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/rhyl",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.3183874,
+            "lng": -3.4998113999999987
+        },
+        {
+            "chain": "Vue",
+            "cinema": "Vue - Redditch",
+            "live": "24/04/2014",
+            "address": "Unit 1 Leisure Level, Kingfisher Centre, Redditch",
+            "postcode": "B97 4EQ",
+            "phone": "08712 240 240",
+            "cinemaurl": "http://www.myvue.com/home/cinema/redditch",
+            "eventurl": "",
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 52.3059643,
+            "lng": -1.9448247000000265
         },
         {
             "chain": "Vue",
@@ -4321,7 +5092,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/cinemas/about-vue-cinemas/cinema/scunthorpe",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.59092219999999,
+            "lng": -0.644815900000026
         },
         {
             "chain": "Vue",
@@ -4332,18 +5105,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/cinemas/about-vue-cinemas/cinema/sheffield",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
-        },
-        {
-            "chain": "Vue",
-            "cinema": "Vue - Southport",
-            "live": "24/04/2014",
-            "address": "Ocean Plaza, Marine Drive, Southport",
-            "postcode": "PR8 1SQ",
-            "phone": "08712 240 240",
-            "cinemaurl": "http://myvue.com/home/cinema/southport",
-            "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.41413,
+            "lng": -1.4156600000000026
         },
         {
             "chain": "Vue",
@@ -4354,7 +5118,22 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/staines",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.4360919,
+            "lng": -0.5125583000000233
+        },
+        {
+            "chain": "Vue",
+            "cinema": "Vue - Southport",
+            "live": "24/04/2014",
+            "address": "Ocean Plaza, Marine Drive, Southport",
+            "postcode": "PR8 1SQ",
+            "phone": "08712 240 240",
+            "cinemaurl": "http://myvue.com/home/cinema/southport",
+            "eventurl": "",
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.6520832,
+            "lng": -3.015033899999935
         },
         {
             "chain": "Vue",
@@ -4365,7 +5144,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/birmingham",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 52.5054789,
+            "lng": -1.8564900999999736
         },
         {
             "chain": "Vue",
@@ -4376,18 +5157,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/cinemas/about-vue-cinemas/cinema/stirling",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
-        },
-        {
-            "chain": "Vue",
-            "cinema": "Vue - Stroud",
-            "live": "24/04/2014",
-            "address": "Merrywalks Centre, 19-20 Merrywalks, Stroud, GL5 1RY",
-            "postcode": "GL5 1RY",
-            "phone": "08712 240 240",
-            "cinemaurl": "http://www.myvue.com/home/cinema/stroud",
-            "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 56.1181524,
+            "lng": -3.9291111
         },
         {
             "chain": "Vue",
@@ -4398,7 +5170,22 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/swansea",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.6181186,
+            "lng": -3.9389347000000043
+        },
+        {
+            "chain": "Vue",
+            "cinema": "Vue - Stroud",
+            "live": "24/04/2014",
+            "address": "Merrywalks Centre, 19-20 Merrywalks, Stroud, GL5 1RY",
+            "postcode": "GL5 1RY",
+            "phone": "08712 240 240",
+            "cinemaurl": "http://www.myvue.com/home/cinema/stroud",
+            "eventurl": "",
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.7463761,
+            "lng": -2.217899299999999
         },
         {
             "chain": "Vue",
@@ -4409,7 +5196,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/thanet",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.35949189999999,
+            "lng": 1.39294110000003
         },
         {
             "chain": "Vue",
@@ -4420,18 +5209,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/thurrock",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
-        },
-        {
-            "chain": "Vue",
-            "cinema": "Vue - Torbay",
-            "live": "24/04/2014",
-            "address": "The Esplanade, Paignton",
-            "postcode": "TQ4 6AG",
-            "phone": "08712 240 240",
-            "cinemaurl": "http://www.myvue.com/home/cinema/torbay",
-            "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.4877378,
+            "lng": 0.2835333000000446
         },
         {
             "chain": "Vue",
@@ -4442,7 +5222,22 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/watford",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.6926395,
+            "lng": -0.3944956999999931
+        },
+        {
+            "chain": "Vue",
+            "cinema": "Vue - Torbay",
+            "live": "24/04/2014",
+            "address": "The Esplanade, Paignton",
+            "postcode": "TQ4 6AG",
+            "phone": "08712 240 240",
+            "cinemaurl": "http://www.myvue.com/home/cinema/torbay",
+            "eventurl": "",
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 50.4362811,
+            "lng": -3.5609139000000596
         },
         {
             "chain": "Vue",
@@ -4453,7 +5248,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/shepherds-bush",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.5034705,
+            "lng": -0.21906290000003992
         },
         {
             "chain": "Vue",
@@ -4464,18 +5261,9 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/stratford",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
-        },
-        {
-            "chain": "Vue",
-            "cinema": "Vue - Worcester",
-            "live": "24/04/2014",
-            "address": "49 Friar St, Worcester",
-            "postcode": "WR1 2NA",
-            "phone": "08712 240 240",
-            "cinemaurl": "http://www.myvue.com/home/cinema/worcester",
-            "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 51.5432095,
+            "lng": -0.007688499999972009
         },
         {
             "chain": "Vue",
@@ -4486,7 +5274,22 @@
             "phone": "08712 240 240",
             "cinemaurl": "http://www.myvue.com/home/cinema/york",
             "eventurl": "",
-            "cinemaemail": "customerservices@vuemail.com "
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 53.9930331,
+            "lng": -1.09762180000007
+        },
+        {
+            "chain": "Vue",
+            "cinema": "Vue - Worcester",
+            "live": "24/04/2014",
+            "address": "49 Friar St, Worcester",
+            "postcode": "WR1 2NA",
+            "phone": "08712 240 240",
+            "cinemaurl": "http://www.myvue.com/home/cinema/worcester",
+            "eventurl": "",
+            "cinemaemail": "customerservices@vuemail.com ",
+            "lat": 52.1889066,
+            "lng": -2.2194468000000143
         },
         {
             "chain": "WTW Cinemas",
@@ -4497,7 +5300,9 @@
             "phone": "01726 66301",
             "cinemaurl": "http://wtwcinemas.co.uk/st-austell-white-river-cinema/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 50.3371897,
+            "lng": -4.79946080000002
         },
         {
             "chain": "WTW Cinemas",
@@ -4508,7 +5313,9 @@
             "phone": "01872 272894",
             "cinemaurl": "http://wtwcinemas.co.uk/truro-the-plaza-cinema/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 50.26191540000001,
+            "lng": -5.052129000000036
         },
         {
             "chain": "WTW Cinemas",
@@ -4519,7 +5326,50 @@
             "phone": "01208 812791",
             "cinemaurl": "http://wtwcinemas.co.uk/wadebridge-the-regal-cinema/",
             "eventurl": "",
-            "cinemaemail": ""
+            "cinemaemail": "",
+            "lat": 50.5158909,
+            "lng": -4.836080199999969
+        }];
+
+    // Function to geocode a cinema's address
+    var geocodeCinema = function(cinema, cinemas) {
+        var address = $.trim(cinema.address + " " + cinema.postcode);
+        if (_.isUndefined(cinema.lat) && _.isUndefined(cinema.lng)) {
+            mySociety.geocoder.geocode(
+                {
+                    address: address
+                },
+                function(results, status) {
+                    if(status === google.maps.GeocoderStatus.OK) {
+                        var topResult = results[0];
+                        cinema['lat'] = topResult.geometry.location.lat();
+                        cinema['lng'] = topResult.geometry.location.lng();
+                        console.log("Geocoded cinema: " + cinema.cinema);
+                    }
+                    else {
+                        console.log("Geocode failed for cinema:" + cinema.cinema + ", status: " + status);
+                    }
+                    cinemas.push(cinema);
+                }
+            );
+        } else {
+            console.log("Skipping already geocoded cinema: " + cinema.cinema);
+            cinemas.push(cinema);
         }
-    ];
-})(window.jQuery, window.mySociety);
+    };
+
+    // Function to geocode cinema addresses into lat/lngs
+    var geocodeCinemas = function(cinemas) {
+        // Make a deep copy of the array
+        mySociety.geocodedCinemas = [];
+        var geocodeCinemaRateLimited = _.rateLimit(geocodeCinema, 1000);
+        _.each(cinemas, function(cinema, index) {
+            // This happens asynchronously via rate limit, so no return value
+            // watch the console to see when it's finished
+            geocodeCinemaRateLimited(cinema, mySociety.geocodedCinemas);
+        });
+    };
+
+    mySociety.cinemas = cinemas;
+    mySociety.geocodeCinemas = geocodeCinemas;
+})(window.jQuery, window._, window.mySociety, window.google);

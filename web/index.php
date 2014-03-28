@@ -74,6 +74,7 @@
     </script>
     <script type="text/javascript" src="/js/vendor/markerclusterer.js"></script>
     <script type="text/javascript" src="/js/vendor/underscore.js"></script>
+    <script type="text/javascript" src="/js/vendor/underscore.ratelimit.js"></script>
 
     <!-- Client side templates -->
     <script type="text/html" id="markerInfo">
@@ -158,5 +159,6 @@
     <script type="text/javascript" src="/js/watlingstreet.js"></script>
     <script type="text/javascript" src="/js/kepn.js"></script>
     <script type="text/javascript" src="/js/main.js"></script>
+    <script type="text/javascript" src="/js/cinemas.js"></script>
 </body>
 </html>
