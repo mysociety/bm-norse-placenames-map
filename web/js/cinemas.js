@@ -5329,7 +5329,37 @@
             "cinemaemail": "",
             "lat": 50.5158909,
             "lng": -4.836080199999969
-        }];
+        }
+    ];
 
     mySociety.cinemas = cinemas;
+
+    $(function() {
+        var $map = $('#map-canvas');
+        var $cinemaMarkerInfo = $('script#cinemaMarkerInfo');
+        var cinemaMarkerInfoTemplate = _.template($cinemaMarkerInfo.html());
+
+        var infoWindow = new google.maps.InfoWindow({
+            content: "",
+            maxWidth: Math.round($map.innerWidth() * 0.65)
+        });
+
+        _.each(mySociety.cinemas, function(cinema) {
+            var marker = new google.maps.Marker({
+                position: new google.maps.LatLng(cinema.lat, cinema.lng),
+                title: cinema.cinema,
+                map: mySociety.map
+            });
+            var markerInfo = cinemaMarkerInfoTemplate({cinema: cinema});
+
+            // Show a big popup when it's clicked
+            google.maps.event.addListener(marker, 'click', function() {
+                infoWindow.setContent(markerInfo);
+                infoWindow.open(mySociety.map, marker);
+            });
+
+            // TODO - index the cinema markers somehow so that we can open a
+            // connected marker when someone clicks a link on a KEPN popup?
+        });
+    });
 })(window.jQuery, window._, window.mySociety, window.google);

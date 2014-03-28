@@ -152,6 +152,27 @@
         </ul>
     </script>
 
+    <script type="text/html" id="cinemaMarkerInfo">
+        <div class="map-marker">
+            <h2 class="map-marker__header"><%= cinema.cinema %></h2>
+            <p class="map-marker__cinema-link">
+                <% if(cinema.cinemaurl !== "") { %>
+                    <a href="<%= cinema.cinemaurl %>">See showings at this cinema</a>
+                <% } %>
+            </p>
+            <p class="map-marker__cinema-link">
+            <% if(cinema.cinemaemail !== "") { %>
+                <a href="mailto:<%= cinema.cinemaemail %>">Email this cinema</a>
+            <% } %>
+            </p>
+            <p class="map-marker__cinema-link">
+                <% if(cinema.phone !== "") { %>
+                    <a href="tel:<%= cinema.phone %>">Phone this cinema on: <%= cinema.phone %></a>
+                <% } %>
+            </p>
+        </div>
+    </script>
+
     <script type="text/javascript">
         window.mySociety = window.mySociety || {};
     </script>
