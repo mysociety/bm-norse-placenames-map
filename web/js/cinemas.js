@@ -5331,45 +5331,5 @@
             "lng": -4.836080199999969
         }];
 
-    // Function to geocode a cinema's address
-    var geocodeCinema = function(cinema, cinemas) {
-        var address = $.trim(cinema.address + " " + cinema.postcode);
-        if (_.isUndefined(cinema.lat) && _.isUndefined(cinema.lng)) {
-            mySociety.geocoder.geocode(
-                {
-                    address: address
-                },
-                function(results, status) {
-                    if(status === google.maps.GeocoderStatus.OK) {
-                        var topResult = results[0];
-                        cinema['lat'] = topResult.geometry.location.lat();
-                        cinema['lng'] = topResult.geometry.location.lng();
-                        console.log("Geocoded cinema: " + cinema.cinema);
-                    }
-                    else {
-                        console.log("Geocode failed for cinema:" + cinema.cinema + ", status: " + status);
-                    }
-                    cinemas.push(cinema);
-                }
-            );
-        } else {
-            console.log("Skipping already geocoded cinema: " + cinema.cinema);
-            cinemas.push(cinema);
-        }
-    };
-
-    // Function to geocode cinema addresses into lat/lngs
-    var geocodeCinemas = function(cinemas) {
-        // Make a deep copy of the array
-        mySociety.geocodedCinemas = [];
-        var geocodeCinemaRateLimited = _.rateLimit(geocodeCinema, 1000);
-        _.each(cinemas, function(cinema, index) {
-            // This happens asynchronously via rate limit, so no return value
-            // watch the console to see when it's finished
-            geocodeCinemaRateLimited(cinema, mySociety.geocodedCinemas);
-        });
-    };
-
     mySociety.cinemas = cinemas;
-    mySociety.geocodeCinemas = geocodeCinemas;
 })(window.jQuery, window._, window.mySociety, window.google);
