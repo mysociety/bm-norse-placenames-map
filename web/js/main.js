@@ -234,20 +234,7 @@
             maxWidth: Math.round($map.innerWidth() * 0.65)
         });
 
-        var markers = [];
         var markersBySlug = {};
-        var markerClusterOptions = {
-            minimumClusterSize: 4,
-            styles: [{
-                url: '/img/cluster_new.png',
-                height: 40,
-                width: 40,
-                anchor: [15, 15],
-                textColor: '#333333',
-                textSize: 10
-            }]
-        };
-        var markerCluster;
 
         // Geocoding options
         var geocoder = new google.maps.Geocoder();
@@ -282,7 +269,8 @@
                 var marker = new google.maps.Marker({
                     position: new google.maps.LatLng(place.lat, place.lng),
                     title: place.placename,
-                    icon: '/img/marker_new.png'
+                    icon: '/img/marker_new.png',
+                    map: map
                 });
                 var markerInfo = markerInfoTemplate({
                     place: place,
@@ -330,13 +318,9 @@
                 google.maps.event.addListener(marker, 'mouseout', function() {
                     titleWindow.close();
                 });
-                markers.push(marker);
                 markersBySlug[place.slug] = marker;
             });
         });
-
-        // Create a marker cluster to manage the markers
-        markerCluster = new MarkerClusterer(map, markers, markerClusterOptions);
 
         // See if we should be showing a specific location and show that if so
         google.maps.event.addListenerOnce(map, 'idle', function(){
