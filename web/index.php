@@ -114,6 +114,25 @@
                     </a>
                 </li>
             </ul>
+            <h3 class="map-marker__cinema-header">Nearest Vikings Live showing:</h3>
+            <h4 class="map-marker__cinema-name"><%= place.cinema.cinema %>: <%= place.cinema.live %></h4>
+            <ul class="map-marker__cinema-link">
+                <li>
+                    <% if(place.cinema.cinemaurl !== "") { %>
+                        <a href="<%= place.cinema.cinemaurl %>">Visit this cinema's website</a>
+                    <% } %>
+                </li>
+                <li>
+                    <% if(place.cinema.cinemaemail !== "") { %>
+                        <a href="mailto:<%= place.cinema.cinemaemail %>">Email this cinema</a>
+                    <% } %>
+                </li>
+                </li>
+                    <% if(place.cinema.phone !== "") { %>
+                        <a href="tel:<%= place.cinema.phone %>">Phone this cinema on: <%= place.cinema.phone %></a>
+                    <% } %>
+                </li>
+            </ul>
         </div>
     </script>
 
