@@ -2032,17 +2032,17 @@
             "slug": "lound-2",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "misson": [
@@ -9192,17 +9192,17 @@
             "slug": "oulton-2",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "papcastle": [
@@ -16623,17 +16623,17 @@
             "slug": "barnby-2",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "borrowby": [
@@ -36672,17 +36672,17 @@
             "slug": "aldeby",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "haddiscoe": [
@@ -36710,17 +36710,17 @@
             "slug": "haddiscoe",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "kirby cane": [
@@ -36748,17 +36748,17 @@
             "slug": "kirby-cane",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "thorpe next haddiscoe": [
@@ -36786,17 +36786,17 @@
             "slug": "thorpe-next-haddiscoe",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "thurlton": [
@@ -36824,17 +36824,17 @@
             "slug": "thurlton",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "ashwellthorpe": [
@@ -36907,17 +36907,17 @@
             "slug": "aslacton",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "carleton rode": [
@@ -37035,17 +37035,17 @@
             "slug": "fritton",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         },
         {
@@ -37079,17 +37079,17 @@
             "slug": "fritton-2",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "morning thorpe": [
@@ -37138,17 +37138,17 @@
             "slug": "morning-thorpe",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "tharston": [
@@ -37214,17 +37214,17 @@
             "slug": "thelveton",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "starston": [
@@ -37252,17 +37252,17 @@
             "slug": "starston",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "thorpe abbotts": [
@@ -37290,17 +37290,17 @@
             "slug": "thorpe-abbotts",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "felbrigg": [
@@ -37403,17 +37403,17 @@
             "slug": "gunton-2",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "runton": [
@@ -37917,17 +37917,17 @@
             "slug": "thwaite-2",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         },
         {
@@ -39622,17 +39622,17 @@
             "slug": "croxton-2",
             "cinema":
             {
-                "chain": "Apollo",
-                "cinema": "Apollo - Stafford",
-                "live": "",
-                "address": "Newport Road",
-                "postcode": "ST16 2HH",
-                "phone": "0871 220 6000",
-                "cinemaurl": "http://www.apollostafford.com/",
+                "chain": "Odeon",
+                "cinema": "Odeon - Stoke",
+                "live": "24/04/2014",
+                "address": "Festival Park, Etruria Rd, Stoke-on-Trent, Staffordshire",
+                "postcode": "ST1 5SN",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s129/Stoke/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.8011194,
-                "lng": -2.1278144999999995
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 53.025075,
+                "lng": -2.1929712999999538
             }
         },
         {
@@ -40278,17 +40278,17 @@
             "slug": "kirstead",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "garveston": [
@@ -41121,17 +41121,17 @@
             "slug": "chartley-holme",
             "cinema":
             {
-                "chain": "Apollo",
-                "cinema": "Apollo - Stafford",
-                "live": "",
-                "address": "Newport Road",
-                "postcode": "ST16 2HH",
-                "phone": "0871 220 6000",
-                "cinemaurl": "http://www.apollostafford.com/",
+                "chain": "Independent",
+                "cinema": "Barton Under Needwood Red Carpet Cinema",
+                "live": "24/04/2014",
+                "address": "Barton Marina, Barton under Needwood, Staffordshire",
+                "postcode": "DE13 8AS",
+                "phone": "01283 716257",
+                "cinemaurl": "http://www.redcarpetcinema.co.uk/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.8011194,
-                "lng": -2.1278144999999995
+                "cinemaemail": "contact@redcarpetcinema.co.uk",
+                "lat": 52.76017539999999,
+                "lng": -1.708790399999998
             }
         }],
         "croxall": [
@@ -41270,17 +41270,17 @@
             "slug": "hilderstone",
             "cinema":
             {
-                "chain": "Apollo",
-                "cinema": "Apollo - Stafford",
-                "live": "",
-                "address": "Newport Road",
-                "postcode": "ST16 2HH",
-                "phone": "0871 220 6000",
-                "cinemaurl": "http://www.apollostafford.com/",
+                "chain": "Odeon",
+                "cinema": "Odeon - Stoke",
+                "live": "24/04/2014",
+                "address": "Festival Park, Etruria Rd, Stoke-on-Trent, Staffordshire",
+                "postcode": "ST1 5SN",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s129/Stoke/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.8011194,
-                "lng": -2.1278144999999995
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 53.025075,
+                "lng": -2.1929712999999538
             }
         }],
         "ilam": [
@@ -41436,17 +41436,17 @@
             "slug": "drointon",
             "cinema":
             {
-                "chain": "Apollo",
-                "cinema": "Apollo - Stafford",
-                "live": "",
-                "address": "Newport Road",
-                "postcode": "ST16 2HH",
-                "phone": "0871 220 6000",
-                "cinemaurl": "http://www.apollostafford.com/",
+                "chain": "Independent",
+                "cinema": "Barton Under Needwood Red Carpet Cinema",
+                "live": "24/04/2014",
+                "address": "Barton Marina, Barton under Needwood, Staffordshire",
+                "postcode": "DE13 8AS",
+                "phone": "01283 716257",
+                "cinemaurl": "http://www.redcarpetcinema.co.uk/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.8011194,
-                "lng": -2.1278144999999995
+                "cinemaemail": "contact@redcarpetcinema.co.uk",
+                "lat": 52.76017539999999,
+                "lng": -1.708790399999998
             }
         }],
         "forsbrook": [
@@ -51291,17 +51291,17 @@
             "slug": "ashby-2",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "brumby": [
@@ -59591,17 +59591,17 @@
             "slug": "flixton-2",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         },
         {
@@ -59628,17 +59628,17 @@
             "slug": "flixton-3",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "hulme": [
@@ -67831,17 +67831,17 @@
             "slug": "carlton-colville",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "corton": [
@@ -67869,17 +67869,17 @@
             "slug": "corton",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "drinkstone": [
@@ -68156,17 +68156,17 @@
             "slug": "ilketshall-st-andrew",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "ilketshall st john": [
@@ -68194,17 +68194,17 @@
             "slug": "ilketshall-st-john",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "ilketshall st lawrence": [
@@ -68232,17 +68232,17 @@
             "slug": "ilketshall-st-lawrence",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "ilketshall st margaret": [
@@ -68270,17 +68270,17 @@
             "slug": "ilketshall-st-margaret",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "ixworth thorpe": [
@@ -68481,17 +68481,17 @@
             "slug": "kirkley",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "leiston": [
@@ -68564,17 +68564,17 @@
             "slug": "lowestoft",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "melton": [
@@ -68744,17 +68744,17 @@
             "slug": "oulton-broad",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "risby": [
@@ -68827,17 +68827,17 @@
             "slug": "somerleyton",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "somerton": [
@@ -68903,17 +68903,17 @@
             "slug": "stoven",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Picturehouse Virtual Circuit",
+                "cinema": "Aldeburgh Cinema",
+                "live": "24/04/2014",
+                "address": "51 High Street, Aldeburgh, Suffolk",
+                "postcode": "IP15 5AU",
+                "phone": "01728 484884",
+                "cinemaurl": "http://www.aldeburghcinema.co.uk/",
                 "eventurl": "",
                 "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "lat": 52.1534419,
+                "lng": 1.6013854999999921
             }
         }],
         "stutton": [
@@ -69024,17 +69024,17 @@
             "slug": "thrandeston",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Picturehouse",
+                "cinema": "Abbeygate Picturehouse",
+                "live": "24/04/2014",
+                "address": "4 Hatter St, Town Centre, Bury St Edmunds",
+                "postcode": "IP33 1NE",
+                "phone": "0871 902 5722",
+                "cinemaurl": "http://www.picturehouses.co.uk/cinema/Abbeygate_Picturehouse/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "elinor.w@picturehouses.co.uk",
+                "lat": 52.2442813,
+                "lng": 0.7143214999999827
             }
         }],
         "thurston": [
@@ -69100,17 +69100,17 @@
             "slug": "ubbeston",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Picturehouse Virtual Circuit",
+                "cinema": "Aldeburgh Cinema",
+                "live": "24/04/2014",
+                "address": "51 High Street, Aldeburgh, Suffolk",
+                "postcode": "IP15 5AU",
+                "phone": "01728 484884",
+                "cinemaurl": "http://www.aldeburghcinema.co.uk/",
                 "eventurl": "",
                 "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "lat": 52.1534419,
+                "lng": 1.6013854999999921
             }
         }],
         "westhorpe": [
@@ -69325,17 +69325,17 @@
             "slug": "withersdale",
             "cinema":
             {
-                "chain": "Independent",
-                "cinema": "Bungay Fisher Theatre",
-                "live": "",
-                "address": "10 Broad Street",
-                "postcode": "NR35 1EE",
-                "phone": "01986 895367",
-                "cinemaurl": "http://www.fishertheatre.org",
+                "chain": "Odeon",
+                "cinema": "Odeon - Norwich",
+                "live": "24/04/2014",
+                "address": "Riverside Leisure Park, Wherry Rd, Norwich",
+                "postcode": "NR1 1XA",
+                "phone": "0871 224 4007",
+                "cinemaurl": "http://www.odeon.co.uk/cinemas/norwich/13/",
                 "eventurl": "",
-                "cinemaemail": "",
-                "lat": 52.4572532,
-                "lng": 1.4362896000000092
+                "cinemaemail": "contactcentre.managers@odeonuk.com",
+                "lat": 52.6252197,
+                "lng": 1.304191400000036
             }
         }],
         "upper langwith": [
