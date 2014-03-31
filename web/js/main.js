@@ -208,11 +208,11 @@
         var mapStyles = [ { "featureType": "road.highway", "elementType": "labels", "stylers": [ { "visibility": "off" } ] },{ "featureType": "poi", "elementType": "labels", "stylers": [ { "visibility": "off" } ] },{ "featureType": "administrative.locality" },{ "featureType": "road", "elementType": "geometry.stroke", "stylers": [ { "visibility": "off" } ] },{ "featureType": "road", "elementType": "geometry", "stylers": [ { "gamma": 1.71 } ] } ];
 
         var mapOptions = {
-            zoom: 6,
+            zoom: 5,
             maxZoom: 12,
-            minZoom: 6,
+            minZoom: 5,
             // A tweaked centre to work best in our chosen viewport
-            center: new google.maps.LatLng(53.65, -3.02),
+            center: new google.maps.LatLng(55, -3.02),
             mapTypeId: google.maps.MapTypeId.TERRAIN,
             mapTypeControl: false,
             streetViewControl: false,
