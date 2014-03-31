@@ -269,7 +269,7 @@
                 var marker = new google.maps.Marker({
                     position: new google.maps.LatLng(place.lat, place.lng),
                     title: place.placename,
-                    icon: '/img/marker_new.png',
+                    icon: '/img/small_blue_marker.png',
                     map: map
                 });
                 var markerInfo = markerInfoTemplate({
