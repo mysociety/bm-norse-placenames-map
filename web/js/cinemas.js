@@ -5349,13 +5349,15 @@
         var closestDistance;
         var nearestCinema;
         _.each(cinemas, function(cinema, index) {
-            var distance = google.maps.geometry.spherical.computeDistanceBetween(
-                new google.maps.LatLng(place.lat, place.lng),
-                new google.maps.LatLng(cinema.lat, cinema.lng)
-            );
-            if (_.isUndefined(closestDistance) || distance <= closestDistance) {
-                closestDistance = distance;
-                nearestCinema = cinema;
+            if(cinema.live !== '') {
+                var distance = google.maps.geometry.spherical.computeDistanceBetween(
+                    new google.maps.LatLng(place.lat, place.lng),
+                    new google.maps.LatLng(cinema.lat, cinema.lng)
+                );
+                if (_.isUndefined(closestDistance) || distance <= closestDistance) {
+                    closestDistance = distance;
+                    nearestCinema = cinema;
+                }
             }
         });
         return nearestCinema;
@@ -5375,18 +5377,20 @@
         });
 
         _.each(mySociety.cinemas, function(cinema) {
-            var marker = new google.maps.Marker({
-                position: new google.maps.LatLng(cinema.lat, cinema.lng),
-                title: cinema.cinema,
-                map: mySociety.map
-            });
-            var markerInfo = cinemaMarkerInfoTemplate({cinema: cinema});
+            if(cinema.live !== '') {
+                var marker = new google.maps.Marker({
+                    position: new google.maps.LatLng(cinema.lat, cinema.lng),
+                    title: cinema.cinema,
+                    map: mySociety.map
+                });
+                var markerInfo = cinemaMarkerInfoTemplate({cinema: cinema});
 
-            // Show a big popup when it's clicked
-            google.maps.event.addListener(marker, 'click', function() {
-                infoWindow.setContent(markerInfo);
-                infoWindow.open(mySociety.map, marker);
-            });
+                // Show a big popup when it's clicked
+                google.maps.event.addListener(marker, 'click', function() {
+                    infoWindow.setContent(markerInfo);
+                    infoWindow.open(mySociety.map, marker);
+                });
+            }
 
             // TODO - index the cinema markers somehow so that we can open a
             // connected marker when someone clicks a link on a KEPN popup?
