@@ -5381,6 +5381,7 @@
                 var marker = new google.maps.Marker({
                     position: new google.maps.LatLng(cinema.lat, cinema.lng),
                     title: cinema.cinema,
+                    icon: 'img/small_orange_marker.png',
                     map: mySociety.map
                 });
                 var markerInfo = cinemaMarkerInfoTemplate({cinema: cinema});
