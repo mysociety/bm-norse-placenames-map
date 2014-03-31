@@ -5332,7 +5332,37 @@
         }
     ];
 
+    // Find the nearest cinema to the supplied place using Google Map's
+    // distance calculation functions.
+    //
+    // This is a bit of a brute force approach, so probably shouldn't be
+    // used "live" as it were, but rather just to get some precalculated
+    // data for inclusion in the KEPN JSON.
+    //
+    // To do that calculation, something like the following should work:
+    // _.each(mySociety.kepnData, function(places) {
+    //     _.each(places, function(place){
+    //         place['cinema'] = mySociety.nearestCinema(place);
+    //     });
+    // });
+    var nearestCinema = function(place) {
+        var closestDistance;
+        var nearestCinema;
+        _.each(cinemas, function(cinema, index) {
+            var distance = google.maps.geometry.spherical.computeDistanceBetween(
+                new google.maps.LatLng(place.lat, place.lng),
+                new google.maps.LatLng(cinema.lat, cinema.lng)
+            );
+            if (_.isUndefined(closestDistance) || distance <= closestDistance) {
+                closestDistance = distance;
+                nearestCinema = cinema;
+            }
+        });
+        return nearestCinema;
+    };
+
     mySociety.cinemas = cinemas;
+    mySociety.nearestCinema = nearestCinema;
 
     $(function() {
         var $map = $('#map-canvas');
