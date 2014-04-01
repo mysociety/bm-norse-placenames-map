@@ -24,7 +24,7 @@
 ?>
 
     <p class="pullOut">Discover Norse placenames near you</p>
-    <div class="map-search">
+    <div class="map-search" id="mapSearch" style="display:none">
         <form id="mapSearchForm" action="" method="GET">
             <label for="mapSearchInput" class="map-search__label">Search for Norse names near you: </label>
             <div class="map-search__form clearfix">

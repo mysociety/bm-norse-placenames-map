@@ -195,6 +195,7 @@
     $(function() {
         // Cache some selectors
         var $map = $('#map-canvas');
+        var $mapSearch = $("#mapSearch");
         var $mapSearchForm = $('#mapSearchForm');
         var $mapSearchInput = $('#mapSearchInput');
         var $mapSearchResults = $('#mapSearchResults');
@@ -365,6 +366,11 @@
             });
             $geolocationButton.show();
         }
+
+        // Show the search box when the map is loaded
+        google.maps.event.addListenerOnce(map, 'idle', function(){
+            $mapSearch.show();
+        });
 
     });
 
