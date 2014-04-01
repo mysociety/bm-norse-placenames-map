@@ -3,7 +3,7 @@
     top: 60px;
     margin: 0 auto;
     z-index: 2;
-    max-width: 380px;
+    max-width: 326px;
     padding: 10px;
     background-color: rgba(51, 51, 51, 0.6);
     .map-search__label {
@@ -17,6 +17,7 @@
         .map-search__form__input {
             display: inline;
             border: none;
+            width: 250px;
         }
         .map-search__form__buttons {
             display: inline;

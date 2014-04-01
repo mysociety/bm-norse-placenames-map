@@ -37,7 +37,7 @@
         <form id="mapSearchForm" action="" method="GET">
             <label for="mapSearchInput" class="map-search__label">Search for Norse names near you: </label>
             <div class="map-search__form clearfix">
-                <input type="text" name="placeQuery" class="map-search__form__input" id="mapSearchInput" placeholder="Enter a location, e.g. Scunthorpe, or SW11AA..." />
+                <input type="text" name="placeQuery" class="map-search__form__input" id="mapSearchInput" placeholder="Search, e.g. Scunthorpe, or SW11AA..." />
                 <div class="map-search__form__buttons">
                     <button type="submit" class="map-search__form__buttons__submit">Search</button>
                     <button href="#" id="geolocationButton" class="map-search__form__buttons__geolocation" style="display:none;">Find my location automatically</button>
