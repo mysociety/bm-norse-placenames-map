@@ -144,8 +144,18 @@
     .map-marker__etymology,
     .map-marker__etymology,
     .map-marker__elements__item,
-    .map-marker__social-header {
+    .map-marker__social-header,
+    .map-marker__cinema-header,
+    .map-marker__cinema-name,
+    .map-marker__cinema-showing,
+    .map-marker__cinema-link {
         color: #333;
+        a {
+            color: #333;
+            &:hover {
+                color: #c69261;
+            }
+        }
     }
 
     .map-marker__elements__item {

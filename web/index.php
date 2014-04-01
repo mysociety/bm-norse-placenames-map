@@ -114,6 +114,25 @@
                     </a>
                 </li>
             </ul>
+            <h3 class="map-marker__cinema-header">Nearest Vikings Live showing:</h3>
+            <h4 class="map-marker__cinema-name"><%= place.cinema.cinema %>: <%= place.cinema.live %></h4>
+            <ul class="map-marker__cinema-link">
+                <li>
+                    <% if(place.cinema.cinemaurl !== "") { %>
+                        <a href="<%= place.cinema.cinemaurl %>">Visit this cinema's website</a>
+                    <% } %>
+                </li>
+                <li>
+                    <% if(place.cinema.cinemaemail !== "") { %>
+                        <a href="mailto:<%= place.cinema.cinemaemail %>">Email this cinema</a>
+                    <% } %>
+                </li>
+                </li>
+                    <% if(place.cinema.phone !== "") { %>
+                        <a href="tel:<%= place.cinema.phone %>">Phone this cinema on: <%= place.cinema.phone %></a>
+                    <% } %>
+                </li>
+            </ul>
         </div>
     </script>
 
@@ -152,11 +171,33 @@
         </ul>
     </script>
 
+    <script type="text/html" id="cinemaMarkerInfo">
+        <div class="map-marker">
+            <h2 class="map-marker__header"><%= cinema.cinema %></h2>
+            <p class="map-marker__cinema-link">
+                <% if(cinema.cinemaurl !== "") { %>
+                    <a href="<%= cinema.cinemaurl %>">See showings at this cinema</a>
+                <% } %>
+            </p>
+            <p class="map-marker__cinema-link">
+            <% if(cinema.cinemaemail !== "") { %>
+                <a href="mailto:<%= cinema.cinemaemail %>">Email this cinema</a>
+            <% } %>
+            </p>
+            <p class="map-marker__cinema-link">
+                <% if(cinema.phone !== "") { %>
+                    <a href="tel:<%= cinema.phone %>">Phone this cinema on: <%= cinema.phone %></a>
+                <% } %>
+            </p>
+        </div>
+    </script>
+
     <script type="text/javascript">
         window.mySociety = window.mySociety || {};
     </script>
     <script type="text/javascript" src="/js/watlingstreet.js"></script>
     <script type="text/javascript" src="/js/kepn.js"></script>
     <script type="text/javascript" src="/js/main.js"></script>
+    <script type="text/javascript" src="/js/cinemas.js"></script>
 </body>
 </html>

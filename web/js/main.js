@@ -205,15 +205,13 @@
         var markerTitleTemplate = _.template($('script#markerTitle').html());
         var searchResultsTemplate = _.template($('script#searchResults').html());
 
-        // Map options
         var mapStyles = [ { "featureType": "road.highway", "elementType": "labels", "stylers": [ { "visibility": "off" } ] },{ "featureType": "poi", "elementType": "labels", "stylers": [ { "visibility": "off" } ] },{ "featureType": "administrative.locality" },{ "featureType": "road", "elementType": "geometry.stroke", "stylers": [ { "visibility": "off" } ] },{ "featureType": "road", "elementType": "geometry", "stylers": [ { "gamma": 1.71 } ] } ];
 
         var mapOptions = {
             zoom: 6,
             maxZoom: 12,
             minZoom: 6,
-            // Centered on "The centre of England" as per:
-            // http://en.wikipedia.org/wiki/Centre_points_of_the_United_Kingdom
+            // A tweaked centre to work best in our chosen viewport
             center: new google.maps.LatLng(53.65, -3.02),
             mapTypeId: google.maps.MapTypeId.TERRAIN,
             mapTypeControl: false,
@@ -260,6 +258,10 @@
         var sw = new google.maps.LatLng(49.00, -13.00);
         var geocodingBounds = new google.maps.LatLngBounds(sw, ne);
 
+        // Should we show nearest cinemas?
+        // TODO - calculate this based on the date?
+        var showNearestCinema = true;
+
         // Export things to the global object
         mySociety.map = map;
         mySociety.geocoder = geocoder;
@@ -285,7 +287,8 @@
                 var markerInfo = markerInfoTemplate({
                     place: place,
                     shareUrl: shareUrl,
-                    shareText: shareText
+                    shareText: shareText,
+                    showNearestCinema: showNearestCinema
                 });
                 var markerTitle = markerTitleTemplate({
                     place: place
