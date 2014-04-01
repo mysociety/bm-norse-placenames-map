@@ -934,7 +934,7 @@
             "eventurl": "",
             "cinemaemail": "conferencing@cineworld.co.uk",
             "lat": 51.5530199,
-            "lng": -0.2889581,
+            "lng": -0.2889581
         },
         {
             "chain": "Cineworld",
