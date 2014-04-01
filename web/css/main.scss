@@ -29,31 +29,23 @@
                 text-indent: -9999px;
             }
             .map-search__form__buttons__submit {
-                background: url(http://www.britishmuseum.org/images/v2/defaults/searchIcon.gif) no-repeat scroll 4px -202px;
+                background: url(http://www.britishmuseum.org/images/v2/defaults/searchIcon.gif) no-repeat scroll 4px -48px;
                 width: 28px;
                 height: 27px;
                 text-indent: -9999px;
-                // TODO - work out correct hover and disabled versions
-                // &:hover,
-                // &:focus,
-                // &:active {
-                // }
-                // &:disabled,
-                // &:disabled:hover,
-                // &:disabled:focus {
-                // }
+                &:hover,
+                &:focus,
+                &:active {
+                    background-position: 4px -74px;
+                }
             }
             .map-search__form__buttons__geolocation {
                 background: url(../img/geolocation.png) no-repeat scroll;
-                // TODO - add hover and disabled versions
-                // &:hover,
-                // &:focus,
-                // &:active {
-                // }
-                // &:disabled,
-                // &:disabled:hover,
-                // &:disabled:focus {
-                // }
+                &:hover,
+                &:focus,
+                &:active {
+                    background-image: url(../img/geolocation_hover.png);
+                }
             }
         }
     }
