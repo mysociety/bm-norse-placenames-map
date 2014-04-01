@@ -20,7 +20,7 @@
     // google.maps.Geocoder.geocode() within the KEPN data and return the slug
     // for the placename if there's a match, or null otherwise.
     var compareNames = function(result, placename) {
-        var placenameSearch = placename.toLowerCase().trim();
+        var placenameSearch = $.trim(placename.toLowerCase());
         var slug = null;
         if (mySociety.kepnData.hasOwnProperty(placenameSearch)) {
             // There's at least one matching name, we want to return the
