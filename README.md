@@ -30,7 +30,13 @@ matching norse name (same name, within 10km of the geocoder result) it'll open
 the popup for that marker, otherwise it just zooms to the geocoder result.
 
 The browser location feature tries to get a lat/lon from your browser and then
-reverse geocodes it using Google Map's geocoder. It checks that this location
-is in England, and if so, zooms into that place. It doesn't look for nearby
-markers in this case. If the location is not in England it tells you to use
-the search instead.
+reverse geocodes it using Google Map's geocoder.
+
+Cinemas
+-------
+In addition to the main dataset, cinemas which are showing the Viking's live
+show are included in a separate file: `web/js/cinemas.js` and drawn on the map
+as markers too. These are also cross-referenced into the KEPN dataset so that
+place markers can show their nearest cinema (calculated in a batch and then
+added to this data). To turn this off, remove `cinemas.js` and set
+`mySociety.showNearestCinema` to `false` in `main.js`.
