@@ -182,13 +182,15 @@
         mySociety.map.setZoom(mySociety.placeZoomLevel);
         $geolocationButton.text(originalText);
         $geolocationButton.attr("disabled", false);
+        $geolocationButton.removeClass("loading");
     };
 
     // Failure for geolocation using the browser's geolocation api
     // Takes a jQuery object for the button
-    var geolocationFailure = function($geolocationButton) {
+    var geolocationFailure = function($geolocationButton, $mapSearch) {
         // There's no point showing the button any more if it didn't work.
         $geolocationButton.hide();
+        $mapSearch.css('width', '295px');
         alert("Sorry, we couldn't find your position automatically, perhaps try searching instead?");
     };
 
@@ -355,16 +357,18 @@
                 e.preventDefault();
                 $geolocationButton.attr("disabled", true);
                 $geolocationButton.text(loadingText);
+                $geolocationButton.addClass('loading');
                 navigator.geolocation.getCurrentPosition(
                     function(position) {
                         geolocationSuccess(position, $geolocationButton, originalText);
                     },
                     function() {
-                        geolocationFailure($geolocationButton);
+                        geolocationFailure($geolocationButton, $mapSearch);
                     }
                 );
             });
             $geolocationButton.show();
+            $mapSearch.css('width', '326px');
         }
 
         // Show the search box when the map is loaded
