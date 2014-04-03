@@ -5363,6 +5363,10 @@
         return nearestCinema;
     };
 
+    var showMarkers = function(markers) {
+
+    };
+
     mySociety.cinemas = cinemas;
     mySociety.nearestCinema = nearestCinema;
 
@@ -5376,13 +5380,14 @@
             maxWidth: Math.round($map.innerWidth() * 0.65)
         });
 
+        var markers = [];
+
         _.each(mySociety.cinemas, function(cinema) {
             if(cinema.live !== '') {
                 var marker = new google.maps.Marker({
                     position: new google.maps.LatLng(cinema.lat, cinema.lng),
                     title: cinema.cinema,
                     icon: 'img/small_orange_marker.png',
-                    map: mySociety.map
                 });
                 var markerInfo = cinemaMarkerInfoTemplate({cinema: cinema});
 
@@ -5391,10 +5396,32 @@
                     infoWindow.setContent(markerInfo);
                     infoWindow.open(mySociety.map, marker);
                 });
-            }
 
-            // TODO - index the cinema markers somehow so that we can open a
-            // connected marker when someone clicks a link on a KEPN popup?
+                markers.push(marker);
+            }
         });
+
+        // Only show markers if we're already showing a location, or when
+        // we zoom in
+        google.maps.event.addListenerOnce(mySociety.map, 'idle', function(){
+            if(window.location.hash !== "") {
+                _.each(markers, function(marker) {
+                    marker.setMap(mySociety.map);
+                });
+            }
+        });
+
+        google.maps.event.addListener(mySociety.map, 'zoom_changed', function(){
+            if (mySociety.map.getZoom() >= 8) {
+                _.each(markers, function(marker) {
+                    marker.setMap(mySociety.map);
+                });
+            } else {
+                _.each(markers, function(marker) {
+                    marker.setMap(null);
+                });
+            }
+        });
+
     });
 })(window.jQuery, window._, window.mySociety, window.google);
