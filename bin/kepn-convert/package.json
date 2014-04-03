@@ -1,0 +1,11 @@
+{
+    "name": "kepn-convert",
+    "version": "0.0.1",
+    "description": "Command-line program to convert KEPN data format.",
+    "dependencies": {
+        "underscore": "1.6.0",
+        "underscore.string": "2.3.3",
+        "util-extend": "1.0.1",
+        "minimist": "0.0.8"
+    }
+}
