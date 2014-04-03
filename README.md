@@ -40,3 +40,16 @@ as markers too. These are also cross-referenced into the KEPN dataset so that
 place markers can show their nearest cinema (calculated in a batch and then
 added to this data). To turn this off, remove `cinemas.js` and set
 `mySociety.showNearestCinema` to `false` in `main.js`.
+
+Processing Data
+---------------
+A Node.JS module is included which allows you to process the KEPN json into
+the format used by the site. To use it, you'll need node, and to then do:
+```
+$ cd bin/kepn-convert
+$ npm install
+$ node kepn_convert.js --in=<Input JSON File> --out=<Output JSON file>
+```
+
+There's an optional `--welsh` flag, which processes the welsh data, which was
+given in a slightly different format.
