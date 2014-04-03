@@ -128,7 +128,7 @@
             strokeColor: '#4A5561',
             strokeOpacity: 1,
             strokeWeight: 3,
-            zIndex: 1
+            zIndex: 2
         });
         var watlingStreetShadow = new google.maps.Polyline({
             path: createWatlingStreetPath(watlingStreetCoordinates),
@@ -136,7 +136,7 @@
             strokeColor: '#3F482D',
             strokeOpacity: 0.2,
             strokeWeight: 9,
-            zIndex: 2
+            zIndex: 1
         });
         var markerInfoTemplate = _.template($('script#watlingStreetMarkerInfo').html());
         var markerInfo = markerInfoTemplate();
