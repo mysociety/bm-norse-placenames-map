@@ -190,7 +190,7 @@
     var geolocationFailure = function($geolocationButton, $mapSearch) {
         // There's no point showing the button any more if it didn't work.
         $geolocationButton.hide();
-        $mapSearch.css('width', '295px');
+        $mapSearch.css('width', '');
         alert("Sorry, we couldn't find your position automatically, perhaps try searching instead?");
     };
 
@@ -211,11 +211,11 @@
         var mapStyles = [ { "featureType": "road.highway", "elementType": "labels", "stylers": [ { "visibility": "off" } ] },{ "featureType": "poi", "elementType": "labels", "stylers": [ { "visibility": "off" } ] },{ "featureType": "administrative.locality" },{ "featureType": "road", "elementType": "geometry.stroke", "stylers": [ { "visibility": "off" } ] },{ "featureType": "road", "elementType": "geometry", "stylers": [ { "gamma": 1.71 } ] } ];
 
         var mapOptions = {
-            zoom: 5,
+            zoom: 6,
             maxZoom: 12,
             minZoom: 5,
             // A tweaked centre to work best in our chosen viewport
-            center: new google.maps.LatLng(55, -3.02),
+            center: new google.maps.LatLng(53.45, -3.35),
             mapTypeId: google.maps.MapTypeId.TERRAIN,
             mapTypeControl: false,
             streetViewControl: false,
@@ -368,7 +368,7 @@
                 );
             });
             $geolocationButton.show();
-            $mapSearch.css('width', '326px');
+            $mapSearch.css('width', '346px');
         }
 
         // Show the search box when the map is loaded
