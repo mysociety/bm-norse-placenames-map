@@ -152,6 +152,7 @@
 
         // Export Watling Street
         mySociety.watlingStreet = watlingStreet;
+        mySociety.watlingStreetShadow = watlingStreetShadow;
     });
 
 })(window.jQuery, window.google, window._, window.mySociety);

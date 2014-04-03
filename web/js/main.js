@@ -263,6 +263,7 @@
 
         // Add Watling Street to the map
         mySociety.watlingStreet.setMap(map);
+        mySociety.watlingStreetShadow.setMap(map);
 
         // Add the markers to the map
         _.each(mySociety.kepnData, function(placelist, name) {
