@@ -35,6 +35,9 @@
             display: inline;
             border: none;
             // Mobile-first width, as small as it can be to make sure it fits
+            // If you tweak the padding here, adjust the widths
+            // margin-bottom of .map-search to and the top: on
+            // .map-search__results
             width: 116px;
             padding: 6px;
             // Input gets bigger on bigger screens
@@ -158,11 +161,12 @@
     .map-marker__cinema-showing,
     .map-marker__cinema-link {
         color: #666;
-        a {
-            color: #c69261;
-            &:hover {
-                color: lighten(#c69261, 10%);
-            }
+    }
+
+    a {
+        color: #c69261;
+        &:hover {
+            color: lighten(#c69261, 10%);
         }
     }
 
