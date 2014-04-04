@@ -159,14 +159,23 @@
     .map-marker__cinema-link {
         color: #333;
         a {
-            color: #333;
+            color: #c69261;
             &:hover {
-                color: #c69261;
+                color: lighten(#c69261, 10%);
             }
         }
     }
 
+    p, ul {
+        margin-bottom:0.5em
+    }
+
+    .map-marker__header {
+        margin-bottom: 0.25em;
+    }
+
     .map-marker__elements__item {
+        margin-bottom: 0;
         .map-marker__elements__item__headword,
         .map-marker__elements__item__hword {
             font-weight: bold;
@@ -182,6 +191,7 @@
             img {
                 width: 37px;
                 height: 37px;
+                margin-bottom: 0;
             }
         }
     }
