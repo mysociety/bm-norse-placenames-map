@@ -157,7 +157,7 @@
     .map-marker__cinema-name,
     .map-marker__cinema-showing,
     .map-marker__cinema-link {
-        color: #333;
+        color: #666;
         a {
             color: #c69261;
             &:hover {
@@ -185,12 +185,12 @@
     .map-marker__social-buttons {
         li {
             display: inline;
-            margin-right: 16px;
-            width: 37px;
-            height: 37px;
+            margin-right: 10px;
+            width: 24px;
+            height: 24px;
             img {
-                width: 37px;
-                height: 37px;
+                width: 24px;
+                height: 24px;
                 margin-bottom: 0;
             }
         }

@@ -107,7 +107,7 @@
                     <% } %>
                 </h3>
             <% } %>
-            <h3 class="map-marker__social-header">Share this place</h3>
+            <h4 class="map-marker__social-header">Share this place</h4>
             <ul class="map-marker__social-buttons">
                 <li>
                     <a href="https://www.facebook.com/sharer/sharer.php?u=<%=shareUrl%>"
