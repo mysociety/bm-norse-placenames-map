@@ -169,7 +169,7 @@
     <script type="text/html" id="cinemaMarkerInfo">
         <div class="map-marker">
             <h2 class="map-marker__header"><%= cinema.cinema %></h2>
-            <p>This cinema is showing Vikings Live on: <%= cinema.live %></p>
+            <p>This cinema is showing <a href="http://www.britishmuseum.org/whats_on/exhibitions/vikings/vikings_live.aspx">Vikings Live</a> on: <%= cinema.live %></p>
             <p class="map-marker__cinema-link">
                 <% if(cinema.cinemaurl !== "") { %>
                     <a href="<%= cinema.cinemaurl %>">See showings at this cinema</a>
