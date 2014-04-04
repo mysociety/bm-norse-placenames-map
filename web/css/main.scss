@@ -7,7 +7,7 @@
     width: 170px; // Width without geolocation button, which js reveals
     padding: 5px;
     background-color: #333;
-    background-color: rgba(51, 51, 51, 0.7);
+    background-color: rgba(51, 51, 51, 0.8);
 
     &.map-search--with-geolocation {
         width: 195px;
@@ -81,10 +81,10 @@
     .map-search__results {
         display: none;
         position: absolute;
-        top: 50px;
+        top: 44px;
         left: 0px;
         background-color: #333;
-        background-color: rgba(51, 51, 51, 0.7);
+        background-color: rgba(51, 51, 51, 0.8);
         color: #CCC;
         width: 100%;
         // Because input gets bigger on bigger screens, we need to move further
@@ -102,7 +102,7 @@
                 }
                 a:hover {
                     background-color: lighten(#333, 10%);
-                    background-color: rgba(51, 51, 51, 0.8);
+                    background-color: rgba(51, 51, 51, 0.9);
                     color: #FFF;
                 }
                 a.norse {
