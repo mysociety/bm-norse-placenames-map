@@ -190,7 +190,7 @@
     var geolocationFailure = function($geolocationButton, $mapSearch) {
         // There's no point showing the button any more if it didn't work.
         $geolocationButton.hide();
-        $mapSearch.css('width', '');
+        $mapSearch.removeClass('map-search--with-geolocation');
         alert("Sorry, we couldn't find your position automatically, perhaps try searching instead?");
     };
 
@@ -369,7 +369,7 @@
                 );
             });
             $geolocationButton.show();
-            $mapSearch.css('width', '346px');
+            $mapSearch.addClass('map-search--with-geolocation');
         }
 
         // Show the search box when the map is loaded
