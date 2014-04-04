@@ -5393,6 +5393,8 @@
 
                 // Show a big popup when it's clicked
                 google.maps.event.addListener(marker, 'click', function() {
+                    // Tell other listeners to close their popup windows
+                    $(document).trigger('mySociety.popupOpen');
                     infoWindow.setContent(markerInfo);
                     infoWindow.open(mySociety.map, marker);
                 });
@@ -5421,6 +5423,12 @@
                     marker.setMap(null);
                 });
             }
+        });
+
+        // Listen to our custom events to close other popups when one
+        // opens
+        $(document).on('mySociety.popupOpen', function(event) {
+            infoWindow.close();
         });
 
     });

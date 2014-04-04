@@ -288,7 +288,9 @@
                 // Show a big popup when it's clicked
                 google.maps.event.addListener(marker, 'click', function() {
                     // Close any other popups
-                    titleWindow.close();
+                    // We fire a custom event so that we can close other
+                    // windows loaded from other modules
+                    $(document).trigger('mySociety.popupOpen');
                     // Remove mouseover handlers for now so we don't get two
                     // popups showing
                     google.maps.event.clearListeners(marker, 'mouseover');
@@ -323,6 +325,13 @@
                     titleWindow.close();
                 });
                 markersBySlug[place.slug] = marker;
+            });
+
+            // Listen to our custom events to close other popups when one
+            // opens
+            $(document).on('mySociety.popupOpen', function(event) {
+                infoWindow.close();
+                titleWindow.close();
             });
         });
 
