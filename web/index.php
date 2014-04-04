@@ -37,7 +37,9 @@
         </form>
         <div class="map-search__results" id="mapSearchResults"></div>
     </div>
-    <div id="map-canvas"></div>
+    <div class="map-canvas-wrapper">
+        <div id="map-canvas"></div>
+    </div>
 
 <?php
     // Footer, from British Museum's templates

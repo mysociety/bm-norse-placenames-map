@@ -123,13 +123,19 @@
     }
 }
 
-#map-canvas {
-    // Mobile first styles allow some extra space to be able to scroll past
-    // the map, and make it a bit smaller to fit on the screen
-    height: 400px;
-    width: 90%;
+.map-canvas-wrapper {
+    // Mobile first styles to allow some extra space to be able to scroll past
+    // the map
+    margin-left: 1em;
+    margin-right: 3em; // containing div already has a left margin
     @media screen and (min-width: 768px) {
-        width: 100%;
+        margin: 0;
+    }
+}
+#map-canvas {
+    height: 400px;
+    width: 100%;
+    @media screen and (min-width: 768px) {
         height: 650px;
     }
     img {
