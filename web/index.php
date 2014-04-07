@@ -40,7 +40,7 @@
                 <input type="text" name="placeQuery" class="map-search__form__input" id="mapSearchInput" placeholder="e.g. Scunthorpe" />
                 <div class="map-search__form__buttons">
                     <button type="submit" class="map-search__form__buttons__submit">Search</button>
-                    <button href="#" id="geolocationButton" class="map-search__form__buttons__geolocation" style="display:none;">Find my location automatically</button>
+                    <button href="#" id="geolocationButton" class="map-search__form__buttons__geolocation" style="display:none;" title="Find my location automatically">Find my location automatically</button>
                 </div>
             </div>
         </form>
