@@ -228,8 +228,8 @@
 
         // Create an infowindow to show details in
         var infoWindow = new google.maps.InfoWindow({
-            content: "",
-            maxWidth: Math.round($map.innerWidth() * 0.65)
+            content: "",            
+            maxWidth: 544
         });
         // And one to show titles in
         var titleWindow = new google.maps.InfoWindow({

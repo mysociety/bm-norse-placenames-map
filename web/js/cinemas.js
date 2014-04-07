@@ -5376,8 +5376,8 @@
         var cinemaMarkerInfoTemplate = _.template($cinemaMarkerInfo.html());
 
         var infoWindow = new google.maps.InfoWindow({
-            content: "",
-            maxWidth: Math.round($map.innerWidth() * 0.65)
+            content: "",          
+            maxWidth: 544
         });
 
         var markers = [];
