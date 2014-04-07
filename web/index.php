@@ -95,21 +95,21 @@
             <% if(showNearestCinema) { %>
                 <div class="map-marker__cinema-name tight">
                     <h3>
-                        Vikings Live
+                        Vikings Live showing at a cinema near <%= place.placename %>
                     </h3>
-                    <p>Nearest cinema:
+                    <p>Book now for Vikings Live on <%= place.cinema.live %> at
                         <% if(place.cinema.cinemaurl !== "") { %>
-                            <a href="<%= place.cinema.cinemaurl %>"><%= place.cinema.cinema %></a> showing on <%= place.cinema.live %>.
+                            <a href="<%= place.cinema.cinemaurl %>"><%= place.cinema.cinema %></a>.
                         <% } else if (place.cinema.cinemaemail !== "") { %>
-                            <a href="mailto:<%= place.cinema.cinemaemail %>"><%= place.cinema.cinema %>: <%= place.cinema.live %>
+                            <a href="mailto:<%= place.cinema.cinemaemail %>"><%= place.cinema.cinema %></a>
                         <% } else { %>
-                            <%= place.cinema.cinema %>: <%= place.cinema.live %>
+                            <%= place.cinema.cinema %>
                             <% if (place.cinema.phone !== "") { %>
                                 (<a href="tel:<%= place.cinema.phone %>"><%= place.cinema.phone %></a>)
                             <% } %>
                         <% } %>
                     </p>
-                    <p><a class="highlight" href="">Find other cinemas<i class="link-arrow"></i></a></p>
+                    <p><a class="highlight" href="">See all cinemas showing Vikings Live<i class="link-arrow"></i></a></p>
                 </div>
             <% } %>
             <h4>Talk about this place</h4>
