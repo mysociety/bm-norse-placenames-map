@@ -93,21 +93,26 @@
             <% }); %>
             </ul>
             <% if(showNearestCinema) { %>
-                <h3 class="map-marker__cinema-name">
-                    Nearest Vikings Live showing:
-                    <% if(place.cinema.cinemaurl !== "") { %>
-                        <a href="<%= place.cinema.cinemaurl %>"><%= place.cinema.cinema %>: <%= place.cinema.live %></a>
-                    <% } else if (place.cinema.cinemaemail !== "") { %>
-                        <a href="mailto:<%= place.cinema.cinemaemail %>"><%= place.cinema.cinema %>: <%= place.cinema.live %>
-                    <% } else { %>
-                        <%= place.cinema.cinema %>: <%= place.cinema.live %>
-                        <% if (place.cinema.phone !== "") { %>
-                            (<a href="tel:<%= place.cinema.phone %>"><%= place.cinema.phone %></a>)
+                <div class="map-marker__cinema-name tight">
+                    <h3>
+                        Vikings Live
+                    </h3>
+                    <p>Nearest cinema:
+                        <% if(place.cinema.cinemaurl !== "") { %>
+                            <a href="<%= place.cinema.cinemaurl %>"><%= place.cinema.cinema %></a> showing on <%= place.cinema.live %>.
+                        <% } else if (place.cinema.cinemaemail !== "") { %>
+                            <a href="mailto:<%= place.cinema.cinemaemail %>"><%= place.cinema.cinema %>: <%= place.cinema.live %>
+                        <% } else { %>
+                            <%= place.cinema.cinema %>: <%= place.cinema.live %>
+                            <% if (place.cinema.phone !== "") { %>
+                                (<a href="tel:<%= place.cinema.phone %>"><%= place.cinema.phone %></a>)
+                            <% } %>
                         <% } %>
-                    <% } %>
-                </h3>
+                    </p>
+                    <p><a class="highlight" href="">Find other cinemas<i class="link-arrow"></i></a></p>
+                </div>
             <% } %>
-            <h4 class="map-marker__social-header">Share this place</h4>
+            <h4>Talk about this place</h4>
             <ul class="map-marker__social-buttons">
                 <li>
                     <a href="https://www.facebook.com/sharer/sharer.php?u=<%=shareUrl%>"

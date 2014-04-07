@@ -150,32 +150,34 @@
 }
 
 .map-marker {
-    .map-marker__header,
-    .map-marker__elements-header,
-    .map-marker__etymology,
-    .map-marker__etymology,
-    .map-marker__elements__item,
-    .map-marker__social-header,
-    .map-marker__cinema-header,
-    .map-marker__cinema-name,
-    .map-marker__cinema-showing,
-    .map-marker__cinema-link {
-        color: #666;
-    }
+    font-family:arial;
 
     a {
-        color: #c69261;
+        color: #000;
         &:hover {
-            color: lighten(#c69261, 10%);
+            color: #c69261;            
+            i.link-arrow{
+                background-color:#fff;
+            }
+        }
+        &.highlight:hover{
+            color:#000;
+            i.link-arrow{
+                background-color:#fff;
+            }
         }
     }
 
-    p, ul {
-        margin-bottom:0.5em
+    p, ul, li {      
+        color:#666;
+    }
+
+    h1,h2,h3,h4{
+        color:#000;
     }
 
     .map-marker__header {
-        margin-bottom: 0.25em;
+        margin-bottom: 7px;
     }
 
     .map-marker__elements__item {
