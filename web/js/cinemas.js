@@ -934,7 +934,7 @@
             "eventurl": "",
             "cinemaemail": "conferencing@cineworld.co.uk",
             "lat": 51.5530199,
-            "lng": -0.2889581,
+            "lng": -0.2889581
         },
         {
             "chain": "Cineworld",
@@ -5363,6 +5363,10 @@
         return nearestCinema;
     };
 
+    var showMarkers = function(markers) {
+
+    };
+
     mySociety.cinemas = cinemas;
     mySociety.nearestCinema = nearestCinema;
 
@@ -5376,24 +5380,56 @@
             maxWidth: Math.round($map.innerWidth() * 0.65)
         });
 
+        var markers = [];
+
         _.each(mySociety.cinemas, function(cinema) {
             if(cinema.live !== '') {
                 var marker = new google.maps.Marker({
                     position: new google.maps.LatLng(cinema.lat, cinema.lng),
                     title: cinema.cinema,
-                    map: mySociety.map
+                    icon: 'img/small_orange_marker.png'
                 });
                 var markerInfo = cinemaMarkerInfoTemplate({cinema: cinema});
 
                 // Show a big popup when it's clicked
                 google.maps.event.addListener(marker, 'click', function() {
+                    // Tell other listeners to close their popup windows
+                    $(document).trigger('mySociety.popupOpen');
                     infoWindow.setContent(markerInfo);
                     infoWindow.open(mySociety.map, marker);
                 });
-            }
 
-            // TODO - index the cinema markers somehow so that we can open a
-            // connected marker when someone clicks a link on a KEPN popup?
+                markers.push(marker);
+            }
         });
+
+        // Only show markers if we're already showing a location, or when
+        // we zoom in
+        google.maps.event.addListenerOnce(mySociety.map, 'idle', function(){
+            if(window.location.hash !== "") {
+                _.each(markers, function(marker) {
+                    marker.setMap(mySociety.map);
+                });
+            }
+        });
+
+        google.maps.event.addListener(mySociety.map, 'zoom_changed', function(){
+            if (mySociety.map.getZoom() >= 8) {
+                _.each(markers, function(marker) {
+                    marker.setMap(mySociety.map);
+                });
+            } else {
+                _.each(markers, function(marker) {
+                    marker.setMap(null);
+                });
+            }
+        });
+
+        // Listen to our custom events to close other popups when one
+        // opens
+        $(document).on('mySociety.popupOpen', function(event) {
+            infoWindow.close();
+        });
+
     });
 })(window.jQuery, window._, window.mySociety, window.google);

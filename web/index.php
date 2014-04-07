@@ -13,10 +13,10 @@
     <!-- Our styles -->
     <link type="text/css" rel="stylesheet" href="/css/main.css" />
     <!-- IE Styles - Note: these apply to all IE's because of the special meta
-        tag that's included in the <head> that forces them to behave like IE7,
-        if that's removed, it's probably likely that this could only be
-        included for IE8 and below, since all it does is repeat the css that's
-        otherwise inside a media query.
+         tag that's included in the <head> that forces them to behave like IE7,
+         if that's removed, it's probably likely that this could only be
+         included for IE8 and below, since all it does is repeat the css that's
+         otherwise inside a media query.
     -->
     <!--[if IE]>
         <link type="text/css" rel="stylesheet" href="/css/ie.css" />
@@ -33,22 +33,22 @@
 ?>
 
     <p class="pullOut">Discover Norse placenames near you</p>
-    <div class="map-search">
+    <div class="map-search" id="mapSearch" style="display:none">
         <form id="mapSearchForm" action="" method="GET">
             <label for="mapSearchInput" class="map-search__label">Search for Norse names near you: </label>
             <div class="map-search__form clearfix">
+                <input type="text" name="placeQuery" class="map-search__form__input" id="mapSearchInput" placeholder="e.g. Scunthorpe" />
                 <div class="map-search__form__buttons">
                     <button type="submit" class="map-search__form__buttons__submit">Search</button>
                     <button href="#" id="geolocationButton" class="map-search__form__buttons__geolocation" style="display:none;">Find my location automatically</button>
-                </div>
-                <div class="map-search__form__input-wrapper">
-                    <input type="text" name="placeQuery" class="map-search__form__input" id="mapSearchInput" placeholder="Enter a location, e.g. Scunthorpe, or SW11AA..." />
                 </div>
             </div>
         </form>
         <div class="map-search__results" id="mapSearchResults"></div>
     </div>
-    <div id="map-canvas"></div>
+    <div class="map-canvas-wrapper">
+        <div id="map-canvas"></div>
+    </div>
 
 <?php
     // Footer, from British Museum's templates
@@ -72,7 +72,6 @@
     <script type="text/javascript"
         src="https://maps.googleapis.com/maps/api/js?libraries=geometry&key=<?=GOOGLE_MAPS_API_KEY?>&sensor=false">
     </script>
-    <script type="text/javascript" src="/js/vendor/markerclusterer.js"></script>
     <script type="text/javascript" src="/js/vendor/underscore.js"></script>
 
     <!-- Client side templates -->
@@ -93,7 +92,22 @@
                 </li>
             <% }); %>
             </ul>
-            <h3 class="map-marker__social-header">Share this place</h3>
+            <% if(showNearestCinema) { %>
+                <h3 class="map-marker__cinema-name">
+                    Nearest Vikings Live showing:
+                    <% if(place.cinema.cinemaurl !== "") { %>
+                        <a href="<%= place.cinema.cinemaurl %>"><%= place.cinema.cinema %>: <%= place.cinema.live %></a>
+                    <% } else if (place.cinema.cinemaemail !== "") { %>
+                        <a href="mailto:<%= place.cinema.cinemaemail %>"><%= place.cinema.cinema %>: <%= place.cinema.live %>
+                    <% } else { %>
+                        <%= place.cinema.cinema %>: <%= place.cinema.live %>
+                        <% if (place.cinema.phone !== "") { %>
+                            (<a href="tel:<%= place.cinema.phone %>"><%= place.cinema.phone %></a>)
+                        <% } %>
+                    <% } %>
+                </h3>
+            <% } %>
+            <h4 class="map-marker__social-header">Share this place</h4>
             <ul class="map-marker__social-buttons">
                 <li>
                     <a href="https://www.facebook.com/sharer/sharer.php?u=<%=shareUrl%>"
@@ -112,25 +126,6 @@
                        title="Share on Google+" data-social="googleplus">
                         <img src="http://www.britishmuseum.org/images/v2/defaults/googleplus.png" />
                     </a>
-                </li>
-            </ul>
-            <h3 class="map-marker__cinema-header">Nearest Vikings Live showing:</h3>
-            <h4 class="map-marker__cinema-name"><%= place.cinema.cinema %>: <%= place.cinema.live %></h4>
-            <ul class="map-marker__cinema-link">
-                <li>
-                    <% if(place.cinema.cinemaurl !== "") { %>
-                        <a href="<%= place.cinema.cinemaurl %>">Visit this cinema's website</a>
-                    <% } %>
-                </li>
-                <li>
-                    <% if(place.cinema.cinemaemail !== "") { %>
-                        <a href="mailto:<%= place.cinema.cinemaemail %>">Email this cinema</a>
-                    <% } %>
-                </li>
-                </li>
-                    <% if(place.cinema.phone !== "") { %>
-                        <a href="tel:<%= place.cinema.phone %>">Phone this cinema on: <%= place.cinema.phone %></a>
-                    <% } %>
                 </li>
             </ul>
         </div>
@@ -174,6 +169,7 @@
     <script type="text/html" id="cinemaMarkerInfo">
         <div class="map-marker">
             <h2 class="map-marker__header"><%= cinema.cinema %></h2>
+            <p>This cinema is showing <a href="http://www.britishmuseum.org/whats_on/exhibitions/vikings/vikings_live.aspx">Vikings Live</a> on: <%= cinema.live %></p>
             <p class="map-marker__cinema-link">
                 <% if(cinema.cinemaurl !== "") { %>
                     <a href="<%= cinema.cinemaurl %>">See showings at this cinema</a>

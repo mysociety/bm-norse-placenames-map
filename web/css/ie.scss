@@ -1,28 +1,25 @@
 .map-search {
+    width: 325px; // Width without geolocation button, which js reveals
+    margin-bottom: -70px;
+    padding: 10px;
+
+    &.map-search--with-geolocation {
+        width: 346px;
+    }
     .map-search__form {
-        height: auto;
-        .map-search__form__input-wrapper {
-            overflow: hidden;
-            .map-search__form__input {
-                position: relative;
-                border-bottom: none;
-            }
-        }
-        .map-search__form__buttons {
-            position: relative;
-            float: right;
-            top: auto;
-            left: auto;
-            width: auto;
-            .map-search__form__buttons__geolocation,
-            .map-search__form__buttons__submit {
-                width: auto;
-                display: inline;
-                border-left: 1px solid #333;
-            }
-            .map-search__form__buttons__geolocation {
-                border-top: none;
-            }
+        .map-search__form__input {
+            width: 250px;
+            padding: 16px;
         }
     }
+
+    .map-search__results {
+        top: 70px;
+    }
+}
+.map-canvas-wrapper {
+    margin: 0;
+}
+#map-canvas {
+    height: 650px;
 }

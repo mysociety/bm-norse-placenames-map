@@ -20,7 +20,7 @@
     // google.maps.Geocoder.geocode() within the KEPN data and return the slug
     // for the placename if there's a match, or null otherwise.
     var compareNames = function(result, placename) {
-        var placenameSearch = placename.toLowerCase().trim();
+        var placenameSearch = $.trim(placename.toLowerCase());
         var slug = null;
         if (mySociety.kepnData.hasOwnProperty(placenameSearch)) {
             // There's at least one matching name, we want to return the
@@ -182,19 +182,22 @@
         mySociety.map.setZoom(mySociety.placeZoomLevel);
         $geolocationButton.text(originalText);
         $geolocationButton.attr("disabled", false);
+        $geolocationButton.removeClass("loading");
     };
 
     // Failure for geolocation using the browser's geolocation api
     // Takes a jQuery object for the button
-    var geolocationFailure = function($geolocationButton) {
+    var geolocationFailure = function($geolocationButton, $mapSearch) {
         // There's no point showing the button any more if it didn't work.
         $geolocationButton.hide();
+        $mapSearch.removeClass('map-search--with-geolocation');
         alert("Sorry, we couldn't find your position automatically, perhaps try searching instead?");
     };
 
     $(function() {
         // Cache some selectors
         var $map = $('#map-canvas');
+        var $mapSearch = $("#mapSearch");
         var $mapSearchForm = $('#mapSearchForm');
         var $mapSearchInput = $('#mapSearchInput');
         var $mapSearchResults = $('#mapSearchResults');
@@ -210,9 +213,9 @@
         var mapOptions = {
             zoom: 6,
             maxZoom: 12,
-            minZoom: 6,
+            minZoom: 5,
             // A tweaked centre to work best in our chosen viewport
-            center: new google.maps.LatLng(53.65, -3.02),
+            center: new google.maps.LatLng(53.45, -3.35),
             mapTypeId: google.maps.MapTypeId.TERRAIN,
             mapTypeControl: false,
             streetViewControl: false,
@@ -234,20 +237,7 @@
             maxWidth: Math.round($map.innerWidth() * 0.65)
         });
 
-        var markers = [];
         var markersBySlug = {};
-        var markerClusterOptions = {
-            minimumClusterSize: 4,
-            styles: [{
-                url: '/img/cluster_new.png',
-                height: 40,
-                width: 40,
-                anchor: [15, 15],
-                textColor: '#333333',
-                textSize: 10
-            }]
-        };
-        var markerCluster;
 
         // Geocoding options
         var geocoder = new google.maps.Geocoder();
@@ -273,6 +263,7 @@
 
         // Add Watling Street to the map
         mySociety.watlingStreet.setMap(map);
+        mySociety.watlingStreetShadow.setMap(map);
 
         // Add the markers to the map
         _.each(mySociety.kepnData, function(placelist, name) {
@@ -282,7 +273,8 @@
                 var marker = new google.maps.Marker({
                     position: new google.maps.LatLng(place.lat, place.lng),
                     title: place.placename,
-                    icon: '/img/marker_new.png'
+                    icon: '/img/small_blue_marker.png',
+                    map: map
                 });
                 var markerInfo = markerInfoTemplate({
                     place: place,
@@ -296,7 +288,9 @@
                 // Show a big popup when it's clicked
                 google.maps.event.addListener(marker, 'click', function() {
                     // Close any other popups
-                    titleWindow.close();
+                    // We fire a custom event so that we can close other
+                    // windows loaded from other modules
+                    $(document).trigger('mySociety.popupOpen');
                     // Remove mouseover handlers for now so we don't get two
                     // popups showing
                     google.maps.event.clearListeners(marker, 'mouseover');
@@ -330,13 +324,16 @@
                 google.maps.event.addListener(marker, 'mouseout', function() {
                     titleWindow.close();
                 });
-                markers.push(marker);
                 markersBySlug[place.slug] = marker;
             });
-        });
 
-        // Create a marker cluster to manage the markers
-        markerCluster = new MarkerClusterer(map, markers, markerClusterOptions);
+            // Listen to our custom events to close other popups when one
+            // opens
+            $(document).on('mySociety.popupOpen', function(event) {
+                infoWindow.close();
+                titleWindow.close();
+            });
+        });
 
         // See if we should be showing a specific location and show that if so
         google.maps.event.addListenerOnce(map, 'idle', function(){
@@ -370,17 +367,24 @@
                 e.preventDefault();
                 $geolocationButton.attr("disabled", true);
                 $geolocationButton.text(loadingText);
+                $geolocationButton.addClass('loading');
                 navigator.geolocation.getCurrentPosition(
                     function(position) {
                         geolocationSuccess(position, $geolocationButton, originalText);
                     },
                     function() {
-                        geolocationFailure($geolocationButton);
+                        geolocationFailure($geolocationButton, $mapSearch);
                     }
                 );
             });
             $geolocationButton.show();
+            $mapSearch.addClass('map-search--with-geolocation');
         }
+
+        // Show the search box when the map is loaded
+        google.maps.event.addListenerOnce(map, 'idle', function(){
+            $mapSearch.show();
+        });
 
     });
 

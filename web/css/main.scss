@@ -1,90 +1,81 @@
 .map-search {
     position: relative;
-    margin-bottom: 1em;
+    top: 12px;
+    margin: 0 auto;
+    margin-bottom: -50px;
     z-index: 2;
+    width: 170px; // Width without geolocation button, which js reveals
+    padding: 5px;
+    background: #333;
+    background: rgba(51, 51, 51, 0.8);
 
+    &.map-search--with-geolocation {
+        width: 195px;
+    }
+
+    // Input gets bigger on bigger screens
+    @media screen and (min-width: 768px) {
+        width: 325px; // Width without geolocation button, which js reveals
+        margin-bottom: -70px;
+        padding: 10px;
+
+        &.map-search--with-geolocation {
+            width: 346px;
+        }
+    }
     .map-search__label {
         display: none;
         visibility: hidden;
     }
-
-    // Mobile-first styling for the search form. Things should be full-width
-    // when on small screens, and then float up onto one line on bigger ones
     .map-search__form {
         position: relative;
-        overflow: hidden;
         border: 1px solid #333;
-        background-color: #1d1d1d;
-        height: 137px;
-        .map-search__form__input-wrapper {
-            .map-search__form__input {
-                position: absolute;
-                top: 0px;
-                left: 0px;
-                border: none;
-                border-bottom: 1px solid #333;
-                width: 100%;
-                color: #CCC;
-                background-color: #1d1d1d;
-                padding: 15px 6px 15px 14px;
+        background-color: #FFF;
+        .map-search__form__input {
+            display: inline;
+            border: none;
+            // Mobile-first width, as small as it can be to make sure it fits
+            // If you tweak the padding here, adjust the widths
+            // margin-bottom of .map-search to and the top: on
+            // .map-search__results
+            width: 116px;
+            padding: 6px;
+            // Input gets bigger on bigger screens
+            @media screen and (min-width: 768px) {
+                width: 250px;
+                padding: 16px;
             }
         }
         .map-search__form__buttons {
-            position: absolute;
-            top: 46px;
-            left: 0px;
-            width: 100%;
+            display: inline;
             .map-search__form__buttons__geolocation,
             .map-search__form__buttons__submit {
-                display:block;
-                width: 100%;
-                font-size: 1.8em;
-                color: #CCC;
-                padding: 11px 11px 11px 14px;
+                display: inline-block;
                 cursor: pointer;
-                background-color: #1d1d1d;
-                // TODO - this should probably have an arrow and perhaps be in the
-                // defined color?
-                &:hover, &:focus {
-                    color: #FFF;
-                    background-color: lighten(#1d1d1d, 10%);
+                width: 28px;
+                height: 27px;
+                text-indent: -9999px;
+            }
+            .map-search__form__buttons__submit {
+                background: url(http://www.britishmuseum.org/images/v2/defaults/searchIcon.gif) no-repeat scroll 4px -48px;
+                width: 28px;
+                height: 27px;
+                text-indent: -9999px;
+                &:hover,
+                &:focus,
+                &:active {
+                    background-position: 4px -74px;
                 }
             }
             .map-search__form__buttons__geolocation {
-                border-top: 1px solid #333;
-                &:disabled,
-                &:disabled:hover,
-                &:disabled:focus {
-                    color: darken(#CCC, 10%);
-                    background-color: darken(#1d1d1d, 10%);
+                background: url(../img/geolocation.png) no-repeat scroll;
+                &:hover,
+                &:focus,
+                &:active {
+                    background-image: url(../img/geolocation_hover.png);
                 }
-            }
-        }
-    }
-    @media only screen and (min-width: 48em) {
-        .map-search__form {
-            height: auto;
-            .map-search__form__input-wrapper {
-                overflow: hidden;
-                .map-search__form__input {
-                    position: relative;
-                    border-bottom: none;
-                }
-            }
-            .map-search__form__buttons {
-                position: relative;
-                float: right;
-                top: auto;
-                left: auto;
-                width: auto;
-                .map-search__form__buttons__geolocation,
-                .map-search__form__buttons__submit {
-                    width: auto;
-                    display: inline;
-                    border-left: 1px solid #333;
-                }
-                .map-search__form__buttons__geolocation {
-                    border-top: none;
+                &.loading {
+                    background-image: url(../img/loading.gif);
                 }
             }
         }
@@ -93,9 +84,16 @@
     .map-search__results {
         display: none;
         position: absolute;
-        background-color: #1d1d1d;
+        top: 44px;
+        left: 0px;
+        background: #333;
+        background: rgba(51, 51, 51, 0.8);
         color: #CCC;
         width: 100%;
+        // Because input gets bigger on bigger screens, we need to move further
+        @media screen and (min-width: 768px) {
+            top: 70px;
+        }
         ul {
             margin-bottom: 0;
             li {
@@ -106,14 +104,15 @@
                     padding: 1em;
                 }
                 a:hover {
-                    background-color: lighten(#1d1d1d, 10%);
+                    background: lighten(#333, 10%);
+                    background: rgba(51, 51, 51, 0.9);
                     color: #FFF;
                 }
                 a.norse {
                     background: url(../img/helmet_inverted.png) no-repeat 14px 5px;
                     padding-left: 60px;
                     &:hover {
-                        background: lighten(#1d1d1d, 10%) url(../img/helmet_inverted_hover.png) no-repeat 14px 5px;
+                        background-image: url(../img/helmet_inverted_hover.png);
                     }
                 }
                 &:last-child {
@@ -127,9 +126,21 @@
     }
 }
 
+.map-canvas-wrapper {
+    // Mobile first styles to allow some extra space to be able to scroll past
+    // the map
+    margin-left: 1em;
+    margin-right: 3em; // containing div already has a left margin
+    @media screen and (min-width: 768px) {
+        margin: 0;
+    }
+}
 #map-canvas {
+    height: 400px;
     width: 100%;
-    height: 650px;
+    @media screen and (min-width: 768px) {
+        height: 650px;
+    }
     img {
         // These are necessary to undo some of the styling in the British
         // Museum's mobile stylesheets
@@ -149,16 +160,26 @@
     .map-marker__cinema-name,
     .map-marker__cinema-showing,
     .map-marker__cinema-link {
-        color: #333;
-        a {
-            color: #333;
-            &:hover {
-                color: #c69261;
-            }
+        color: #666;
+    }
+
+    a {
+        color: #c69261;
+        &:hover {
+            color: lighten(#c69261, 10%);
         }
     }
 
+    p, ul {
+        margin-bottom:0.5em
+    }
+
+    .map-marker__header {
+        margin-bottom: 0.25em;
+    }
+
     .map-marker__elements__item {
+        margin-bottom: 0;
         .map-marker__elements__item__headword,
         .map-marker__elements__item__hword {
             font-weight: bold;
@@ -168,12 +189,13 @@
     .map-marker__social-buttons {
         li {
             display: inline;
-            margin-right: 16px;
-            width: 37px;
-            height: 37px;
+            margin-right: 10px;
+            width: 24px;
+            height: 24px;
             img {
-                width: 37px;
-                height: 37px;
+                width: 24px;
+                height: 24px;
+                margin-bottom: 0;
             }
         }
     }
