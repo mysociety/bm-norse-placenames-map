@@ -47,7 +47,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -94,7 +94,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -140,7 +140,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -179,7 +179,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Worksop Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bridge Street, Worksop",
                     "postcode": "S80 1HP",
                     "phone": "01909 481 900",
@@ -216,7 +216,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Nottingham Broadway",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "14 - 18 Broad Street, Nottingham",
                     "postcode": "NG1 3AL",
                     "phone": "0115 9526 611",
@@ -255,7 +255,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Mansfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mansfield Leisure Park, Park Lane, Mansfield, Nottinghamshire",
                     "postcode": "NG18 1BU",
                     "phone": "0871 224 4007",
@@ -295,7 +295,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Nottingham Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "233 Derby Road, Nottingham",
                     "postcode": "NG7 1QN",
                     "phone": "0115 947 2580",
@@ -334,7 +334,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Nottingham",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Boulevard (A52), Redfield Way, Lenton, Nottingham",
                     "postcode": "NG7 2UW",
                     "phone": "0871 220 1000",
@@ -373,7 +373,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Nottingham Broadway",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "14 - 18 Broad Street, Nottingham",
                     "postcode": "NG1 3AL",
                     "phone": "0115 9526 611",
@@ -411,7 +411,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -449,7 +449,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -487,7 +487,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -534,7 +534,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -572,7 +572,7 @@
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "Cromer Regal Movieplex",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "2 - 4 Hans Place, Cromer, Norfolk",
                     "postcode": "NR27 9EQ",
                     "phone": "01263 510151",
@@ -611,7 +611,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -650,7 +650,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -689,7 +689,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Nottingham Broadway",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "14 - 18 Broad Street, Nottingham",
                     "postcode": "NG1 3AL",
                     "phone": "0115 9526 611",
@@ -727,7 +727,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -759,7 +759,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Nottingham Broadway",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "14 - 18 Broad Street, Nottingham",
                     "postcode": "NG1 3AL",
                     "phone": "0115 9526 611",
@@ -798,7 +798,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Nottingham Broadway",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "14 - 18 Broad Street, Nottingham",
                     "postcode": "NG1 3AL",
                     "phone": "0115 9526 611",
@@ -846,7 +846,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Loughborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "7 Cattle Market, Loughborough, Leicestershire",
                     "postcode": "LE11 3DL",
                     "phone": "0871 224 4007",
@@ -893,7 +893,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -932,7 +932,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Worksop Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bridge Street, Worksop",
                     "postcode": "S80 1HP",
                     "phone": "01909 481 900",
@@ -978,7 +978,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -1034,7 +1034,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Plaza Dorchester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Trinity Street, Dorchester Dorset",
                     "postcode": "DT1 1TT",
                     "phone": "01305 262488",
@@ -1074,7 +1074,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wolverhampton Light House Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Chubb Buildings, Fryer Street, Wolverhampton",
                     "postcode": "WV1 1HT",
                     "phone": "01902 716 055",
@@ -1114,7 +1114,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -1152,7 +1152,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -1208,7 +1208,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -1246,7 +1246,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -1294,7 +1294,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -1332,7 +1332,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -1372,7 +1372,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -1404,7 +1404,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -1444,7 +1444,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -1490,7 +1490,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -1522,7 +1522,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -1560,7 +1560,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Princes Quay Shopping Centre, Princess Quay, Hull",
                     "postcode": "HU1 2PQ",
                     "phone": "08712 240 240",
@@ -1592,7 +1592,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -1630,7 +1630,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -1670,7 +1670,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -1710,7 +1710,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Mansfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mansfield Leisure Park, Park Lane, Mansfield, Nottinghamshire",
                     "postcode": "NG18 1BU",
                     "phone": "0871 224 4007",
@@ -1750,7 +1750,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Worksop Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bridge Street, Worksop",
                     "postcode": "S80 1HP",
                     "phone": "01909 481 900",
@@ -1788,7 +1788,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -1826,7 +1826,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Riverside Restaurant & Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Quayside, Woodbridge, Suffolk",
                     "postcode": "IP12 1PH",
                     "phone": "01394 383587",
@@ -1866,7 +1866,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -1914,7 +1914,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Worksop Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bridge Street, Worksop",
                     "postcode": "S80 1HP",
                     "phone": "01909 481 900",
@@ -1962,7 +1962,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Worksop Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bridge Street, Worksop",
                     "postcode": "S80 1HP",
                     "phone": "01909 481 900",
@@ -2018,7 +2018,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Worksop Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bridge Street, Worksop",
                     "postcode": "S80 1HP",
                     "phone": "01909 481 900",
@@ -2058,7 +2058,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Mansfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mansfield Leisure Park, Park Lane, Mansfield, Nottinghamshire",
                     "postcode": "NG18 1BU",
                     "phone": "0871 224 4007",
@@ -2106,7 +2106,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Worksop Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bridge Street, Worksop",
                     "postcode": "S80 1HP",
                     "phone": "01909 481 900",
@@ -2146,7 +2146,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Worksop Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bridge Street, Worksop",
                     "postcode": "S80 1HP",
                     "phone": "01909 481 900",
@@ -2178,7 +2178,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Worksop Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bridge Street, Worksop",
                     "postcode": "S80 1HP",
                     "phone": "01909 481 900",
@@ -2208,7 +2208,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -2256,7 +2256,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -2296,7 +2296,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Worksop Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bridge Street, Worksop",
                     "postcode": "S80 1HP",
                     "phone": "01909 481 900",
@@ -2344,7 +2344,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Worksop Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bridge Street, Worksop",
                     "postcode": "S80 1HP",
                     "phone": "01909 481 900",
@@ -2384,7 +2384,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -2424,7 +2424,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Mansfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mansfield Leisure Park, Park Lane, Mansfield, Nottinghamshire",
                     "postcode": "NG18 1BU",
                     "phone": "0871 224 4007",
@@ -2464,7 +2464,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Worksop Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bridge Street, Worksop",
                     "postcode": "S80 1HP",
                     "phone": "01909 481 900",
@@ -2504,7 +2504,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Worksop Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bridge Street, Worksop",
                     "postcode": "S80 1HP",
                     "phone": "01909 481 900",
@@ -2552,7 +2552,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Mansfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mansfield Leisure Park, Park Lane, Mansfield, Nottinghamshire",
                     "postcode": "NG18 1BU",
                     "phone": "0871 224 4007",
@@ -2600,7 +2600,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Mansfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mansfield Leisure Park, Park Lane, Mansfield, Nottinghamshire",
                     "postcode": "NG18 1BU",
                     "phone": "0871 224 4007",
@@ -2640,7 +2640,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Mansfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mansfield Leisure Park, Park Lane, Mansfield, Nottinghamshire",
                     "postcode": "NG18 1BU",
                     "phone": "0871 224 4007",
@@ -2680,7 +2680,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Mansfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mansfield Leisure Park, Park Lane, Mansfield, Nottinghamshire",
                     "postcode": "NG18 1BU",
                     "phone": "0871 224 4007",
@@ -2728,7 +2728,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -2776,7 +2776,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Nottingham Broadway",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "14 - 18 Broad Street, Nottingham",
                     "postcode": "NG1 3AL",
                     "phone": "0115 9526 611",
@@ -2814,7 +2814,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -2852,7 +2852,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Barnsley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "62 - 68 Eldon Street, Barnsley",
                     "postcode": "EN S70 2JL",
                     "phone": "01226 248218",
@@ -2892,7 +2892,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Nottingham Broadway",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "14 - 18 Broad Street, Nottingham",
                     "postcode": "NG1 3AL",
                     "phone": "0115 9526 611",
@@ -2930,7 +2930,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -2978,7 +2978,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -3018,7 +3018,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Nottingham Broadway",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "14 - 18 Broad Street, Nottingham",
                     "postcode": "NG1 3AL",
                     "phone": "0115 9526 611",
@@ -3058,7 +3058,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -3104,7 +3104,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Leicester Phoenix",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Midland Street, Leicester",
                     "postcode": "LE1 1TG",
                     "phone": "0116 242 2800",
@@ -3150,7 +3150,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Burton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middle Way Park, Guild Street, Burton-on-Trent",
                     "postcode": "DE14 1NQ",
                     "phone": "0871 200 2000",
@@ -3206,7 +3206,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -3246,7 +3246,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -3278,7 +3278,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -3308,7 +3308,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Morecambe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Central Drive, Morecambe.",
                     "postcode": "LA4 4DW",
                     "phone": "01509 221155",
@@ -3338,7 +3338,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -3368,7 +3368,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -3400,7 +3400,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -3440,7 +3440,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -3480,7 +3480,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -3528,7 +3528,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -3568,7 +3568,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -3616,7 +3616,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -3670,7 +3670,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -3710,7 +3710,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -3748,7 +3748,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -3796,7 +3796,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -3836,7 +3836,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -3876,7 +3876,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -3908,7 +3908,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -3938,7 +3938,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Belper Ritz",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "76B King St, Belper, Derbyshire",
                     "postcode": "DE56 1QA",
                     "phone": "01773 822224",
@@ -3968,7 +3968,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Staines",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Two Rivers Retail Park, Mustard Mill Rd, Staines",
                     "postcode": "TW18 4BL",
                     "phone": "08712 240 240",
@@ -3998,7 +3998,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Wakefield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Westgate Retail and Leisure Park, Colinsway, off Charlesworth Way, Wakefield",
                     "postcode": "WF2 9SH",
                     "phone": "0871 200 2000",
@@ -4028,7 +4028,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -4068,7 +4068,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -4116,7 +4116,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Nottingham Broadway",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "14 - 18 Broad Street, Nottingham",
                     "postcode": "NG1 3AL",
                     "phone": "0115 9526 611",
@@ -4164,7 +4164,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -4204,7 +4204,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Nottingham Broadway",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "14 - 18 Broad Street, Nottingham",
                     "postcode": "NG1 3AL",
                     "phone": "0115 9526 611",
@@ -4244,7 +4244,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Nottingham Broadway",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "14 - 18 Broad Street, Nottingham",
                     "postcode": "NG1 3AL",
                     "phone": "0115 9526 611",
@@ -4284,7 +4284,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Nottingham",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Boulevard (A52), Redfield Way, Lenton, Nottingham",
                     "postcode": "NG7 2UW",
                     "phone": "0871 220 1000",
@@ -4324,7 +4324,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Nottingham",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Boulevard (A52), Redfield Way, Lenton, Nottingham",
                     "postcode": "NG7 2UW",
                     "phone": "0871 220 1000",
@@ -4356,7 +4356,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Loughborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "7 Cattle Market, Loughborough, Leicestershire",
                     "postcode": "LE11 3DL",
                     "phone": "0871 224 4007",
@@ -4388,7 +4388,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Loughborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "7 Cattle Market, Loughborough, Leicestershire",
                     "postcode": "LE11 3DL",
                     "phone": "0871 224 4007",
@@ -4436,7 +4436,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Loughborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "7 Cattle Market, Loughborough, Leicestershire",
                     "postcode": "LE11 3DL",
                     "phone": "0871 224 4007",
@@ -4476,7 +4476,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Worksop Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bridge Street, Worksop",
                     "postcode": "S80 1HP",
                     "phone": "01909 481 900",
@@ -4516,7 +4516,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -4556,7 +4556,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -4596,7 +4596,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -4644,7 +4644,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -4684,7 +4684,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -4716,7 +4716,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -4756,7 +4756,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -4812,7 +4812,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -4852,7 +4852,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -4892,7 +4892,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Newbury",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Kennet Centre, Newbury, West Berkshire",
                     "postcode": "RG14 5EN",
                     "phone": "08712 240 240",
@@ -4924,7 +4924,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Chesterfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Alma Leisure Park, Derby Road, Chesterfield",
                     "postcode": "S40 2ED",
                     "phone": "0871 200 2000",
@@ -4972,7 +4972,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Chesterfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Alma Leisure Park, Derby Road, Chesterfield",
                     "postcode": "S40 2ED",
                     "phone": "0871 200 2000",
@@ -5020,7 +5020,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Chesterfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Alma Leisure Park, Derby Road, Chesterfield",
                     "postcode": "S40 2ED",
                     "phone": "0871 200 2000",
@@ -5060,7 +5060,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Chesterfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Alma Leisure Park, Derby Road, Chesterfield",
                     "postcode": "S40 2ED",
                     "phone": "0871 200 2000",
@@ -5100,7 +5100,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Chesterfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Alma Leisure Park, Derby Road, Chesterfield",
                     "postcode": "S40 2ED",
                     "phone": "0871 200 2000",
@@ -5156,7 +5156,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Belper Ritz",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "76B King St, Belper, Derbyshire",
                     "postcode": "DE56 1QA",
                     "phone": "01773 822224",
@@ -5196,7 +5196,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Chesterfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Alma Leisure Park, Derby Road, Chesterfield",
                     "postcode": "S40 2ED",
                     "phone": "0871 200 2000",
@@ -5234,7 +5234,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Loughborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "7 Cattle Market, Loughborough, Leicestershire",
                     "postcode": "LE11 3DL",
                     "phone": "0871 224 4007",
@@ -5290,7 +5290,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Belper Ritz",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "76B King St, Belper, Derbyshire",
                     "postcode": "DE56 1QA",
                     "phone": "01773 822224",
@@ -5338,7 +5338,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Belper Ritz",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "76B King St, Belper, Derbyshire",
                     "postcode": "DE56 1QA",
                     "phone": "01773 822224",
@@ -5392,7 +5392,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Belper Ritz",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "76B King St, Belper, Derbyshire",
                     "postcode": "DE56 1QA",
                     "phone": "01773 822224",
@@ -5432,7 +5432,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Belper Ritz",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "76B King St, Belper, Derbyshire",
                     "postcode": "DE56 1QA",
                     "phone": "01773 822224",
@@ -5470,7 +5470,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Barnsley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "62 - 68 Eldon Street, Barnsley",
                     "postcode": "EN S70 2JL",
                     "phone": "01226 248218",
@@ -5510,7 +5510,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Derby De Lux",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Level 3 West Mall, Westfield Centre, Derby",
                     "postcode": "DE1 2PQ",
                     "phone": "0871 220 1000",
@@ -5550,7 +5550,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Derby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meteor Centre, Mansfield Rd, Town Centre, Derby",
                     "postcode": "DE21 4SY",
                     "phone": "0871 224 4007",
@@ -5598,7 +5598,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Derby Quad",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Market Place, Cathedral Quarter, Derby",
                     "postcode": "DE1 3AS",
                     "phone": "01332 285 444",
@@ -5654,7 +5654,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Derby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meteor Centre, Mansfield Rd, Town Centre, Derby",
                     "postcode": "DE21 4SY",
                     "phone": "0871 224 4007",
@@ -5709,7 +5709,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Nottingham",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Boulevard (A52), Redfield Way, Lenton, Nottingham",
                     "postcode": "NG7 2UW",
                     "phone": "0871 220 1000",
@@ -5757,7 +5757,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Derby De Lux",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Level 3 West Mall, Westfield Centre, Derby",
                     "postcode": "DE1 2PQ",
                     "phone": "0871 220 1000",
@@ -5797,7 +5797,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Burton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middle Way Park, Guild Street, Burton-on-Trent",
                     "postcode": "DE14 1NQ",
                     "phone": "0871 200 2000",
@@ -5829,7 +5829,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Burton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middle Way Park, Guild Street, Burton-on-Trent",
                     "postcode": "DE14 1NQ",
                     "phone": "0871 200 2000",
@@ -5869,7 +5869,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Derby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meteor Centre, Mansfield Rd, Town Centre, Derby",
                     "postcode": "DE21 4SY",
                     "phone": "0871 224 4007",
@@ -5917,7 +5917,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Derby Quad",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Market Place, Cathedral Quarter, Derby",
                     "postcode": "DE1 3AS",
                     "phone": "01332 285 444",
@@ -5981,7 +5981,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Belper Ritz",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "76B King St, Belper, Derbyshire",
                     "postcode": "DE56 1QA",
                     "phone": "01773 822224",
@@ -6021,7 +6021,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Belper Ritz",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "76B King St, Belper, Derbyshire",
                     "postcode": "DE56 1QA",
                     "phone": "01773 822224",
@@ -6059,7 +6059,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "ADeC Ely",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Arts Development in East Cambridgshire, Bablylon Gallery Waterside",
                     "postcode": "CB7 4AU",
                     "phone": "01353 669022",
@@ -6114,7 +6114,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Derby De Lux",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Level 3 West Mall, Westfield Centre, Derby",
                     "postcode": "DE1 2PQ",
                     "phone": "0871 220 1000",
@@ -6162,7 +6162,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Swadlincote",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Unit 12, The Pipeworks, Coppice Side, Swadlincote, Derbyshire",
                     "postcode": "DE11 9FQ",
                     "phone": "0871 224 4007",
@@ -6210,7 +6210,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Swadlincote",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Unit 12, The Pipeworks, Coppice Side, Swadlincote, Derbyshire",
                     "postcode": "DE11 9FQ",
                     "phone": "0871 224 4007",
@@ -6250,7 +6250,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Swadlincote",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Unit 12, The Pipeworks, Coppice Side, Swadlincote, Derbyshire",
                     "postcode": "DE11 9FQ",
                     "phone": "0871 224 4007",
@@ -6290,7 +6290,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Derby De Lux",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Level 3 West Mall, Westfield Centre, Derby",
                     "postcode": "DE1 2PQ",
                     "phone": "0871 220 1000",
@@ -6338,7 +6338,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Swadlincote",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Unit 12, The Pipeworks, Coppice Side, Swadlincote, Derbyshire",
                     "postcode": "DE11 9FQ",
                     "phone": "0871 224 4007",
@@ -6394,7 +6394,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Burton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middle Way Park, Guild Street, Burton-on-Trent",
                     "postcode": "DE14 1NQ",
                     "phone": "0871 200 2000",
@@ -6434,7 +6434,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Swadlincote",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Unit 12, The Pipeworks, Coppice Side, Swadlincote, Derbyshire",
                     "postcode": "DE11 9FQ",
                     "phone": "0871 224 4007",
@@ -6474,7 +6474,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Swadlincote",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Unit 12, The Pipeworks, Coppice Side, Swadlincote, Derbyshire",
                     "postcode": "DE11 9FQ",
                     "phone": "0871 224 4007",
@@ -6514,7 +6514,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Derby De Lux",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Level 3 West Mall, Westfield Centre, Derby",
                     "postcode": "DE1 2PQ",
                     "phone": "0871 220 1000",
@@ -6553,7 +6553,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Newport (IOW)",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Coppins Bridge, Newport, Isle of Wight",
                     "postcode": "PO30 2TA",
                     "phone": "0871 200 2000",
@@ -6593,7 +6593,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Newport (IOW)",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Coppins Bridge, Newport, Isle of Wight",
                     "postcode": "PO30 2TA",
                     "phone": "0871 200 2000",
@@ -6633,7 +6633,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Arts Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "38-39 St Andrew's St, Cambridge",
                     "postcode": "CB2 3AR",
                     "phone": "0871 902 5720",
@@ -6673,7 +6673,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Arts Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "38-39 St Andrew's St, Cambridge",
                     "postcode": "CB2 3AR",
                     "phone": "0871 902 5720",
@@ -6720,7 +6720,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "ADeC Ely",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Arts Development in East Cambridgshire, Bablylon Gallery Waterside",
                     "postcode": "CB7 4AU",
                     "phone": "01353 669022",
@@ -6768,7 +6768,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -6808,7 +6808,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Huntingdon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Tower Field Leisure Park, Abbots Ripton Road, Huntingdon, Cambs",
                     "postcode": "PE29 7EG",
                     "phone": "0871 200 2000",
@@ -6848,7 +6848,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -6896,7 +6896,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Huntingdon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Tower Field Leisure Park, Abbots Ripton Road, Huntingdon, Cambs",
                     "postcode": "PE29 7EG",
                     "phone": "0871 200 2000",
@@ -6936,7 +6936,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -6976,7 +6976,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -7040,7 +7040,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -7072,7 +7072,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -7136,7 +7136,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -7184,7 +7184,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -7224,7 +7224,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -7264,7 +7264,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -7304,7 +7304,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -7360,7 +7360,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Annan Lonsdale Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Moat Road, Dumfriesshire, Annan",
                     "postcode": "DG12 5DE",
                     "phone": "01461 206901",
@@ -7400,7 +7400,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -7440,7 +7440,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -7488,7 +7488,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -7536,7 +7536,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -7584,7 +7584,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -7624,7 +7624,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Annan Lonsdale Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Moat Road, Dumfriesshire, Annan",
                     "postcode": "DG12 5DE",
                     "phone": "01461 206901",
@@ -7688,7 +7688,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -7728,7 +7728,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -7768,7 +7768,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -7800,7 +7800,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -7840,7 +7840,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -7896,7 +7896,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -7952,7 +7952,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -7992,7 +7992,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -8032,7 +8032,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -8072,7 +8072,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -8112,7 +8112,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -8168,7 +8168,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -8224,7 +8224,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -8264,7 +8264,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -8312,7 +8312,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -8360,7 +8360,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -8400,7 +8400,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -8440,7 +8440,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -8478,7 +8478,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -8516,7 +8516,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -8572,7 +8572,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -8620,7 +8620,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -8660,7 +8660,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -8708,7 +8708,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -8748,7 +8748,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -8788,7 +8788,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -8828,7 +8828,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -8868,7 +8868,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Annan Lonsdale Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Moat Road, Dumfriesshire, Annan",
                     "postcode": "DG12 5DE",
                     "phone": "01461 206901",
@@ -8924,7 +8924,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Annan Lonsdale Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Moat Road, Dumfriesshire, Annan",
                     "postcode": "DG12 5DE",
                     "phone": "01461 206901",
@@ -8964,7 +8964,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -9020,7 +9020,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -9092,7 +9092,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -9132,7 +9132,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -9172,7 +9172,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -9212,7 +9212,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Annan Lonsdale Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Moat Road, Dumfriesshire, Annan",
                     "postcode": "DG12 5DE",
                     "phone": "01461 206901",
@@ -9252,7 +9252,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Annan Lonsdale Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Moat Road, Dumfriesshire, Annan",
                     "postcode": "DG12 5DE",
                     "phone": "01461 206901",
@@ -9292,7 +9292,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Annan Lonsdale Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Moat Road, Dumfriesshire, Annan",
                     "postcode": "DG12 5DE",
                     "phone": "01461 206901",
@@ -9348,7 +9348,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Annan Lonsdale Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Moat Road, Dumfriesshire, Annan",
                     "postcode": "DG12 5DE",
                     "phone": "01461 206901",
@@ -9388,7 +9388,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -9444,7 +9444,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Annan Lonsdale Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Moat Road, Dumfriesshire, Annan",
                     "postcode": "DG12 5DE",
                     "phone": "01461 206901",
@@ -9484,7 +9484,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Annan Lonsdale Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Moat Road, Dumfriesshire, Annan",
                     "postcode": "DG12 5DE",
                     "phone": "01461 206901",
@@ -9524,7 +9524,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Annan Lonsdale Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Moat Road, Dumfriesshire, Annan",
                     "postcode": "DG12 5DE",
                     "phone": "01461 206901",
@@ -9556,7 +9556,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Annan Lonsdale Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Moat Road, Dumfriesshire, Annan",
                     "postcode": "DG12 5DE",
                     "phone": "01461 206901",
@@ -9612,7 +9612,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Annan Lonsdale Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Moat Road, Dumfriesshire, Annan",
                     "postcode": "DG12 5DE",
                     "phone": "01461 206901",
@@ -9652,7 +9652,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -9716,7 +9716,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Annan Lonsdale Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Moat Road, Dumfriesshire, Annan",
                     "postcode": "DG12 5DE",
                     "phone": "01461 206901",
@@ -9764,7 +9764,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -9810,7 +9810,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -9850,7 +9850,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -9890,7 +9890,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -9930,7 +9930,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -9970,7 +9970,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -10018,7 +10018,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Annan Lonsdale Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Moat Road, Dumfriesshire, Annan",
                     "postcode": "DG12 5DE",
                     "phone": "01461 206901",
@@ -10066,7 +10066,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -10122,7 +10122,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -10178,7 +10178,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -10226,7 +10226,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -10266,7 +10266,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -10306,7 +10306,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -10354,7 +10354,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -10410,7 +10410,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -10458,7 +10458,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -10506,7 +10506,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -10546,7 +10546,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -10586,7 +10586,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -10634,7 +10634,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -10674,7 +10674,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -10722,7 +10722,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -10762,7 +10762,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Carlisle",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Beaver Rd, Carlisle, Cumbria",
                     "postcode": "CA2 7PT",
                     "phone": "08712 240 240",
@@ -10802,7 +10802,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -10842,7 +10842,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -10890,7 +10890,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Barrow-in-Furness",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park Hindpool Road Barrow-in-Furness",
                     "postcode": "LA14 2NA",
                     "phone": "08712 240 240",
@@ -10930,7 +10930,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -10968,7 +10968,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -11008,7 +11008,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Barrow-in-Furness",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park Hindpool Road Barrow-in-Furness",
                     "postcode": "LA14 2NA",
                     "phone": "08712 240 240",
@@ -11056,7 +11056,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -11104,7 +11104,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Rugby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction One Retail & Leisure Park, Junction Lane, Leicester Road, Rugby, Warks",
                     "postcode": "CV21 1RW",
                     "phone": "0871 200 2000",
@@ -11152,7 +11152,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Coventry",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gielgud Way, Coventry",
                     "postcode": "CV2 55Z",
                     "phone": "0871 220 1000",
@@ -11208,7 +11208,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Stratford-upon-Avon Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Windsor St, Stratford-upon-Avon, Warwickshire",
                     "postcode": "CV37 6NL",
                     "phone": "0871 902 5741",
@@ -11248,7 +11248,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leamington Spa",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Portland Place, Leamington Spa",
                     "postcode": "CV32 5ET",
                     "phone": "08712 240 240",
@@ -11288,7 +11288,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leamington Spa",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Portland Place, Leamington Spa",
                     "postcode": "CV32 5ET",
                     "phone": "08712 240 240",
@@ -11328,7 +11328,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Rugby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction One Retail & Leisure Park, Junction Lane, Leicester Road, Rugby, Warks",
                     "postcode": "CV21 1RW",
                     "phone": "0871 200 2000",
@@ -11366,7 +11366,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -11414,7 +11414,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Rugby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction One Retail & Leisure Park, Junction Lane, Leicester Road, Rugby, Warks",
                     "postcode": "CV21 1RW",
                     "phone": "0871 200 2000",
@@ -11478,7 +11478,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Coventry",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Sky Dome, Coventry, West Midlands",
                     "postcode": "CV1 3AZ",
                     "phone": "0871 224 4007",
@@ -11526,7 +11526,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -11566,7 +11566,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -11622,7 +11622,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -11654,7 +11654,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Morecambe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Central Drive, Morecambe.",
                     "postcode": "LA4 4DW",
                     "phone": "01509 221155",
@@ -11702,7 +11702,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Morecambe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Central Drive, Morecambe.",
                     "postcode": "LA4 4DW",
                     "phone": "01509 221155",
@@ -11758,7 +11758,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Morecambe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Central Drive, Morecambe.",
                     "postcode": "LA4 4DW",
                     "phone": "01509 221155",
@@ -11798,7 +11798,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Morecambe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Central Drive, Morecambe.",
                     "postcode": "LA4 4DW",
                     "phone": "01509 221155",
@@ -11854,7 +11854,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Morecambe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Central Drive, Morecambe.",
                     "postcode": "LA4 4DW",
                     "phone": "01509 221155",
@@ -11902,7 +11902,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -11942,7 +11942,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Morecambe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Central Drive, Morecambe.",
                     "postcode": "LA4 4DW",
                     "phone": "01509 221155",
@@ -11990,7 +11990,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -12038,7 +12038,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -12086,7 +12086,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -12126,7 +12126,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -12166,7 +12166,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -12222,7 +12222,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -12270,7 +12270,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -12310,7 +12310,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -12350,7 +12350,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -12390,7 +12390,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -12438,7 +12438,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -12478,7 +12478,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -12534,7 +12534,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -12590,7 +12590,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -12638,7 +12638,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Morecambe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Central Drive, Morecambe.",
                     "postcode": "LA4 4DW",
                     "phone": "01509 221155",
@@ -12686,7 +12686,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -12734,7 +12734,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -12782,7 +12782,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -12828,7 +12828,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cleveleys",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "N Promenade, Thornton-Cleveleys",
                     "postcode": "FY5 1DB",
                     "phone": "01253 827285",
@@ -12876,7 +12876,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -12916,7 +12916,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -12964,7 +12964,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13004,7 +13004,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13044,7 +13044,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13084,7 +13084,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13132,7 +13132,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13180,7 +13180,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13228,7 +13228,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13276,7 +13276,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13322,7 +13322,7 @@
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "Cromer Regal Movieplex",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "2 - 4 Hans Place, Cromer, Norfolk",
                     "postcode": "NR27 9EQ",
                     "phone": "01263 510151",
@@ -13362,7 +13362,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13410,7 +13410,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13450,7 +13450,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13490,7 +13490,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13538,7 +13538,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13578,7 +13578,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13618,7 +13618,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13656,7 +13656,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -13704,7 +13704,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13744,7 +13744,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13784,7 +13784,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13832,7 +13832,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13880,7 +13880,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -13936,7 +13936,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -13968,7 +13968,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -14008,7 +14008,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -14046,7 +14046,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riversway, Port Way, Preston, Lancashire",
                     "postcode": "PR2 2YQ",
                     "phone": "0871 224 4007",
@@ -14118,7 +14118,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -14158,7 +14158,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Dudley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Merry Hill Centre, Brierly Hill, Dudley, West Midlands",
                     "postcode": "DY5 1SY",
                     "phone": "0871 224 4007",
@@ -14198,7 +14198,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "The Courtyard",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Herefordshire's Centre for the Arts , Edgar Street, Hereford",
                     "postcode": "HP4 9JR",
                     "phone": "01432 340555",
@@ -14236,7 +14236,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Andover",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Anton Mill Rd, Andover",
                     "postcode": "SP10 2RW",
                     "phone": "0871 224 4007",
@@ -14274,7 +14274,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -14314,7 +14314,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -14362,7 +14362,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -14402,7 +14402,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -14440,7 +14440,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -14480,7 +14480,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -14520,7 +14520,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -14558,7 +14558,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -14606,7 +14606,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -14662,7 +14662,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -14702,7 +14702,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -14742,7 +14742,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -14782,7 +14782,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -14822,7 +14822,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -14862,7 +14862,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -14902,7 +14902,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -14958,7 +14958,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -15014,7 +15014,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -15054,7 +15054,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -15118,7 +15118,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -15158,7 +15158,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -15214,7 +15214,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -15252,7 +15252,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hartlepool",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Lanyard, Hartlepool",
                     "postcode": "TS24 0XS",
                     "phone": "0871 224 0240",
@@ -15306,7 +15306,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -15346,7 +15346,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -15384,7 +15384,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Freemens Park, 90 Aylestone Rd, Leicester",
                     "postcode": "LE2 7LB",
                     "phone": "0871 22 44 007",
@@ -15422,7 +15422,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -15470,7 +15470,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -15510,7 +15510,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -15558,7 +15558,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -15598,7 +15598,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -15638,7 +15638,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -15678,7 +15678,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -15734,7 +15734,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -15782,7 +15782,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -15822,7 +15822,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -15854,7 +15854,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -15884,7 +15884,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -15932,7 +15932,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -15972,7 +15972,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -16020,7 +16020,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -16060,7 +16060,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -16100,7 +16100,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -16138,7 +16138,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -16178,7 +16178,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -16218,7 +16218,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -16266,7 +16266,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -16306,7 +16306,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -16354,7 +16354,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -16394,7 +16394,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -16434,7 +16434,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -16482,7 +16482,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -16528,7 +16528,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -16568,7 +16568,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -16616,7 +16616,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -16656,7 +16656,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -16696,7 +16696,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -16734,7 +16734,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -16771,7 +16771,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -16819,7 +16819,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -16875,7 +16875,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -16923,7 +16923,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -16979,7 +16979,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -17019,7 +17019,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -17067,7 +17067,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -17107,7 +17107,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -17147,7 +17147,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -17185,7 +17185,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -17233,7 +17233,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -17297,7 +17297,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -17345,7 +17345,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -17409,7 +17409,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -17449,7 +17449,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -17489,7 +17489,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -17529,7 +17529,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -17569,7 +17569,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -17601,7 +17601,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -17641,7 +17641,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -17679,7 +17679,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -17719,7 +17719,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -17757,7 +17757,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -17797,7 +17797,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -17835,7 +17835,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -17891,7 +17891,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -17931,7 +17931,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -17987,7 +17987,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18027,7 +18027,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18067,7 +18067,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18099,7 +18099,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18147,7 +18147,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18219,7 +18219,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18259,7 +18259,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18299,7 +18299,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18339,7 +18339,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18395,7 +18395,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18435,7 +18435,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18491,7 +18491,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18539,7 +18539,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18587,7 +18587,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18627,7 +18627,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18667,7 +18667,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18705,7 +18705,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -18761,7 +18761,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18801,7 +18801,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18841,7 +18841,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18897,7 +18897,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18937,7 +18937,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -18975,7 +18975,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -19007,7 +19007,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -19063,7 +19063,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -19111,7 +19111,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -19159,7 +19159,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -19204,7 +19204,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -19244,7 +19244,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -19292,7 +19292,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -19332,7 +19332,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -19380,7 +19380,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -19428,7 +19428,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -19476,7 +19476,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -19532,7 +19532,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -19572,7 +19572,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -19612,7 +19612,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -19668,7 +19668,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -19700,7 +19700,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -19730,7 +19730,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -19778,7 +19778,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -19826,7 +19826,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -19866,7 +19866,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -19922,7 +19922,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -19962,7 +19962,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -20026,7 +20026,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -20066,7 +20066,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -20106,7 +20106,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -20154,7 +20154,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -20200,7 +20200,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -20264,7 +20264,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -20320,7 +20320,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -20352,7 +20352,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -20400,7 +20400,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -20440,7 +20440,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -20478,7 +20478,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Halifax",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "6 Broad Street, Halifax",
                     "postcode": "HX1 1UX",
                     "phone": "08712 240 240",
@@ -20526,7 +20526,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -20566,7 +20566,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -20606,7 +20606,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -20644,7 +20644,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -20684,7 +20684,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -20740,7 +20740,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -20788,7 +20788,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -20836,7 +20836,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -20868,7 +20868,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -20908,7 +20908,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -20948,7 +20948,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -20988,7 +20988,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -21036,7 +21036,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -21076,7 +21076,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -21124,7 +21124,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -21172,7 +21172,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -21212,7 +21212,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -21252,7 +21252,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -21300,7 +21300,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -21332,7 +21332,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -21362,7 +21362,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -21410,7 +21410,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -21456,7 +21456,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -21512,7 +21512,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -21560,7 +21560,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -21616,7 +21616,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -21664,7 +21664,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -21704,7 +21704,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -21744,7 +21744,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -21792,7 +21792,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -21840,7 +21840,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -21880,7 +21880,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -21920,7 +21920,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -21960,7 +21960,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -22006,7 +22006,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -22062,7 +22062,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -22126,7 +22126,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -22190,7 +22190,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -22246,7 +22246,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -22278,7 +22278,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -22308,7 +22308,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -22363,7 +22363,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -22419,7 +22419,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -22467,7 +22467,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -22507,7 +22507,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -22571,7 +22571,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -22611,7 +22611,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -22651,7 +22651,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -22689,7 +22689,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Aldeburgh Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "51 High Street, Aldeburgh, Suffolk",
                     "postcode": "IP15 5AU",
                     "phone": "01728 484884",
@@ -22737,7 +22737,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -22801,7 +22801,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -22856,7 +22856,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -22912,7 +22912,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -22960,7 +22960,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23000,7 +23000,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23048,7 +23048,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23088,7 +23088,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -23126,7 +23126,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -23166,7 +23166,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23214,7 +23214,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23262,7 +23262,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23310,7 +23310,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23355,7 +23355,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -23395,7 +23395,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23451,7 +23451,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23491,7 +23491,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23529,7 +23529,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23569,7 +23569,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23625,7 +23625,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23665,7 +23665,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23705,7 +23705,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23761,7 +23761,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23817,7 +23817,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23857,7 +23857,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23905,7 +23905,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23945,7 +23945,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -23985,7 +23985,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24033,7 +24033,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24073,7 +24073,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24129,7 +24129,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24169,7 +24169,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24209,7 +24209,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24249,7 +24249,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24289,7 +24289,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24321,7 +24321,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -24361,7 +24361,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -24401,7 +24401,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -24449,7 +24449,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24505,7 +24505,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24553,7 +24553,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24593,7 +24593,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24641,7 +24641,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24681,7 +24681,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24721,7 +24721,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24769,7 +24769,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -24801,7 +24801,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24841,7 +24841,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24889,7 +24889,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24937,7 +24937,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -24969,7 +24969,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -25017,7 +25017,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -25081,7 +25081,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -25129,7 +25129,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -25169,7 +25169,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -25209,7 +25209,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -25265,7 +25265,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -25313,7 +25313,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -25369,7 +25369,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -25417,7 +25417,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -25465,7 +25465,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -25505,7 +25505,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -25545,7 +25545,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -25585,7 +25585,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -25633,7 +25633,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -25673,7 +25673,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -25711,7 +25711,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -25749,7 +25749,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -25787,7 +25787,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -25825,7 +25825,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -25865,7 +25865,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -25912,7 +25912,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -25984,7 +25984,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Bristol Longwell",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Unit 2, Aspects Leisure Park, Avon Ring Road, Longwell Green, Bristol",
                     "postcode": "BS15 9LA",
                     "phone": "08712 240 240",
@@ -26016,7 +26016,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Mansfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mansfield Leisure Park, Park Lane, Mansfield, Nottinghamshire",
                     "postcode": "NG18 1BU",
                     "phone": "0871 224 4007",
@@ -26080,7 +26080,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Penrith Lonsdale Alhambra Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 Middlegate, Town Centre, Penrith",
                     "postcode": "CA11 7PT",
                     "phone": "01768 862 400",
@@ -26144,7 +26144,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Boldon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Abingdon Way, Boldon Leisure Park, Boldon Colliery, Boldon, Tyne & Wear",
                     "postcode": "NE35 9PB",
                     "phone": "0871 200 2000",
@@ -26184,7 +26184,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Gateshead",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Trinity Square, Gateshead, Tyne and Wear",
                     "postcode": "NE8 1AG",
                     "phone": "08712 240 240",
@@ -26222,7 +26222,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Forum Cinema Hexham",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Market Place, Hexham, Northumberland",
                     "postcode": "NE46 1HF",
                     "phone": "01434 601144",
@@ -26270,7 +26270,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Gateshead",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "48 Garden Walk, MetroCentre, Gateshead, Tyne and Wear",
                     "postcode": "NE11 9XZ",
                     "phone": "0871 224 4007",
@@ -26318,7 +26318,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -26364,7 +26364,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cramlington",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Manor Walks, Cramlington, Northumberland",
                     "postcode": "NE23 6UT",
                     "phone": "0871 224 0240",
@@ -26404,7 +26404,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -26468,7 +26468,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -26516,7 +26516,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aintree Oval, Teesside Leisure Park, Stockton-on-Tees",
                     "postcode": "TS17 7BU",
                     "phone": "0871 220 1000",
@@ -26564,7 +26564,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Gateshead",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "48 Garden Walk, MetroCentre, Gateshead, Tyne and Wear",
                     "postcode": "NE11 9XZ",
                     "phone": "0871 224 4007",
@@ -26604,7 +26604,7 @@
                 "cinema": {
                     "chain": "Empire",
                     "cinema": "Empire - Sunderland",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Limelight Entertainment Complex, 4 Lambton Street, Sunderland",
                     "postcode": "SR1 1TP",
                     "phone": "0871 471 4714",
@@ -26652,7 +26652,7 @@
                 "cinema": {
                     "chain": "Empire",
                     "cinema": "Empire - Sunderland",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Limelight Entertainment Complex, 4 Lambton Street, Sunderland",
                     "postcode": "SR1 1TP",
                     "phone": "0871 471 4714",
@@ -26692,7 +26692,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hartlepool",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Lanyard, Hartlepool",
                     "postcode": "TS24 0XS",
                     "phone": "0871 224 0240",
@@ -26740,7 +26740,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hartlepool",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Lanyard, Hartlepool",
                     "postcode": "TS24 0XS",
                     "phone": "0871 224 0240",
@@ -26780,7 +26780,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hartlepool",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Lanyard, Hartlepool",
                     "postcode": "TS24 0XS",
                     "phone": "0871 224 0240",
@@ -26820,7 +26820,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hartlepool",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Lanyard, Hartlepool",
                     "postcode": "TS24 0XS",
                     "phone": "0871 224 0240",
@@ -26860,7 +26860,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hartlepool",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Lanyard, Hartlepool",
                     "postcode": "TS24 0XS",
                     "phone": "0871 224 0240",
@@ -26932,7 +26932,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -26972,7 +26972,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -27028,7 +27028,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -27084,7 +27084,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -27148,7 +27148,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -27212,7 +27212,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Princes Quay Shopping Centre, Princess Quay, Hull",
                     "postcode": "HU1 2PQ",
                     "phone": "08712 240 240",
@@ -27252,7 +27252,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -27308,7 +27308,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -27348,7 +27348,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -27388,7 +27388,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -27460,7 +27460,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -27500,7 +27500,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Princes Quay Shopping Centre, Princess Quay, Hull",
                     "postcode": "HU1 2PQ",
                     "phone": "08712 240 240",
@@ -27548,7 +27548,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Princes Quay Shopping Centre, Princess Quay, Hull",
                     "postcode": "HU1 2PQ",
                     "phone": "08712 240 240",
@@ -27596,7 +27596,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -27636,7 +27636,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Princes Quay Shopping Centre, Princess Quay, Hull",
                     "postcode": "HU1 2PQ",
                     "phone": "08712 240 240",
@@ -27684,7 +27684,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -27732,7 +27732,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -27788,7 +27788,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -27820,7 +27820,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -27850,7 +27850,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Princes Quay Shopping Centre, Princess Quay, Hull",
                     "postcode": "HU1 2PQ",
                     "phone": "08712 240 240",
@@ -27890,7 +27890,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -27946,7 +27946,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28002,7 +28002,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28034,7 +28034,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28074,7 +28074,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28114,7 +28114,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28178,7 +28178,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28218,7 +28218,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28282,7 +28282,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28322,7 +28322,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28378,7 +28378,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28418,7 +28418,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28458,7 +28458,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28498,7 +28498,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28554,7 +28554,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28594,7 +28594,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28632,7 +28632,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Forum Cinema Hexham",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Market Place, Hexham, Northumberland",
                     "postcode": "NE46 1HF",
                     "phone": "01434 601144",
@@ -28672,7 +28672,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -28718,7 +28718,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -28758,7 +28758,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28814,7 +28814,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28862,7 +28862,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28902,7 +28902,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -28934,7 +28934,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -28998,7 +28998,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29046,7 +29046,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29086,7 +29086,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29134,7 +29134,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29174,7 +29174,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29214,7 +29214,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29252,7 +29252,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -29292,7 +29292,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29340,7 +29340,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29380,7 +29380,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29436,7 +29436,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29476,7 +29476,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29508,7 +29508,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29556,7 +29556,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29628,7 +29628,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29668,7 +29668,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29716,7 +29716,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29756,7 +29756,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29796,7 +29796,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29828,7 +29828,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29868,7 +29868,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29908,7 +29908,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29948,7 +29948,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -29988,7 +29988,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -30028,7 +30028,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -30092,7 +30092,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -30148,7 +30148,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -30188,7 +30188,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -30228,7 +30228,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -30316,7 +30316,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -30356,7 +30356,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -30396,7 +30396,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -30436,7 +30436,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -30468,7 +30468,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -30524,7 +30524,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -30580,7 +30580,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -30636,7 +30636,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -30684,7 +30684,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -30748,7 +30748,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -30812,7 +30812,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -30860,7 +30860,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -30924,7 +30924,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -30988,7 +30988,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -31028,7 +31028,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -31068,7 +31068,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -31108,7 +31108,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -31164,7 +31164,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -31212,7 +31212,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -31260,7 +31260,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -31308,7 +31308,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -31364,7 +31364,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -31420,7 +31420,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -31460,7 +31460,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -31500,7 +31500,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Princes Quay Shopping Centre, Princess Quay, Hull",
                     "postcode": "HU1 2PQ",
                     "phone": "08712 240 240",
@@ -31548,7 +31548,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Princes Quay Shopping Centre, Princess Quay, Hull",
                     "postcode": "HU1 2PQ",
                     "phone": "08712 240 240",
@@ -31588,7 +31588,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Princes Quay Shopping Centre, Princess Quay, Hull",
                     "postcode": "HU1 2PQ",
                     "phone": "08712 240 240",
@@ -31628,7 +31628,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Princes Quay Shopping Centre, Princess Quay, Hull",
                     "postcode": "HU1 2PQ",
                     "phone": "08712 240 240",
@@ -31668,7 +31668,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Princes Quay Shopping Centre, Princess Quay, Hull",
                     "postcode": "HU1 2PQ",
                     "phone": "08712 240 240",
@@ -31724,7 +31724,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Princes Quay Shopping Centre, Princess Quay, Hull",
                     "postcode": "HU1 2PQ",
                     "phone": "08712 240 240",
@@ -31764,7 +31764,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -31828,7 +31828,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -31868,7 +31868,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -31924,7 +31924,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -31988,7 +31988,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32028,7 +32028,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32076,7 +32076,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32132,7 +32132,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32172,7 +32172,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32220,7 +32220,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32260,7 +32260,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32292,7 +32292,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32332,7 +32332,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32372,7 +32372,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32436,7 +32436,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32476,7 +32476,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32516,7 +32516,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32556,7 +32556,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32628,7 +32628,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32668,7 +32668,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32716,7 +32716,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -32756,7 +32756,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32804,7 +32804,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -32852,7 +32852,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32892,7 +32892,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -32932,7 +32932,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -32980,7 +32980,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -33028,7 +33028,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -33084,7 +33084,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -33124,7 +33124,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -33172,7 +33172,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -33212,7 +33212,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -33250,7 +33250,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -33314,7 +33314,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -33386,7 +33386,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -33426,7 +33426,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -33466,7 +33466,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -33530,7 +33530,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -33586,7 +33586,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -33618,7 +33618,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -33658,7 +33658,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -33706,7 +33706,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -33746,7 +33746,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -33794,7 +33794,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -33832,7 +33832,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -33872,7 +33872,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Princes Quay Shopping Centre, Princess Quay, Hull",
                     "postcode": "HU1 2PQ",
                     "phone": "08712 240 240",
@@ -33904,7 +33904,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gibraltar Road, Kingswood Retail Park, Hull",
                     "postcode": "HU7 3DB",
                     "phone": "0871 200 2000",
@@ -33960,7 +33960,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -34000,7 +34000,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -34048,7 +34048,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -34094,7 +34094,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -34142,7 +34142,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -34198,7 +34198,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -34252,7 +34252,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -34290,7 +34290,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -34330,7 +34330,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Leicester Phoenix",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Midland Street, Leicester",
                     "postcode": "LE1 1TG",
                     "phone": "0116 242 2800",
@@ -34369,7 +34369,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Leicester Phoenix",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Midland Street, Leicester",
                     "postcode": "LE1 1TG",
                     "phone": "0116 242 2800",
@@ -34409,7 +34409,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Leicester Phoenix",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Midland Street, Leicester",
                     "postcode": "LE1 1TG",
                     "phone": "0116 242 2800",
@@ -34473,7 +34473,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -34521,7 +34521,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Freemens Park, 90 Aylestone Rd, Leicester",
                     "postcode": "LE2 7LB",
                     "phone": "0871 22 44 007",
@@ -34585,7 +34585,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -34633,7 +34633,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Leicester Phoenix",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Midland Street, Leicester",
                     "postcode": "LE1 1TG",
                     "phone": "0116 242 2800",
@@ -34681,7 +34681,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Freemens Park, 90 Aylestone Rd, Leicester",
                     "postcode": "LE2 7LB",
                     "phone": "0871 22 44 007",
@@ -34737,7 +34737,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Freemens Park, 90 Aylestone Rd, Leicester",
                     "postcode": "LE2 7LB",
                     "phone": "0871 22 44 007",
@@ -34777,7 +34777,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Freemens Park, 90 Aylestone Rd, Leicester",
                     "postcode": "LE2 7LB",
                     "phone": "0871 22 44 007",
@@ -34825,7 +34825,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Leicester Phoenix",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Midland Street, Leicester",
                     "postcode": "LE1 1TG",
                     "phone": "0116 242 2800",
@@ -34865,7 +34865,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -34905,7 +34905,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Leicester Phoenix",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Midland Street, Leicester",
                     "postcode": "LE1 1TG",
                     "phone": "0116 242 2800",
@@ -34945,7 +34945,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Leicester Phoenix",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Midland Street, Leicester",
                     "postcode": "LE1 1TG",
                     "phone": "0116 242 2800",
@@ -34985,7 +34985,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Leicester Phoenix",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Midland Street, Leicester",
                     "postcode": "LE1 1TG",
                     "phone": "0116 242 2800",
@@ -35041,7 +35041,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -35089,7 +35089,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Leicester Phoenix",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Midland Street, Leicester",
                     "postcode": "LE1 1TG",
                     "phone": "0116 242 2800",
@@ -35129,7 +35129,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -35176,7 +35176,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -35224,7 +35224,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -35264,7 +35264,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -35304,7 +35304,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -35344,7 +35344,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Loughborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "7 Cattle Market, Loughborough, Leicestershire",
                     "postcode": "LE11 3DL",
                     "phone": "0871 224 4007",
@@ -35384,7 +35384,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -35424,7 +35424,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Leicester Phoenix",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Midland Street, Leicester",
                     "postcode": "LE1 1TG",
                     "phone": "0116 242 2800",
@@ -35480,7 +35480,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Leicester Phoenix",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Midland Street, Leicester",
                     "postcode": "LE1 1TG",
                     "phone": "0116 242 2800",
@@ -35536,7 +35536,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -35584,7 +35584,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Swadlincote",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Unit 12, The Pipeworks, Coppice Side, Swadlincote, Derbyshire",
                     "postcode": "DE11 9FQ",
                     "phone": "0871 224 4007",
@@ -35624,7 +35624,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -35672,7 +35672,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Loughborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "7 Cattle Market, Loughborough, Leicestershire",
                     "postcode": "LE11 3DL",
                     "phone": "0871 224 4007",
@@ -35712,7 +35712,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Swadlincote",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Unit 12, The Pipeworks, Coppice Side, Swadlincote, Derbyshire",
                     "postcode": "DE11 9FQ",
                     "phone": "0871 224 4007",
@@ -35752,7 +35752,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Loughborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "7 Cattle Market, Loughborough, Leicestershire",
                     "postcode": "LE11 3DL",
                     "phone": "0871 224 4007",
@@ -35792,7 +35792,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Leicester De Lux",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "7 Highcross Lane, Highcross Centre, Leicester",
                     "postcode": "LE1 4SD",
                     "phone": "0871 220 1000",
@@ -35832,7 +35832,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Loughborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "7 Cattle Market, Loughborough, Leicestershire",
                     "postcode": "LE11 3DL",
                     "phone": "0871 224 4007",
@@ -35872,7 +35872,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Freemens Park, 90 Aylestone Rd, Leicester",
                     "postcode": "LE2 7LB",
                     "phone": "0871 22 44 007",
@@ -35912,7 +35912,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -35960,7 +35960,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -36000,7 +36000,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Rugby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction One Retail & Leisure Park, Junction Lane, Leicester Road, Rugby, Warks",
                     "postcode": "CV21 1RW",
                     "phone": "0871 200 2000",
@@ -36040,7 +36040,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -36080,7 +36080,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -36120,7 +36120,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Rugby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction One Retail & Leisure Park, Junction Lane, Leicester Road, Rugby, Warks",
                     "postcode": "CV21 1RW",
                     "phone": "0871 200 2000",
@@ -36168,7 +36168,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -36208,7 +36208,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -36248,7 +36248,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Freemens Park, 90 Aylestone Rd, Leicester",
                     "postcode": "LE2 7LB",
                     "phone": "0871 22 44 007",
@@ -36288,7 +36288,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -36328,7 +36328,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Freemens Park, 90 Aylestone Rd, Leicester",
                     "postcode": "LE2 7LB",
                     "phone": "0871 22 44 007",
@@ -36384,7 +36384,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Freemens Park, 90 Aylestone Rd, Leicester",
                     "postcode": "LE2 7LB",
                     "phone": "0871 22 44 007",
@@ -36424,7 +36424,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Rugby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction One Retail & Leisure Park, Junction Lane, Leicester Road, Rugby, Warks",
                     "postcode": "CV21 1RW",
                     "phone": "0871 200 2000",
@@ -36488,7 +36488,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Freemens Park, 90 Aylestone Rd, Leicester",
                     "postcode": "LE2 7LB",
                     "phone": "0871 22 44 007",
@@ -36544,7 +36544,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -36592,7 +36592,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -36630,7 +36630,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -36670,7 +36670,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -36702,7 +36702,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Swadlincote",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Unit 12, The Pipeworks, Coppice Side, Swadlincote, Derbyshire",
                     "postcode": "DE11 9FQ",
                     "phone": "0871 224 4007",
@@ -36750,7 +36750,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -36790,7 +36790,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -36830,7 +36830,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -36870,7 +36870,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -36918,7 +36918,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Swadlincote",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Unit 12, The Pipeworks, Coppice Side, Swadlincote, Derbyshire",
                     "postcode": "DE11 9FQ",
                     "phone": "0871 224 4007",
@@ -36966,7 +36966,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Swadlincote",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Unit 12, The Pipeworks, Coppice Side, Swadlincote, Derbyshire",
                     "postcode": "DE11 9FQ",
                     "phone": "0871 224 4007",
@@ -37006,7 +37006,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -37054,7 +37054,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Rugby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction One Retail & Leisure Park, Junction Lane, Leicester Road, Rugby, Warks",
                     "postcode": "CV21 1RW",
                     "phone": "0871 200 2000",
@@ -37102,7 +37102,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Swadlincote",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Unit 12, The Pipeworks, Coppice Side, Swadlincote, Derbyshire",
                     "postcode": "DE11 9FQ",
                     "phone": "0871 224 4007",
@@ -37158,7 +37158,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -37198,7 +37198,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -37238,7 +37238,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -37278,7 +37278,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -37316,7 +37316,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -37356,7 +37356,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -37404,7 +37404,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -37460,7 +37460,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -37508,7 +37508,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -37556,7 +37556,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -37601,7 +37601,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -37649,7 +37649,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -37689,7 +37689,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -37729,7 +37729,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -37769,7 +37769,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -37857,7 +37857,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -37897,7 +37897,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Leicester Phoenix",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Midland Street, Leicester",
                     "postcode": "LE1 1TG",
                     "phone": "0116 242 2800",
@@ -37937,7 +37937,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -37985,7 +37985,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -38033,7 +38033,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -38081,7 +38081,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -38129,7 +38129,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Swadlincote",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Unit 12, The Pipeworks, Coppice Side, Swadlincote, Derbyshire",
                     "postcode": "DE11 9FQ",
                     "phone": "0871 224 4007",
@@ -38169,7 +38169,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Loughborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "7 Cattle Market, Loughborough, Leicestershire",
                     "postcode": "LE11 3DL",
                     "phone": "0871 224 4007",
@@ -38217,7 +38217,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Leicester De Lux",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "7 Highcross Lane, Highcross Centre, Leicester",
                     "postcode": "LE1 4SD",
                     "phone": "0871 220 1000",
@@ -38257,7 +38257,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -38305,7 +38305,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -38345,7 +38345,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -38385,7 +38385,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Swadlincote",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Unit 12, The Pipeworks, Coppice Side, Swadlincote, Derbyshire",
                     "postcode": "DE11 9FQ",
                     "phone": "0871 224 4007",
@@ -38433,7 +38433,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Swadlincote",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Unit 12, The Pipeworks, Coppice Side, Swadlincote, Derbyshire",
                     "postcode": "DE11 9FQ",
                     "phone": "0871 224 4007",
@@ -38489,7 +38489,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -38537,7 +38537,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -38585,7 +38585,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -38625,7 +38625,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -38681,7 +38681,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -38745,7 +38745,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -38793,7 +38793,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "ADeC Ely",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Arts Development in East Cambridgshire, Bablylon Gallery Waterside",
                     "postcode": "CB7 4AU",
                     "phone": "01353 669022",
@@ -38833,7 +38833,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "ADeC Ely",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Arts Development in East Cambridgshire, Bablylon Gallery Waterside",
                     "postcode": "CB7 4AU",
                     "phone": "01353 669022",
@@ -38897,7 +38897,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "ADeC Ely",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Arts Development in East Cambridgshire, Bablylon Gallery Waterside",
                     "postcode": "CB7 4AU",
                     "phone": "01353 669022",
@@ -38937,7 +38937,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "ADeC Ely",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Arts Development in East Cambridgshire, Bablylon Gallery Waterside",
                     "postcode": "CB7 4AU",
                     "phone": "01353 669022",
@@ -38977,7 +38977,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -39017,7 +39017,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -39057,7 +39057,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -39097,7 +39097,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -39137,7 +39137,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -39185,7 +39185,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -39225,7 +39225,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -39273,7 +39273,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -39313,7 +39313,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -39361,7 +39361,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -39407,7 +39407,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -39471,7 +39471,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -39511,7 +39511,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -39551,7 +39551,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -39591,7 +39591,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -39631,7 +39631,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -39671,7 +39671,7 @@
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "Cromer Regal Movieplex",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "2 - 4 Hans Place, Cromer, Norfolk",
                     "postcode": "NR27 9EQ",
                     "phone": "01263 510151",
@@ -39711,7 +39711,7 @@
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "Cromer Regal Movieplex",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "2 - 4 Hans Place, Cromer, Norfolk",
                     "postcode": "NR27 9EQ",
                     "phone": "01263 510151",
@@ -39749,7 +39749,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -39797,7 +39797,7 @@
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "Cromer Regal Movieplex",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "2 - 4 Hans Place, Cromer, Norfolk",
                     "postcode": "NR27 9EQ",
                     "phone": "01263 510151",
@@ -39837,7 +39837,7 @@
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "Cromer Regal Movieplex",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "2 - 4 Hans Place, Cromer, Norfolk",
                     "postcode": "NR27 9EQ",
                     "phone": "01263 510151",
@@ -39877,7 +39877,7 @@
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "Cromer Regal Movieplex",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "2 - 4 Hans Place, Cromer, Norfolk",
                     "postcode": "NR27 9EQ",
                     "phone": "01263 510151",
@@ -39917,7 +39917,7 @@
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "Cromer Regal Movieplex",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "2 - 4 Hans Place, Cromer, Norfolk",
                     "postcode": "NR27 9EQ",
                     "phone": "01263 510151",
@@ -39965,7 +39965,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -40013,7 +40013,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -40053,7 +40053,7 @@
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "Cromer Regal Movieplex",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "2 - 4 Hans Place, Cromer, Norfolk",
                     "postcode": "NR27 9EQ",
                     "phone": "01263 510151",
@@ -40093,7 +40093,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -40149,7 +40149,7 @@
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "Cromer Regal Movieplex",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "2 - 4 Hans Place, Cromer, Norfolk",
                     "postcode": "NR27 9EQ",
                     "phone": "01263 510151",
@@ -40189,7 +40189,7 @@
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "Cromer Regal Movieplex",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "2 - 4 Hans Place, Cromer, Norfolk",
                     "postcode": "NR27 9EQ",
                     "phone": "01263 510151",
@@ -40229,7 +40229,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -40261,7 +40261,7 @@
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "Cromer Regal Movieplex",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "2 - 4 Hans Place, Cromer, Norfolk",
                     "postcode": "NR27 9EQ",
                     "phone": "01263 510151",
@@ -40291,7 +40291,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -40321,7 +40321,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Ipswich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cardinal Park, 11 Grafton Way, Ipswich, Suffolk",
                     "postcode": "IP1 1AX",
                     "phone": "0871 200 2000",
@@ -40369,7 +40369,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -40409,7 +40409,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -40457,7 +40457,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -40505,7 +40505,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -40545,7 +40545,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -40593,7 +40593,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -40633,7 +40633,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -40673,7 +40673,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -40713,7 +40713,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -40769,7 +40769,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -40809,7 +40809,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -40849,7 +40849,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -40889,7 +40889,7 @@
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "Cromer Regal Movieplex",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "2 - 4 Hans Place, Cromer, Norfolk",
                     "postcode": "NR27 9EQ",
                     "phone": "01263 510151",
@@ -40929,7 +40929,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -40985,7 +40985,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -41041,7 +41041,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -41096,7 +41096,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -41144,7 +41144,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -41190,7 +41190,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -41238,7 +41238,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -41278,7 +41278,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -41318,7 +41318,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -41366,7 +41366,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -41412,7 +41412,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Liverpool ONE",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Liverpool ONE, 14 Paradise St, Liverpool",
                     "postcode": "L1 8JF",
                     "phone": "0871 224 4007",
@@ -41452,7 +41452,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -41492,7 +41492,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -41540,7 +41540,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -41580,7 +41580,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -41636,7 +41636,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -41676,7 +41676,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -41740,7 +41740,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -41780,7 +41780,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -41836,7 +41836,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -41884,7 +41884,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -41924,7 +41924,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -41980,7 +41980,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -42020,7 +42020,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "ADeC Ely",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Arts Development in East Cambridgshire, Bablylon Gallery Waterside",
                     "postcode": "CB7 4AU",
                     "phone": "01353 669022",
@@ -42068,7 +42068,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Abbeygate Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Hatter St, Town Centre, Bury St Edmunds",
                     "postcode": "IP33 1NE",
                     "phone": "0871 902 5722",
@@ -42106,7 +42106,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Stoke",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Festival Park, Etruria Rd, Stoke-on-Trent, Staffordshire",
                     "postcode": "ST1 5SN",
                     "phone": "0871 224 4007",
@@ -42152,7 +42152,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Princes Quay Shopping Centre, Princess Quay, Hull",
                     "postcode": "HU1 2PQ",
                     "phone": "08712 240 240",
@@ -42192,7 +42192,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "ADeC Ely",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Arts Development in East Cambridgshire, Bablylon Gallery Waterside",
                     "postcode": "CB7 4AU",
                     "phone": "01353 669022",
@@ -42232,7 +42232,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Abbeygate Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Hatter St, Town Centre, Bury St Edmunds",
                     "postcode": "IP33 1NE",
                     "phone": "0871 902 5722",
@@ -42280,7 +42280,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -42320,7 +42320,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -42368,7 +42368,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -42408,7 +42408,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -42456,7 +42456,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -42496,7 +42496,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -42536,7 +42536,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -42576,7 +42576,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -42624,7 +42624,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -42664,7 +42664,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -42720,7 +42720,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -42760,7 +42760,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -42800,7 +42800,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -42848,7 +42848,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -42888,7 +42888,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -42928,7 +42928,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Abbeygate Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Hatter St, Town Centre, Bury St Edmunds",
                     "postcode": "IP33 1NE",
                     "phone": "0871 902 5722",
@@ -42968,7 +42968,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -43016,7 +43016,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -43062,7 +43062,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -43102,7 +43102,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -43142,7 +43142,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -43182,7 +43182,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -43222,7 +43222,7 @@
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "Cromer Regal Movieplex",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "2 - 4 Hans Place, Cromer, Norfolk",
                     "postcode": "NR27 9EQ",
                     "phone": "01263 510151",
@@ -43262,7 +43262,7 @@
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "Cromer Regal Movieplex",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "2 - 4 Hans Place, Cromer, Norfolk",
                     "postcode": "NR27 9EQ",
                     "phone": "01263 510151",
@@ -43310,7 +43310,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -43374,7 +43374,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -43422,7 +43422,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -43470,7 +43470,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -43518,7 +43518,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -43558,7 +43558,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -43598,7 +43598,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -43646,7 +43646,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Belper Ritz",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "76B King St, Belper, Derbyshire",
                     "postcode": "DE56 1QA",
                     "phone": "01773 822224",
@@ -43694,7 +43694,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Barton Under Needwood Red Carpet Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Barton Marina, Barton under Needwood, Staffordshire",
                     "postcode": "DE13 8AS",
                     "phone": "01283 716257",
@@ -43757,7 +43757,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Barton Under Needwood Red Carpet Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Barton Marina, Barton under Needwood, Staffordshire",
                     "postcode": "DE13 8AS",
                     "phone": "01283 716257",
@@ -43813,7 +43813,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Stoke",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Festival Park, Etruria Rd, Stoke-on-Trent, Staffordshire",
                     "postcode": "ST1 5SN",
                     "phone": "0871 224 4007",
@@ -43861,7 +43861,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Stoke",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Festival Park, Etruria Rd, Stoke-on-Trent, Staffordshire",
                     "postcode": "ST1 5SN",
                     "phone": "0871 224 4007",
@@ -43909,7 +43909,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Belper Ritz",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "76B King St, Belper, Derbyshire",
                     "postcode": "DE56 1QA",
                     "phone": "01773 822224",
@@ -43949,7 +43949,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Tamworth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "50 Bolebridge St, Tamworth, Staffordshire",
                     "postcode": "B79 7PB",
                     "phone": "0871 224 4007",
@@ -43997,7 +43997,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Belper Ritz",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "76B King St, Belper, Derbyshire",
                     "postcode": "DE56 1QA",
                     "phone": "01773 822224",
@@ -44037,7 +44037,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Barton Under Needwood Red Carpet Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Barton Marina, Barton under Needwood, Staffordshire",
                     "postcode": "DE13 8AS",
                     "phone": "01283 716257",
@@ -44085,7 +44085,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Stoke",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Festival Park, Etruria Rd, Stoke-on-Trent, Staffordshire",
                     "postcode": "ST1 5SN",
                     "phone": "0871 224 4007",
@@ -44125,7 +44125,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -44163,7 +44163,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -44227,7 +44227,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -44267,7 +44267,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -44307,7 +44307,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Leicester De Lux",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "7 Highcross Lane, Highcross Centre, Leicester",
                     "postcode": "LE1 4SD",
                     "phone": "0871 220 1000",
@@ -44347,7 +44347,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Loughborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "7 Cattle Market, Loughborough, Leicestershire",
                     "postcode": "LE11 3DL",
                     "phone": "0871 224 4007",
@@ -44395,7 +44395,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -44459,7 +44459,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -44499,7 +44499,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -44555,7 +44555,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -44595,7 +44595,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -44635,7 +44635,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -44675,7 +44675,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -44715,7 +44715,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -44755,7 +44755,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -44795,7 +44795,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -44835,7 +44835,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -44873,7 +44873,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -44913,7 +44913,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -44961,7 +44961,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -45009,7 +45009,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -45049,7 +45049,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -45089,7 +45089,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -45137,7 +45137,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -45185,7 +45185,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -45241,7 +45241,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -45281,7 +45281,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -45321,7 +45321,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -45361,7 +45361,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -45393,7 +45393,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -45433,7 +45433,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -45473,7 +45473,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -45513,7 +45513,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -45553,7 +45553,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -45601,7 +45601,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -45641,7 +45641,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -45681,7 +45681,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -45729,7 +45729,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -45769,7 +45769,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -45809,7 +45809,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -45849,7 +45849,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -45897,7 +45897,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -45951,7 +45951,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -45991,7 +45991,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -46031,7 +46031,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -46069,7 +46069,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -46117,7 +46117,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -46165,7 +46165,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -46205,7 +46205,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -46245,7 +46245,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -46293,7 +46293,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -46349,7 +46349,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -46389,7 +46389,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -46429,7 +46429,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -46477,7 +46477,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -46517,7 +46517,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -46581,7 +46581,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -46637,7 +46637,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -46677,7 +46677,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -46709,7 +46709,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -46749,7 +46749,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -46805,7 +46805,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -46845,7 +46845,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -46893,7 +46893,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -46941,7 +46941,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -46981,7 +46981,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -47021,7 +47021,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -47069,7 +47069,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -47133,7 +47133,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -47173,7 +47173,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -47213,7 +47213,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -47253,7 +47253,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -47301,7 +47301,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -47341,7 +47341,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -47379,7 +47379,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -47419,7 +47419,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -47467,7 +47467,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -47507,7 +47507,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -47555,7 +47555,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -47595,7 +47595,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -47643,7 +47643,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -47683,7 +47683,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -47739,7 +47739,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -47787,7 +47787,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -47827,7 +47827,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -47867,7 +47867,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -47907,7 +47907,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -47945,7 +47945,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -47993,7 +47993,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -48041,7 +48041,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -48081,7 +48081,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -48121,7 +48121,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -48161,7 +48161,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -48201,7 +48201,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -48241,7 +48241,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -48281,7 +48281,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -48321,7 +48321,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -48361,7 +48361,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -48409,7 +48409,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -48457,7 +48457,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -48497,7 +48497,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -48537,7 +48537,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "23 London Rd, Newark on Trent, Nottinghamshire",
                     "postcode": "NG24 1TN",
                     "phone": "0871 224 4007",
@@ -48569,7 +48569,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -48601,7 +48601,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -48641,7 +48641,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -48697,7 +48697,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -48737,7 +48737,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -48777,7 +48777,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -48817,7 +48817,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -48865,7 +48865,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -48905,7 +48905,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -48945,7 +48945,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -48985,7 +48985,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -49025,7 +49025,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -49064,7 +49064,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -49104,7 +49104,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -49144,7 +49144,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -49184,7 +49184,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -49224,7 +49224,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -49262,7 +49262,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Liverpool ONE",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Liverpool ONE, 14 Paradise St, Liverpool",
                     "postcode": "L1 8JF",
                     "phone": "0871 224 4007",
@@ -49302,7 +49302,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -49350,7 +49350,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -49406,7 +49406,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -49454,7 +49454,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -49494,7 +49494,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -49534,7 +49534,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -49590,7 +49590,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -49630,7 +49630,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -49670,7 +49670,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -49710,7 +49710,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -49748,7 +49748,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -49796,7 +49796,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -49836,7 +49836,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -49884,7 +49884,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -49948,7 +49948,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -49996,7 +49996,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50036,7 +50036,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50076,7 +50076,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50123,7 +50123,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50163,7 +50163,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50211,7 +50211,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50259,7 +50259,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50307,7 +50307,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50347,7 +50347,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50403,7 +50403,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50443,7 +50443,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50491,7 +50491,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50531,7 +50531,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50587,7 +50587,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50643,7 +50643,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50699,7 +50699,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50739,7 +50739,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50795,7 +50795,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50835,7 +50835,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50875,7 +50875,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50915,7 +50915,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50955,7 +50955,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -50995,7 +50995,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -51043,7 +51043,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -51083,7 +51083,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -51131,7 +51131,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -51179,7 +51179,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -51219,7 +51219,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -51275,7 +51275,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -51315,7 +51315,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -51355,7 +51355,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -51393,7 +51393,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -51433,7 +51433,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -51473,7 +51473,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -51529,7 +51529,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -51569,7 +51569,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -51609,7 +51609,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -51649,7 +51649,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -51689,7 +51689,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -51729,7 +51729,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -51769,7 +51769,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -51817,7 +51817,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -51857,7 +51857,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -51905,7 +51905,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -51953,7 +51953,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -52017,7 +52017,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -52065,7 +52065,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -52105,7 +52105,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -52145,7 +52145,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -52193,7 +52193,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -52233,7 +52233,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -52273,7 +52273,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -52337,7 +52337,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -52377,7 +52377,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -52425,7 +52425,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -52473,7 +52473,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -52529,7 +52529,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -52569,7 +52569,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -52609,7 +52609,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -52649,7 +52649,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -52689,7 +52689,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -52729,7 +52729,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -52769,7 +52769,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -52809,7 +52809,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -52847,7 +52847,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -52887,7 +52887,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -52935,7 +52935,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -52975,7 +52975,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -53031,7 +53031,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -53071,7 +53071,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -53111,7 +53111,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "44 West St, Town Centre, Boston",
                     "postcode": "PE21 8QH",
                     "phone": "01205 363634",
@@ -53151,7 +53151,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -53191,7 +53191,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -53223,7 +53223,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -53263,7 +53263,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -53303,7 +53303,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -53335,7 +53335,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -53375,7 +53375,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -53423,7 +53423,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -53471,7 +53471,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -53511,7 +53511,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -53551,7 +53551,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -53591,7 +53591,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -53639,7 +53639,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -53679,7 +53679,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -53727,7 +53727,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -53775,7 +53775,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -53815,7 +53815,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -53855,7 +53855,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -53911,7 +53911,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -53959,7 +53959,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -53999,7 +53999,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -54039,7 +54039,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -54079,7 +54079,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -54119,7 +54119,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -54167,7 +54167,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -54207,7 +54207,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -54247,7 +54247,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -54295,7 +54295,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -54335,7 +54335,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -54375,7 +54375,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -54415,7 +54415,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -54469,7 +54469,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -54517,7 +54517,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -54557,7 +54557,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -54597,7 +54597,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -54637,7 +54637,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -54685,7 +54685,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -54725,7 +54725,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -54765,7 +54765,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -54803,7 +54803,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -54843,7 +54843,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -54891,7 +54891,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -54939,7 +54939,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -54979,7 +54979,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -55019,7 +55019,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -55059,7 +55059,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -55107,7 +55107,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -55155,7 +55155,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -55195,7 +55195,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -55235,7 +55235,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -55283,7 +55283,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -55323,7 +55323,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -55363,7 +55363,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -55403,7 +55403,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -55443,7 +55443,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -55483,7 +55483,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -55531,7 +55531,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -55579,7 +55579,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -55627,7 +55627,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -55667,7 +55667,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -55715,7 +55715,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -55755,7 +55755,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cannon Street, Louth. Lincolnshire",
                     "postcode": "LN11 9NL",
                     "phone": "01507 603333",
@@ -55803,7 +55803,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -55851,7 +55851,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -55891,7 +55891,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Brayford Wharf North, Lincolnshire, Lincoln",
                     "postcode": "LN1 1YS",
                     "phone": "0871 224 4007",
@@ -55939,7 +55939,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Princes Quay Shopping Centre, Princess Quay, Hull",
                     "postcode": "HU1 2PQ",
                     "phone": "08712 240 240",
@@ -55995,7 +55995,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -56035,7 +56035,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -56075,7 +56075,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Princes Quay Shopping Centre, Princess Quay, Hull",
                     "postcode": "HU1 2PQ",
                     "phone": "08712 240 240",
@@ -56123,7 +56123,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -56179,7 +56179,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -56219,7 +56219,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -56259,7 +56259,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Cleethorpes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Kings Road (Seafront) Cleethorpes , North East Lincolnshire",
                     "postcode": "DN35 0AQ",
                     "phone": "01472 290100",
@@ -56307,7 +56307,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -56354,7 +56354,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -56394,7 +56394,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -56434,7 +56434,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Princes Quay Shopping Centre, Princess Quay, Hull",
                     "postcode": "HU1 2PQ",
                     "phone": "08712 240 240",
@@ -56474,7 +56474,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -56514,7 +56514,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Rugby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction One Retail & Leisure Park, Junction Lane, Leicester Road, Rugby, Warks",
                     "postcode": "CV21 1RW",
                     "phone": "0871 200 2000",
@@ -56554,7 +56554,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Rugby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction One Retail & Leisure Park, Junction Lane, Leicester Road, Rugby, Warks",
                     "postcode": "CV21 1RW",
                     "phone": "0871 200 2000",
@@ -56610,7 +56610,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Northampton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Sixfields Leisure, Weedon Road Upton, Northampton",
                     "postcode": "NN5 5BG",
                     "phone": "0871 200 2000",
@@ -56658,7 +56658,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Rugby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction One Retail & Leisure Park, Junction Lane, Leicester Road, Rugby, Warks",
                     "postcode": "CV21 1RW",
                     "phone": "0871 200 2000",
@@ -56722,7 +56722,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Northampton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Sixfields Leisure, Weedon Road Upton, Northampton",
                     "postcode": "NN5 5BG",
                     "phone": "0871 200 2000",
@@ -56770,7 +56770,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Bicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pioneer Square, Bure Pl, Bicester, Oxfordshire",
                     "postcode": "OX26 6DG",
                     "phone": "0871 224 0240",
@@ -56834,7 +56834,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Rugby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction One Retail & Leisure Park, Junction Lane, Leicester Road, Rugby, Warks",
                     "postcode": "CV21 1RW",
                     "phone": "0871 200 2000",
@@ -56905,7 +56905,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Northampton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Sixfields Leisure, Weedon Road Upton, Northampton",
                     "postcode": "NN5 5BG",
                     "phone": "0871 200 2000",
@@ -56945,7 +56945,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Rugby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction One Retail & Leisure Park, Junction Lane, Leicester Road, Rugby, Warks",
                     "postcode": "CV21 1RW",
                     "phone": "0871 200 2000",
@@ -56985,7 +56985,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Northampton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Sixfields Leisure, Weedon Road Upton, Northampton",
                     "postcode": "NN5 5BG",
                     "phone": "0871 200 2000",
@@ -57025,7 +57025,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Northampton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Sixfields Leisure, Weedon Road Upton, Northampton",
                     "postcode": "NN5 5BG",
                     "phone": "0871 200 2000",
@@ -57065,7 +57065,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Northampton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Sixfields Leisure, Weedon Road Upton, Northampton",
                     "postcode": "NN5 5BG",
                     "phone": "0871 200 2000",
@@ -57105,7 +57105,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Northampton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Sixfields Leisure, Weedon Road Upton, Northampton",
                     "postcode": "NN5 5BG",
                     "phone": "0871 200 2000",
@@ -57145,7 +57145,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -57183,7 +57183,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "National Media Museum",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bradford, West Yorkshire",
                     "postcode": "BD1 1NQ",
                     "phone": "01274 203409",
@@ -57231,7 +57231,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Rugby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction One Retail & Leisure Park, Junction Lane, Leicester Road, Rugby, Warks",
                     "postcode": "CV21 1RW",
                     "phone": "0871 200 2000",
@@ -57287,7 +57287,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -57335,7 +57335,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Rugby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction One Retail & Leisure Park, Junction Lane, Leicester Road, Rugby, Warks",
                     "postcode": "CV21 1RW",
                     "phone": "0871 200 2000",
@@ -57391,7 +57391,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Rugby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction One Retail & Leisure Park, Junction Lane, Leicester Road, Rugby, Warks",
                     "postcode": "CV21 1RW",
                     "phone": "0871 200 2000",
@@ -57431,7 +57431,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -57471,7 +57471,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -57527,7 +57527,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -57567,7 +57567,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Northampton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Sixfields Leisure, Weedon Road Upton, Northampton",
                     "postcode": "NN5 5BG",
                     "phone": "0871 200 2000",
@@ -57631,7 +57631,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Northampton Errol Flynn Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "off Derngate, Northampton",
                     "postcode": "NN1 1UD",
                     "phone": "01604 626222",
@@ -57687,7 +57687,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Northampton Errol Flynn Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "off Derngate, Northampton",
                     "postcode": "NN1 1UD",
                     "phone": "01604 626222",
@@ -57735,7 +57735,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Northampton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Sixfields Leisure, Weedon Road Upton, Northampton",
                     "postcode": "NN5 5BG",
                     "phone": "0871 200 2000",
@@ -57783,7 +57783,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -57823,7 +57823,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -57863,7 +57863,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -57935,7 +57935,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -57983,7 +57983,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -58039,7 +58039,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -58079,7 +58079,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -58119,7 +58119,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -58175,7 +58175,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -58215,7 +58215,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -58255,7 +58255,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mallory Road and Boongate, Cambridgeshire",
                     "postcode": "PP1 5AH",
                     "phone": "0871 220 1000",
@@ -58301,7 +58301,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Milton Keynes",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, 602 Marlborough Gate, Central Milton Keynes",
                     "postcode": "MK9 3XS",
                     "phone": "0871 200 2000",
@@ -58340,7 +58340,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Bicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pioneer Square, Bure Pl, Bicester, Oxfordshire",
                     "postcode": "OX26 6DG",
                     "phone": "0871 224 0240",
@@ -58411,7 +58411,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - High Wycombe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "17 Denmark Street, Eden, High Wycombe, Bucks",
                     "postcode": "HP11 2NZ",
                     "phone": "0871 200 2000",
@@ -58451,7 +58451,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Plaza Dorchester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Trinity Street, Dorchester Dorset",
                     "postcode": "DT1 1TT",
                     "phone": "01305 262488",
@@ -58491,7 +58491,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Rugby",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction One Retail & Leisure Park, Junction Lane, Leicester Road, Rugby, Warks",
                     "postcode": "CV21 1RW",
                     "phone": "0871 200 2000",
@@ -58539,7 +58539,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Knutsford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Toft Road, Knutsford. Cheshire",
                     "postcode": "WA16 0PE",
                     "phone": "0330 500 1331",
@@ -58579,7 +58579,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Stockport",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Grand Central Square, Wellington Road South, Stockport",
                     "postcode": "SK1 3TA",
                     "phone": "0871 200 2000",
@@ -58659,7 +58659,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Ashton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Ashton Leisure Park, Fold Way, off Lord Sheldon Way, Ashton-under-Lyne",
                     "postcode": "OL7 0PG",
                     "phone": "0871 200 2000",
@@ -58699,7 +58699,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Altrincham",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Denmark Street, Altrincham",
                     "postcode": "WA14 2WG",
                     "phone": "08712 240 240",
@@ -58747,7 +58747,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Knutsford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Toft Road, Knutsford. Cheshire",
                     "postcode": "WA16 0PE",
                     "phone": "0330 500 1331",
@@ -58795,7 +58795,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Knutsford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Toft Road, Knutsford. Cheshire",
                     "postcode": "WA16 0PE",
                     "phone": "0330 500 1331",
@@ -58835,7 +58835,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Knutsford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Toft Road, Knutsford. Cheshire",
                     "postcode": "WA16 0PE",
                     "phone": "0330 500 1331",
@@ -58875,7 +58875,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Runcorn",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Trident Park, Halton Lea, Runcorn",
                     "postcode": "WA7 2FQ",
                     "phone": "0871 200 2000",
@@ -58923,7 +58923,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Knutsford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Toft Road, Knutsford. Cheshire",
                     "postcode": "WA16 0PE",
                     "phone": "0330 500 1331",
@@ -58963,7 +58963,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Crewe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Phoenix Leisure Park, Dunwoody Way, Crewe, Cheshire",
                     "postcode": "CW1 3AW",
                     "phone": "0871 224 4007",
@@ -59019,7 +59019,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Newcastle Under Lyme",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Square, Market Arcade, High St, Newcastle-under-Lyme, Staffordshire",
                     "postcode": "ST5 1PT",
                     "phone": "08712 240 240",
@@ -59059,7 +59059,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cheshire Oaks",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Coliseum, Cheshire Oaks Outlet Village, Stanney Lane, Ellesmere Port, Merseyside",
                     "postcode": "CH65 9HD",
                     "phone": "08712 240 240",
@@ -59099,7 +59099,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Wrexham",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Eagles Meadow, Wrexham",
                     "postcode": "LL13 8DG",
                     "phone": "0871 224 4007",
@@ -59147,7 +59147,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cheshire Oaks",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Coliseum, Cheshire Oaks Outlet Village, Stanney Lane, Ellesmere Port, Merseyside",
                     "postcode": "CH65 9HD",
                     "phone": "08712 240 240",
@@ -59187,7 +59187,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Liverpool ONE",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Liverpool ONE, 14 Paradise St, Liverpool",
                     "postcode": "L1 8JF",
                     "phone": "0871 224 4007",
@@ -59243,7 +59243,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Liverpool ONE",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Liverpool ONE, 14 Paradise St, Liverpool",
                     "postcode": "L1 8JF",
                     "phone": "0871 224 4007",
@@ -59283,7 +59283,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Liverpool ONE",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Liverpool ONE, 14 Paradise St, Liverpool",
                     "postcode": "L1 8JF",
                     "phone": "0871 224 4007",
@@ -59315,7 +59315,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Liverpool ONE",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Liverpool ONE, 14 Paradise St, Liverpool",
                     "postcode": "L1 8JF",
                     "phone": "0871 224 4007",
@@ -59355,7 +59355,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Liverpool ONE",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Liverpool ONE, 14 Paradise St, Liverpool",
                     "postcode": "L1 8JF",
                     "phone": "0871 224 4007",
@@ -59387,7 +59387,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Liverpool ONE",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Liverpool ONE, 14 Paradise St, Liverpool",
                     "postcode": "L1 8JF",
                     "phone": "0871 224 4007",
@@ -59427,7 +59427,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Liverpool ONE",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Liverpool ONE, 14 Paradise St, Liverpool",
                     "postcode": "L1 8JF",
                     "phone": "0871 224 4007",
@@ -59467,7 +59467,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "New Brighton Light",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Marine Point, New Brighton",
                     "postcode": "CH45 2HZ",
                     "phone": "0151 214 1370",
@@ -59499,7 +59499,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "New Brighton Light",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Marine Point, New Brighton",
                     "postcode": "CH45 2HZ",
                     "phone": "0151 214 1370",
@@ -59531,7 +59531,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "New Brighton Light",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Marine Point, New Brighton",
                     "postcode": "CH45 2HZ",
                     "phone": "0151 214 1370",
@@ -59563,7 +59563,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "New Brighton Light",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Marine Point, New Brighton",
                     "postcode": "CH45 2HZ",
                     "phone": "0151 214 1370",
@@ -59619,7 +59619,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "New Brighton Light",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Marine Point, New Brighton",
                     "postcode": "CH45 2HZ",
                     "phone": "0151 214 1370",
@@ -59667,7 +59667,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Liverpool ONE",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Liverpool ONE, 14 Paradise St, Liverpool",
                     "postcode": "L1 8JF",
                     "phone": "0871 224 4007",
@@ -59707,7 +59707,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Clacton Century",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Picturedrome Cinema, 129 Pier Avenue, Clacton-on-Sea, Essex",
                     "postcode": "CO15 1NJ",
                     "phone": "01255 689708",
@@ -59747,7 +59747,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Clacton Century",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Picturedrome Cinema, 129 Pier Avenue, Clacton-on-Sea, Essex",
                     "postcode": "CO15 1NJ",
                     "phone": "01255 689708",
@@ -59787,7 +59787,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Colchester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Head Street, Colchester, Essex",
                     "postcode": "CO1 1NH",
                     "phone": "0871 224 4007",
@@ -59843,7 +59843,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Haverhill",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Leisure & Retail Complex, Ehringshausen Way",
                     "postcode": "CB9 0ER",
                     "phone": "0871 200 2000",
@@ -59883,7 +59883,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Saffron Walden Screen",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Saffron Walden County High School, Saffron Walden, Essex",
                     "postcode": "CB11 4UH",
                     "phone": "01799 500238",
@@ -59939,7 +59939,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -59979,7 +59979,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riversway, Port Way, Preston, Lancashire",
                     "postcode": "PR2 2YQ",
                     "phone": "0871 224 4007",
@@ -60035,7 +60035,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Blackpool",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Rigby Road, Blackpool, Lancs",
                     "postcode": "FY1 5EP",
                     "phone": "0871 224 4007",
@@ -60075,7 +60075,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cleveleys",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "N Promenade, Thornton-Cleveleys",
                     "postcode": "FY5 1DB",
                     "phone": "01253 827285",
@@ -60113,7 +60113,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -60169,7 +60169,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riversway, Port Way, Preston, Lancashire",
                     "postcode": "PR2 2YQ",
                     "phone": "0871 224 4007",
@@ -60217,7 +60217,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riversway, Port Way, Preston, Lancashire",
                     "postcode": "PR2 2YQ",
                     "phone": "0871 224 4007",
@@ -60263,7 +60263,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -60303,7 +60303,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riversway, Port Way, Preston, Lancashire",
                     "postcode": "PR2 2YQ",
                     "phone": "0871 224 4007",
@@ -60343,7 +60343,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riversway, Port Way, Preston, Lancashire",
                     "postcode": "PR2 2YQ",
                     "phone": "0871 224 4007",
@@ -60399,7 +60399,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Capitol Centre, London Way, Walton-le-Dale, Preston, Lancashire",
                     "postcode": "PR5 4AW",
                     "phone": "08712 240 240",
@@ -60439,7 +60439,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -60495,7 +60495,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riversway, Port Way, Preston, Lancashire",
                     "postcode": "PR2 2YQ",
                     "phone": "0871 224 4007",
@@ -60551,7 +60551,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Blackpool",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Rigby Road, Blackpool, Lancs",
                     "postcode": "FY1 5EP",
                     "phone": "0871 224 4007",
@@ -60607,7 +60607,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cleveleys",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "N Promenade, Thornton-Cleveleys",
                     "postcode": "FY5 1DB",
                     "phone": "01253 827285",
@@ -60663,7 +60663,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riversway, Port Way, Preston, Lancashire",
                     "postcode": "PR2 2YQ",
                     "phone": "0871 224 4007",
@@ -60703,7 +60703,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riversway, Port Way, Preston, Lancashire",
                     "postcode": "PR2 2YQ",
                     "phone": "0871 224 4007",
@@ -60743,7 +60743,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -60791,7 +60791,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cleveleys",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "N Promenade, Thornton-Cleveleys",
                     "postcode": "FY5 1DB",
                     "phone": "01253 827285",
@@ -60855,7 +60855,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cleveleys",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "N Promenade, Thornton-Cleveleys",
                     "postcode": "FY5 1DB",
                     "phone": "01253 827285",
@@ -60903,7 +60903,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Blackpool",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Rigby Road, Blackpool, Lancs",
                     "postcode": "FY1 5EP",
                     "phone": "0871 224 4007",
@@ -60959,7 +60959,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cleveleys",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "N Promenade, Thornton-Cleveleys",
                     "postcode": "FY5 1DB",
                     "phone": "01253 827285",
@@ -61031,7 +61031,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riversway, Port Way, Preston, Lancashire",
                     "postcode": "PR2 2YQ",
                     "phone": "0871 224 4007",
@@ -61087,7 +61087,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cleveleys",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "N Promenade, Thornton-Cleveleys",
                     "postcode": "FY5 1DB",
                     "phone": "01253 827285",
@@ -61143,7 +61143,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Blackpool",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Rigby Road, Blackpool, Lancs",
                     "postcode": "FY1 5EP",
                     "phone": "0871 224 4007",
@@ -61199,7 +61199,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Capitol Centre, London Way, Walton-le-Dale, Preston, Lancashire",
                     "postcode": "PR5 4AW",
                     "phone": "08712 240 240",
@@ -61239,7 +61239,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Burnley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park, Manchester Road. Burnley.",
                     "postcode": "BB11 2EJ",
                     "phone": "01509 221155",
@@ -61279,7 +61279,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Capitol Centre, London Way, Walton-le-Dale, Preston, Lancashire",
                     "postcode": "PR5 4AW",
                     "phone": "08712 240 240",
@@ -61311,7 +61311,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Capitol Centre, London Way, Walton-le-Dale, Preston, Lancashire",
                     "postcode": "PR5 4AW",
                     "phone": "08712 240 240",
@@ -61375,7 +61375,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Burnley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park, Manchester Road. Burnley.",
                     "postcode": "BB11 2EJ",
                     "phone": "01509 221155",
@@ -61423,7 +61423,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Capitol Centre, London Way, Walton-le-Dale, Preston, Lancashire",
                     "postcode": "PR5 4AW",
                     "phone": "08712 240 240",
@@ -61479,7 +61479,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Capitol Centre, London Way, Walton-le-Dale, Preston, Lancashire",
                     "postcode": "PR5 4AW",
                     "phone": "08712 240 240",
@@ -61527,7 +61527,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riversway, Port Way, Preston, Lancashire",
                     "postcode": "PR2 2YQ",
                     "phone": "0871 224 4007",
@@ -61583,7 +61583,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riversway, Port Way, Preston, Lancashire",
                     "postcode": "PR2 2YQ",
                     "phone": "0871 224 4007",
@@ -61639,7 +61639,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Capitol Centre, London Way, Walton-le-Dale, Preston, Lancashire",
                     "postcode": "PR5 4AW",
                     "phone": "08712 240 240",
@@ -61679,7 +61679,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riversway, Port Way, Preston, Lancashire",
                     "postcode": "PR2 2YQ",
                     "phone": "0871 224 4007",
@@ -61727,7 +61727,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Preston",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riversway, Port Way, Preston, Lancashire",
                     "postcode": "PR2 2YQ",
                     "phone": "0871 224 4007",
@@ -61775,7 +61775,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Barrow-in-Furness",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park Hindpool Road Barrow-in-Furness",
                     "postcode": "LA14 2NA",
                     "phone": "08712 240 240",
@@ -61823,7 +61823,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -61871,7 +61871,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Barrow-in-Furness",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park Hindpool Road Barrow-in-Furness",
                     "postcode": "LA14 2NA",
                     "phone": "08712 240 240",
@@ -61911,7 +61911,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -61951,7 +61951,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -61991,7 +61991,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -62031,7 +62031,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -62063,7 +62063,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -62111,7 +62111,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Barrow-in-Furness",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park Hindpool Road Barrow-in-Furness",
                     "postcode": "LA14 2NA",
                     "phone": "08712 240 240",
@@ -62167,7 +62167,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -62239,7 +62239,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -62303,7 +62303,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -62343,7 +62343,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -62399,7 +62399,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Barrow-in-Furness",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park Hindpool Road Barrow-in-Furness",
                     "postcode": "LA14 2NA",
                     "phone": "08712 240 240",
@@ -62431,7 +62431,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -62471,7 +62471,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Morecambe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Central Drive, Morecambe.",
                     "postcode": "LA4 4DW",
                     "phone": "01509 221155",
@@ -62519,7 +62519,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Morecambe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Central Drive, Morecambe.",
                     "postcode": "LA4 4DW",
                     "phone": "01509 221155",
@@ -62559,7 +62559,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -62607,7 +62607,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Barrow-in-Furness",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park Hindpool Road Barrow-in-Furness",
                     "postcode": "LA14 2NA",
                     "phone": "08712 240 240",
@@ -62671,7 +62671,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -62711,7 +62711,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -62751,7 +62751,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Barrow-in-Furness",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park Hindpool Road Barrow-in-Furness",
                     "postcode": "LA14 2NA",
                     "phone": "08712 240 240",
@@ -62791,7 +62791,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -62863,7 +62863,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Morecambe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Central Drive, Morecambe.",
                     "postcode": "LA4 4DW",
                     "phone": "01509 221155",
@@ -62911,7 +62911,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -62951,7 +62951,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -62991,7 +62991,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -63031,7 +63031,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Barrow-in-Furness",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park Hindpool Road Barrow-in-Furness",
                     "postcode": "LA14 2NA",
                     "phone": "08712 240 240",
@@ -63079,7 +63079,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -63127,7 +63127,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Barrow-in-Furness",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park Hindpool Road Barrow-in-Furness",
                     "postcode": "LA14 2NA",
                     "phone": "08712 240 240",
@@ -63167,7 +63167,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Morecambe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Central Drive, Morecambe.",
                     "postcode": "LA4 4DW",
                     "phone": "01509 221155",
@@ -63207,7 +63207,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -63247,7 +63247,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Bolton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlebrook Leisure Park, The Linkway, Bolton",
                     "postcode": "BL6 6HJ",
                     "phone": "08712 240 240",
@@ -63287,7 +63287,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Trafford Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "201, The Dome, Trafford Centre, Manchester",
                     "postcode": "M17 8DF",
                     "phone": "0871 224 4007",
@@ -63325,7 +63325,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -63363,7 +63363,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -63395,7 +63395,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Manchester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Printworks, 27 Withy Grove, Manchester",
                     "postcode": "M4 2BS",
                     "phone": "0871 224 4007",
@@ -63443,7 +63443,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Ashton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Ashton Leisure Park, Fold Way, off Lord Sheldon Way, Ashton-under-Lyne",
                     "postcode": "OL7 0PG",
                     "phone": "0871 200 2000",
@@ -63499,7 +63499,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Manchester Lowry",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Lowry Outlet Mall, The Quays, Salford Quays, Salford",
                     "postcode": "M50 3AH",
                     "phone": "08712 240 240",
@@ -63563,7 +63563,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Bury",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "9 Rock Place, Bury",
                     "postcode": "BL9 0YB",
                     "phone": "08712 240 240",
@@ -63603,7 +63603,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Bolton",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Valley, 15 Eagley Brook Way, Bolton",
                     "postcode": "BL1 8TS",
                     "phone": "0871 200 2000",
@@ -63651,7 +63651,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Trafford Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "201, The Dome, Trafford Centre, Manchester",
                     "postcode": "M17 8DF",
                     "phone": "0871 224 4007",
@@ -63691,7 +63691,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Liverpool",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Montrose Way, Edge Lane Retail Park, Liverpool",
                     "postcode": "L13 1EW",
                     "phone": "0871 200 2000",
@@ -63731,7 +63731,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Southport",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Ocean Plaza, Marine Drive, Southport",
                     "postcode": "PR8 1SQ",
                     "phone": "08712 240 240",
@@ -63771,7 +63771,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Saint Helens",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Chalon Way West, St Helens",
                     "postcode": "WA10 1BF",
                     "phone": "0871 200 2000",
@@ -63811,7 +63811,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Southport",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Ocean Plaza, Marine Drive, Southport",
                     "postcode": "PR8 1SQ",
                     "phone": "08712 240 240",
@@ -63851,7 +63851,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Southport",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Ocean Plaza, Marine Drive, Southport",
                     "postcode": "PR8 1SQ",
                     "phone": "08712 240 240",
@@ -63907,7 +63907,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Liverpool",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Montrose Way, Edge Lane Retail Park, Liverpool",
                     "postcode": "L13 1EW",
                     "phone": "0871 200 2000",
@@ -63955,7 +63955,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Southport",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Ocean Plaza, Marine Drive, Southport",
                     "postcode": "PR8 1SQ",
                     "phone": "08712 240 240",
@@ -63987,7 +63987,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "New Brighton Light",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Marine Point, New Brighton",
                     "postcode": "CH45 2HZ",
                     "phone": "0151 214 1370",
@@ -64043,7 +64043,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Liverpool",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Montrose Way, Edge Lane Retail Park, Liverpool",
                     "postcode": "L13 1EW",
                     "phone": "0871 200 2000",
@@ -64075,7 +64075,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Liverpool",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Montrose Way, Edge Lane Retail Park, Liverpool",
                     "postcode": "L13 1EW",
                     "phone": "0871 200 2000",
@@ -64115,7 +64115,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Liverpool ONE",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Liverpool ONE, 14 Paradise St, Liverpool",
                     "postcode": "L1 8JF",
                     "phone": "0871 224 4007",
@@ -64147,7 +64147,7 @@
                 "cinema": {
                     "chain": "Empire",
                     "cinema": "Empire - Wigan",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Anjou Boulevard, Robin Park Road, Newtown, Wigan",
                     "postcode": "WN5 0UJ",
                     "phone": "0871 471 4714",
@@ -64187,7 +64187,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "New Brighton Light",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Marine Point, New Brighton",
                     "postcode": "CH45 2HZ",
                     "phone": "0151 214 1370",
@@ -64219,7 +64219,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "New Brighton Light",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Marine Point, New Brighton",
                     "postcode": "CH45 2HZ",
                     "phone": "0151 214 1370",
@@ -64275,7 +64275,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Saint Helens",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Chalon Way West, St Helens",
                     "postcode": "WA10 1BF",
                     "phone": "0871 200 2000",
@@ -64307,7 +64307,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Southport",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Ocean Plaza, Marine Drive, Southport",
                     "postcode": "PR8 1SQ",
                     "phone": "08712 240 240",
@@ -64347,7 +64347,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Southport",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Ocean Plaza, Marine Drive, Southport",
                     "postcode": "PR8 1SQ",
                     "phone": "08712 240 240",
@@ -64403,7 +64403,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Saint Helens",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Chalon Way West, St Helens",
                     "postcode": "WA10 1BF",
                     "phone": "0871 200 2000",
@@ -64459,7 +64459,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Saint Helens",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Chalon Way West, St Helens",
                     "postcode": "WA10 1BF",
                     "phone": "0871 200 2000",
@@ -64499,7 +64499,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Southport",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Ocean Plaza, Marine Drive, Southport",
                     "postcode": "PR8 1SQ",
                     "phone": "08712 240 240",
@@ -64539,7 +64539,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "New Brighton Light",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Marine Point, New Brighton",
                     "postcode": "CH45 2HZ",
                     "phone": "0151 214 1370",
@@ -64579,7 +64579,7 @@
                 "cinema": {
                     "chain": "Empire",
                     "cinema": "Empire - Wigan",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Anjou Boulevard, Robin Park Road, Newtown, Wigan",
                     "postcode": "WN5 0UJ",
                     "phone": "0871 471 4714",
@@ -64627,7 +64627,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Picturehouse at FACT",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "88 Wood St, Liverpool",
                     "postcode": "L1 4DQ",
                     "phone": "0871 902 5737",
@@ -64683,7 +64683,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Warrington",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "100 Westbrook Centre, Westbrook Crescent, Cromwell Avenue, Warrington, Cheshire",
                     "postcode": "WA5 8UD",
                     "phone": "0871 224 4007",
@@ -64739,7 +64739,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Liverpool",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Montrose Way, Edge Lane Retail Park, Liverpool",
                     "postcode": "L13 1EW",
                     "phone": "0871 200 2000",
@@ -64787,7 +64787,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Warrington",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "100 Westbrook Centre, Westbrook Crescent, Cromwell Avenue, Warrington, Cheshire",
                     "postcode": "WA5 8UD",
                     "phone": "0871 224 4007",
@@ -64827,7 +64827,7 @@
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "St Ives Royal Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Royal Square, St.Ives, Cornwall",
                     "postcode": "TR26 2ND",
                     "phone": "01736 796843",
@@ -64875,7 +64875,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Berwick Maltings Theatre & Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Eastern Lane, Berwick-upon-Tweed, Norhtumberland",
                     "postcode": "TD15 1AJ",
                     "phone": "01289 330999",
@@ -64923,7 +64923,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Gateshead",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Trinity Square, Gateshead, Tyne and Wear",
                     "postcode": "NE8 1AG",
                     "phone": "08712 240 240",
@@ -64971,7 +64971,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cramlington",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Manor Walks, Cramlington, Northumberland",
                     "postcode": "NE23 6UT",
                     "phone": "0871 224 0240",
@@ -65035,7 +65035,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cramlington",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Manor Walks, Cramlington, Northumberland",
                     "postcode": "NE23 6UT",
                     "phone": "0871 224 0240",
@@ -65075,7 +65075,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cramlington",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Manor Walks, Cramlington, Northumberland",
                     "postcode": "NE23 6UT",
                     "phone": "0871 224 0240",
@@ -65115,7 +65115,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cramlington",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Manor Walks, Cramlington, Northumberland",
                     "postcode": "NE23 6UT",
                     "phone": "0871 224 0240",
@@ -65155,7 +65155,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Forum Cinema Hexham",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Market Place, Hexham, Northumberland",
                     "postcode": "NE46 1HF",
                     "phone": "01434 601144",
@@ -65203,7 +65203,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cramlington",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Manor Walks, Cramlington, Northumberland",
                     "postcode": "NE23 6UT",
                     "phone": "0871 224 0240",
@@ -65243,7 +65243,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cramlington",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Manor Walks, Cramlington, Northumberland",
                     "postcode": "NE23 6UT",
                     "phone": "0871 224 0240",
@@ -65275,7 +65275,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Berwick Maltings Theatre & Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Eastern Lane, Berwick-upon-Tweed, Norhtumberland",
                     "postcode": "TD15 1AJ",
                     "phone": "01289 330999",
@@ -65323,7 +65323,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Berwick Maltings Theatre & Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Eastern Lane, Berwick-upon-Tweed, Norhtumberland",
                     "postcode": "TD15 1AJ",
                     "phone": "01289 330999",
@@ -65371,7 +65371,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cramlington",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Manor Walks, Cramlington, Northumberland",
                     "postcode": "NE23 6UT",
                     "phone": "0871 224 0240",
@@ -65411,7 +65411,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Forum Cinema Hexham",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Market Place, Hexham, Northumberland",
                     "postcode": "NE46 1HF",
                     "phone": "01434 601144",
@@ -65475,7 +65475,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Gateshead",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "48 Garden Walk, MetroCentre, Gateshead, Tyne and Wear",
                     "postcode": "NE11 9XZ",
                     "phone": "0871 224 4007",
@@ -65523,7 +65523,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Forum Cinema Hexham",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Market Place, Hexham, Northumberland",
                     "postcode": "NE46 1HF",
                     "phone": "01434 601144",
@@ -65571,7 +65571,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Forum Cinema Hexham",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Market Place, Hexham, Northumberland",
                     "postcode": "NE46 1HF",
                     "phone": "01434 601144",
@@ -65617,7 +65617,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Huddersfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Galpharm Stadium, Bradley Mills Road, Huddersfield, West Yorkshire",
                     "postcode": "HD1 6PG",
                     "phone": "0871 224 4007",
@@ -65665,7 +65665,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Forum Cinema Hexham",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Market Place, Hexham, Northumberland",
                     "postcode": "NE46 1HF",
                     "phone": "01434 601144",
@@ -65721,7 +65721,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Forum Cinema Hexham",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Market Place, Hexham, Northumberland",
                     "postcode": "NE46 1HF",
                     "phone": "01434 601144",
@@ -65761,7 +65761,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -65801,7 +65801,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -65849,7 +65849,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -65905,7 +65905,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -65945,7 +65945,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -65993,7 +65993,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -66041,7 +66041,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -66073,7 +66073,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -66121,7 +66121,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Sheffield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meadowhall Centre, Sheffield",
                     "postcode": "S9 1EP",
                     "phone": "08712 240 240",
@@ -66169,7 +66169,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -66209,7 +66209,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Barnsley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "62 - 68 Eldon Street, Barnsley",
                     "postcode": "EN S70 2JL",
                     "phone": "01226 248218",
@@ -66249,7 +66249,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Sheffield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meadowhall Centre, Sheffield",
                     "postcode": "S9 1EP",
                     "phone": "08712 240 240",
@@ -66297,7 +66297,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Barnsley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "62 - 68 Eldon Street, Barnsley",
                     "postcode": "EN S70 2JL",
                     "phone": "01226 248218",
@@ -66337,7 +66337,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -66385,7 +66385,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Worksop Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bridge Street, Worksop",
                     "postcode": "S80 1HP",
                     "phone": "01909 481 900",
@@ -66425,7 +66425,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Worksop Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bridge Street, Worksop",
                     "postcode": "S80 1HP",
                     "phone": "01909 481 900",
@@ -66465,7 +66465,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Sheffield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meadowhall Centre, Sheffield",
                     "postcode": "S9 1EP",
                     "phone": "08712 240 240",
@@ -66505,7 +66505,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Sheffield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meadowhall Centre, Sheffield",
                     "postcode": "S9 1EP",
                     "phone": "08712 240 240",
@@ -66553,7 +66553,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Sheffield 10",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Arundel Gate, Sheffield, South Yorkshire",
                     "postcode": "S1 1DL",
                     "phone": "0871 224 4007",
@@ -66641,7 +66641,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Barnsley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "62 - 68 Eldon Street, Barnsley",
                     "postcode": "EN S70 2JL",
                     "phone": "01226 248218",
@@ -66689,7 +66689,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Barnsley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "62 - 68 Eldon Street, Barnsley",
                     "postcode": "EN S70 2JL",
                     "phone": "01226 248218",
@@ -66729,7 +66729,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Barnsley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "62 - 68 Eldon Street, Barnsley",
                     "postcode": "EN S70 2JL",
                     "phone": "01226 248218",
@@ -66769,7 +66769,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Barnsley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "62 - 68 Eldon Street, Barnsley",
                     "postcode": "EN S70 2JL",
                     "phone": "01226 248218",
@@ -66809,7 +66809,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Barnsley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "62 - 68 Eldon Street, Barnsley",
                     "postcode": "EN S70 2JL",
                     "phone": "01226 248218",
@@ -66857,7 +66857,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Barnsley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "62 - 68 Eldon Street, Barnsley",
                     "postcode": "EN S70 2JL",
                     "phone": "01226 248218",
@@ -66897,7 +66897,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Barnsley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "62 - 68 Eldon Street, Barnsley",
                     "postcode": "EN S70 2JL",
                     "phone": "01226 248218",
@@ -66937,7 +66937,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -66977,7 +66977,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -67017,7 +67017,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -67065,7 +67065,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -67097,7 +67097,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -67137,7 +67137,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "1 Fenton St, Scunthorpe",
                     "postcode": "DN15 6QX",
                     "phone": "08712 240 240",
@@ -67185,7 +67185,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -67233,7 +67233,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -67273,7 +67273,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Barnsley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "62 - 68 Eldon Street, Barnsley",
                     "postcode": "EN S70 2JL",
                     "phone": "01226 248218",
@@ -67313,7 +67313,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -67361,7 +67361,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -67401,7 +67401,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -67441,7 +67441,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -67497,7 +67497,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -67529,7 +67529,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Wakefield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Westgate Retail and Leisure Park, Colinsway, off Charlesworth Way, Wakefield",
                     "postcode": "WF2 9SH",
                     "phone": "0871 200 2000",
@@ -67593,7 +67593,7 @@
                 "cinema": {
                     "chain": "Everyman",
                     "cinema": "Everyman - Leeds",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Level 4, trinity Leeds, Albion Street, Leeds",
                     "postcode": "LS1 5AY",
                     "phone": "0871 906 9060",
@@ -67633,7 +67633,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Huddersfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Galpharm Stadium, Bradley Mills Road, Huddersfield, West Yorkshire",
                     "postcode": "HD1 6PG",
                     "phone": "0871 224 4007",
@@ -67673,7 +67673,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Huddersfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Galpharm Stadium, Bradley Mills Road, Huddersfield, West Yorkshire",
                     "postcode": "HD1 6PG",
                     "phone": "0871 224 4007",
@@ -67713,7 +67713,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Huddersfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Galpharm Stadium, Bradley Mills Road, Huddersfield, West Yorkshire",
                     "postcode": "HD1 6PG",
                     "phone": "0871 224 4007",
@@ -67753,7 +67753,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Huddersfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Galpharm Stadium, Bradley Mills Road, Huddersfield, West Yorkshire",
                     "postcode": "HD1 6PG",
                     "phone": "0871 224 4007",
@@ -67801,7 +67801,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Huddersfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Galpharm Stadium, Bradley Mills Road, Huddersfield, West Yorkshire",
                     "postcode": "HD1 6PG",
                     "phone": "0871 224 4007",
@@ -67841,7 +67841,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Huddersfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Galpharm Stadium, Bradley Mills Road, Huddersfield, West Yorkshire",
                     "postcode": "HD1 6PG",
                     "phone": "0871 224 4007",
@@ -67897,7 +67897,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Huddersfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Galpharm Stadium, Bradley Mills Road, Huddersfield, West Yorkshire",
                     "postcode": "HD1 6PG",
                     "phone": "0871 224 4007",
@@ -67937,7 +67937,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Halifax",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "6 Broad Street, Halifax",
                     "postcode": "HX1 1UX",
                     "phone": "08712 240 240",
@@ -67977,7 +67977,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Huddersfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Galpharm Stadium, Bradley Mills Road, Huddersfield, West Yorkshire",
                     "postcode": "HD1 6PG",
                     "phone": "0871 224 4007",
@@ -68025,7 +68025,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Leeds",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gelderd Road, Birstall, Leeds, West Yorkshire",
                     "postcode": "WS17",
                     "phone": "0871 220 1000",
@@ -68073,7 +68073,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Halifax",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "6 Broad Street, Halifax",
                     "postcode": "HX1 1UX",
                     "phone": "08712 240 240",
@@ -68113,7 +68113,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Huddersfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Galpharm Stadium, Bradley Mills Road, Huddersfield, West Yorkshire",
                     "postcode": "HD1 6PG",
                     "phone": "0871 224 4007",
@@ -68153,7 +68153,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Huddersfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Galpharm Stadium, Bradley Mills Road, Huddersfield, West Yorkshire",
                     "postcode": "HD1 6PG",
                     "phone": "0871 224 4007",
@@ -68193,7 +68193,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Halifax",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "6 Broad Street, Halifax",
                     "postcode": "HX1 1UX",
                     "phone": "08712 240 240",
@@ -68233,7 +68233,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Halifax",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "6 Broad Street, Halifax",
                     "postcode": "HX1 1UX",
                     "phone": "08712 240 240",
@@ -68265,7 +68265,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Leeds",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Gelderd Road, Birstall, Leeds, West Yorkshire",
                     "postcode": "WS17",
                     "phone": "0871 220 1000",
@@ -68305,7 +68305,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -68353,7 +68353,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -68393,7 +68393,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -68433,7 +68433,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -68481,7 +68481,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -68529,7 +68529,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -68585,7 +68585,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -68633,7 +68633,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -68681,7 +68681,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -68721,7 +68721,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -68777,7 +68777,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -68857,7 +68857,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -68897,7 +68897,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -68961,7 +68961,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -69017,7 +69017,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leeds Light",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "No. 22, The Light, The Headrow, Leeds, West Yorkshire",
                     "postcode": "LS1 8TL",
                     "phone": "08712 240 240",
@@ -69073,7 +69073,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Sheffield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Valley Centertainment, Broughton Lane, Sheffield, Yorks",
                     "postcode": "S9 2EP",
                     "phone": "0871 200 2000",
@@ -69113,7 +69113,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leeds Light",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "No. 22, The Light, The Headrow, Leeds, West Yorkshire",
                     "postcode": "LS1 8TL",
                     "phone": "08712 240 240",
@@ -69161,7 +69161,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Wakefield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Westgate Retail and Leisure Park, Colinsway, off Charlesworth Way, Wakefield",
                     "postcode": "WF2 9SH",
                     "phone": "0871 200 2000",
@@ -69201,7 +69201,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Wakefield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Westgate Retail and Leisure Park, Colinsway, off Charlesworth Way, Wakefield",
                     "postcode": "WF2 9SH",
                     "phone": "0871 200 2000",
@@ -69241,7 +69241,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Bradford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bradford, West Yorkshire",
                     "postcode": "BD3 7AT",
                     "phone": "0871 22 44 007",
@@ -69281,7 +69281,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -69321,7 +69321,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leeds Light",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "No. 22, The Light, The Headrow, Leeds, West Yorkshire",
                     "postcode": "LS1 8TL",
                     "phone": "08712 240 240",
@@ -69377,7 +69377,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Bradford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bradford, West Yorkshire",
                     "postcode": "BD3 7AT",
                     "phone": "0871 22 44 007",
@@ -69425,7 +69425,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -69465,7 +69465,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -69505,7 +69505,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -69545,7 +69545,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -69585,7 +69585,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -69617,7 +69617,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -69657,7 +69657,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -69697,7 +69697,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -69729,7 +69729,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -69777,7 +69777,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -69825,7 +69825,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - York",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Moor Centre, Stirling Rd, York, North Yorkshire",
                     "postcode": "YO30 4XY",
                     "phone": "08712 240 240",
@@ -69865,7 +69865,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -69905,7 +69905,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -69953,7 +69953,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -69993,7 +69993,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -70033,7 +70033,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -70073,7 +70073,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -70113,7 +70113,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -70153,7 +70153,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -70185,7 +70185,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -70241,7 +70241,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -70289,7 +70289,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -70337,7 +70337,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -70377,7 +70377,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -70417,7 +70417,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -70449,7 +70449,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -70489,7 +70489,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -70529,7 +70529,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -70569,7 +70569,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -70609,7 +70609,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -70649,7 +70649,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -70689,7 +70689,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -70769,7 +70769,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -70809,7 +70809,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -70849,7 +70849,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -70889,7 +70889,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -70945,7 +70945,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -70985,7 +70985,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "National Media Museum",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bradford, West Yorkshire",
                     "postcode": "BD1 1NQ",
                     "phone": "01274 203409",
@@ -71025,7 +71025,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "National Media Museum",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bradford, West Yorkshire",
                     "postcode": "BD1 1NQ",
                     "phone": "01274 203409",
@@ -71065,7 +71065,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Burnley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park, Manchester Road. Burnley.",
                     "postcode": "BB11 2EJ",
                     "phone": "01509 221155",
@@ -71105,7 +71105,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Burnley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park, Manchester Road. Burnley.",
                     "postcode": "BB11 2EJ",
                     "phone": "01509 221155",
@@ -71145,7 +71145,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Burnley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park, Manchester Road. Burnley.",
                     "postcode": "BB11 2EJ",
                     "phone": "01509 221155",
@@ -71185,7 +71185,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Burnley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park, Manchester Road. Burnley.",
                     "postcode": "BB11 2EJ",
                     "phone": "01509 221155",
@@ -71233,7 +71233,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "E Parade, Harrogate, North Yorkshire",
                     "postcode": "HG1 5LB",
                     "phone": "0871 224 4007",
@@ -71273,7 +71273,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -71313,7 +71313,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -71361,7 +71361,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Burnley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park, Manchester Road. Burnley.",
                     "postcode": "BB11 2EJ",
                     "phone": "01509 221155",
@@ -71401,7 +71401,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Burnley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park, Manchester Road. Burnley.",
                     "postcode": "BB11 2EJ",
                     "phone": "01509 221155",
@@ -71441,7 +71441,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -71481,7 +71481,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Burnley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park, Manchester Road. Burnley.",
                     "postcode": "BB11 2EJ",
                     "phone": "01509 221155",
@@ -71521,7 +71521,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Burnley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park, Manchester Road. Burnley.",
                     "postcode": "BB11 2EJ",
                     "phone": "01509 221155",
@@ -71561,7 +71561,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Burnley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park, Manchester Road. Burnley.",
                     "postcode": "BB11 2EJ",
                     "phone": "01509 221155",
@@ -71617,7 +71617,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Burnley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park, Manchester Road. Burnley.",
                     "postcode": "BB11 2EJ",
                     "phone": "01509 221155",
@@ -71657,7 +71657,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Burnley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park, Manchester Road. Burnley.",
                     "postcode": "BB11 2EJ",
                     "phone": "01509 221155",
@@ -71705,7 +71705,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Burnley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park, Manchester Road. Burnley.",
                     "postcode": "BB11 2EJ",
                     "phone": "01509 221155",
@@ -71745,7 +71745,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -71785,7 +71785,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -71817,7 +71817,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Compston Road, Ambleside, Cumbria",
                     "postcode": "LA22 9DJ",
                     "phone": "015394 33845",
@@ -71857,7 +71857,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Church St, Lancaster",
                     "postcode": "LA1 1LP",
                     "phone": "0871 224 0240",
@@ -71905,7 +71905,7 @@
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Burnley",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Hollywood Park, Manchester Road. Burnley.",
                     "postcode": "BB11 2EJ",
                     "phone": "01509 221155",
@@ -71977,7 +71977,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Aldeburgh Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "51 High Street, Aldeburgh, Suffolk",
                     "postcode": "IP15 5AU",
                     "phone": "01728 484884",
@@ -72025,7 +72025,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Ipswich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cardinal Park, 11 Grafton Way, Ipswich, Suffolk",
                     "postcode": "IP1 1AX",
                     "phone": "0871 200 2000",
@@ -72065,7 +72065,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -72105,7 +72105,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -72145,7 +72145,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Abbeygate Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Hatter St, Town Centre, Bury St Edmunds",
                     "postcode": "IP33 1NE",
                     "phone": "0871 902 5722",
@@ -72177,7 +72177,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Riverside Restaurant & Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Quayside, Woodbridge, Suffolk",
                     "postcode": "IP12 1PH",
                     "phone": "01394 383587",
@@ -72217,7 +72217,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Ipswich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cardinal Park, 11 Grafton Way, Ipswich, Suffolk",
                     "postcode": "IP1 1AX",
                     "phone": "0871 200 2000",
@@ -72265,7 +72265,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Ipswich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cardinal Park, 11 Grafton Way, Ipswich, Suffolk",
                     "postcode": "IP1 1AX",
                     "phone": "0871 200 2000",
@@ -72329,7 +72329,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Haverhill",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Leisure & Retail Complex, Ehringshausen Way",
                     "postcode": "CB9 0ER",
                     "phone": "0871 200 2000",
@@ -72369,7 +72369,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Ipswich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cardinal Park, 11 Grafton Way, Ipswich, Suffolk",
                     "postcode": "IP1 1AX",
                     "phone": "0871 200 2000",
@@ -72409,7 +72409,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -72449,7 +72449,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -72489,7 +72489,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -72529,7 +72529,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -72569,7 +72569,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Abbeygate Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Hatter St, Town Centre, Bury St Edmunds",
                     "postcode": "IP33 1NE",
                     "phone": "0871 902 5722",
@@ -72625,7 +72625,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Aldeburgh Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "51 High Street, Aldeburgh, Suffolk",
                     "postcode": "IP15 5AU",
                     "phone": "01728 484884",
@@ -72665,7 +72665,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Abbeygate Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Hatter St, Town Centre, Bury St Edmunds",
                     "postcode": "IP33 1NE",
                     "phone": "0871 902 5722",
@@ -72713,7 +72713,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Riverside Restaurant & Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Quayside, Woodbridge, Suffolk",
                     "postcode": "IP12 1PH",
                     "phone": "01394 383587",
@@ -72753,7 +72753,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -72801,7 +72801,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Aldeburgh Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "51 High Street, Aldeburgh, Suffolk",
                     "postcode": "IP15 5AU",
                     "phone": "01728 484884",
@@ -72841,7 +72841,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -72897,7 +72897,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Riverside Restaurant & Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Quayside, Woodbridge, Suffolk",
                     "postcode": "IP12 1PH",
                     "phone": "01394 383587",
@@ -72937,7 +72937,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Ipswich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cardinal Park, 11 Grafton Way, Ipswich, Suffolk",
                     "postcode": "IP1 1AX",
                     "phone": "0871 200 2000",
@@ -72985,7 +72985,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Ipswich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cardinal Park, 11 Grafton Way, Ipswich, Suffolk",
                     "postcode": "IP1 1AX",
                     "phone": "0871 200 2000",
@@ -73033,7 +73033,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -73081,7 +73081,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Bury St Edmunds",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Park Way, Bury St Edmunds",
                     "postcode": "IP33 3BA",
                     "phone": "0871 200 2000",
@@ -73121,7 +73121,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -73161,7 +73161,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Bury St Edmunds",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Park Way, Bury St Edmunds",
                     "postcode": "IP33 3BA",
                     "phone": "0871 200 2000",
@@ -73201,7 +73201,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Aldeburgh Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "51 High Street, Aldeburgh, Suffolk",
                     "postcode": "IP15 5AU",
                     "phone": "01728 484884",
@@ -73257,7 +73257,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Ipswich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cardinal Park, 11 Grafton Way, Ipswich, Suffolk",
                     "postcode": "IP1 1AX",
                     "phone": "0871 200 2000",
@@ -73289,7 +73289,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Abbeygate Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Hatter St, Town Centre, Bury St Edmunds",
                     "postcode": "IP33 1NE",
                     "phone": "0871 902 5722",
@@ -73329,7 +73329,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Abbeygate Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Hatter St, Town Centre, Bury St Edmunds",
                     "postcode": "IP33 1NE",
                     "phone": "0871 902 5722",
@@ -73369,7 +73369,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Abbeygate Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Hatter St, Town Centre, Bury St Edmunds",
                     "postcode": "IP33 1NE",
                     "phone": "0871 902 5722",
@@ -73409,7 +73409,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Aldeburgh Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "51 High Street, Aldeburgh, Suffolk",
                     "postcode": "IP15 5AU",
                     "phone": "01728 484884",
@@ -73449,7 +73449,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Abbeygate Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Hatter St, Town Centre, Bury St Edmunds",
                     "postcode": "IP33 1NE",
                     "phone": "0871 902 5722",
@@ -73489,7 +73489,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Aldeburgh Cinema",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "51 High Street, Aldeburgh, Suffolk",
                     "postcode": "IP15 5AU",
                     "phone": "01728 484884",
@@ -73545,7 +73545,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Ipswich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Cardinal Park, 11 Grafton Way, Ipswich, Suffolk",
                     "postcode": "IP1 1AX",
                     "phone": "0871 200 2000",
@@ -73593,7 +73593,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Abbeygate Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Hatter St, Town Centre, Bury St Edmunds",
                     "postcode": "IP33 1NE",
                     "phone": "0871 902 5722",
@@ -73649,7 +73649,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Riverside Leisure Park, Wherry Rd, Norwich",
                     "postcode": "NR1 1XA",
                     "phone": "0871 224 4007",
@@ -73689,7 +73689,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Mansfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mansfield Leisure Park, Park Lane, Mansfield, Nottinghamshire",
                     "postcode": "NG18 1BU",
                     "phone": "0871 224 4007",
@@ -73737,7 +73737,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Chesterfield",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Alma Leisure Park, Derby Road, Chesterfield",
                     "postcode": "S40 2ED",
                     "phone": "0871 200 2000",
@@ -73801,7 +73801,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -73841,7 +73841,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "22-24 Market Pl  Pocklington, York",
                     "postcode": "YO42 2AR",
                     "phone": "01759 301547",
@@ -73889,7 +73889,7 @@
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "74-75 North Street, Ripon",
                     "postcode": "HG4 1DP",
                     "phone": "0330 500 1331",
@@ -73929,7 +73929,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Xscape, Colorado Way, Castleford, West Yorks",
                     "postcode": "WF10 4TA",
                     "phone": "0871 200 2000",
@@ -73976,7 +73976,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -74072,7 +74072,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Doncaster Leisure Park, Herten Way, Bawtry Road, Doncaster",
                     "postcode": "DN4 7NW",
                     "phone": "0871 224 0240",
@@ -74120,7 +74120,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "13-17 Coney Street",
                     "postcode": "YO1 9QL",
                     "phone": "0871 902 5726",
@@ -74168,7 +74168,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Abbeygate Picturehouse",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Hatter St, Town Centre, Bury St Edmunds",
                     "postcode": "IP33 1NE",
                     "phone": "0871 902 5722",
@@ -74216,7 +74216,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Riverside Restaurant & Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Quayside, Woodbridge, Suffolk",
                     "postcode": "IP12 1PH",
                     "phone": "01394 383587",
@@ -74280,7 +74280,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Riverside Restaurant & Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Quayside, Woodbridge, Suffolk",
                     "postcode": "IP12 1PH",
                     "phone": "01394 383587",
@@ -74336,7 +74336,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -74392,7 +74392,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -74448,7 +74448,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -74496,7 +74496,7 @@
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Nottingham Savoy",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "233 Derby Road, Nottingham",
                     "postcode": "NG7 1QN",
                     "phone": "0115 947 2580",
@@ -74544,7 +74544,7 @@
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Nottingham",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Clifton Boulevard (A52), Redfield Way, Lenton, Nottingham",
                     "postcode": "NG7 2UW",
                     "phone": "0871 220 1000",
@@ -74608,7 +74608,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Belper Ritz",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "76B King St, Belper, Derbyshire",
                     "postcode": "DE56 1QA",
                     "phone": "01773 822224",
@@ -74672,7 +74672,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Leicester Phoenix",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Midland Street, Leicester",
                     "postcode": "LE1 1TG",
                     "phone": "0116 242 2800",
@@ -74736,7 +74736,7 @@
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Leicester Phoenix",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "4 Midland Street, Leicester",
                     "postcode": "LE1 1TG",
                     "phone": "0116 242 2800",
@@ -74792,7 +74792,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Meridian Leisure Park, Lubbesthorpe Way, Braunstone, Leicester",
                     "postcode": "LE19 1JZ",
                     "phone": "08712 240 240",
@@ -74848,7 +74848,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Pegasus Court, Wellingborough Road, Kettering, Northamptonshire",
                     "postcode": "NN15 6XS",
                     "phone": "0871 224 4007",
@@ -74904,7 +74904,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "8 King Street, Melton Mowbray. Leicestershire",
                     "postcode": "LE13 1XA",
                     "phone": "01664 500642",
@@ -74960,7 +74960,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Coventry",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Sky Dome, Coventry, West Midlands",
                     "postcode": "CV1 3AZ",
                     "phone": "0871 224 4007",
@@ -75016,7 +75016,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cleveleys",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "N Promenade, Thornton-Cleveleys",
                     "postcode": "FY5 1DB",
                     "phone": "01253 827285",
@@ -75064,7 +75064,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Granary Theatre Staithe Street Wells-next-the-Sea, Norfolk",
                     "postcode": "NR23 1AU",
                     "phone": "07900 316606",
@@ -75112,7 +75112,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "ADeC Ely",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Arts Development in East Cambridgshire, Bablylon Gallery Waterside",
                     "postcode": "CB7 4AU",
                     "phone": "01353 669022",
@@ -75160,7 +75160,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -75207,7 +75207,7 @@
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Andrews Street, Norwich",
                     "postcode": "NR2 4AD",
                     "phone": "0871 902 5724",
@@ -75271,7 +75271,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Middlesbrough Leisure Park, Marton Road, Middlesbrough, Cleveland",
                     "postcode": "TS1 2DY",
                     "phone": "0871 200 2000",
@@ -75311,7 +75311,7 @@
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Station Yard, Richmond, North Yorkshire",
                     "postcode": "DL10 4LD",
                     "phone": "01748 823062",
@@ -75349,7 +75349,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Wrexham",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Eagles Meadow, Wrexham",
                     "postcode": "LL13 8DG",
                     "phone": "0871 224 4007",
@@ -75387,7 +75387,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Llandudno",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction Leisure Park, Off Junction Way, Llandudno Junction, Conwy",
                     "postcode": "LL31 9XX",
                     "phone": "0871 200 2000",
@@ -75425,7 +75425,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Aberystwyth Arts Centre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Aberystwyth University, Penglais Campus, Aberystwyth, Ceredigion",
                     "postcode": "SY23 3DE",
                     "phone": "01970 62 32 32",
@@ -75463,7 +75463,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Llandudno",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction Leisure Park, Off Junction Way, Llandudno Junction, Conwy",
                     "postcode": "LL31 9XX",
                     "phone": "0871 200 2000",
@@ -75501,7 +75501,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Llandudno",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Junction Leisure Park, Off Junction Way, Llandudno Junction, Conwy",
                     "postcode": "LL31 9XX",
                     "phone": "0871 200 2000",
@@ -75539,7 +75539,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Prestatyn Scala",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 High Street, Prestatyn, Denbighshire.",
                     "postcode": "LL19 9AH",
                     "phone": "01745 853847",
@@ -75577,7 +75577,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Prestatyn Scala",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "47 High Street, Prestatyn, Denbighshire.",
                     "postcode": "LL19 9AH",
                     "phone": "01745 853847",
@@ -75608,7 +75608,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Cardigan Theatr Mwldan",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Bath House Road, Cardigan, Ceredigion",
                     "postcode": "SA43 1JY",
                     "phone": "01239 621300",
@@ -75653,7 +75653,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Milford Haven Torch Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Peters Road, Milford Haven, Pembrokeshire",
                     "postcode": "SA73 2BU",
                     "phone": "01646 695 267",
@@ -75691,7 +75691,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Cardiff",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mary Ann Street, Cardiff",
                     "postcode": "CF10 2EN",
                     "phone": "0871 200 2000",
@@ -75729,7 +75729,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Cardiff",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mary Ann Street, Cardiff",
                     "postcode": "CF10 2EN",
                     "phone": "0871 200 2000",
@@ -75774,7 +75774,7 @@
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Cardiff",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Mary Ann Street, Cardiff",
                     "postcode": "CF10 2EN",
                     "phone": "0871 200 2000",
@@ -75819,7 +75819,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Milford Haven Torch Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Peters Road, Milford Haven, Pembrokeshire",
                     "postcode": "SA73 2BU",
                     "phone": "01646 695 267",
@@ -75857,7 +75857,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Milford Haven Torch Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Peters Road, Milford Haven, Pembrokeshire",
                     "postcode": "SA73 2BU",
                     "phone": "01646 695 267",
@@ -75895,7 +75895,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Milford Haven Torch Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Peters Road, Milford Haven, Pembrokeshire",
                     "postcode": "SA73 2BU",
                     "phone": "01646 695 267",
@@ -75933,7 +75933,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Milford Haven Torch Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Peters Road, Milford Haven, Pembrokeshire",
                     "postcode": "SA73 2BU",
                     "phone": "01646 695 267",
@@ -75971,7 +75971,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Milford Haven Torch Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Peters Road, Milford Haven, Pembrokeshire",
                     "postcode": "SA73 2BU",
                     "phone": "01646 695 267",
@@ -76009,7 +76009,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Milford Haven Torch Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Peters Road, Milford Haven, Pembrokeshire",
                     "postcode": "SA73 2BU",
                     "phone": "01646 695 267",
@@ -76047,7 +76047,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Milford Haven Torch Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Peters Road, Milford Haven, Pembrokeshire",
                     "postcode": "SA73 2BU",
                     "phone": "01646 695 267",
@@ -76085,7 +76085,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Milford Haven Torch Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Peters Road, Milford Haven, Pembrokeshire",
                     "postcode": "SA73 2BU",
                     "phone": "01646 695 267",
@@ -76123,7 +76123,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Bridgend",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "McArthur Glen Designer Outlet, The Pines, Bridgend",
                     "postcode": "CF32 9ST",
                     "phone": "0871 224 4007",
@@ -76161,7 +76161,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Llanelli",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "Eastgate, Island Place, Llanelli, Carmarthenshire",
                     "postcode": "SA15 1SG",
                     "phone": "0871 224 4007",
@@ -76199,7 +76199,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Milford Haven Torch Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Peters Road, Milford Haven, Pembrokeshire",
                     "postcode": "SA73 2BU",
                     "phone": "01646 695 267",
@@ -76237,7 +76237,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Milford Haven Torch Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Peters Road, Milford Haven, Pembrokeshire",
                     "postcode": "SA73 2BU",
                     "phone": "01646 695 267",
@@ -76282,7 +76282,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Milford Haven Torch Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Peters Road, Milford Haven, Pembrokeshire",
                     "postcode": "SA73 2BU",
                     "phone": "01646 695 267",
@@ -76320,7 +76320,7 @@
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Swansea",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "York St, Swansea",
                     "postcode": "SA1 3LZ",
                     "phone": "08712 240 240",
@@ -76358,7 +76358,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Milford Haven Torch Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Peters Road, Milford Haven, Pembrokeshire",
                     "postcode": "SA73 2BU",
                     "phone": "01646 695 267",
@@ -76396,7 +76396,7 @@
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Cardiff",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "The Red Dragon Centre, Hemingway Rd, Cardiff",
                     "postcode": "CF10 4JY",
                     "phone": "0871 224 4007",
@@ -76434,7 +76434,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Milford Haven Torch Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Peters Road, Milford Haven, Pembrokeshire",
                     "postcode": "SA73 2BU",
                     "phone": "01646 695 267",
@@ -76472,7 +76472,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Milford Haven Torch Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Peters Road, Milford Haven, Pembrokeshire",
                     "postcode": "SA73 2BU",
                     "phone": "01646 695 267",
@@ -76510,7 +76510,7 @@
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Milford Haven Torch Theatre",
-                    "live": "24/04/2014",
+                    "live": "24 April",
                     "address": "St Peters Road, Milford Haven, Pembrokeshire",
                     "postcode": "SA73 2BU",
                     "phone": "01646 695 267",
