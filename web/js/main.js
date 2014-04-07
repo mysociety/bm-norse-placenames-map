@@ -228,8 +228,8 @@
 
         // Create an infowindow to show details in
         var infoWindow = new google.maps.InfoWindow({
-            content: "",
-            maxWidth: Math.round($map.innerWidth() * 0.65)
+            content: "",            
+            maxWidth: 544
         });
         // And one to show titles in
         var titleWindow = new google.maps.InfoWindow({
@@ -299,6 +299,10 @@
                     infoWindow.setContent(markerInfo);
                     infoWindow.open(map, marker);
                     window.location.hash = place.slug;
+
+                    // Remove google's styling classes from the popup
+                    $(".gm-style").removeClass("gm-style");
+
                     // Register a click handler for the social buttons in the
                     // marker window
                     $("ul.map-marker__social-buttons li > a").click(function(e) {

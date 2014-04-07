@@ -40,7 +40,7 @@
                 <input type="text" name="placeQuery" class="map-search__form__input" id="mapSearchInput" placeholder="e.g. Scunthorpe" />
                 <div class="map-search__form__buttons">
                     <button type="submit" class="map-search__form__buttons__submit">Search</button>
-                    <button href="#" id="geolocationButton" class="map-search__form__buttons__geolocation" style="display:none;">Find my location automatically</button>
+                    <button href="#" id="geolocationButton" class="map-search__form__buttons__geolocation" style="display:none;" title="Find my location automatically">Find my location automatically</button>
                 </div>
             </div>
         </form>
@@ -93,21 +93,26 @@
             <% }); %>
             </ul>
             <% if(showNearestCinema) { %>
-                <h3 class="map-marker__cinema-name">
-                    Nearest Vikings Live showing:
-                    <% if(place.cinema.cinemaurl !== "") { %>
-                        <a href="<%= place.cinema.cinemaurl %>"><%= place.cinema.cinema %>: <%= place.cinema.live %></a>
-                    <% } else if (place.cinema.cinemaemail !== "") { %>
-                        <a href="mailto:<%= place.cinema.cinemaemail %>"><%= place.cinema.cinema %>: <%= place.cinema.live %>
-                    <% } else { %>
-                        <%= place.cinema.cinema %>: <%= place.cinema.live %>
-                        <% if (place.cinema.phone !== "") { %>
-                            (<a href="tel:<%= place.cinema.phone %>"><%= place.cinema.phone %></a>)
+                <div class="map-marker__cinema-name tight">
+                    <h3>
+                        Vikings Live showing at a cinema near <%= place.placename %>
+                    </h3>
+                    <p>Book now for Vikings Live on <%= place.cinema.live %> at
+                        <% if(place.cinema.cinemaurl !== "") { %>
+                            <a href="<%= place.cinema.cinemaurl %>"><%= place.cinema.cinema %></a>.
+                        <% } else if (place.cinema.cinemaemail !== "") { %>
+                            <a href="mailto:<%= place.cinema.cinemaemail %>"><%= place.cinema.cinema %></a>
+                        <% } else { %>
+                            <%= place.cinema.cinema %>
+                            <% if (place.cinema.phone !== "") { %>
+                                (<a href="tel:<%= place.cinema.phone %>"><%= place.cinema.phone %></a>)
+                            <% } %>
                         <% } %>
-                    <% } %>
-                </h3>
+                    </p>
+                    <p><a class="highlight" href="">See all cinemas showing Vikings Live<i class="link-arrow"></i></a></p>
+                </div>
             <% } %>
-            <h4 class="map-marker__social-header">Share this place</h4>
+            <h4>Talk about this place</h4>
             <ul class="map-marker__social-buttons">
                 <li>
                     <a href="https://www.facebook.com/sharer/sharer.php?u=<%=shareUrl%>"
