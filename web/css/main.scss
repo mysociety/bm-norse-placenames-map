@@ -35,9 +35,8 @@
             display: inline;
             border: none;
             // Mobile-first width, as small as it can be to make sure it fits
-            // If you tweak the padding here, adjust the widths
-            // margin-bottom of .map-search to and the top: on
-            // .map-search__results
+            // If you tweak the padding here, adjust the widths and
+            // margin-bottom of .map-search and the top: on .map-search__results
             width: 116px;
             padding: 6px;
             // Input gets bigger on bigger screens
@@ -90,7 +89,7 @@
         width: 100%;
         // Because input gets bigger on bigger screens, we need to move further
         @media screen and (min-width: 768px) {
-            top: 70px;
+            top: 65px;
         }
         ul {
             margin-bottom: 0;
