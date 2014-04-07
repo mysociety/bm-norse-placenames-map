@@ -1,3 +1,4 @@
 conf/general
 .sass-cache
 web/css/main.css
+node_modules
