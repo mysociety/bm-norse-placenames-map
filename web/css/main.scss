@@ -152,6 +152,7 @@
 
 .map-marker {
     font-family:arial;
+    padding:7px 0 0 4px;
 
     a {
         color: #000;
@@ -190,6 +191,8 @@
     }
 
     .map-marker__social-buttons {
+        margin-bottom:8px;
+
         li {
             display: inline;
             margin-right: 10px;
