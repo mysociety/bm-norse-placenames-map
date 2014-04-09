@@ -199,6 +199,5 @@
     <script type="text/javascript" src="/js/watlingstreet.js"></script>
     <script type="text/javascript" src="/js/kepn.js"></script>
     <script type="text/javascript" src="/js/main.js"></script>
-    <script type="text/javascript" src="/js/cinemas.js"></script>
 </body>
 </html>
