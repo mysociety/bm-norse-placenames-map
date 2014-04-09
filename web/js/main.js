@@ -76,16 +76,32 @@
         return slugs;
     };
 
-    // Show a geocoder result on the map
-    // Takes a lat/lng string from google.maps.LatLng.toUrlValue() and a
-    // google.maps.Map object
-    var showGeocodeResult = function(location) {
-        var parts = location.split(',');
-        var lat = parseFloat(parts[0]);
-        var lng = parseFloat(parts[1]);
-        var point = new google.maps.LatLng(lat, lng);
+    // Check if there are any markers in the current map view and alert the
+    // user if not
+    var markersInView = function() {
+        var mapBounds = mySociety.map.getBounds();
+        var markersInBounds = false;
+        _.each(mySociety.markers, function(marker) {
+            if(mapBounds.contains(marker.getPosition())) {
+                markersInBounds = true;
+                // Break early
+                return false;
+            }
+        });
+        return markersInBounds;
+    };
+
+    // Show a specific point result on the map
+    // Takes a google.maps.LatLng
+    var showPoint = function(point) {
         mySociety.map.panTo(point);
         mySociety.map.setZoom(mySociety.placeZoomLevel);
+        // Check if there are any markers in view
+        google.maps.event.addListenerOnce(mySociety.map, 'idle', function(){
+            if(!markersInView()) {
+                alert("Sorry, there aren't any Norse places near here. Perhaps try zooming out a bit or searching for a different place.");
+            }
+        });
     };
 
     // Show a specific Norse place on the map
@@ -134,7 +150,11 @@
                 }
                 else {
                     var location = $this.data('location');
-                    showGeocodeResult(location);
+                    var parts = location.split(',');
+                    var lat = parseFloat(parts[0]);
+                    var lng = parseFloat(parts[1]);
+                    var point = new google.maps.LatLng(lat, lng);
+                    showPoint(point);
                 }
                 $mapSearchResults.hide();
             });
@@ -178,8 +198,7 @@
     // button and the text to set the button to
     var geolocationSuccess = function(position, $geolocationButton, originalText) {
         var point = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
-        mySociety.map.panTo(point);
-        mySociety.map.setZoom(mySociety.placeZoomLevel);
+        showPoint(point);
         $geolocationButton.text(originalText);
         $geolocationButton.attr("disabled", false);
         $geolocationButton.removeClass("loading");
@@ -228,7 +247,7 @@
 
         // Create an infowindow to show details in
         var infoWindow = new google.maps.InfoWindow({
-            content: "",            
+            content: "",
             maxWidth: 544
         });
         // And one to show titles in
