@@ -136,7 +136,7 @@
                         "note": "A secondary settlement, a dependent outlying farmstead or hamlet."
                     }
                 ],
-                "slug": "besthorpe",
+                "slug": "besthorpe2",
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
@@ -212,7 +212,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "gamston",
+                "slug": "gamston2",
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Nottingham Broadway",
@@ -407,7 +407,7 @@
                         "note": "A secondary settlement, a dependent outlying farmstead or hamlet."
                     }
                 ],
-                "slug": "gunthorpe",
+                "slug": "gunthorpe2",
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
@@ -445,7 +445,7 @@
                         "note": "A secondary settlement, a dependent outlying farmstead or hamlet."
                     }
                 ],
-                "slug": "gunthorpe",
+                "slug": "gunthorpe3",
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
@@ -483,7 +483,7 @@
                         "note": "A secondary settlement, a dependent outlying farmstead or hamlet."
                     }
                 ],
-                "slug": "gunthorpe",
+                "slug": "gunthorpe4",
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
@@ -568,7 +568,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "thurgarton",
+                "slug": "thurgarton2",
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "Cromer Regal Movieplex",
@@ -723,7 +723,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "clipston",
+                "slug": "clipston2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
@@ -974,7 +974,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "walesby",
+                "slug": "walesby2",
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
@@ -1148,7 +1148,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "branston",
+                "slug": "branston2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
@@ -1242,7 +1242,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "barnetby-le-wold",
+                "slug": "barnetby-le-wold2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
@@ -1328,7 +1328,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "bigby",
+                "slug": "bigby2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
@@ -1486,7 +1486,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "bonby",
+                "slug": "bonby2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
@@ -1556,7 +1556,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "brocklesby",
+                "slug": "brocklesby2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
@@ -1626,7 +1626,7 @@
                         "note": "A house; also sometimes used of a building for special purposes."
                     }
                 ],
-                "slug": "howsham",
+                "slug": "howsham2",
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
@@ -1784,7 +1784,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "kirton",
+                "slug": "kirton2",
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
@@ -1822,7 +1822,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "kirton",
+                "slug": "kirton3",
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Riverside Restaurant & Theatre",
@@ -2204,7 +2204,7 @@
                         "note": "A small wood."
                     }
                 ],
-                "slug": "lound",
+                "slug": "lound2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
@@ -2810,7 +2810,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "carlton",
+                "slug": "carlton2",
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
@@ -2848,7 +2848,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "carlton",
+                "slug": "carlton3",
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Barnsley",
@@ -2926,7 +2926,7 @@
                         "note": "A secondary settlement, a dependent outlying farmstead or hamlet."
                     }
                 ],
-                "slug": "caythorpe",
+                "slug": "caythorpe2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
@@ -3100,7 +3100,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "rolleston",
+                "slug": "rolleston2",
                 "cinema": {
                     "chain": "ICO",
                     "cinema": "ICO - Leicester Phoenix",
@@ -3146,7 +3146,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "rolleston",
+                "slug": "rolleston3",
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Burton",
@@ -3304,7 +3304,7 @@
                         "note": "An island, an inland promontory, raised ground in marsh, a river-meadow."
                     }
                 ],
-                "slug": "holme",
+                "slug": "holme2",
                 "cinema": {
                     "chain": "Reel Cinemas",
                     "cinema": "Reel Cinemas - Morecambe",
@@ -3334,7 +3334,7 @@
                         "note": "An island, an inland promontory, raised ground in marsh, a river-meadow."
                     }
                 ],
-                "slug": "holme",
+                "slug": "holme3",
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
@@ -3364,7 +3364,7 @@
                         "note": "An island, an inland promontory, raised ground in marsh, a river-meadow."
                     }
                 ],
-                "slug": "holme",
+                "slug": "holme4",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
@@ -3666,7 +3666,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "harby",
+                "slug": "harby2",
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
@@ -3744,7 +3744,7 @@
                         "note": "A secondary settlement, a dependent outlying farmstead or hamlet."
                     }
                 ],
-                "slug": "winthorpe",
+                "slug": "winthorpe2",
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
@@ -3934,7 +3934,7 @@
                         "note": "A secondary settlement, a dependent outlying farmstead or hamlet."
                     }
                 ],
-                "slug": "thorpe",
+                "slug": "thorpe2",
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Belper Ritz",
@@ -3964,7 +3964,7 @@
                         "note": "A secondary settlement, a dependent outlying farmstead or hamlet."
                     }
                 ],
-                "slug": "thorpe",
+                "slug": "thorpe3",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Staines",
@@ -3994,7 +3994,7 @@
                         "note": "A secondary settlement, a dependent outlying farmstead or hamlet."
                     }
                 ],
-                "slug": "thorpe",
+                "slug": "thorpe4",
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Wakefield",
@@ -4024,7 +4024,7 @@
                         "note": "A secondary settlement, a dependent outlying farmstead or hamlet."
                     }
                 ],
-                "slug": "thorpe",
+                "slug": "thorpe5",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Harrogate",
@@ -5230,7 +5230,7 @@
                         "note": "A wood; or wood, timber."
                     }
                 ],
-                "slug": "woodthorpe",
+                "slug": "woodthorpe2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Loughborough",
@@ -5466,7 +5466,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "denby",
+                "slug": "denby2",
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Parkway Barnsley",
@@ -6055,7 +6055,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "sturston",
+                "slug": "sturston2",
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "ADeC Ely",
@@ -8474,7 +8474,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "melmerby",
+                "slug": "melmerby2",
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
@@ -8512,7 +8512,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "melmerby",
+                "slug": "melmerby3",
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
@@ -9806,7 +9806,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "oulton",
+                "slug": "oulton2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
@@ -10964,7 +10964,7 @@
                         "note": "A mountain."
                     }
                 ],
-                "slug": "whinfell",
+                "slug": "whinfell2",
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Ambleside Zefferellis",
@@ -11362,7 +11362,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "thurlaston",
+                "slug": "thurlaston2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Leicester",
@@ -12824,7 +12824,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "nateby",
+                "slug": "nateby2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cleveleys",
@@ -13318,7 +13318,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "colby",
+                "slug": "colby2",
                 "cinema": {
                     "chain": "Merlin Cinemas",
                     "cinema": "Cromer Regal Movieplex",
@@ -13652,7 +13652,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "newby",
+                "slug": "newby2",
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
@@ -14042,7 +14042,7 @@
                         "note": "A small wood."
                     }
                 ],
-                "slug": "kirkland",
+                "slug": "kirkland2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Preston",
@@ -14232,7 +14232,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "thruxton",
+                "slug": "thruxton2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Andover",
@@ -14270,7 +14270,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "thruxton",
+                "slug": "thruxton3",
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
@@ -14436,7 +14436,7 @@
                         "note": "A secondary settlement, a dependent outlying farmstead or hamlet."
                     }
                 ],
-                "slug": "towthorpe",
+                "slug": "towthorpe2",
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
@@ -14554,7 +14554,7 @@
                         "note": "A cliff, a steep hill."
                     }
                 ],
-                "slug": "rawcliffe",
+                "slug": "rawcliffe2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
@@ -15248,7 +15248,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "claxton",
+                "slug": "claxton2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hartlepool",
@@ -15302,7 +15302,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "claxton",
+                "slug": "claxton3",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
@@ -15380,7 +15380,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "foston",
+                "slug": "foston2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Leicester",
@@ -15418,7 +15418,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "foston",
+                "slug": "foston3",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
@@ -15880,7 +15880,7 @@
                         "note": "A ford."
                     }
                 ],
-                "slug": "wath",
+                "slug": "wath2",
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
@@ -16134,7 +16134,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "normanby",
+                "slug": "normanby2",
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
@@ -16524,7 +16524,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "sproxton",
+                "slug": "sproxton2",
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
@@ -16730,7 +16730,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "aislaby",
+                "slug": "aislaby2",
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Middlesbrough",
@@ -16767,7 +16767,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "aislaby",
+                "slug": "aislaby3",
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
@@ -17181,7 +17181,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "scalby",
+                "slug": "scalby2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
@@ -17675,7 +17675,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "barnby",
+                "slug": "barnby2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
@@ -17753,7 +17753,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "borrowby",
+                "slug": "borrowby2",
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
@@ -17831,7 +17831,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "ellerby",
+                "slug": "ellerby2",
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
@@ -18701,7 +18701,7 @@
                         "note": "A dwelling, a hall."
                     }
                 ],
-                "slug": "upsall",
+                "slug": "upsall2",
                 "cinema": {
                     "chain": "Curzon",
                     "cinema": "Curzon - Ripon",
@@ -18971,7 +18971,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "easby",
+                "slug": "easby2",
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
@@ -19200,7 +19200,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "maltby",
+                "slug": "maltby2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
@@ -19726,7 +19726,7 @@
                         "note": "A village with a church."
                     }
                 ],
-                "slug": "kirby-hill",
+                "slug": "kirby-hill2",
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
@@ -20196,7 +20196,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "catton",
+                "slug": "catton2",
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
@@ -20474,7 +20474,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "sowerby",
+                "slug": "sowerby2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Halifax",
@@ -20640,7 +20640,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "thirkleby",
+                "slug": "thirkleby2",
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
@@ -21358,7 +21358,7 @@
                         "note": "A brook."
                     }
                 ],
-                "slug": "leake",
+                "slug": "leake2",
                 "cinema": {
                     "chain": "Savoy Cinemas",
                     "cinema": "Boston West End Cinema",
@@ -21452,7 +21452,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "crosby",
+                "slug": "crosby2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
@@ -22002,7 +22002,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "thimbleby",
+                "slug": "thimbleby2",
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
@@ -22304,7 +22304,7 @@
                         "note": "A natural height, a hill, a heap, an artificial mound, a burial mound."
                     }
                 ],
-                "slug": "howe",
+                "slug": "howe2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
@@ -22685,7 +22685,7 @@
                         "note": "Poor pasture."
                     }
                 ],
-                "slug": "snape",
+                "slug": "snape2",
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Aldeburgh Cinema",
@@ -23122,7 +23122,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "firby",
+                "slug": "firby2",
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Pocklington Arts Centre",
@@ -23351,7 +23351,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "hornby",
+                "slug": "hornby2",
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Stockton",
@@ -23525,7 +23525,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "killerby",
+                "slug": "killerby2",
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Station Cinema Richmond",
@@ -25707,7 +25707,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "grimston",
+                "slug": "grimston2",
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
@@ -25745,7 +25745,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "grimston",
+                "slug": "grimston3",
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
@@ -25783,7 +25783,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "grimston",
+                "slug": "grimston4",
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Wells Screen Next to the Sea",
@@ -25821,7 +25821,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "grimston",
+                "slug": "grimston5",
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
@@ -26218,7 +26218,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "ouston",
+                "slug": "ouston2",
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Forum Cinema Hexham",
@@ -26360,7 +26360,7 @@
                         "note": "A tree-trunk, a log, a plank."
                     }
                 ],
-                "slug": "bolam",
+                "slug": "bolam2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Cramlington",
@@ -27846,7 +27846,7 @@
                         "note": "Gush of water."
                     }
                 ],
-                "slug": "goxhill",
+                "slug": "goxhill2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
@@ -28628,7 +28628,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "nafferton",
+                "slug": "nafferton2",
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Forum Cinema Hexham",
@@ -28714,7 +28714,7 @@
                         "note": "A curtilage, the plot of ground in which a dwelling stands."
                     }
                 ],
-                "slug": "langtoft",
+                "slug": "langtoft2",
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
@@ -29248,7 +29248,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "willerby",
+                "slug": "willerby2",
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Hull",
@@ -33246,7 +33246,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "osgodby",
+                "slug": "osgodby2",
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
@@ -33828,7 +33828,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "kexby",
+                "slug": "kexby2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
@@ -34090,7 +34090,7 @@
                         "note": "A secondary settlement, a dependent outlying farmstead or hamlet."
                     }
                 ],
-                "slug": "garthorpe",
+                "slug": "garthorpe2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
@@ -34248,7 +34248,7 @@
                         "note": "A slope, a hill-side."
                     }
                 ],
-                "slug": "somerby",
+                "slug": "somerby2",
                 "cinema": {
                     "chain": "Picturehouse Virtual Circuit",
                     "cinema": "Melton Mowbray Regal",
@@ -34286,7 +34286,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "somerby",
+                "slug": "somerby3",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
@@ -36626,7 +36626,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "cadeby",
+                "slug": "cadeby2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
@@ -37312,7 +37312,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "coston",
+                "slug": "coston2",
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "Cinema City",
@@ -37597,7 +37597,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "saxby",
+                "slug": "saxby2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
@@ -39403,7 +39403,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "fritton",
+                "slug": "fritton2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
@@ -39745,7 +39745,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "gunton",
+                "slug": "gunton2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
@@ -40287,7 +40287,7 @@
                         "note": "A clearing, a meadow, a paddock."
                     }
                 ],
-                "slug": "thwaite",
+                "slug": "thwaite2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
@@ -40317,7 +40317,7 @@
                         "note": "A clearing, a meadow, a paddock."
                     }
                 ],
-                "slug": "thwaite",
+                "slug": "thwaite3",
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Ipswich",
@@ -41186,7 +41186,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "colton",
+                "slug": "colton2",
                 "cinema": {
                     "chain": "Picturehouse",
                     "cinema": "York Picturehouse",
@@ -41408,7 +41408,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "gayton",
+                "slug": "gayton2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Liverpool ONE",
@@ -42102,7 +42102,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "croxton",
+                "slug": "croxton2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Stoke",
@@ -42148,7 +42148,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "croxton",
+                "slug": "croxton3",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Hull",
@@ -43058,7 +43058,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "wilby",
+                "slug": "wilby2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
@@ -44159,7 +44159,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "welby",
+                "slug": "welby2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Newark",
@@ -44869,7 +44869,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "asgarby",
+                "slug": "asgarby2",
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
@@ -45947,7 +45947,7 @@
                         "note": "One hundred; an administrative division of a county."
                     }
                 ],
-                "slug": "corby",
+                "slug": "corby2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Kettering",
@@ -46065,7 +46065,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "gunby",
+                "slug": "gunby2",
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
@@ -47375,7 +47375,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "barkston",
+                "slug": "barkston2",
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
@@ -47941,7 +47941,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "thurlby",
+                "slug": "thurlby2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Lincoln",
@@ -49258,7 +49258,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "irby",
+                "slug": "irby2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Liverpool ONE",
@@ -49744,7 +49744,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "claxby",
+                "slug": "claxby2",
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "Playhouse Louth",
@@ -51389,7 +51389,7 @@
                         "note": "A secondary settlement, a dependent outlying farmstead or hamlet."
                     }
                 ],
-                "slug": "southorpe",
+                "slug": "southorpe2",
                 "cinema": {
                     "chain": "Showcase",
                     "cinema": "Showcase - Peterborough",
@@ -52843,7 +52843,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "worlaby",
+                "slug": "worlaby2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Scunthorpe",
@@ -54465,7 +54465,7 @@
                         "note": "A farmstead, a village."
                     }
                 ],
-                "slug": "ashby",
+                "slug": "ashby2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
@@ -54799,7 +54799,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "owston",
+                "slug": "owston2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Doncaster",
@@ -57179,7 +57179,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "draughton",
+                "slug": "draughton2",
                 "cinema": {
                     "chain": "Independent",
                     "cinema": "National Media Museum",
@@ -60109,7 +60109,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "carleton",
+                "slug": "carleton2",
                 "cinema": {
                     "chain": "Cineworld",
                     "cinema": "Cineworld - Castleford",
@@ -60259,7 +60259,7 @@
                         "note": "An enclosure, a farmstead."
                     }
                 ],
-                "slug": "claughton",
+                "slug": "claughton2",
                 "cinema": {
                     "chain": "Vue",
                     "cinema": "Vue - Lancaster",
@@ -63321,7 +63321,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "flixton",
+                "slug": "flixton2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
@@ -63359,7 +63359,7 @@
                         "note": "An enclosure; a farmstead; a village; an estate."
                     }
                 ],
-                "slug": "flixton",
+                "slug": "flixton3",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Norwich",
@@ -65613,7 +65613,7 @@
                         "note": "A church."
                     }
                 ],
-                "slug": "kirkheaton",
+                "slug": "kirkheaton2",
                 "cinema": {
                     "chain": "Odeon",
                     "cinema": "Odeon - Huddersfield",
