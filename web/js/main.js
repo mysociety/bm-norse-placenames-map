@@ -263,7 +263,7 @@
             maxWidth: 544
         });
 
-
+        var markers = [];
         var markersBySlug = {};
 
         // Geocoding options
@@ -282,6 +282,7 @@
         // Export things to the global object
         mySociety.map = map;
         mySociety.geocoder = geocoder;
+        mySociety.markers = markers;
         mySociety.markersBySlug = markersBySlug;
         mySociety.markerInfoTemplate = markerInfoTemplate;
         mySociety.searchResultsTemplate = searchResultsTemplate;
@@ -358,6 +359,7 @@
                 google.maps.event.addListener(marker, 'mouseout', function() {
                     titleWindow.close();
                 });
+                markers.push(marker);
                 markersBySlug[place.slug] = marker;
             });
 
