@@ -76,16 +76,34 @@
         return slugs;
     };
 
-    // Show a geocoder result on the map
-    // Takes a lat/lng string from google.maps.LatLng.toUrlValue() and a
-    // google.maps.Map object
-    var showGeocodeResult = function(location) {
-        var parts = location.split(',');
-        var lat = parseFloat(parts[0]);
-        var lng = parseFloat(parts[1]);
-        var point = new google.maps.LatLng(lat, lng);
+    // Check if there are any markers in the current map view and alert the
+    // user if not
+    var markersInView = function() {
+        var mapBounds = mySociety.map.getBounds();
+        var markersInBounds = false;
+        _.each(mySociety.markers, function(marker) {
+            if(mapBounds.contains(marker.getPosition())) {
+                markersInBounds = true;
+                // Break early
+                return false;
+            }
+        });
+        return markersInBounds;
+    };
+
+    // Show a specific point result on the map
+    // Takes a google.maps.LatLng
+    var showPoint = function(point) {
         mySociety.map.panTo(point);
         mySociety.map.setZoom(mySociety.placeZoomLevel);
+        // Check if there are any markers in view
+        google.maps.event.addListenerOnce(mySociety.map, 'idle', function(){
+            if(!markersInView()) {
+                $(document).trigger('mySociety.popupOpen');
+                mySociety.alertWindow.setPosition(point);
+                mySociety.alertWindow.open(mySociety.map);
+            }
+        });
     };
 
     // Show a specific Norse place on the map
@@ -134,7 +152,11 @@
                 }
                 else {
                     var location = $this.data('location');
-                    showGeocodeResult(location);
+                    var parts = location.split(',');
+                    var lat = parseFloat(parts[0]);
+                    var lng = parseFloat(parts[1]);
+                    var point = new google.maps.LatLng(lat, lng);
+                    showPoint(point);
                 }
                 $mapSearchResults.hide();
             });
@@ -178,8 +200,7 @@
     // button and the text to set the button to
     var geolocationSuccess = function(position, $geolocationButton, originalText) {
         var point = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
-        mySociety.map.panTo(point);
-        mySociety.map.setZoom(mySociety.placeZoomLevel);
+        showPoint(point);
         $geolocationButton.text(originalText);
         $geolocationButton.attr("disabled", false);
         $geolocationButton.removeClass("loading");
@@ -228,7 +249,7 @@
 
         // Create an infowindow to show details in
         var infoWindow = new google.maps.InfoWindow({
-            content: "",            
+            content: "",
             maxWidth: 544
         });
         // And one to show titles in
@@ -236,7 +257,13 @@
             content: "",
             maxWidth: Math.round($map.innerWidth() * 0.65)
         });
+        // And one to show alerts in
+        var alertWindow = new google.maps.InfoWindow({
+            content: '<div class="map-marker"><h3>Sorry, there aren\'t any Norse places near here.</h3><p>Perhaps try zooming out a bit or searching for a different place.</p></div>',
+            maxWidth: 544
+        });
 
+        var markers = [];
         var markersBySlug = {};
 
         // Geocoding options
@@ -255,11 +282,15 @@
         // Export things to the global object
         mySociety.map = map;
         mySociety.geocoder = geocoder;
+        mySociety.markers = markers;
         mySociety.markersBySlug = markersBySlug;
         mySociety.markerInfoTemplate = markerInfoTemplate;
         mySociety.searchResultsTemplate = searchResultsTemplate;
         // What zoom level to go to when showing a specific place
         mySociety.placeZoomLevel = 12;
+        mySociety.infoWindow = infoWindow;
+        mySociety.alertWindow = alertWindow;
+        mySociety.titleWindow = titleWindow;
 
         // Add Watling Street to the map
         mySociety.watlingStreet.setMap(map);
@@ -328,6 +359,7 @@
                 google.maps.event.addListener(marker, 'mouseout', function() {
                     titleWindow.close();
                 });
+                markers.push(marker);
                 markersBySlug[place.slug] = marker;
             });
 
@@ -336,6 +368,7 @@
             $(document).on('mySociety.popupOpen', function(event) {
                 infoWindow.close();
                 titleWindow.close();
+                alertWindow.close();
             });
         });
 
@@ -343,7 +376,9 @@
         google.maps.event.addListenerOnce(map, 'idle', function(){
             if(window.location.hash !== "") {
                 var marker = markersBySlug[window.location.hash.substr(1)];
-                showNorsePlace(marker);
+                if(!_.isUndefined(marker)) {
+                    showNorsePlace(marker);
+                }
             }
         });
 
