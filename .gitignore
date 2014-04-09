@@ -1,4 +1,5 @@
 conf/general
 .sass-cache
+web/css/ie.css
 web/css/main.css
 node_modules
