@@ -20,7 +20,11 @@ var processKepn = function(data) {
         delete processedPlace['placeno'];
         delete processedPlace['comment'];
         // Add a slug
-        processedPlace['slug'] = _.slugify(processedPlace.placename);
+        var sluggableName = processedPlace.placename;
+        if(index > 0) {
+            sluggableName = processedPlace.placename + (index + 1).toString();
+        }
+        processedPlace['slug'] = _.slugify(sluggableName);
         // Add the new place into the result object, creating the entry
         // for this slug if it doesn't exist already
         if(_.isUndefined(processedData[processedPlace['slug']])) {
