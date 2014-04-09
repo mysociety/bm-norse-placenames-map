@@ -79,7 +79,7 @@
         <div class="map-marker">
             <h2 class="map-marker__header"><%= place.placename %></h2>
             <p class="map-marker__etymology"><%= place.etymology %></p>
-            <h3 class="map-marker__elements-header">Elements and their meanings:</h3>
+            <h3 class="map-marker__elements-header">Elements and their meanings</h3>
             <ul class="map-marker__elements">
             <% _.each(place.elements, function(element) { %>
                 <li class="map-marker__elements__item">
