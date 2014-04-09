@@ -425,6 +425,17 @@
             $mapSearch.show();
         });
 
+        // Hide watling street at high zoom levels
+        google.maps.event.addListener(mySociety.map, 'zoom_changed', function(){
+            if (mySociety.map.getZoom() >= 10) {
+                mySociety.watlingStreet.setMap(null);
+                mySociety.watlingStreetShadow.setMap(null);
+            } else {
+                mySociety.watlingStreet.setMap(mySociety.map);
+                mySociety.watlingStreetShadow.setMap(mySociety.map);
+            }
+        });
+
     });
 
 })(window, window.jQuery, window.google, window._, window._gaq, window.mySociety);
