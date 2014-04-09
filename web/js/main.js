@@ -376,7 +376,9 @@
         google.maps.event.addListenerOnce(map, 'idle', function(){
             if(window.location.hash !== "") {
                 var marker = markersBySlug[window.location.hash.substr(1)];
-                showNorsePlace(marker);
+                if(!_.isUndefined(marker)) {
+                    showNorsePlace(marker);
+                }
             }
         });
 
