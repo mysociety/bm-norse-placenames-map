@@ -99,7 +99,9 @@
         // Check if there are any markers in view
         google.maps.event.addListenerOnce(mySociety.map, 'idle', function(){
             if(!markersInView()) {
-                alert("Sorry, there aren't any Norse places near here. Perhaps try zooming out a bit or searching for a different place.");
+                $(document).trigger('mySociety.popupOpen');
+                mySociety.alertWindow.setPosition(point);
+                mySociety.alertWindow.open(mySociety.map);
             }
         });
     };
@@ -255,6 +257,12 @@
             content: "",
             maxWidth: Math.round($map.innerWidth() * 0.65)
         });
+        // And one to show alerts in
+        var alertWindow = new google.maps.InfoWindow({
+            content: '<div class="map-marker"><h3>Sorry, there aren\'t any Norse places near here.</h3><p>Perhaps try zooming out a bit or searching for a different place.</p></div>',
+            maxWidth: 544
+        });
+
 
         var markersBySlug = {};
 
@@ -279,6 +287,9 @@
         mySociety.searchResultsTemplate = searchResultsTemplate;
         // What zoom level to go to when showing a specific place
         mySociety.placeZoomLevel = 12;
+        mySociety.infoWindow = infoWindow;
+        mySociety.alertWindow = alertWindow;
+        mySociety.titleWindow = titleWindow;
 
         // Add Watling Street to the map
         mySociety.watlingStreet.setMap(map);
@@ -355,6 +366,7 @@
             $(document).on('mySociety.popupOpen', function(event) {
                 infoWindow.close();
                 titleWindow.close();
+                alertWindow.close();
             });
         });
 
