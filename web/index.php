@@ -77,57 +77,57 @@
     <!-- Client side templates -->
     <script type="text/html" id="markerInfo">
         <div class="map-marker">
-            <h2 class="map-marker__header"><%= place.placename %></h2>
-            <p class="map-marker__etymology"><%= place.etymology %></p>
+            <h2 class="map-marker__header"><@= place.placename @></h2>
+            <p class="map-marker__etymology"><@= place.etymology @></p>
             <h3 class="map-marker__elements-header">Elements and their meanings</h3>
             <ul class="map-marker__elements">
-            <% _.each(place.elements, function(element) { %>
+            <@ _.each(place.elements, function(element) { @>
                 <li class="map-marker__elements__item">
-                <% if (element.headword !== null) { %>
-                    <span class="map-marker__elements__item__headword"><%= element.headword %></span>
-                <% } else { %>
-                    <span class="map-marker__elements__item__hword"><%= element.hword %></span>
-                <% } %>
-                (<%= element.language %>) <%= element.note %>
+                <@ if (element.headword !== null) { @>
+                    <span class="map-marker__elements__item__headword"><@= element.headword @></span>
+                <@ } else { @>
+                    <span class="map-marker__elements__item__hword"><@= element.hword @></span>
+                <@ } @>
+                (<@= element.language @>) <@= element.note @>
                 </li>
-            <% }); %>
+            <@ }); @>
             </ul>
-            <% if(showNearestCinema) { %>
+            <@ if(showNearestCinema) { @>
                 <div class="map-marker__cinema-name tight">
                     <h3>
-                        Vikings Live showing at a cinema near <%= place.placename %>
+                        Vikings Live showing at a cinema near <@= place.placename @>
                     </h3>
-                    <p>Book now for Vikings Live on <%= place.cinema.live %> at
-                        <% if(place.cinema.cinemaurl !== "") { %>
-                            <a href="<%= place.cinema.cinemaurl %>"><%= place.cinema.cinema %></a>.
-                        <% } else if (place.cinema.cinemaemail !== "") { %>
-                            <a href="mailto:<%= place.cinema.cinemaemail %>"><%= place.cinema.cinema %></a>
-                        <% } else { %>
-                            <%= place.cinema.cinema %>
-                            <% if (place.cinema.phone !== "") { %>
-                                (<a href="tel:<%= place.cinema.phone %>"><%= place.cinema.phone %></a>)
-                            <% } %>
-                        <% } %>
+                    <p>Book now for Vikings Live on <@= place.cinema.live @> at
+                        <@ if(place.cinema.cinemaurl !== "") { @>
+                            <a href="<@= place.cinema.cinemaurl @>"><@= place.cinema.cinema @></a>.
+                        <@ } else if (place.cinema.cinemaemail !== "") { @>
+                            <a href="mailto:<@= place.cinema.cinemaemail @>"><@= place.cinema.cinema @></a>
+                        <@ } else { @>
+                            <@= place.cinema.cinema @>
+                            <@ if (place.cinema.phone !== "") { @>
+                                (<a href="tel:<@= place.cinema.phone @>"><@= place.cinema.phone @></a>)
+                            <@ } @>
+                        <@ } @>
                     </p>
                     <p><a class="highlight" href="">See all cinemas showing Vikings Live<i class="link-arrow"></i></a></p>
                 </div>
-            <% } %>
+            <@ } @>
             <h4>Talk about this place</h4>
             <ul class="map-marker__social-buttons">
                 <li>
-                    <a href="https://www.facebook.com/sharer/sharer.php?u=<%=shareUrl%>"
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=<@=shareUrl@>"
                        title="Share on Facebook" data-social="facebook">
                         <img src="http://www.britishmuseum.org/images/v2/defaults/facebook.png" />
                     </a>
                 </li>
                 <li>
-                    <a href="http://twitter.com/share?url=<%=shareUrl%>&text=<%=shareText%>"
+                    <a href="http://twitter.com/share?url=<@=shareUrl@>&text=<@=shareText@>"
                        title="Share on Twitter" data-social="twitter">
                         <img src="http://www.britishmuseum.org/images/v2/defaults/twitter.png" />
                     </a>
                 </li>
                 <li>
-                    <a href="https://plusone.google.com/_/+1/confirm?hl=en&url=<%=shareUrl%>"
+                    <a href="https://plusone.google.com/_/+1/confirm?hl=en&url=<@=shareUrl@>"
                        title="Share on Google+" data-social="googleplus">
                         <img src="http://www.britishmuseum.org/images/v2/defaults/googleplus.png" />
                     </a>
@@ -138,7 +138,7 @@
 
     <script type="text/html" id="markerTitle">
         <div class="map-marker">
-            <h2 class="map-marker__header"><%= place.placename %></h2>
+            <h2 class="map-marker__header"><@= place.placename @></h2>
         </div>
     </script>
 
@@ -151,44 +151,44 @@
 
     <script type="text/html" id="searchResults">
         <ul>
-            <% if (results.length > 0) { %>
-                <% _.each(results, function(result, index) { %>
+            <@ if (results.length > 0) { @>
+                <@ _.each(results, function(result, index) { @>
                     <li>
-                        <% if(slugs[index] !== null) { %>
-                            <a href="#<%=slugs[index]%>" class="norse" data-slug="<%=slugs[index]%>">
-                        <% } else { %>
-                            <a href="#" data-location="<%=result.geometry.location.toUrlValue()%>">
-                        <% } %>
-                        <%= result.formatted_address %>
+                        <@ if(slugs[index] !== null) { @>
+                            <a href="#<@=slugs[index]@>" class="norse" data-slug="<@=slugs[index]@>">
+                        <@ } else { @>
+                            <a href="#" data-location="<@=result.geometry.location.toUrlValue()@>">
+                        <@ } @>
+                        <@= result.formatted_address @>
                         </a>
                     </li>
-                <% }); %>
-            <% } else { %>
+                <@ }); @>
+            <@ } else { @>
                 <li>
                     <span>Sorry, no results were found for that search.</span>
                 </li>
-            <% } %>
+            <@ } @>
         </ul>
     </script>
 
     <script type="text/html" id="cinemaMarkerInfo">
         <div class="map-marker">
-            <h2 class="map-marker__header"><%= cinema.cinema %></h2>
-            <p>This cinema is showing <a href="http://www.britishmuseum.org/whats_on/exhibitions/vikings/vikings_live.aspx">Vikings Live</a> on: <%= cinema.live %></p>
+            <h2 class="map-marker__header"><@= cinema.cinema @></h2>
+            <p>This cinema is showing <a href="http://www.britishmuseum.org/whats_on/exhibitions/vikings/vikings_live.aspx">Vikings Live</a> on: <@= cinema.live @></p>
             <p class="map-marker__cinema-link">
-                <% if(cinema.cinemaurl !== "") { %>
-                    <a href="<%= cinema.cinemaurl %>">See showings at this cinema</a>
-                <% } %>
+                <@ if(cinema.cinemaurl !== "") { @>
+                    <a href="<@= cinema.cinemaurl @>">See showings at this cinema</a>
+                <@ } @>
             </p>
             <p class="map-marker__cinema-link">
-            <% if(cinema.cinemaemail !== "") { %>
-                <a href="mailto:<%= cinema.cinemaemail %>">Email this cinema</a>
-            <% } %>
+            <@ if(cinema.cinemaemail !== "") { @>
+                <a href="mailto:<@= cinema.cinemaemail @>">Email this cinema</a>
+            <@ } @>
             </p>
             <p class="map-marker__cinema-link">
-                <% if(cinema.phone !== "") { %>
-                    <a href="tel:<%= cinema.phone %>">Phone this cinema on: <%= cinema.phone %></a>
-                <% } %>
+                <@ if(cinema.phone !== "") { @>
+                    <a href="tel:<@= cinema.phone @>">Phone this cinema on: <@= cinema.phone @></a>
+                <@ } @>
             </p>
         </div>
     </script>
