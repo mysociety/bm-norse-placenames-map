@@ -77642,7 +77642,7 @@
                 "placename": "Eriskay",
                 "lng": -7.290658,
                 "lat": 57.073488,
-                "etymology": "Eir�kr's island.",
+                "etymology": "Erik's island.",
                 "elements": [
                     {
                         "headword": null,
