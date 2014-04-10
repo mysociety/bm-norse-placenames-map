@@ -77704,6 +77704,1236 @@
                     "lng": -4.231408500000043
                 }
             }
+        ],
+        "copeland-islands": [
+            {
+                "slug": "copeland-islands",
+                "placename": "Copeland Islands",
+                "lng": -5.5354023,
+                "lat": 54.678219,
+                "etymology": "Merchants' islands.",
+                "elements": [
+                    {
+                        "headword": "kaup-ma&eth;r",
+                        "hword": "kaup-mathr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A merchant, a trader."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Belfast Odyssey",
+                    "live": "24 April",
+                    "address": "Odyssey Pavilion, 2 Queens Quay. Belfast",
+                    "postcode": "BT3 9QQ",
+                    "phone": "02890 739 134",
+                    "cinemaurl": "http://www.odysseycinemas.co.uk/en.aspx",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 54.602644,
+                    "lng": -5.917696100000057
+                }
+            }
+        ],
+        "strangford-lough": [
+            {
+                "slug": "strangford-lough",
+                "placename": "Strangford Lough",
+                "lng": -5.586903,
+                "lat": 54.489389,
+                "etymology": "Strong inlet' (referring to powerful currents).",
+                "elements": [
+                    {
+                        "headword": "strangr",
+                        "hword": "strangr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Strong, arduous: used to describe firm, compact soil, or water with a powerful current."
+                    },
+                    {
+                        "headword": "fj&oog;r&eth;r",
+                        "hword": "fjorthr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Inlet, fjord."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Belfast Odyssey",
+                    "live": "24 April",
+                    "address": "Odyssey Pavilion, 2 Queens Quay. Belfast",
+                    "postcode": "BT3 9QQ",
+                    "phone": "02890 739 134",
+                    "cinemaurl": "http://www.odysseycinemas.co.uk/en.aspx",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 54.602644,
+                    "lng": -5.917696100000057
+                }
+            }
+        ],
+        "haulbowline": [
+            {
+                "slug": "haulbowline",
+                "placename": "Haulbowline",
+                "lng": -6.063008,
+                "lat": 54.02273,
+                "etymology": "Uncertain.  Perhaps related to Norwegian 'alebolig' ('place frequented by eels').",
+                "elements": [
+                    {
+                        "headword": null,
+                        "hword": "Uncertain",
+                        "langcode": "Z",
+                        "language": null,
+                        "note": "Uncertain."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Ireland S",
+                    "cinema": "Movies @ Swords",
+                    "live": "24 April",
+                    "address": "Pavilions Shopping Centre, Swords, Dublin, Ireland",
+                    "postcode": "",
+                    "phone": "(01) 870 3600",
+                    "cinemaurl": "http://www.movies-at.ie/index.php?__site=M-SWORDS",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 53.4548041,
+                    "lng": -6.2183721000000105
+                }
+            },
+            {
+                "slug": "haulbowline",
+                "placename": "Haulbowline",
+                "lng": -8.302822,
+                "lat": 51.840598,
+                "etymology": "Uncertain.  Perhaps related to Norwegian 'alebolig' ('place frequented by eels').",
+                "elements": [
+                    {
+                        "headword": null,
+                        "hword": "Uncertain",
+                        "langcode": "Z",
+                        "language": null,
+                        "note": "Uncertain."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Limerick",
+                    "live": "24 April",
+                    "address": "Castletroy Shopping Centre, Dublin Rd, Limerick, Ireland",
+                    "postcode": "",
+                    "phone": "+353 1520 880 000",
+                    "cinemaurl": "http://www.odeoncinemas.ie/cinemas/limerick/201/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 52.665822,
+                    "lng": -8.553322900000012
+                }
+            }
+        ],
+        "carlingford lough": [
+            {
+                "slug": "carlingford-lough",
+                "placename": "Carlingford Lough",
+                "lng": -6.178285,
+                "lat": 54.059367,
+                "etymology": "Old women's inlet' (the 'old women' probably being three peaks to the south of the lough).",
+                "elements": [
+                    {
+                        "headword": "kerling",
+                        "hword": "kerling",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An old woman."
+                    },
+                    {
+                        "headword": "fj&oog;r&eth;r",
+                        "hword": "fjorthr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Inlet, fjord."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Belfast",
+                    "live": "24 April",
+                    "address": "Unit 13SF  1 Victoria Square, Belfast, County Antrim",
+                    "postcode": "BT1 4QG",
+                    "phone": "0871 224 4007",
+                    "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s170/Belfast/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 54.5995453,
+                    "lng": -5.9247228000000405
+                }
+            }
+        ],
+        "greenore point": [
+            {
+                "slug": "greenore-point",
+                "placename": "Greenore Point",
+                "lng": -6.13223,
+                "lat": 54.033767,
+                "etymology": "Green gravel- or sand-bank.",
+                "elements": [
+                    {
+                        "headword": "gr&oelig;nn",
+                        "hword": "groenn",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Green, grass-grown."
+                    },
+                    {
+                        "headword": "eyrr",
+                        "hword": "eyrr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A gravel- or sand-bank."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Belfast",
+                    "live": "24 April",
+                    "address": "Unit 13SF  1 Victoria Square, Belfast, County Antrim",
+                    "postcode": "BT1 4QG",
+                    "phone": "0871 224 4007",
+                    "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s170/Belfast/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 54.5995453,
+                    "lng": -5.9247228000000405
+                }
+            },
+            {
+                "slug": "greenore-point",
+                "placename": "Greenore Point",
+                "lng": -6.314167,
+                "lat": 52.240556,
+                "etymology": "Green gravel- or sand-bank.",
+                "elements": [
+                    {
+                        "headword": "gr&oelig;nn",
+                        "hword": "groenn",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Green, grass-grown."
+                    },
+                    {
+                        "headword": "eyrr",
+                        "hword": "eyrr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A gravel- or sand-bank."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Ireland S",
+                    "cinema": "Movies @ Gorey",
+                    "live": "24 April",
+                    "address": "Raheenagurren East, Courtown Road, Gorey, Co. Wexford, Ireland",
+                    "postcode": "",
+                    "phone": "539489570",
+                    "cinemaurl": "http://www.moviesatgorey.ie/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 52.6747241,
+                    "lng": -6.282743500000038
+                }
+            }
+        ],
+        "holmpatrick": [
+            {
+                "slug": "holmpatrick",
+                "placename": "Holmpatrick",
+                "lng": -6.10142,
+                "lat": 53.563942,
+                "etymology": "(St) Patrick's island.",
+                "elements": [
+                    {
+                        "headword": "holmr",
+                        "hword": "holmr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island, an inland promontory, raised ground in marsh, a river-meadow."
+                    },
+                    {
+                        "headword": "pers.n.",
+                        "hword": "pers.n.",
+                        "langcode": "CGO",
+                        "language": null,
+                        "note": "Personal name."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Ireland S",
+                    "cinema": "Movies @ Swords",
+                    "live": "24 April",
+                    "address": "Pavilions Shopping Centre, Swords, Dublin, Ireland",
+                    "postcode": "",
+                    "phone": "(01) 870 3600",
+                    "cinemaurl": "http://www.movies-at.ie/index.php?__site=M-SWORDS",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 53.4548041,
+                    "lng": -6.2183721000000105
+                }
+            }
+        ],
+        "lambay": [
+            {
+                "slug": "lambay",
+                "placename": "Lambay",
+                "lng": -6.016259,
+                "lat": 53.490863,
+                "etymology": "Lamb island.",
+                "elements": [
+                    {
+                        "headword": "lamb",
+                        "hword": "lamb",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A lamb."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Ireland S",
+                    "cinema": "Movies @ Swords",
+                    "live": "24 April",
+                    "address": "Pavilions Shopping Centre, Swords, Dublin, Ireland",
+                    "postcode": "",
+                    "phone": "(01) 870 3600",
+                    "cinemaurl": "http://www.movies-at.ie/index.php?__site=M-SWORDS",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 53.4548041,
+                    "lng": -6.2183721000000105
+                }
+            }
+        ],
+        "ireland's eye": [
+            {
+                "slug": "irelands-eye",
+                "placename": "Ireland's Eye",
+                "lng": -6.062442,
+                "lat": 53.405831,
+                "etymology": "Ireland's island.",
+                "elements": [
+                    {
+                        "headword": "&Iacute;rland",
+                        "hword": "Irland",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Ireland."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Coolock",
+                    "live": "24 April",
+                    "address": "84 Malahide Rd, Coolock, Dublin 5, Ireland",
+                    "postcode": "",
+                    "phone": "+353 1520 880 000",
+                    "cinemaurl": "http://www.odeoncinemas.ie/cinemas/coolock/23/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 53.3682533,
+                    "lng": -6.226666600000044
+                }
+            }
+        ],
+        "howth": [
+            {
+                "slug": "howth",
+                "placename": "Howth",
+                "lng": -6.064684,
+                "lat": 53.385847,
+                "etymology": "Headland'.  Perhaps specifically 'headland linked to the mainland by a narrow isthmus.",
+                "elements": [
+                    {
+                        "headword": "h&oog;fu&eth;",
+                        "hword": "hofuth",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A head; a headland, promontory."
+                    },
+                    {
+                        "headword": "h&oog;f&eth;i",
+                        "hword": "hofthi",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A headland linked to the mainland by a narrow isthmus."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Coolock",
+                    "live": "24 April",
+                    "address": "84 Malahide Rd, Coolock, Dublin 5, Ireland",
+                    "postcode": "",
+                    "phone": "+353 1520 880 000",
+                    "cinemaurl": "http://www.odeoncinemas.ie/cinemas/coolock/23/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 53.3682533,
+                    "lng": -6.226666600000044
+                }
+            }
+        ],
+        "dalkey island": [
+            {
+                "slug": "dalkey-island",
+                "placename": "Dalkey Island",
+                "lng": -6.084856,
+                "lat": 53.271622,
+                "etymology": "Dress-pin island' (translating an Irish name 'Delginis' meaning 'Thorn Island').",
+                "elements": [
+                    {
+                        "headword": "d&aacute;lkr",
+                        "hword": "dalkr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A dress-pin, a dagger."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Ireland S",
+                    "cinema": "Movies @ Dundrum",
+                    "live": "24 April",
+                    "address": "Dundrum Town Centre, Sandyford Road, Dublin",
+                    "postcode": "Dublin1",
+                    "phone": "(01) 291 6802",
+                    "cinemaurl": "http://www.movies-at.ie/index.php?__site=M-DUNDRUM",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 53.2844771,
+                    "lng": -6.236733400000048
+                }
+            }
+        ],
+        "bullock": [
+            {
+                "slug": "bullock",
+                "placename": "Bullock",
+                "lng": -6.107036,
+                "lat": 53.28477,
+                "etymology": "Blue bay.",
+                "elements": [
+                    {
+                        "headword": "bl&amacr;",
+                        "hword": "bla",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Blue, cold, cheerless."
+                    },
+                    {
+                        "headword": "v&iacute;k",
+                        "hword": "vik",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A small creek, an inlet, a bay."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Ireland S",
+                    "cinema": "Movies @ Dundrum",
+                    "live": "24 April",
+                    "address": "Dundrum Town Centre, Sandyford Road, Dublin",
+                    "postcode": "Dublin1",
+                    "phone": "(01) 291 6802",
+                    "cinemaurl": "http://www.movies-at.ie/index.php?__site=M-DUNDRUM",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 53.2844771,
+                    "lng": -6.236733400000048
+                }
+            }
+        ],
+        "leixlip": [
+            {
+                "slug": "leixlip",
+                "placename": "Leixlip",
+                "lng": -6.490003,
+                "lat": 53.363843,
+                "etymology": "Salmon-leap.'",
+                "elements": [
+                    {
+                        "headword": "lax",
+                        "hword": "lax",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A salmon."
+                    },
+                    {
+                        "headword": "hlaup",
+                        "hword": "hlaup",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A leap; topographically a chasm, steep drop etc."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Blanchardstown",
+                    "live": "24 April",
+                    "address": "Mountview Shopping Centre  Mountview Rd, Fortlawn, Dublin, Co. Dublin",
+                    "postcode": "",
+                    "phone": "0871 224 4007",
+                    "cinemaurl": "http://www.odeoncinemas.ie/fanatic/film_times/s25/Blanchardstown/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 53.3904355,
+                    "lng": -6.405706699999996
+                }
+            }
+        ],
+        "wicklow": [
+            {
+                "slug": "wicklow",
+                "placename": "Wicklow",
+                "lng": -6.044589,
+                "lat": 52.980821,
+                "etymology": "Uncertain. Probably 'vikings' meadow' of 'meadow or a man called Viking' rather than 'meadow of the bay.",
+                "elements": [
+                    {
+                        "headword": "v&iacute;kingr",
+                        "hword": "vikingr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A roving pirate, a viking."
+                    },
+                    {
+                        "headword": "v&iacute;k",
+                        "hword": "vik",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A small creek, an inlet, a bay."
+                    },
+                    {
+                        "headword": null,
+                        "hword": "pers.n.",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "ON personal name."
+                    },
+                    {
+                        "headword": "l&oacute;",
+                        "hword": "lo",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A glade, a meadow."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Ireland S",
+                    "cinema": "Movies @ Dundrum",
+                    "live": "24 April",
+                    "address": "Dundrum Town Centre, Sandyford Road, Dublin",
+                    "postcode": "Dublin1",
+                    "phone": "(01) 291 6802",
+                    "cinemaurl": "http://www.movies-at.ie/index.php?__site=M-DUNDRUM",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 53.2844771,
+                    "lng": -6.236733400000048
+                }
+            }
+        ],
+        "arklow": [
+            {
+                "slug": "arklow",
+                "placename": "Arklow",
+                "lng": -6.159929,
+                "lat": 52.797693,
+                "etymology": "Arnketill's meadow.",
+                "elements": [
+                    {
+                        "headword": null,
+                        "hword": "pers.n.",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "ON personal name."
+                    },
+                    {
+                        "headword": "l&oacute;",
+                        "hword": "lo",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A glade, a meadow."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Ireland S",
+                    "cinema": "Movies @ Gorey",
+                    "live": "24 April",
+                    "address": "Raheenagurren East, Courtown Road, Gorey, Co. Wexford, Ireland",
+                    "postcode": "",
+                    "phone": "539489570",
+                    "cinemaurl": "http://www.moviesatgorey.ie/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 52.6747241,
+                    "lng": -6.282743500000038
+                }
+            }
+        ],
+        "cahore point": [
+            {
+                "slug": "cahore-point",
+                "placename": "Cahore Point",
+                "lng": -6.200979,
+                "lat": 52.565115,
+                "etymology": "Uncertain.  The second element means 'gravel- or sand-bank' but the first element is obscure.",
+                "elements": [
+                    {
+                        "headword": null,
+                        "hword": "obscure-element",
+                        "langcode": "Z",
+                        "language": null,
+                        "note": "Obscure element."
+                    },
+                    {
+                        "headword": "eyrr",
+                        "hword": "eyrr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A gravel- or sand-bank."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Ireland S",
+                    "cinema": "Movies @ Gorey",
+                    "live": "24 April",
+                    "address": "Raheenagurren East, Courtown Road, Gorey, Co. Wexford, Ireland",
+                    "postcode": "",
+                    "phone": "539489570",
+                    "cinemaurl": "http://www.moviesatgorey.ie/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 52.6747241,
+                    "lng": -6.282743500000038
+                }
+            }
+        ],
+        "wexford": [
+            {
+                "slug": "wexford",
+                "placename": "Wexford",
+                "lng": -6.479179,
+                "lat": 52.331449,
+                "etymology": "Marsh inlet' (referring to marshy sand-banks).",
+                "elements": [
+                    {
+                        "headword": "veig",
+                        "hword": "veig",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A strong drink; used in Norwegian place-names of water or dampness."
+                    },
+                    {
+                        "headword": "fj&oog;r&eth;r",
+                        "hword": "fjorthr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Inlet, fjord."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Ireland S",
+                    "cinema": "Movies @ Gorey",
+                    "live": "24 April",
+                    "address": "Raheenagurren East, Courtown Road, Gorey, Co. Wexford, Ireland",
+                    "postcode": "",
+                    "phone": "539489570",
+                    "cinemaurl": "http://www.moviesatgorey.ie/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 52.6747241,
+                    "lng": -6.282743500000038
+                }
+            }
+        ],
+        "selsker": [
+            {
+                "slug": "selsker",
+                "placename": "Selsker",
+                "lng": -6.465511,
+                "lat": 52.341398,
+                "etymology": "Seal skerry.",
+                "elements": [
+                    {
+                        "headword": "selr",
+                        "hword": "selr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A seal."
+                    },
+                    {
+                        "headword": "sker",
+                        "hword": "sker",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A rock, a scar, a reef, a skerry."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Ireland S",
+                    "cinema": "Movies @ Gorey",
+                    "live": "24 April",
+                    "address": "Raheenagurren East, Courtown Road, Gorey, Co. Wexford, Ireland",
+                    "postcode": "",
+                    "phone": "539489570",
+                    "cinemaurl": "http://www.moviesatgorey.ie/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 52.6747241,
+                    "lng": -6.282743500000038
+                }
+            }
+        ],
+        "tuskar rock": [
+            {
+                "slug": "tuskar-rock",
+                "placename": "Tuskar Rock",
+                "lng": -6.198337,
+                "lat": 52.198889,
+                "etymology": "Uncertain.  The second element probably means 'skerry' but the first element is obscure.",
+                "elements": [
+                    {
+                        "headword": null,
+                        "hword": "obscure-element",
+                        "langcode": "Z",
+                        "language": null,
+                        "note": "Obscure element."
+                    },
+                    {
+                        "headword": "sker",
+                        "hword": "sker",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A rock, a scar, a reef, a skerry."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Ireland S",
+                    "cinema": "Movies @ Gorey",
+                    "live": "24 April",
+                    "address": "Raheenagurren East, Courtown Road, Gorey, Co. Wexford, Ireland",
+                    "postcode": "",
+                    "phone": "539489570",
+                    "cinemaurl": "http://www.moviesatgorey.ie/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 52.6747241,
+                    "lng": -6.282743500000038
+                }
+            }
+        ],
+        "carnsore point": [
+            {
+                "slug": "carnsore-point",
+                "placename": "Carnsore Point",
+                "lng": -6.355556,
+                "lat": 52.170556,
+                "etymology": "Gravel- or sand-bank in (the place called) Carn.",
+                "elements": [
+                    {
+                        "headword": null,
+                        "hword": "place-name",
+                        "langcode": "Z",
+                        "language": null,
+                        "note": "Place-name"
+                    },
+                    {
+                        "headword": "eyrr",
+                        "hword": "eyrr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A gravel- or sand-bank."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Waterford",
+                    "live": "24 April",
+                    "address": "Railway Square Development, Poleberry, Waterford City, Co. Waterford, Ireland",
+                    "postcode": "",
+                    "phone": "+353 1520 880 000",
+                    "cinemaurl": "http://www.odeoncinemas.ie/cinemas/waterford/205/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 52.2520699,
+                    "lng": -7.112194899999963
+                }
+            }
+        ],
+        "saltee islands": [
+            {
+                "slug": "saltee-islands",
+                "placename": "Saltee Islands",
+                "lng": -6.597222,
+                "lat": 52.125,
+                "etymology": "Salt island(s).",
+                "elements": [
+                    {
+                        "headword": "salt",
+                        "hword": "salt",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Salt."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Waterford",
+                    "live": "24 April",
+                    "address": "Railway Square Development, Poleberry, Waterford City, Co. Waterford, Ireland",
+                    "postcode": "",
+                    "phone": "+353 1520 880 000",
+                    "cinemaurl": "http://www.odeoncinemas.ie/cinemas/waterford/205/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 52.2520699,
+                    "lng": -7.112194899999963
+                }
+            }
+        ],
+        "waterford": [
+            {
+                "slug": "waterford",
+                "placename": "Waterford",
+                "lng": -7.127206,
+                "lat": 52.25227,
+                "etymology": "Wether-sheep inlet.",
+                "elements": [
+                    {
+                        "headword": "ve&eth;r",
+                        "hword": "vethr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A wether-sheep."
+                    },
+                    {
+                        "headword": "fj&oog;r&eth;r",
+                        "hword": "fjorthr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Inlet, fjord."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Waterford",
+                    "live": "24 April",
+                    "address": "Railway Square Development, Poleberry, Waterford City, Co. Waterford, Ireland",
+                    "postcode": "",
+                    "phone": "+353 1520 880 000",
+                    "cinemaurl": "http://www.odeoncinemas.ie/cinemas/waterford/205/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 52.2520699,
+                    "lng": -7.112194899999963
+                }
+            }
+        ],
+        "helvick": [
+            {
+                "slug": "helvick",
+                "placename": "Helvick",
+                "lng": -7.54986,
+                "lat": 52.050192,
+                "etymology": "Uncertain.  Possibly 'Eel bay', 'slab bay' or 'cave bay.",
+                "elements": [
+                    {
+                        "headword": "&aacute;ll",
+                        "hword": "all",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An eel."
+                    },
+                    {
+                        "headword": "hella",
+                        "hword": "hella",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A flat stone, a flag-stone."
+                    },
+                    {
+                        "headword": "hellir",
+                        "hword": "hellir",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A projecting rock; a cave under a projecting rock."
+                    },
+                    {
+                        "headword": "v&iacute;k",
+                        "hword": "vik",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A small creek, an inlet, a bay."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Waterford",
+                    "live": "24 April",
+                    "address": "Railway Square Development, Poleberry, Waterford City, Co. Waterford, Ireland",
+                    "postcode": "",
+                    "phone": "+353 1520 880 000",
+                    "cinemaurl": "http://www.odeoncinemas.ie/cinemas/waterford/205/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 52.2520699,
+                    "lng": -7.112194899999963
+                }
+            }
+        ],
+        "foaty island": [
+            {
+                "slug": "foaty-island",
+                "placename": "Foaty Island",
+                "lng": -8.302449,
+                "lat": 51.895303,
+                "etymology": "Uncertain.  Either 'genitalia island' (alluding to the anus or female genitalia) or  'foot-island' (the latter referring to the island's accessibility by foot at low tide).",
+                "elements": [
+                    {
+                        "headword": "f&oacute;tr",
+                        "hword": "fotr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A foot."
+                    },
+                    {
+                        "headword": "fu&eth;",
+                        "hword": "futh",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Female genitals, anus."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Limerick",
+                    "live": "24 April",
+                    "address": "Castletroy Shopping Centre, Dublin Rd, Limerick, Ireland",
+                    "postcode": "",
+                    "phone": "+353 1520 880 000",
+                    "cinemaurl": "http://www.odeoncinemas.ie/cinemas/limerick/201/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 52.665822,
+                    "lng": -8.553322900000012
+                }
+            }
+        ],
+        "fastnet rock": [
+            {
+                "slug": "fastnet-rock",
+                "placename": "Fastnet Rock",
+                "lng": -9.603611,
+                "lat": 51.388889,
+                "etymology": "Pointed-tooth island.",
+                "elements": [
+                    {
+                        "headword": "hvass",
+                        "hword": "hvass",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Sharp, pointed, narrow."
+                    },
+                    {
+                        "headword": "t&ouml;nn",
+                        "hword": "tonn",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A tooth; a sharp rock."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Limerick",
+                    "live": "24 April",
+                    "address": "Castletroy Shopping Centre, Dublin Rd, Limerick, Ireland",
+                    "postcode": "",
+                    "phone": "+353 1520 880 000",
+                    "cinemaurl": "http://www.odeoncinemas.ie/cinemas/limerick/201/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 52.665822,
+                    "lng": -8.553322900000012
+                }
+            }
+        ],
+        "whiddy island": [
+            {
+                "slug": "whiddy-island",
+                "placename": "Whiddy Island",
+                "lng": -9.500398,
+                "lat": 51.68759,
+                "etymology": "Uncertain.  Either 'white island' or 'wheat island.",
+                "elements": [
+                    {
+                        "headword": "hv&iacute;tr",
+                        "hword": "hvitr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "White."
+                    },
+                    {
+                        "headword": "hveiti",
+                        "hword": "hveiti",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Wheat."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Limerick",
+                    "live": "24 April",
+                    "address": "Castletroy Shopping Centre, Dublin Rd, Limerick, Ireland",
+                    "postcode": "",
+                    "phone": "+353 1520 880 000",
+                    "cinemaurl": "http://www.odeoncinemas.ie/cinemas/limerick/201/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 52.665822,
+                    "lng": -8.553322900000012
+                }
+            }
+        ],
+        "dursey island": [
+            {
+                "slug": "dursey-island",
+                "placename": "Dursey Island",
+                "lng": -10.19835,
+                "lat": 51.596717,
+                "etymology": "Uncertain.  Either 'deer island' or 'bull island.",
+                "elements": [
+                    {
+                        "headword": "dj&uacute;r",
+                        "hword": "djur",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An animal, a beast."
+                    },
+                    {
+                        "headword": "&thorn;j&oacute;rr",
+                        "hword": "thjorr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A bull."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Limerick",
+                    "live": "24 April",
+                    "address": "Castletroy Shopping Centre, Dublin Rd, Limerick, Ireland",
+                    "postcode": "",
+                    "phone": "+353 1520 880 000",
+                    "cinemaurl": "http://www.odeoncinemas.ie/cinemas/limerick/201/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 52.665822,
+                    "lng": -8.553322900000012
+                }
+            }
+        ],
+        "great blasket island": [
+            {
+                "slug": "great-blasket-island",
+                "placename": "Great Blasket Island",
+                "lng": -10.54106,
+                "lat": 52.090824,
+                "etymology": "Uncertain.  Perhaps 'blue-shield' or 'shell island.",
+                "elements": [
+                    {
+                        "headword": "bl&amacr;",
+                        "hword": "bla",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Blue, cold, cheerless."
+                    },
+                    {
+                        "headword": "skj&oog;ldr",
+                        "hword": "skjoldr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A shield; perhaps used topographically of a feature resembling the boss of a shield."
+                    },
+                    {
+                        "headword": "blaesc",
+                        "hword": "blaesc",
+                        "langcode": "CGI",
+                        "language": null,
+                        "note": "A shell."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Limerick",
+                    "live": "24 April",
+                    "address": "Castletroy Shopping Centre, Dublin Rd, Limerick, Ireland",
+                    "postcode": "",
+                    "phone": "+353 1520 880 000",
+                    "cinemaurl": "http://www.odeoncinemas.ie/cinemas/limerick/201/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 52.665822,
+                    "lng": -8.553322900000012
+                }
+            }
+        ],
+        "smerwick harbour": [
+            {
+                "slug": "smerwick-harbour",
+                "placename": "Smerwick Harbour",
+                "lng": -10.4025,
+                "lat": 52.192222,
+                "etymology": "Butter bay' (possibly a corruption of an Irish name).",
+                "elements": [
+                    {
+                        "headword": "smj&oog;r",
+                        "hword": "smjor",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Grease, butter; alluding to rich pasture, productive of butter, etc."
+                    },
+                    {
+                        "headword": "v&iacute;k",
+                        "hword": "vik",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A small creek, an inlet, a bay."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Limerick",
+                    "live": "24 April",
+                    "address": "Castletroy Shopping Centre, Dublin Rd, Limerick, Ireland",
+                    "postcode": "",
+                    "phone": "+353 1520 880 000",
+                    "cinemaurl": "http://www.odeoncinemas.ie/cinemas/limerick/201/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 52.665822,
+                    "lng": -8.553322900000012
+                }
+            }
+        ],
+        "scattery island": [
+            {
+                "slug": "scattery-island",
+                "placename": "Scattery Island",
+                "lng": -9.519444,
+                "lat": 52.612222,
+                "etymology": "Perhaps a Scandinavianisation of the Irish name 'Inis Cathaig' followed by  Old Norse 'ey' ('island').",
+                "elements": [
+                    {
+                        "headword": null,
+                        "hword": "place-name",
+                        "langcode": "Z",
+                        "language": null,
+                        "note": "Place-name"
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Limerick",
+                    "live": "24 April",
+                    "address": "Castletroy Shopping Centre, Dublin Rd, Limerick, Ireland",
+                    "postcode": "",
+                    "phone": "+353 1520 880 000",
+                    "cinemaurl": "http://www.odeoncinemas.ie/cinemas/limerick/201/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 52.665822,
+                    "lng": -8.553322900000012
+                }
+            }
         ]
     };
 })(window.mySociety);
