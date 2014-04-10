@@ -381,8 +381,15 @@
             maxWidth: Math.round($map.innerWidth() * 0.65)
         });
         google.maps.event.addListener(watlingStreet, 'click', function(e) {
+            $(document).trigger('mySociety.popupOpen');
             infoWindow.setPosition(e.latLng);
             infoWindow.open(mySociety.map);
+        });
+
+        // Listen to our custom events to close other popups when one
+        // opens
+        $(document).on('mySociety.popupOpen', function(event) {
+            infoWindow.close();
         });
 
         // Export Watling Street
