@@ -76521,6 +76521,1189 @@
                     "lng": -5.0399446000000125
                 }
             }
+        ],
+        "bakbie": [
+            {
+                "slug": "bakbie",
+                "placename": "Bakbie",
+                "lng": -3.6810441,
+                "lat": 55.534173,
+                "etymology": "Baggi's farm/settlement.",
+                "elements": [
+                    {
+                        "headword": null,
+                        "hword": "pers.n.",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "ON personal name."
+                    },
+                    {
+                        "headword": "by&macr;",
+                        "hword": "by",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A farmstead, a village."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Vue",
+                    "cinema": "Vue - Hamilton",
+                    "live": "24 April",
+                    "address": "Palace Towers, Palace Grounds Road, Hamilton",
+                    "postcode": "ML3 6AD",
+                    "phone": "08712 240 240",
+                    "cinemaurl": "http://www.myvue.com/home/cinema/hamilton",
+                    "eventurl": "",
+                    "cinemaemail": "customerservices@vuemail.com ",
+                    "lat": 55.7784545,
+                    "lng": -4.02935279999997
+                }
+            }
+        ],
+        "brora": [
+            {
+                "slug": "brora",
+                "placename": "Brora",
+                "lng": -3.8803162,
+                "lat": 58.334684,
+                "etymology": "River of the bridge.",
+                "elements": [
+                    {
+                        "headword": "br&uacute;",
+                        "hword": "bru",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A bridge."
+                    },
+                    {
+                        "headword": "&aacute;",
+                        "hword": "a",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A river."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Thurso Cinema",
+                    "live": "24 April",
+                    "address": "Ormilie Road, Thurso, Caithness",
+                    "postcode": "KW14 7QU",
+                    "phone": "01847 891 505",
+                    "cinemaurl": "http://thursocinema.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 58.58539440000001,
+                    "lng": -3.538594200000034
+                }
+            }
+        ],
+        "busby": [
+            {
+                "slug": "busby",
+                "placename": "Busby",
+                "lng": -4.2765892,
+                "lat": 55.780273,
+                "etymology": "Bush farm/settlement.",
+                "elements": [
+                    {
+                        "headword": "buskr",
+                        "hword": "buskr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A bush, a shrub."
+                    },
+                    {
+                        "headword": "by&macr;",
+                        "hword": "by",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A farmstead, a village."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - East Kilbride",
+                    "live": "24 April",
+                    "address": "Olympia Shopping Centre, Rothesay St, East Kilbride",
+                    "postcode": "G74 1PG",
+                    "phone": "0871 224 4007",
+                    "cinemaurl": "http://www.odeon.co.uk/cinemas/east_kilbride/33/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 55.7601915,
+                    "lng": -4.185303299999987
+                }
+            }
+        ],
+        "covington": [
+            {
+                "slug": "covington",
+                "placename": "Covington",
+                "lng": -3.630705,
+                "lat": 55.641905,
+                "etymology": "Kolbeinn's farm/settlement.",
+                "elements": [
+                    {
+                        "headword": null,
+                        "hword": "pers.n.",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "ON personal name."
+                    },
+                    {
+                        "headword": "t&umacr;n",
+                        "hword": "tun",
+                        "langcode": "O",
+                        "language": "Old English",
+                        "note": "An enclosure; a farmstead; a village; an estate."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Vue",
+                    "cinema": "Vue - Livingston",
+                    "live": "24 April",
+                    "address": "McArthur Glen Designer Outlet, Almondvale Ave, Livingston",
+                    "postcode": "EH54 6QX",
+                    "phone": "08712 240 240",
+                    "cinemaurl": "http://www.myvue.com/home/cinema/livingston",
+                    "eventurl": "",
+                    "cinemaemail": "customerservices@vuemail.com ",
+                    "lat": 55.8830137,
+                    "lng": -3.520392500000071
+                }
+            }
+        ],
+        "culbo": [
+            {
+                "slug": "culbo",
+                "placename": "Culbo",
+                "lng": -4.2832419,
+                "lat": 57.613823,
+                "etymology": "Dwelling at the ball/knob.",
+                "elements": [
+                    {
+                        "headword": "k&uacute;la",
+                        "hword": "kula",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A ball, a knob."
+                    },
+                    {
+                        "headword": "b&oacute;l",
+                        "hword": "bol",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A dwelling, a homestead."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Vue",
+                    "cinema": "Vue - Inverness",
+                    "live": "24 April",
+                    "address": "Inverness Retail & Business Park, Eastfield Way, Inverness",
+                    "postcode": "IV2 7GD",
+                    "phone": "08712 240 240",
+                    "cinemaurl": "http://www.myvue.com/home/cinema/inverness",
+                    "eventurl": "",
+                    "cinemaemail": "customerservices@vuemail.com ",
+                    "lat": 57.4819845,
+                    "lng": -4.178970700000036
+                }
+            }
+        ],
+        "eskadale": [
+            {
+                "slug": "eskadale",
+                "placename": "Eskadale",
+                "lng": -4.5822494,
+                "lat": 57.414858,
+                "etymology": "Valley where ash-trees grow.",
+                "elements": [
+                    {
+                        "headword": "eski",
+                        "hword": "eski",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A place growing with ash-trees; ashen."
+                    },
+                    {
+                        "headword": "dalr",
+                        "hword": "dalr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A valley."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Inverness Eden Court",
+                    "live": "24 April",
+                    "address": "Bishops Road, Inverness",
+                    "postcode": "IV3 5SA",
+                    "phone": "01463 732660",
+                    "cinemaurl": "http://www.eden-court.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 57.4724839,
+                    "lng": -4.231408500000043
+                }
+            }
+        ],
+        "humbie": [
+            {
+                "slug": "humbie",
+                "placename": "Humbie",
+                "lng": -3.2927745,
+                "lat": 56.061861,
+                "etymology": "Dog farm/settlement.",
+                "elements": [
+                    {
+                        "headword": "hundr",
+                        "hword": "hundr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A hound, a dog."
+                    },
+                    {
+                        "headword": "by&macr;",
+                        "hword": "by",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A farmstead, a village."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Dunfermline",
+                    "live": "24 April",
+                    "address": "1 Whimbrel Pl, Dunfermline, Fife",
+                    "postcode": "KY11 8EX",
+                    "phone": "0871 224 4007",
+                    "cinemaurl": "http://www.odeon.co.uk/fanatic/film_times/s87/Dunfermline/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 56.0779382,
+                    "lng": -3.397743699999978
+                }
+            },
+            {
+                "slug": "humbie2",
+                "placename": "Humbie",
+                "lng": -2.8799803,
+                "lat": 55.848055,
+                "etymology": "Dog farm/settlement.",
+                "elements": [
+                    {
+                        "headword": "hundr",
+                        "hword": "hundr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A hound, a dog."
+                    },
+                    {
+                        "headword": "by&macr;",
+                        "hword": "by",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A farmstead, a village."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Picturehouse",
+                    "cinema": "Cameo Edinburgh",
+                    "live": "24 April",
+                    "address": "38 Home St, Edinburgh",
+                    "postcode": "EH3 9LZ",
+                    "phone": "0871 902 5723",
+                    "cinemaurl": "http://www.picturehouses.co.uk/cinema/Cameo_Picturehouse/",
+                    "eventurl": "",
+                    "cinemaemail": "elinor.w@picturehouses.co.uk",
+                    "lat": 55.9428756,
+                    "lng": -3.2039793000000145
+                }
+            }
+        ],
+        "langal": [
+            {
+                "slug": "langal",
+                "placename": "Langal",
+                "lng": -3.7556119,
+                "lat": 55.784755,
+                "etymology": "Long meadow.",
+                "elements": [
+                    {
+                        "headword": "langr",
+                        "hword": "langr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Long, tall."
+                    },
+                    {
+                        "headword": "v&oog;llr",
+                        "hword": "vollr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A meadow, a pasture, a paddock."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Vue",
+                    "cinema": "Vue - Hamilton",
+                    "live": "24 April",
+                    "address": "Palace Towers, Palace Grounds Road, Hamilton",
+                    "postcode": "ML3 6AD",
+                    "phone": "08712 240 240",
+                    "cinemaurl": "http://www.myvue.com/home/cinema/hamilton",
+                    "eventurl": "",
+                    "cinemaemail": "customerservices@vuemail.com ",
+                    "lat": 55.7784545,
+                    "lng": -4.02935279999997
+                }
+            }
+        ],
+        "mulie": [
+            {
+                "slug": "mulie",
+                "placename": "Mulie",
+                "lng": -4.864619,
+                "lat": 57.405156,
+                "etymology": "Perhaps 'promontory' (but a Gaelic origin is possible).",
+                "elements": [
+                    {
+                        "headword": "m&uacute;li",
+                        "hword": "muli",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A snout; a headland, a jutting crag."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Inverness Eden Court",
+                    "live": "24 April",
+                    "address": "Bishops Road, Inverness",
+                    "postcode": "IV3 5SA",
+                    "phone": "01463 732660",
+                    "cinemaurl": "http://www.eden-court.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 57.4724839,
+                    "lng": -4.231408500000043
+                }
+            }
+        ],
+        "papa stour": [
+            {
+                "slug": "papa-stour",
+                "placename": "Papa Stour",
+                "lng": -1.7121359,
+                "lat": 60.32377,
+                "etymology": "Large island of the hermits/priests.",
+                "elements": [
+                    {
+                        "headword": "papi",
+                        "hword": "papi",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A hermit."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    },
+                    {
+                        "headword": "st&oacute;rr",
+                        "hword": "storr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Big, great."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Thurso Cinema",
+                    "live": "24 April",
+                    "address": "Ormilie Road, Thurso, Caithness",
+                    "postcode": "KW14 7QU",
+                    "phone": "01847 891 505",
+                    "cinemaurl": "http://thursocinema.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 58.58539440000001,
+                    "lng": -3.538594200000034
+                }
+            }
+        ],
+        "rerrick": [
+            {
+                "slug": "rerrick",
+                "placename": "Rerrick",
+                "lng": -3.9301503,
+                "lat": 54.793511,
+                "etymology": "Cairn oak-tree.",
+                "elements": [
+                    {
+                        "headword": "hreyrr",
+                        "hword": "hreyrr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A cairn; possibly also a heap of stones forming a boundary mark."
+                    },
+                    {
+                        "headword": "eik",
+                        "hword": "eik",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An oak-tree."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Annan Lonsdale Cinema",
+                    "live": "24 April",
+                    "address": "Moat Road, Dumfriesshire, Annan",
+                    "postcode": "DG12 5DE",
+                    "phone": "01461 206901",
+                    "cinemaurl": "http://www.lonsdalecitycinemas.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "annanlonsdale@btconnect.com",
+                    "lat": 54.9888688,
+                    "lng": -3.2627167000000554
+                }
+            }
+        ],
+        "scatwell": [
+            {
+                "slug": "scatwell",
+                "placename": "Scatwell",
+                "lng": -4.6932351,
+                "lat": 57.565307,
+                "etymology": "Uncertain.  Either 'tax meadow' or ' projecting land cleared by burning.",
+                "elements": [
+                    {
+                        "headword": "skattr",
+                        "hword": "skattr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Tribute."
+                    },
+                    {
+                        "headword": "v&oog;llr",
+                        "hword": "vollr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A meadow, a pasture, a paddock."
+                    },
+                    {
+                        "headword": "skat-",
+                        "hword": "skat-",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "?Something projecting."
+                    },
+                    {
+                        "headword": "v&aacute;ll",
+                        "hword": "vall",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Land cleared by burning."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Inverness Eden Court",
+                    "live": "24 April",
+                    "address": "Bishops Road, Inverness",
+                    "postcode": "IV3 5SA",
+                    "phone": "01463 732660",
+                    "cinemaurl": "http://www.eden-court.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 57.4724839,
+                    "lng": -4.231408500000043
+                }
+            }
+        ],
+        "tarradale": [
+            {
+                "slug": "tarradale",
+                "placename": "Tarradale",
+                "lng": -4.4218651,
+                "lat": 57.507905,
+                "etymology": "Possibly 'bull valley' (but a Gaelic name is perhaps more likely).",
+                "elements": [
+                    {
+                        "headword": "tarfr",
+                        "hword": "tarfr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A bull."
+                    },
+                    {
+                        "headword": "dalr",
+                        "hword": "dalr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A valley."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Inverness Eden Court",
+                    "live": "24 April",
+                    "address": "Bishops Road, Inverness",
+                    "postcode": "IV3 5SA",
+                    "phone": "01463 732660",
+                    "cinemaurl": "http://www.eden-court.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 57.4724839,
+                    "lng": -4.231408500000043
+                }
+            }
+        ],
+        "foula": [
+            {
+                "slug": "foula",
+                "placename": "Foula",
+                "lng": -2.069541,
+                "lat": 60.131267,
+                "etymology": "Bird island.",
+                "elements": [
+                    {
+                        "headword": "fugl",
+                        "hword": "fugl",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A bird."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Thurso Cinema",
+                    "live": "24 April",
+                    "address": "Ormilie Road, Thurso, Caithness",
+                    "postcode": "KW14 7QU",
+                    "phone": "01847 891 505",
+                    "cinemaurl": "http://thursocinema.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 58.58539440000001,
+                    "lng": -3.538594200000034
+                }
+            }
+        ],
+        "laxfirth": [
+            {
+                "slug": "laxfirth",
+                "placename": "Laxfirth",
+                "lng": -1.142765,
+                "lat": 60.319076,
+                "etymology": "Salmon inlet.",
+                "elements": [
+                    {
+                        "headword": "lax",
+                        "hword": "lax",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A salmon."
+                    },
+                    {
+                        "headword": "fj&oog;r&eth;r",
+                        "hword": "fjorthr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Inlet, fjord."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Thurso Cinema",
+                    "live": "24 April",
+                    "address": "Ormilie Road, Thurso, Caithness",
+                    "postcode": "KW14 7QU",
+                    "phone": "01847 891 505",
+                    "cinemaurl": "http://thursocinema.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 58.58539440000001,
+                    "lng": -3.538594200000034
+                }
+            }
+        ],
+        "kirkabister": [
+            {
+                "slug": "kirkabister",
+                "placename": "Kirkabister",
+                "lng": -1.0149421,
+                "lat": 60.63954,
+                "etymology": "Church dwelling-place.",
+                "elements": [
+                    {
+                        "headword": "kirkja",
+                        "hword": "kirkja",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A church."
+                    },
+                    {
+                        "headword": "bt&oacute;lsta&eth;r",
+                        "hword": "bolstathr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A dwelling place, a house."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Thurso Cinema",
+                    "live": "24 April",
+                    "address": "Ormilie Road, Thurso, Caithness",
+                    "postcode": "KW14 7QU",
+                    "phone": "01847 891 505",
+                    "cinemaurl": "http://thursocinema.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 58.58539440000001,
+                    "lng": -3.538594200000034
+                }
+            }
+        ],
+        "stroma": [
+            {
+                "slug": "stroma",
+                "placename": "Stroma",
+                "lng": -3.11672,
+                "lat": 58.65902,
+                "etymology": "Island in the current.",
+                "elements": [
+                    {
+                        "headword": "straumr",
+                        "hword": "straumr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A stream, a river, a current of water."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Thurso Cinema",
+                    "live": "24 April",
+                    "address": "Ormilie Road, Thurso, Caithness",
+                    "postcode": "KW14 7QU",
+                    "phone": "01847 891 505",
+                    "cinemaurl": "http://thursocinema.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 58.58539440000001,
+                    "lng": -3.538594200000034
+                }
+            }
+        ],
+        "stornoway": [
+            {
+                "slug": "stornoway",
+                "placename": "Stornoway",
+                "lng": -6.381311,
+                "lat": 58.208703,
+                "etymology": "Uncertain.  Either 'rudder bay' or 'star bay.",
+                "elements": [
+                    {
+                        "headword": "stjarna",
+                        "hword": "stjarna",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A Star."
+                    },
+                    {
+                        "headword": "stj&oacute;rn",
+                        "hword": null,
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Steerage, a rudder."
+                    },
+                    {
+                        "headword": "v&aacute;gr",
+                        "hword": "vagr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A bay."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Inverness Eden Court",
+                    "live": "24 April",
+                    "address": "Bishops Road, Inverness",
+                    "postcode": "IV3 5SA",
+                    "phone": "01463 732660",
+                    "cinemaurl": "http://www.eden-court.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 57.4724839,
+                    "lng": -4.231408500000043
+                }
+            }
+        ],
+        "jura": [
+            {
+                "slug": "jura",
+                "placename": "Jura",
+                "lng": -5.895567,
+                "lat": 55.961148,
+                "etymology": "Deer island.",
+                "elements": [
+                    {
+                        "headword": "dj&uacute;r",
+                        "hword": "djur",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An animal, a beast."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Dunoon Studio",
+                    "live": "24 April",
+                    "address": "41 John Street, Dunoon, Scotland",
+                    "postcode": "PA23 8BH",
+                    "phone": "01369 704545",
+                    "cinemaurl": "http://dunoon.westcoastcinemas.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 55.95116489999999,
+                    "lng": -4.926433599999996
+                }
+            }
+        ],
+        "colonsay": [
+            {
+                "slug": "colonsay",
+                "placename": "Colonsay",
+                "lng": -6.210345,
+                "lat": 56.074479,
+                "etymology": "Kolbein's island.",
+                "elements": [
+                    {
+                        "headword": null,
+                        "hword": "pers.n.",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "ON personal name."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Dunoon Studio",
+                    "live": "24 April",
+                    "address": "41 John Street, Dunoon, Scotland",
+                    "postcode": "PA23 8BH",
+                    "phone": "01369 704545",
+                    "cinemaurl": "http://dunoon.westcoastcinemas.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 55.95116489999999,
+                    "lng": -4.926433599999996
+                }
+            }
+        ],
+        "vaternish": [
+            {
+                "slug": "vaternish",
+                "placename": "Vaternish",
+                "lng": -6.553811,
+                "lat": 57.516251,
+                "etymology": "Water promontory.",
+                "elements": [
+                    {
+                        "headword": "vatn",
+                        "hword": "vatn",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Water, fresh water, a lake."
+                    },
+                    {
+                        "headword": "nes",
+                        "hword": "nes",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A ness, a headland, a promontory. (Used for larger areas than the Old English word naess.)"
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Inverness Eden Court",
+                    "live": "24 April",
+                    "address": "Bishops Road, Inverness",
+                    "postcode": "IV3 5SA",
+                    "phone": "01463 732660",
+                    "cinemaurl": "http://www.eden-court.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 57.4724839,
+                    "lng": -4.231408500000043
+                }
+            }
+        ],
+        "lerwick": [
+            {
+                "slug": "lerwick",
+                "placename": "Lerwick",
+                "lng": -1.146631,
+                "lat": 60.154781,
+                "etymology": "Mud bay.",
+                "elements": [
+                    {
+                        "headword": "leirr",
+                        "hword": "leirr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "Mud, clay."
+                    },
+                    {
+                        "headword": "v&iacute;k",
+                        "hword": "vik",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A small creek, an inlet, a bay."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Thurso Cinema",
+                    "live": "24 April",
+                    "address": "Ormilie Road, Thurso, Caithness",
+                    "postcode": "KW14 7QU",
+                    "phone": "01847 891 505",
+                    "cinemaurl": "http://thursocinema.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 58.58539440000001,
+                    "lng": -3.538594200000034
+                }
+            }
+        ],
+        "kirkwall": [
+            {
+                "slug": "kirkwall",
+                "placename": "Kirkwall",
+                "lng": -2.96256,
+                "lat": 58.981635,
+                "etymology": "Church bay.",
+                "elements": [
+                    {
+                        "headword": "kirkja",
+                        "hword": "kirkja",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A church."
+                    },
+                    {
+                        "headword": "v&aacute;gr",
+                        "hword": "vagr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A bay."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Thurso Cinema",
+                    "live": "24 April",
+                    "address": "Ormilie Road, Thurso, Caithness",
+                    "postcode": "KW14 7QU",
+                    "phone": "01847 891 505",
+                    "cinemaurl": "http://thursocinema.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 58.58539440000001,
+                    "lng": -3.538594200000034
+                }
+            }
+        ],
+        "hoy": [
+            {
+                "slug": "hoy",
+                "placename": "Hoy",
+                "lng": -3.291651,
+                "lat": 58.855245,
+                "etymology": "High island.",
+                "elements": [
+                    {
+                        "headword": "h&aacute;r",
+                        "hword": "har",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "High."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Thurso Cinema",
+                    "live": "24 April",
+                    "address": "Ormilie Road, Thurso, Caithness",
+                    "postcode": "KW14 7QU",
+                    "phone": "01847 891 505",
+                    "cinemaurl": "http://thursocinema.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 58.58539440000001,
+                    "lng": -3.538594200000034
+                }
+            }
+        ],
+        "westray": [
+            {
+                "slug": "westray",
+                "placename": "Westray",
+                "lng": -2.97601,
+                "lat": 59.301863,
+                "etymology": "Western island.",
+                "elements": [
+                    {
+                        "headword": "vestr",
+                        "hword": "vestr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "West, westerly."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Thurso Cinema",
+                    "live": "24 April",
+                    "address": "Ormilie Road, Thurso, Caithness",
+                    "postcode": "KW14 7QU",
+                    "phone": "01847 891 505",
+                    "cinemaurl": "http://thursocinema.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 58.58539440000001,
+                    "lng": -3.538594200000034
+                }
+            }
+        ],
+        "wick": [
+            {
+                "slug": "wick",
+                "placename": "Wick",
+                "lng": -3.092235,
+                "lat": 58.438357,
+                "etymology": "Bay.",
+                "elements": [
+                    {
+                        "headword": "v&iacute;k",
+                        "hword": "vik",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A small creek, an inlet, a bay."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Thurso Cinema",
+                    "live": "24 April",
+                    "address": "Ormilie Road, Thurso, Caithness",
+                    "postcode": "KW14 7QU",
+                    "phone": "01847 891 505",
+                    "cinemaurl": "http://thursocinema.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 58.58539440000001,
+                    "lng": -3.538594200000034
+                }
+            }
+        ],
+        "stemster": [
+            {
+                "slug": "stemster",
+                "placename": "Stemster",
+                "lng": -3.1389609,
+                "lat": 58.437742,
+                "etymology": "Farmstead with stones.",
+                "elements": [
+                    {
+                        "headword": "steinn",
+                        "hword": "steinn",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A stone, a rock."
+                    },
+                    {
+                        "headword": "bt&oacute;lsta&eth;r",
+                        "hword": "bolstathr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A dwelling place, a house."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Thurso Cinema",
+                    "live": "24 April",
+                    "address": "Ormilie Road, Thurso, Caithness",
+                    "postcode": "KW14 7QU",
+                    "phone": "01847 891 505",
+                    "cinemaurl": "http://thursocinema.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 58.58539440000001,
+                    "lng": -3.538594200000034
+                }
+            }
+        ],
+        "scalpay": [
+            {
+                "slug": "scalpay",
+                "placename": "Scalpay",
+                "lng": -5.96013,
+                "lat": 57.291018,
+                "etymology": "Boat-shaped island.",
+                "elements": [
+                    {
+                        "headword": "skalpr",
+                        "hword": "skalpr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A leather sheath, a boat or ship."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Inverness Eden Court",
+                    "live": "24 April",
+                    "address": "Bishops Road, Inverness",
+                    "postcode": "IV3 5SA",
+                    "phone": "01463 732660",
+                    "cinemaurl": "http://www.eden-court.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 57.4724839,
+                    "lng": -4.231408500000043
+                }
+            }
+        ],
+        "eriskay": [
+            {
+                "slug": "eriskay",
+                "placename": "Eriskay",
+                "lng": -7.290658,
+                "lat": 57.073488,
+                "etymology": "Eir�kr's island.",
+                "elements": [
+                    {
+                        "headword": null,
+                        "hword": "pers.n.",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "ON personal name."
+                    },
+                    {
+                        "headword": "ey",
+                        "hword": "ey",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "An island (used of coastal islands in the west of Britain and round Scotland)."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Inverness Eden Court",
+                    "live": "24 April",
+                    "address": "Bishops Road, Inverness",
+                    "postcode": "IV3 5SA",
+                    "phone": "01463 732660",
+                    "cinemaurl": "http://www.eden-court.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 57.4724839,
+                    "lng": -4.231408500000043
+                }
+            }
+        ],
+        "dingwall": [
+            {
+                "slug": "dingwall",
+                "placename": "Dingwall",
+                "lng": -4.428713,
+                "lat": 57.595821,
+                "etymology": "Assembly field.",
+                "elements": [
+                    {
+                        "headword": "&thorn;ing-v&oog;llr",
+                        "hword": "thing-vollr",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A field where an assembly met, a meeting-place."
+                    }
+                ],
+                "cinema": {
+                    "chain": "Independent",
+                    "cinema": "Inverness Eden Court",
+                    "live": "24 April",
+                    "address": "Bishops Road, Inverness",
+                    "postcode": "IV3 5SA",
+                    "phone": "01463 732660",
+                    "cinemaurl": "http://www.eden-court.co.uk/",
+                    "eventurl": "",
+                    "cinemaemail": "",
+                    "lat": 57.4724839,
+                    "lng": -4.231408500000043
+                }
+            }
         ]
     };
 })(window.mySociety);
