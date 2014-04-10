@@ -355,7 +355,6 @@
                     titleWindow.setContent(markerTitle);
                     titleWindow.open(map, marker);
                 });
-                // assuming you also want to hide the infowindow when user mouses-out
                 google.maps.event.addListener(marker, 'mouseout', function() {
                     titleWindow.close();
                 });
