@@ -287,7 +287,7 @@
         mySociety.markerInfoTemplate = markerInfoTemplate;
         mySociety.searchResultsTemplate = searchResultsTemplate;
         // What zoom level to go to when showing a specific place
-        mySociety.placeZoomLevel = 12;
+        mySociety.placeZoomLevel = 9;
         mySociety.infoWindow = infoWindow;
         mySociety.alertWindow = alertWindow;
         mySociety.titleWindow = titleWindow;
@@ -426,7 +426,7 @@
 
         // Hide watling street at high zoom levels
         google.maps.event.addListener(mySociety.map, 'zoom_changed', function(){
-            if (mySociety.map.getZoom() >= 10) {
+            if (mySociety.map.getZoom() >= 11) {
                 mySociety.watlingStreet.setMap(null);
                 mySociety.watlingStreetShadow.setMap(null);
             } else {
