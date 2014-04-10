@@ -44,10 +44,8 @@ var processWelshKepn = function(data) {
     _.each(data, function(place, index) {
         // The data is helpfully *almost* in the format we want, we just have
         // to shuffle it slightly
-        console.log(place);
         var slug = Object.keys(place)[0];
         var processedPlace = extend({}, place[slug][0]);
-        console.log(processedPlace);
 
         // Filter out the information we don't want
         delete processedPlace['comment'];
@@ -71,6 +69,7 @@ fs.readFile(argv['in'], 'utf8', function(err, data) {
     if(err) {
         console.log(err);
     }
+    console.log("Processing file: " + argv['in']);
     if(argv['welsh']) {
         processedKepn = processWelshKepn(JSON.parse(data));
     } else {
