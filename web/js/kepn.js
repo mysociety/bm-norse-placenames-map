@@ -25996,38 +25996,6 @@
                 }
             }
         ],
-        "cb-new-test": [
-            {
-                "placename": "CB new test",
-                "lng": -1.1726599931717,
-                "lat": 53.093799591064,
-                "etymology": "CB test input",
-                "elements": [
-                    {
-                        "headword": "bȳ",
-                        "hversion": 1,
-                        "hword": "by",
-                        "langcode": "N",
-                        "language": "Old Norse",
-                        "note": "A farmstead, a village."
-                    }
-                ],
-                "slug": "cb-new-test",
-                "cinema": {
-                    "chain": "Odeon",
-                    "cinema": "Odeon - Mansfield",
-                    "live": "24 April",
-                    "address": "Mansfield Leisure Park, Park Lane, Mansfield, Nottinghamshire",
-                    "postcode": "NG18 1BU",
-                    "phone": "0871 224 4007",
-                    "cinemaurl": "http://www.odeon.co.uk/cinemas/mansfield/110/",
-                    "eventurl": "",
-                    "cinemaemail": "contactcentre.managers@odeonuk.com",
-                    "lat": 53.1360103,
-                    "lng": -1.1982176000000209
-                }
-            }
-        ],
         "smardale": [
             {
                 "placename": "Smardale",
@@ -77642,7 +77610,7 @@
                 "placename": "Eriskay",
                 "lng": -7.290658,
                 "lat": 57.073488,
-                "etymology": "Erik's island.",
+                "etymology": "Eric's island.",
                 "elements": [
                     {
                         "headword": null,
