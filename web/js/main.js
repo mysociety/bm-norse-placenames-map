@@ -1,5 +1,11 @@
 (function(window, $, google, _, _gaq, mySociety){
 
+_.templateSettings = {
+    interpolate: /\<\@\=(.+?)\@\>/g,
+    evaluate: /\<\@(.+?)\@\>/g
+};
+
+
     // Filter the results from google.maps.Geocoder.geocode() into just
     // results that are actually in the UK.
     var filterGeocodeResultsToUK= function(results) {
