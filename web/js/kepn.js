@@ -4,7 +4,7 @@
     // we can use to lookup places by name, and also to sort the eytomological
     // elements of placenames so that Norse elements come first.
     mySociety.kepnData = {
-        "besthorpe-hall": [
+        "besthorpe hall": [
             {
                 "placename": "Besthorpe Hall",
                 "lng": -0.88782697916031,
@@ -739,7 +739,7 @@
                 }
             }
         ],
-        "holme-pierrepont": [
+        "holme pierrepont": [
             {
                 "placename": "Holme Pierrepont",
                 "lng": -1.0712399482727,
@@ -810,7 +810,7 @@
                 }
             }
         ],
-        "thorpe-in-the-glebe": [
+        "thorpe in the glebe": [
             {
                 "placename": "Thorpe in the Glebe",
                 "lng": -1.103600025177,
@@ -1046,7 +1046,7 @@
                 }
             }
         ],
-        "kiddimoor-green": [
+        "kiddimoor green": [
             {
                 "placename": "Kiddimoor Green",
                 "lng": -2.2158699035645,
@@ -1164,7 +1164,7 @@
                 }
             }
         ],
-        "barnetby-le-wold": [
+        "barnetby le wold": [
             {
                 "placename": "Barnetby le Wold",
                 "lng": -0.40828999876976,
@@ -1384,7 +1384,7 @@
                 }
             }
         ],
-        "kettleby-thorpe": [
+        "kettleby thorpe": [
             {
                 "placename": "Kettleby Thorpe",
                 "lng": -0.42405301332474,
@@ -1926,7 +1926,7 @@
                 }
             }
         ],
-        "barnby-moor": [
+        "barnby moor": [
             {
                 "placename": "Barnby Moor",
                 "lng": -1.0023900270462,
@@ -1974,7 +1974,7 @@
                 }
             }
         ],
-        "carlton-in-lindrick": [
+        "carlton in lindrick": [
             {
                 "placename": "Carlton in Lindrick",
                 "lng": -1.1075400114059,
@@ -2118,7 +2118,7 @@
                 }
             }
         ],
-        "nether-langwith": [
+        "nether langwith": [
             {
                 "placename": "Nether Langwith",
                 "lng": -1.2000199556351,
@@ -2516,7 +2516,7 @@
                 }
             }
         ],
-        "hucknall-under-huthwaite": [
+        "hucknall under huthwaite": [
             {
                 "placename": "Hucknall under Huthwaite",
                 "lng": -1.3064700365067,
@@ -2564,7 +2564,7 @@
                 }
             }
         ],
-        "kirkby-in-ashfield": [
+        "kirkby in ashfield": [
             {
                 "placename": "Kirkby in Ashfield",
                 "lng": -1.2471599578857,
@@ -3162,7 +3162,7 @@
                 }
             }
         ],
-        "carlton-on-trent": [
+        "carlton on trent": [
             {
                 "placename": "Carlton on Trent",
                 "lng": -0.81236100196838,
@@ -3760,7 +3760,7 @@
                 }
             }
         ],
-        "barnby-in-the-willows": [
+        "barnby in the willows": [
             {
                 "placename": "Barnby in the Willows",
                 "lng": -0.72556900978088,
@@ -4128,7 +4128,7 @@
                 }
             }
         ],
-        "car-colston": [
+        "car colston": [
             {
                 "placename": "Car Colston",
                 "lng": -0.92176198959351,
@@ -4176,7 +4176,7 @@
                 }
             }
         ],
-        "colston-bassett": [
+        "colston bassett": [
             {
                 "placename": "Colston Bassett",
                 "lng": -0.95349299907684,
@@ -4336,7 +4336,7 @@
                 }
             }
         ],
-        "east-leake": [
+        "east leake": [
             {
                 "placename": "East Leake",
                 "lng": -1.1776200532913,
@@ -4368,7 +4368,7 @@
                 }
             }
         ],
-        "west-leake": [
+        "west leake": [
             {
                 "placename": "West Leake",
                 "lng": -1.2221499681473,
@@ -4400,7 +4400,7 @@
                 }
             }
         ],
-        "willoughby-on-the-wolds": [
+        "willoughby on the wolds": [
             {
                 "placename": "Willoughby on the Wolds",
                 "lng": -1.0590800046921,
@@ -4528,7 +4528,7 @@
                 }
             }
         ],
-        "park-leys": [
+        "park leys": [
             {
                 "placename": "Park Leys",
                 "lng": -0.90345799922943,
@@ -4824,7 +4824,7 @@
                 }
             }
         ],
-        "thorpe-by-water": [
+        "thorpe by water": [
             {
                 "placename": "Thorpe by Water",
                 "lng": -0.6812139749527,
@@ -4864,7 +4864,7 @@
                 }
             }
         ],
-        "east-garston": [
+        "east garston": [
             {
                 "placename": "East Garston",
                 "lng": -1.4757100343704,
@@ -4984,7 +4984,7 @@
                 }
             }
         ],
-        "great-rowsley": [
+        "great rowsley": [
             {
                 "placename": "Great Rowsley",
                 "lng": -1.6197600364685,
@@ -5112,7 +5112,7 @@
                 }
             }
         ],
-        "shirland-and-higham": [
+        "shirland and higham": [
             {
                 "placename": "Shirland and Higham",
                 "lng": -1.4112000465393,
@@ -5246,7 +5246,7 @@
                 }
             }
         ],
-        "hopton-and-griffe-grange": [
+        "hopton and griffe grange": [
             {
                 "placename": "Hopton and Griffe Grange",
                 "lng": -1.6207900047302,
@@ -5302,7 +5302,7 @@
                 }
             }
         ],
-        "kirk-ireton": [
+        "kirk ireton": [
             {
                 "placename": "Kirk Ireton",
                 "lng": -1.6061099767685,
@@ -5350,7 +5350,7 @@
                 }
             }
         ],
-        "codnor-and-loscoe": [
+        "codnor and loscoe": [
             {
                 "placename": "Codnor and Loscoe",
                 "lng": -1.3824800252914,
@@ -5522,7 +5522,7 @@
                 }
             }
         ],
-        "kirk-hallam": [
+        "kirk hallam": [
             {
                 "placename": "Kirk Hallam",
                 "lng": -1.3240900039673,
@@ -5562,7 +5562,7 @@
                 }
             }
         ],
-        "kirk-langley": [
+        "kirk langley": [
             {
                 "placename": "Kirk Langley",
                 "lng": -1.577329993248,
@@ -5666,7 +5666,7 @@
                 }
             }
         ],
-        "sawley-and-wilsthorpe": [
+        "sawley and wilsthorpe": [
             {
                 "placename": "Sawley and Wilsthorpe",
                 "lng": -1.2956299781799,
@@ -5769,7 +5769,7 @@
                 }
             }
         ],
-        "foston-and-scropton": [
+        "foston and scropton": [
             {
                 "placename": "Foston and Scropton",
                 "lng": -1.726529955864,
@@ -5881,7 +5881,7 @@
                 }
             }
         ],
-        "osleston-and-thurvaston": [
+        "osleston and thurvaston": [
             {
                 "placename": "Osleston and Thurvaston",
                 "lng": -1.6369999647141,
@@ -5929,7 +5929,7 @@
                 }
             }
         ],
-        "ravensdale-park": [
+        "ravensdale park": [
             {
                 "placename": "Ravensdale Park",
                 "lng": -1.5917799472809,
@@ -6071,7 +6071,7 @@
                 }
             }
         ],
-        "twyford-and-stenson": [
+        "twyford and stenson": [
             {
                 "placename": "Twyford and Stenson",
                 "lng": -1.5188000202179,
@@ -6126,7 +6126,7 @@
                 }
             }
         ],
-        "appleby-magna": [
+        "appleby magna": [
             {
                 "placename": "Appleby Magna",
                 "lng": -1.5206799507141,
@@ -6302,7 +6302,7 @@
                 }
             }
         ],
-        "oakthorpe-and-donisthorpe": [
+        "oakthorpe and donisthorpe": [
             {
                 "placename": "Oakthorpe and Donisthorpe",
                 "lng": -1.520290017128,
@@ -6685,7 +6685,7 @@
                 }
             }
         ],
-        "grunty-fen": [
+        "grunty fen": [
             {
                 "placename": "Grunty Fen",
                 "lng": 0.17964099347591,
@@ -6732,7 +6732,7 @@
                 }
             }
         ],
-        "water-newton": [
+        "water newton": [
             {
                 "placename": "Water Newton",
                 "lng": -0.37123700976372,
@@ -7052,7 +7052,7 @@
                 }
             }
         ],
-        "crosby-upon-eden": [
+        "crosby upon eden": [
             {
                 "placename": "Crosby upon Eden",
                 "lng": -2.8675398826599,
@@ -7084,7 +7084,7 @@
                 }
             }
         ],
-        "kirkandrews-middle-moat-and-nether": [
+        "kirkandrews, middle, moat and nether": [
             {
                 "placename": "Kirkandrews, Middle, Moat and Nether",
                 "lng": -2.9637401103973,
@@ -7148,7 +7148,7 @@
                 }
             }
         ],
-        "kirklinton-middle": [
+        "kirklinton middle": [
             {
                 "placename": "Kirklinton Middle",
                 "lng": -2.8847301006317,
@@ -7500,7 +7500,7 @@
                 }
             }
         ],
-        "kirkandrews-upon-eden": [
+        "kirkandrews upon eden": [
             {
                 "placename": "Kirkandrews Upon Eden",
                 "lng": -3.0077300071716,
@@ -7852,7 +7852,7 @@
                 }
             }
         ],
-        "alston-with-garrigill": [
+        "alston with garrigill": [
             {
                 "placename": "Alston with Garrigill",
                 "lng": -2.4449601173401,
@@ -7908,7 +7908,7 @@
                 }
             }
         ],
-        "berrier-and-murrah": [
+        "berrier and murrah": [
             {
                 "placename": "Berrier and Murrah",
                 "lng": -2.923779964447,
@@ -7964,7 +7964,7 @@
                 }
             }
         ],
-        "castle-sowerby": [
+        "castle sowerby": [
             {
                 "placename": "Castle Sowerby",
                 "lng": -2.9737200737,
@@ -8084,7 +8084,7 @@
                 }
             }
         ],
-        "hesket-in-the-forest": [
+        "hesket in the forest": [
             {
                 "placename": "Hesket in the Forest",
                 "lng": -2.8333699703217,
@@ -8124,7 +8124,7 @@
                 }
             }
         ],
-        "hunsonby-and-winskill": [
+        "hunsonby and winskill": [
             {
                 "placename": "Hunsonby and Winskill",
                 "lng": -2.6456499099731,
@@ -8180,7 +8180,7 @@
                 }
             }
         ],
-        "kirkland-and-blencarn": [
+        "kirkland and blencarn": [
             {
                 "placename": "Kirkland and Blencarn",
                 "lng": -2.5521600246429,
@@ -8528,7 +8528,7 @@
                 }
             }
         ],
-        "middlesceugh-and-braithwaite": [
+        "middlesceugh and braithwaite": [
             {
                 "placename": "Middlesceugh and Braithwaite",
                 "lng": -2.9262399673462,
@@ -8880,7 +8880,7 @@
                 }
             }
         ],
-        "aspatria-and-brayton": [
+        "aspatria and brayton": [
             {
                 "placename": "Aspatria and Brayton",
                 "lng": -3.3302199840546,
@@ -8976,7 +8976,7 @@
                 }
             }
         ],
-        "bewaldeth-and-snittlegarth": [
+        "bewaldeth and snittlegarth": [
             {
                 "placename": "Bewaldeth and Snittlegarth",
                 "lng": -3.2195699214935,
@@ -9032,7 +9032,7 @@
                 }
             }
         ],
-        "blennerhasset-and-kirkland": [
+        "blennerhasset and kirkland": [
             {
                 "placename": "Blennerhasset and Kirkland",
                 "lng": -3.2836101055145,
@@ -9304,7 +9304,7 @@
                 }
             }
         ],
-        "hayton-and-mealo": [
+        "hayton and mealo": [
             {
                 "placename": "Hayton and Mealo",
                 "lng": -3.3923599720001,
@@ -9360,7 +9360,7 @@
                 }
             }
         ],
-        "high-and-low-ireby": [
+        "high and low ireby": [
             {
                 "placename": "High and Low Ireby",
                 "lng": -3.1898601055145,
@@ -9400,7 +9400,7 @@
                 }
             }
         ],
-        "holme-abbey": [
+        "holme abbey": [
             {
                 "placename": "Holme Abbey",
                 "lng": -3.3014600276947,
@@ -9456,7 +9456,7 @@
                 }
             }
         ],
-        "holme-east-waver": [
+        "holme east waver": [
             {
                 "placename": "Holme East Waver",
                 "lng": -3.2558801174164,
@@ -9496,7 +9496,7 @@
                 }
             }
         ],
-        "holme-low": [
+        "holme low": [
             {
                 "placename": "Holme Low",
                 "lng": -3.3805000782013,
@@ -9536,7 +9536,7 @@
                 }
             }
         ],
-        "holme-st-cuthbert": [
+        "holme st. cuthbert": [
             {
                 "placename": "Holme St. Cuthbert",
                 "lng": -3.39359998703,
@@ -9568,7 +9568,7 @@
                 }
             }
         ],
-        "langrigg-and-mealrigg": [
+        "langrigg and mealrigg": [
             {
                 "placename": "Langrigg and Mealrigg",
                 "lng": -3.3002998828888,
@@ -9664,7 +9664,7 @@
                 }
             }
         ],
-        "oughterside-and-allerby": [
+        "oughterside and allerby": [
             {
                 "placename": "Oughterside and Allerby",
                 "lng": -3.3765199184418,
@@ -9982,7 +9982,7 @@
                 }
             }
         ],
-        "skinburness-marsh": [
+        "skinburness marsh": [
             {
                 "placename": "Skinburness Marsh",
                 "lng": -3.3655300140381,
@@ -10078,7 +10078,7 @@
                 }
             }
         ],
-        "beckermet-st-bridget-and-st-john": [
+        "beckermet st. bridget and st. john": [
             {
                 "placename": "Beckermet St. Bridget and St. John",
                 "lng": -3.5204100608826,
@@ -10134,7 +10134,7 @@
                 }
             }
         ],
-        "birker-and-austhwaite": [
+        "birker and austhwaite": [
             {
                 "placename": "Birker and Austhwaite",
                 "lng": -3.2566900253296,
@@ -10318,7 +10318,7 @@
                 }
             }
         ],
-        "drigg-and-carleton": [
+        "drigg and carleton": [
             {
                 "placename": "Drigg and Carleton",
                 "lng": -3.4408099651337,
@@ -10366,7 +10366,7 @@
                 }
             }
         ],
-        "ennerdale-and-kinniside": [
+        "ennerdale and kinniside": [
             {
                 "placename": "Ennerdale and Kinniside",
                 "lng": -3.4307401180267,
@@ -10422,7 +10422,7 @@
                 }
             }
         ],
-        "eskdale-and-wasdale": [
+        "eskdale and wasdale": [
             {
                 "placename": "Eskdale and Wasdale",
                 "lng": -3.2720799446106,
@@ -10598,7 +10598,7 @@
                 }
             }
         ],
-        "nether-wasdale": [
+        "nether wasdale": [
             {
                 "placename": "Nether Wasdale",
                 "lng": -3.350250005722,
@@ -10686,7 +10686,7 @@
                 }
             }
         ],
-        "salter-and-eskett": [
+        "salter and eskett": [
             {
                 "placename": "Salter and Eskett",
                 "lng": -3.4619500637054,
@@ -10774,7 +10774,7 @@
                 }
             }
         ],
-        "st-bees": [
+        "st. bees": [
             {
                 "placename": "St. Bees",
                 "lng": -3.5838000774384,
@@ -11068,7 +11068,7 @@
                 }
             }
         ],
-        "monks-kirby": [
+        "monks kirby": [
             {
                 "placename": "Monks Kirby",
                 "lng": -1.3172399997711,
@@ -11426,7 +11426,7 @@
                 }
             }
         ],
-        "ryton-on-dunsmore": [
+        "ryton on dunsmore": [
             {
                 "placename": "Ryton on Dunsmore",
                 "lng": -1.4359699487686,
@@ -11490,7 +11490,7 @@
                 }
             }
         ],
-        "kirkby-lonsdale": [
+        "kirkby lonsdale": [
             {
                 "placename": "Kirkby Lonsdale",
                 "lng": -2.5916500091553,
@@ -11714,7 +11714,7 @@
                 }
             }
         ],
-        "meathop-and-ulpha": [
+        "meathop and ulpha": [
             {
                 "placename": "Meathop and Ulpha",
                 "lng": -2.8679299354553,
@@ -11810,7 +11810,7 @@
                 }
             }
         ],
-        "heversham-and-milnthorpe": [
+        "heversham and milnthorpe": [
             {
                 "placename": "Heversham and Milnthorpe",
                 "lng": -2.7764298915863,
@@ -11866,7 +11866,7 @@
                 }
             }
         ],
-        "crosthwaite-and-lyth": [
+        "crosthwaite and lyth": [
             {
                 "placename": "Crosthwaite and Lyth",
                 "lng": -2.8700098991394,
@@ -12178,7 +12178,7 @@
                 }
             }
         ],
-        "whitwell-and-selside": [
+        "whitwell and selside": [
             {
                 "placename": "Whitwell and Selside",
                 "lng": -2.7175500392914,
@@ -12546,7 +12546,7 @@
                 }
             }
         ],
-        "rydal-and-loughrigg": [
+        "rydal and loughrigg": [
             {
                 "placename": "Rydal and Loughrigg",
                 "lng": -2.9807999134064,
@@ -12650,7 +12650,7 @@
                 }
             }
         ],
-        "kirkby-stephen": [
+        "kirkby stephen": [
             {
                 "placename": "Kirkby Stephen",
                 "lng": -2.3486700057983,
@@ -12976,7 +12976,7 @@
                 }
             }
         ],
-        "crosby-garrett": [
+        "crosby garrett": [
             {
                 "placename": "Crosby Garrett",
                 "lng": -2.4259099960327,
@@ -13096,7 +13096,7 @@
                 }
             }
         ],
-        "brough-sowerby": [
+        "brough sowerby": [
             {
                 "placename": "Brough Sowerby",
                 "lng": -2.3180899620056,
@@ -13192,7 +13192,7 @@
                 }
             }
         ],
-        "appleby-st-michael-and-st-lawrence": [
+        "appleby st. michael and st. lawrence": [
             {
                 "placename": "Appleby St. Michael and St. Lawrence",
                 "lng": -2.4887199401855,
@@ -13422,7 +13422,7 @@
                 }
             }
         ],
-        "kirkby-thore": [
+        "kirkby thore": [
             {
                 "placename": "Kirkby Thore",
                 "lng": -2.5668001174927,
@@ -13462,7 +13462,7 @@
                 }
             }
         ],
-        "temple-sowerby": [
+        "temple sowerby": [
             {
                 "placename": "Temple Sowerby",
                 "lng": -2.598030090332,
@@ -13756,7 +13756,7 @@
                 }
             }
         ],
-        "crosby-ravensworth": [
+        "crosby ravensworth": [
             {
                 "placename": "Crosby Ravensworth",
                 "lng": -2.5808799266815,
@@ -13796,7 +13796,7 @@
                 }
             }
         ],
-        "yanwath-and-eamont-bridge": [
+        "yanwath and eamont bridge": [
             {
                 "placename": "Yanwath and Eamont Bridge",
                 "lng": -2.7531299591064,
@@ -13892,7 +13892,7 @@
                 }
             }
         ],
-        "patterdale-and-hartsop": [
+        "patterdale and hartsop": [
             {
                 "placename": "Patterdale and Hartsop",
                 "lng": -2.9363899230957,
@@ -14874,7 +14874,7 @@
                 }
             }
         ],
-        "brandsby-cum-stearsby": [
+        "brandsby cum stearsby": [
             {
                 "placename": "Brandsby cum Stearsby",
                 "lng": -1.1059299707413,
@@ -14914,7 +14914,7 @@
                 }
             }
         ],
-        "marton-le-forest-cum-moxby": [
+        "marton le forest cum moxby": [
             {
                 "placename": "Marton le Forest cum Moxby",
                 "lng": -1.0914100408554,
@@ -14970,7 +14970,7 @@
                 }
             }
         ],
-        "dalby-cum-skewsby": [
+        "dalby cum skewsby": [
             {
                 "placename": "Dalby cum Skewsby",
                 "lng": -1.0296000242233,
@@ -15066,7 +15066,7 @@
                 }
             }
         ],
-        "terrington-with-wigganthorpe": [
+        "terrington with wigganthorpe": [
             {
                 "placename": "Terrington with Wigganthorpe",
                 "lng": -0.96861797571182,
@@ -15522,7 +15522,7 @@
                 }
             }
         ],
-        "new-and-old-malton": [
+        "new and old malton": [
             {
                 "placename": "New and Old Malton",
                 "lng": -0.78451400995255,
@@ -15690,7 +15690,7 @@
                 }
             }
         ],
-        "airyholme-with-howthorpe-and-baxtonhowe": [
+        "airyholme with howthorpe and baxtonhowe": [
             {
                 "placename": "Airyholme with Howthorpe and Baxtonhowe",
                 "lng": -0.96794801950455,
@@ -15794,7 +15794,7 @@
                 }
             }
         ],
-        "south-holme": [
+        "south holme": [
             {
                 "placename": "South Holme",
                 "lng": -0.93640899658203,
@@ -15896,7 +15896,7 @@
                 }
             }
         ],
-        "east-newton-and-laysthorpe": [
+        "east newton and laysthorpe": [
             {
                 "placename": "East Newton and Laysthorpe",
                 "lng": -1.0125900506973,
@@ -16150,7 +16150,7 @@
                 }
             }
         ],
-        "north-holme": [
+        "north holme": [
             {
                 "placename": "North Holme",
                 "lng": -0.92038398981094,
@@ -16230,7 +16230,7 @@
                 }
             }
         ],
-        "kirkby-moorside": [
+        "kirkby moorside": [
             {
                 "placename": "Kirkby Moorside",
                 "lng": -0.93432801961899,
@@ -16540,7 +16540,7 @@
                 }
             }
         ],
-        "laskill-pasture": [
+        "laskill pasture": [
             {
                 "placename": "Laskill Pasture",
                 "lng": -1.0870599746704,
@@ -16580,7 +16580,7 @@
                 }
             }
         ],
-        "kirby-misperton": [
+        "kirby misperton": [
             {
                 "placename": "Kirby Misperton",
                 "lng": -0.81332302093506,
@@ -16935,7 +16935,7 @@
                 }
             }
         ],
-        "trouts-dale": [
+        "trouts dale": [
             {
                 "placename": "Trouts Dale",
                 "lng": -0.5809640288353,
@@ -17245,7 +17245,7 @@
                 }
             }
         ],
-        "harwood-dale": [
+        "harwood dale": [
             {
                 "placename": "Harwood Dale",
                 "lng": -0.51697599887848,
@@ -17847,7 +17847,7 @@
                 }
             }
         ],
-        "hutton-mulgrave": [
+        "hutton mulgrave": [
             {
                 "placename": "Hutton Mulgrave",
                 "lng": -0.71268802881241,
@@ -17943,7 +17943,7 @@
                 }
             }
         ],
-        "newton-mulgrave": [
+        "newton mulgrave": [
             {
                 "placename": "Newton Mulgrave",
                 "lng": -0.78851401805878,
@@ -18159,7 +18159,7 @@
                 }
             }
         ],
-        "great-and-little-moorsholm": [
+        "great and little moorsholm": [
             {
                 "placename": "Great and Little Moorsholm",
                 "lng": -0.94323498010635,
@@ -18351,7 +18351,7 @@
                 }
             }
         ],
-        "hutton-lowcross": [
+        "hutton lowcross": [
             {
                 "placename": "Hutton Lowcross",
                 "lng": -1.0824600458145,
@@ -18717,7 +18717,7 @@
                 }
             }
         ],
-        "marton-in-cleveland": [
+        "marton in cleveland": [
             {
                 "placename": "Marton in Cleveland",
                 "lng": -1.1900299787521,
@@ -18853,7 +18853,7 @@
                 }
             }
         ],
-        "ingleby-greenhow": [
+        "ingleby greenhow": [
             {
                 "placename": "Ingleby Greenhow",
                 "lng": -1.099279999733,
@@ -18987,7 +18987,7 @@
                 }
             }
         ],
-        "kirby-in-cleveland": [
+        "kirby in cleveland": [
             {
                 "placename": "Kirby in Cleveland",
                 "lng": -1.1762100458145,
@@ -19019,7 +19019,7 @@
                 }
             }
         ],
-        "great-and-little-busby": [
+        "great and little busby": [
             {
                 "placename": "Great and Little Busby",
                 "lng": -1.1919800043106,
@@ -19075,7 +19075,7 @@
                 }
             }
         ],
-        "ingleby-barwick": [
+        "ingleby barwick": [
             {
                 "placename": "Ingleby Barwick",
                 "lng": -1.3139799833298,
@@ -19256,7 +19256,7 @@
                 }
             }
         ],
-        "kirk-leavington": [
+        "kirk leavington": [
             {
                 "placename": "Kirk Leavington",
                 "lng": -1.3455899953842,
@@ -19344,7 +19344,7 @@
                 }
             }
         ],
-        "rudby-in-cleveland": [
+        "rudby in cleveland": [
             {
                 "placename": "Rudby in Cleveland",
                 "lng": -1.2841800451279,
@@ -19624,7 +19624,7 @@
                 }
             }
         ],
-        "ingleby-arncliffe": [
+        "ingleby arncliffe": [
             {
                 "placename": "Ingleby Arncliffe",
                 "lng": -1.3160799741745,
@@ -19680,7 +19680,7 @@
                 }
             }
         ],
-        "kirby-hill": [
+        "kirby hill": [
             {
                 "placename": "Kirby Hill",
                 "lng": -1.3972899913788,
@@ -19878,7 +19878,7 @@
                 }
             }
         ],
-        "marton-le-moor": [
+        "marton le moor": [
             {
                 "placename": "Marton le Moor",
                 "lng": -1.4276299476624,
@@ -19974,7 +19974,7 @@
                 }
             }
         ],
-        "cundall-with-leckby": [
+        "cundall with leckby": [
             {
                 "placename": "Cundall with Leckby",
                 "lng": -1.350839972496,
@@ -20212,7 +20212,7 @@
                 }
             }
         ],
-        "eldmire-with-crakehill": [
+        "eldmire with crakehill": [
             {
                 "placename": "Eldmire with Crakehill",
                 "lng": -1.3505599498749,
@@ -20276,7 +20276,7 @@
                 }
             }
         ],
-        "rainton-with-newby": [
+        "rainton with newby": [
             {
                 "placename": "Rainton with Newby",
                 "lng": -1.4270100593567,
@@ -20364,7 +20364,7 @@
                 }
             }
         ],
-        "carlton-miniott": [
+        "carlton miniott": [
             {
                 "placename": "Carlton Miniott",
                 "lng": -1.3802499771118,
@@ -20490,7 +20490,7 @@
                 }
             }
         ],
-        "kirby-knowle": [
+        "kirby knowle": [
             {
                 "placename": "Kirby Knowle",
                 "lng": -1.2719399929047,
@@ -20752,7 +20752,7 @@
                 }
             }
         ],
-        "carlton-husthwaite": [
+        "carlton husthwaite": [
             {
                 "placename": "Carlton Husthwaite",
                 "lng": -1.2430299520493,
@@ -20848,7 +20848,7 @@
                 }
             }
         ],
-        "thorpe-le-willows": [
+        "thorpe le willows": [
             {
                 "placename": "Thorpe le Willows",
                 "lng": -1.1204700469971,
@@ -20880,7 +20880,7 @@
                 }
             }
         ],
-        "cold-kirby": [
+        "cold kirby": [
             {
                 "placename": "Cold Kirby",
                 "lng": -1.1803300380707,
@@ -21088,7 +21088,7 @@
                 }
             }
         ],
-        "over-silton": [
+        "over silton": [
             {
                 "placename": "Over Silton",
                 "lng": -1.3017400503159,
@@ -21184,7 +21184,7 @@
                 }
             }
         ],
-        "bilsdale-westside": [
+        "bilsdale westside": [
             {
                 "placename": "Bilsdale Westside",
                 "lng": -1.1485199928284,
@@ -21468,7 +21468,7 @@
                 }
             }
         ],
-        "knayton-with-brawith": [
+        "knayton with brawith": [
             {
                 "placename": "Knayton with Brawith",
                 "lng": -1.3333699703217,
@@ -21524,7 +21524,7 @@
                 }
             }
         ],
-        "nether-silton": [
+        "nether silton": [
             {
                 "placename": "Nether Silton",
                 "lng": -1.3018900156021,
@@ -21756,7 +21756,7 @@
                 }
             }
         ],
-        "kirby-sigston": [
+        "kirby sigston": [
             {
                 "placename": "Kirby Sigston",
                 "lng": -1.3631099462509,
@@ -21804,7 +21804,7 @@
                 }
             }
         ],
-        "sowerby-under-cotcliffe": [
+        "sowerby under cotcliffe": [
             {
                 "placename": "Sowerby under Cotcliffe",
                 "lng": -1.3786300420761,
@@ -22018,7 +22018,7 @@
                 }
             }
         ],
-        "middleton-quernhow": [
+        "middleton quernhow": [
             {
                 "placename": "Middleton Quernhow",
                 "lng": -1.4879499673843,
@@ -22074,7 +22074,7 @@
                 }
             }
         ],
-        "kirklington-cum-upsland": [
+        "kirklington cum upsland": [
             {
                 "placename": "Kirklington cum Upsland",
                 "lng": -1.5183000564575,
@@ -22138,7 +22138,7 @@
                 }
             }
         ],
-        "pickhill-with-roxby": [
+        "pickhill with roxby": [
             {
                 "placename": "Pickhill with Roxby",
                 "lng": -1.4720499515533,
@@ -22202,7 +22202,7 @@
                 }
             }
         ],
-        "ainderby-quernhow": [
+        "ainderby quernhow": [
             {
                 "placename": "Ainderby Quernhow",
                 "lng": -1.4722800254822,
@@ -22375,7 +22375,7 @@
                 }
             }
         ],
-        "swainby-with-allerthorpe": [
+        "swainby with allerthorpe": [
             {
                 "placename": "Swainby with Allerthorpe",
                 "lng": -1.4871699810028,
@@ -22519,7 +22519,7 @@
                 }
             }
         ],
-        "exelby-leeming-and-newton": [
+        "exelby, leeming and newton": [
             {
                 "placename": "Exelby, Leeming and Newton",
                 "lng": -1.5484800338745,
@@ -22868,7 +22868,7 @@
                 }
             }
         ],
-        "thornton-watlass": [
+        "thornton watlass": [
             {
                 "placename": "Thornton Watlass",
                 "lng": -1.6406999826431,
@@ -23012,7 +23012,7 @@
                 }
             }
         ],
-        "great-and-little-crakehall": [
+        "great and little crakehall": [
             {
                 "placename": "Great and Little Crakehall",
                 "lng": -1.6249400377274,
@@ -23178,7 +23178,7 @@
                 }
             }
         ],
-        "kirkby-fleetham": [
+        "kirkby fleetham": [
             {
                 "placename": "Kirkby Fleetham",
                 "lng": -1.5630799531937,
@@ -23226,7 +23226,7 @@
                 }
             }
         ],
-        "ainderby-mires-with-holtby": [
+        "ainderby mires with holtby": [
             {
                 "placename": "Ainderby Mires with Holtby",
                 "lng": -1.6094000339508,
@@ -23717,7 +23717,7 @@
                 }
             }
         ],
-        "agglethorpe-with-coverham": [
+        "agglethorpe with coverham": [
             {
                 "placename": "Agglethorpe with Coverham",
                 "lng": -1.8402500152588,
@@ -23773,7 +23773,7 @@
                 }
             }
         ],
-        "caldbergh-with-east-scrafton": [
+        "caldbergh with east scrafton": [
             {
                 "placename": "Caldbergh with East Scrafton",
                 "lng": -1.8556300401688,
@@ -23829,7 +23829,7 @@
                 }
             }
         ],
-        "carlton-in-coverdale": [
+        "carlton in coverdale": [
             {
                 "placename": "Carlton in Coverdale",
                 "lng": -1.9631500244141,
@@ -23869,7 +23869,7 @@
                 }
             }
         ],
-        "preston-under-scar": [
+        "preston under scar": [
             {
                 "placename": "Preston under Scar",
                 "lng": -1.9015599489212,
@@ -23997,7 +23997,7 @@
                 }
             }
         ],
-        "carperby-cum-thoresby": [
+        "carperby cum thoresby": [
             {
                 "placename": "Carperby cum Thoresby",
                 "lng": -1.9938000440598,
@@ -24181,7 +24181,7 @@
                 }
             }
         ],
-        "ellerton-abbey": [
+        "ellerton abbey": [
             {
                 "placename": "Ellerton Abbey",
                 "lng": -1.9783999919891,
@@ -24301,7 +24301,7 @@
                 }
             }
         ],
-        "kirby-wiske": [
+        "kirby wiske": [
             {
                 "placename": "Kirby Wiske",
                 "lng": -1.4258899688721,
@@ -24373,7 +24373,7 @@
                 }
             }
         ],
-        "newby-wiske": [
+        "newby wiske": [
             {
                 "placename": "Newby Wiske",
                 "lng": -1.4408799409866,
@@ -24413,7 +24413,7 @@
                 }
             }
         ],
-        "ainderby-steeple": [
+        "ainderby steeple": [
             {
                 "placename": "Ainderby Steeple",
                 "lng": -1.4863899946213,
@@ -24565,7 +24565,7 @@
                 }
             }
         ],
-        "danby-wiske": [
+        "danby wiske": [
             {
                 "placename": "Danby Wiske",
                 "lng": -1.485720038414,
@@ -24605,7 +24605,7 @@
                 }
             }
         ],
-        "ellerton-on-swale": [
+        "ellerton on swale": [
             {
                 "placename": "Ellerton on Swale",
                 "lng": -1.6089700460434,
@@ -25141,7 +25141,7 @@
                 }
             }
         ],
-        "stanwick-park": [
+        "stanwick park": [
             {
                 "placename": "Stanwick Park",
                 "lng": -1.7158499956131,
@@ -25325,7 +25325,7 @@
                 }
             }
         ],
-        "wycliffe-with-thorpe": [
+        "wycliffe with thorpe": [
             {
                 "placename": "Wycliffe with Thorpe",
                 "lng": -1.8238199949265,
@@ -25996,6 +25996,38 @@
                 }
             }
         ],
+        "cb new test": [
+            {
+                "placename": "CB new test",
+                "lng": -1.1726599931717,
+                "lat": 53.093799591064,
+                "etymology": "CB test input",
+                "elements": [
+                    {
+                        "headword": "bȳ",
+                        "hversion": 1,
+                        "hword": "by",
+                        "langcode": "N",
+                        "language": "Old Norse",
+                        "note": "A farmstead, a village."
+                    }
+                ],
+                "slug": "cb-new-test",
+                "cinema": {
+                    "chain": "Odeon",
+                    "cinema": "Odeon - Mansfield",
+                    "live": "24 April",
+                    "address": "Mansfield Leisure Park, Park Lane, Mansfield, Nottinghamshire",
+                    "postcode": "NG18 1BU",
+                    "phone": "0871 224 4007",
+                    "cinemaurl": "http://www.odeon.co.uk/cinemas/mansfield/110/",
+                    "eventurl": "",
+                    "cinemaemail": "contactcentre.managers@odeonuk.com",
+                    "lat": 53.1360103,
+                    "lng": -1.1982176000000209
+                }
+            }
+        ],
         "smardale": [
             {
                 "placename": "Smardale",
@@ -26060,7 +26092,7 @@
                 }
             }
         ],
-        "hedworth-monkton-and-jarrow": [
+        "hedworth monkton and jarrow": [
             {
                 "placename": "Hedworth Monkton and Jarrow",
                 "lng": -1.4939099550247,
@@ -26384,7 +26416,7 @@
                 }
             }
         ],
-        "raby-with-keverstone": [
+        "raby with keverstone": [
             {
                 "placename": "Raby with Keverstone",
                 "lng": -1.8080699443817,
@@ -26672,7 +26704,7 @@
                 }
             }
         ],
-        "sheraton-with-hulam": [
+        "sheraton with hulam": [
             {
                 "placename": "Sheraton with Hulam",
                 "lng": -1.3263100385666,
@@ -26720,7 +26752,7 @@
                 }
             }
         ],
-        "thorpe-bulmer": [
+        "thorpe bulmer": [
             {
                 "placename": "Thorpe Bulmer",
                 "lng": -1.2952699661255,
@@ -26760,7 +26792,7 @@
                 }
             }
         ],
-        "throston-rural": [
+        "throston rural": [
             {
                 "placename": "Throston Rural",
                 "lng": -1.2333600521088,
@@ -27128,7 +27160,7 @@
                 }
             }
         ],
-        "burstwick-with-skeckling": [
+        "burstwick with skeckling": [
             {
                 "placename": "Burstwick with Skeckling",
                 "lng": -0.14462199807167,
@@ -27232,7 +27264,7 @@
                 }
             }
         ],
-        "benningholme-and-grange": [
+        "benningholme and grange": [
             {
                 "placename": "Benningholme and Grange",
                 "lng": -0.30730199813843,
@@ -27528,7 +27560,7 @@
                 }
             }
         ],
-        "garton-with-grimston": [
+        "garton with grimston": [
             {
                 "placename": "Garton with Grimston",
                 "lng": -0.080751702189445,
@@ -27616,7 +27648,7 @@
                 }
             }
         ],
-        "east-newton": [
+        "east newton": [
             {
                 "placename": "East Newton",
                 "lng": -0.079930700361729,
@@ -27664,7 +27696,7 @@
                 }
             }
         ],
-        "mappleton-and-rowlston": [
+        "mappleton and rowlston": [
             {
                 "placename": "Mappleton and Rowlston",
                 "lng": -0.1382649987936,
@@ -27870,7 +27902,7 @@
                 }
             }
         ],
-        "seaton-and-wassand": [
+        "seaton and wassand": [
             {
                 "placename": "Seaton and Wassand",
                 "lng": -0.22833499312401,
@@ -28094,7 +28126,7 @@
                 }
             }
         ],
-        "bewholme-and-nunkeeling": [
+        "bewholme and nunkeeling": [
             {
                 "placename": "Bewholme and Nunkeeling",
                 "lng": -0.22681300342083,
@@ -28198,7 +28230,7 @@
                 }
             }
         ],
-        "dringhoe-upton-and-brough": [
+        "dringhoe upton and brough": [
             {
                 "placename": "Dringhoe Upton and Brough",
                 "lng": -0.24052500724792,
@@ -28302,7 +28334,7 @@
                 }
             }
         ],
-        "fraisthorpe-with-auburn-and-wilsthorpe": [
+        "fraisthorpe with auburn and wilsthorpe": [
             {
                 "placename": "Fraisthorpe with Auburn and Wilsthorpe",
                 "lng": -0.23787100613117,
@@ -28398,7 +28430,7 @@
                 }
             }
         ],
-        "foston-on-the-wolds": [
+        "foston on the wolds": [
             {
                 "placename": "Foston on the Wolds",
                 "lng": -0.31635800004005,
@@ -28478,7 +28510,7 @@
                 }
             }
         ],
-        "ruston-parva": [
+        "ruston parva": [
             {
                 "placename": "Ruston Parva",
                 "lng": -0.37523099780083,
@@ -28738,7 +28770,7 @@
                 }
             }
         ],
-        "sewerby-cum-marton": [
+        "sewerby cum marton": [
             {
                 "placename": "Sewerby cum Marton",
                 "lng": -0.1740700006485,
@@ -29066,7 +29098,7 @@
                 }
             }
         ],
-        "foxholes-with-boythorpe": [
+        "foxholes with boythorpe": [
             {
                 "placename": "Foxholes with Boythorpe",
                 "lng": -0.44752898812294,
@@ -29360,7 +29392,7 @@
                 }
             }
         ],
-        "kirby-grindalythe": [
+        "kirby grindalythe": [
             {
                 "placename": "Kirby Grindalythe",
                 "lng": -0.61767500638962,
@@ -29488,7 +29520,7 @@
                 }
             }
         ],
-        "wharram-percy": [
+        "wharram percy": [
             {
                 "placename": "Wharram Percy",
                 "lng": -0.6949520111084,
@@ -29536,7 +29568,7 @@
                 }
             }
         ],
-        "raisthorpe-and-burdale": [
+        "raisthorpe and burdale": [
             {
                 "placename": "Raisthorpe and Burdale",
                 "lng": -0.66497498750687,
@@ -29648,7 +29680,7 @@
                 }
             }
         ],
-        "wharram-le-street": [
+        "wharram le street": [
             {
                 "placename": "Wharram le Street",
                 "lng": -0.67910498380661,
@@ -29696,7 +29728,7 @@
                 }
             }
         ],
-        "thorpe-bassett": [
+        "thorpe bassett": [
             {
                 "placename": "Thorpe Bassett",
                 "lng": -0.67710298299789,
@@ -29848,7 +29880,7 @@
                 }
             }
         ],
-        "north-grimston": [
+        "north grimston": [
             {
                 "placename": "North Grimston",
                 "lng": -0.70939201116562,
@@ -30072,7 +30104,7 @@
                 }
             }
         ],
-        "acklam-with-barthorpe": [
+        "acklam with barthorpe": [
             {
                 "placename": "Acklam with Barthorpe",
                 "lng": -0.8026670217514,
@@ -30208,7 +30240,7 @@
                 }
             }
         ],
-        "elmswell-with-little-driffield-and-kelleythorpe": [
+        "elmswell with little driffield and kelleythorpe": [
             {
                 "placename": "Elmswell with Little Driffield and Kelleythorpe",
                 "lng": -0.46813398599625,
@@ -30376,7 +30408,7 @@
                 }
             }
         ],
-        "holme-on-the-wolds": [
+        "holme on the wolds": [
             {
                 "placename": "Holme on the Wolds",
                 "lng": -0.53261399269104,
@@ -30448,7 +30480,7 @@
                 }
             }
         ],
-        "kirkburn-and-battleburn": [
+        "kirkburn and battleburn": [
             {
                 "placename": "Kirkburn and Battleburn",
                 "lng": -0.49928298592567,
@@ -30728,7 +30760,7 @@
                 }
             }
         ],
-        "bishop-wilton-with-belthorpe": [
+        "bishop wilton with belthorpe": [
             {
                 "placename": "Bishop Wilton with Belthorpe",
                 "lng": -0.78896600008011,
@@ -30792,7 +30824,7 @@
                 }
             }
         ],
-        "youlthorpe-with-gowthorpe": [
+        "youlthorpe with gowthorpe": [
             {
                 "placename": "Youlthorpe with Gowthorpe",
                 "lng": -0.8347100019455,
@@ -30840,7 +30872,7 @@
                 }
             }
         ],
-        "great-givendale-with-grimthorp": [
+        "great givendale with grimthorp": [
             {
                 "placename": "Great Givendale with Grimthorp",
                 "lng": -0.75900501012802,
@@ -30904,7 +30936,7 @@
                 }
             }
         ],
-        "millington-with-little-givendale": [
+        "millington with little givendale": [
             {
                 "placename": "Millington with Little Givendale",
                 "lng": -0.72907000780106,
@@ -31088,7 +31120,7 @@
                 }
             }
         ],
-        "yapham-cum-meltonby": [
+        "yapham cum meltonby": [
             {
                 "placename": "Yapham cum Meltonby",
                 "lng": -0.80498600006104,
@@ -31192,7 +31224,7 @@
                 }
             }
         ],
-        "barmby-on-the-moor": [
+        "barmby on the moor": [
             {
                 "placename": "Barmby on the Moor",
                 "lng": -0.80601197481155,
@@ -31288,7 +31320,7 @@
                 }
             }
         ],
-        "high-and-low-catton": [
+        "high and low catton": [
             {
                 "placename": "High and Low Catton",
                 "lng": -0.91142201423645,
@@ -31480,7 +31512,7 @@
                 }
             }
         ],
-        "kirk-ella": [
+        "kirk ella": [
             {
                 "placename": "Kirk Ella",
                 "lng": -0.4469830095768,
@@ -31568,7 +31600,7 @@
                 }
             }
         ],
-        "north-ferriby": [
+        "north ferriby": [
             {
                 "placename": "North Ferriby",
                 "lng": -0.50889497995377,
@@ -31648,7 +31680,7 @@
                 }
             }
         ],
-        "elloughton-with-brough": [
+        "elloughton with brough": [
             {
                 "placename": "Elloughton with Brough",
                 "lng": -0.56887501478195,
@@ -31904,7 +31936,7 @@
                 }
             }
         ],
-        "north-cave-with-everthorpe-drewton": [
+        "north cave with everthorpe & drewton": [
             {
                 "placename": "North Cave with Everthorpe & Drewton",
                 "lng": -0.64320200681686,
@@ -31968,7 +32000,7 @@
                 }
             }
         ],
-        "market-weighton-and-arras": [
+        "market weighton and arras": [
             {
                 "placename": "Market Weighton and Arras",
                 "lng": -0.65578800439835,
@@ -32008,7 +32040,7 @@
                 }
             }
         ],
-        "thorpe-le-street": [
+        "thorpe le street": [
             {
                 "placename": "Thorpe le Street",
                 "lng": -0.70083498954773,
@@ -32056,7 +32088,7 @@
                 }
             }
         ],
-        "londesborough-with-easthorpe": [
+        "londesborough with easthorpe": [
             {
                 "placename": "Londesborough with Easthorpe",
                 "lng": -0.68506300449371,
@@ -32152,7 +32184,7 @@
                 }
             }
         ],
-        "holme-upon-spalding-moor": [
+        "holme upon spalding moor": [
             {
                 "placename": "Holme upon Spalding Moor",
                 "lng": -0.77818500995636,
@@ -32352,7 +32384,7 @@
                 }
             }
         ],
-        "breighton-and-gunby": [
+        "breighton and gunby": [
             {
                 "placename": "Breighton and Gunby",
                 "lng": -0.93102902173996,
@@ -32784,7 +32816,7 @@
                 }
             }
         ],
-        "barmby-on-marsh": [
+        "barmby on marsh": [
             {
                 "placename": "Barmby on Marsh",
                 "lng": -0.94755899906158,
@@ -33008,7 +33040,7 @@
                 }
             }
         ],
-        "brackenholme-and-woodhall": [
+        "brackenholme and woodhall": [
             {
                 "placename": "Brackenholme and Woodhall",
                 "lng": -0.93194198608398,
@@ -33064,7 +33096,7 @@
                 }
             }
         ],
-        "cliffe-cum-lund": [
+        "cliffe cum lund": [
             {
                 "placename": "Cliffe cum Lund",
                 "lng": -0.99218398332596,
@@ -33104,7 +33136,7 @@
                 }
             }
         ],
-        "menthorpe-cum-bowthorpe": [
+        "menthorpe cum bowthorpe": [
             {
                 "placename": "Menthorpe cum Bowthorpe",
                 "lng": -0.93102902173996,
@@ -33230,7 +33262,7 @@
                 }
             }
         ],
-        "thorganby-with-west-cottingwith": [
+        "thorganby with west cottingwith": [
             {
                 "placename": "Thorganby with West Cottingwith",
                 "lng": -0.94440400600433,
@@ -33294,7 +33326,7 @@
                 }
             }
         ],
-        "stillingfleet-with-moreby": [
+        "stillingfleet with moreby": [
             {
                 "placename": "Stillingfleet with Moreby",
                 "lng": -1.0966700315475,
@@ -33446,7 +33478,7 @@
                 }
             }
         ],
-        "west-stamford-bridge-with-scoreby": [
+        "west stamford bridge with scoreby": [
             {
                 "placename": "West Stamford Bridge with Scoreby",
                 "lng": -0.91095399856567,
@@ -33638,7 +33670,7 @@
                 }
             }
         ],
-        "kirby-underdale": [
+        "kirby underdale": [
             {
                 "placename": "Kirby Underdale",
                 "lng": -0.77292597293854,
@@ -33884,7 +33916,7 @@
                 }
             }
         ],
-        "croxton-kerrial": [
+        "croxton kerrial": [
             {
                 "placename": "Croxton Kerrial",
                 "lng": -0.76132702827454,
@@ -34074,7 +34106,7 @@
                 }
             }
         ],
-        "ab-kettleby": [
+        "ab kettleby": [
             {
                 "placename": "Ab Kettleby",
                 "lng": -0.92599099874496,
@@ -34389,7 +34421,7 @@
                 }
             }
         ],
-        "market-harborough": [
+        "market harborough": [
             {
                 "placename": "Market Harborough",
                 "lng": -0.91916400194168,
@@ -34453,7 +34485,7 @@
                 }
             }
         ],
-        "illston-on-the-hill": [
+        "illston on the hill": [
             {
                 "placename": "Illston on the Hill",
                 "lng": -0.96078699827194,
@@ -34661,7 +34693,7 @@
                 }
             }
         ],
-        "smeeton-westerby": [
+        "smeeton westerby": [
             {
                 "placename": "Smeeton Westerby",
                 "lng": -1.0064799785614,
@@ -34717,7 +34749,7 @@
                 }
             }
         ],
-        "thorpe-langton": [
+        "thorpe langton": [
             {
                 "placename": "Thorpe Langton",
                 "lng": -0.90332502126694,
@@ -34885,7 +34917,7 @@
                 }
             }
         ],
-        "barkby-thorpe": [
+        "barkby thorpe": [
             {
                 "placename": "Barkby Thorpe",
                 "lng": -1.0621800422668,
@@ -34965,7 +34997,7 @@
                 }
             }
         ],
-        "nether-broughton-and-old-dalby": [
+        "nether broughton and old dalby": [
             {
                 "placename": "Nether Broughton and Old Dalby",
                 "lng": -0.95543700456619,
@@ -35021,7 +35053,7 @@
                 }
             }
         ],
-        "south-croxton": [
+        "south croxton": [
             {
                 "placename": "South Croxton",
                 "lng": -0.98802500963211,
@@ -35069,7 +35101,7 @@
                 }
             }
         ],
-        "frisby-on-the-wreake": [
+        "frisby on the wreake": [
             {
                 "placename": "Frisby on the Wreake",
                 "lng": -0.971755027771,
@@ -35156,7 +35188,7 @@
                 }
             }
         ],
-        "hoby-with-rotherby": [
+        "hoby with rotherby": [
             {
                 "placename": "Hoby with Rotherby",
                 "lng": -1.0161900520325,
@@ -35404,7 +35436,7 @@
                 }
             }
         ],
-        "tugby-and-keythorpe": [
+        "tugby and keythorpe": [
             {
                 "placename": "Tugby and Keythorpe",
                 "lng": -0.87200999259949,
@@ -35460,7 +35492,7 @@
                 }
             }
         ],
-        "twyford-and-thorpe-satchville": [
+        "twyford and thorpe satchville": [
             {
                 "placename": "Twyford and Thorpe Satchville",
                 "lng": -0.92907899618149,
@@ -35516,7 +35548,7 @@
                 }
             }
         ],
-        "ashby-de-la-zouche": [
+        "ashby de la zouche": [
             {
                 "placename": "Ashby de la Zouche",
                 "lng": -1.4755500555038,
@@ -35852,7 +35884,7 @@
                 }
             }
         ],
-        "ashby-magna": [
+        "ashby magna": [
             {
                 "placename": "Ashby Magna",
                 "lng": -1.168939948082,
@@ -36404,7 +36436,7 @@
                 }
             }
         ],
-        "wigston-magna": [
+        "wigston magna": [
             {
                 "placename": "Wigston Magna",
                 "lng": -1.1085599660873,
@@ -36468,7 +36500,7 @@
                 }
             }
         ],
-        "willoughby-waterless": [
+        "willoughby waterless": [
             {
                 "placename": "Willoughby Waterless",
                 "lng": -1.1538599729538,
@@ -36682,7 +36714,7 @@
                 }
             }
         ],
-        "kirby-muxloe": [
+        "kirby muxloe": [
             {
                 "placename": "Kirby Muxloe",
                 "lng": -1.2404299974442,
@@ -36898,7 +36930,7 @@
                 }
             }
         ],
-        "appleby-parva": [
+        "appleby parva": [
             {
                 "placename": "Appleby Parva",
                 "lng": -1.5354700088501,
@@ -36946,7 +36978,7 @@
                 }
             }
         ],
-        "west-leicester-forest": [
+        "west leicester forest": [
             {
                 "placename": "West Leicester Forest",
                 "lng": -1.2556600570679,
@@ -36986,7 +37018,7 @@
                 }
             }
         ],
-        "ashby-parva": [
+        "ashby parva": [
             {
                 "placename": "Ashby Parva",
                 "lng": -1.2281800508499,
@@ -37034,7 +37066,7 @@
                 }
             }
         ],
-        "ravenstone-with-snibstone": [
+        "ravenstone with snibstone": [
             {
                 "placename": "Ravenstone with Snibstone",
                 "lng": -1.401859998703,
@@ -37082,7 +37114,7 @@
                 }
             }
         ],
-        "great-and-little-dalby": [
+        "great and little dalby": [
             {
                 "placename": "Great and Little Dalby",
                 "lng": -0.89837199449539,
@@ -37336,7 +37368,7 @@
                 }
             }
         ],
-        "goadby-marwood": [
+        "goadby marwood": [
             {
                 "placename": "Goadby Marwood",
                 "lng": -0.83628797531128,
@@ -37384,7 +37416,7 @@
                 }
             }
         ],
-        "pickwell-with-leesthorpe": [
+        "pickwell with leesthorpe": [
             {
                 "placename": "Pickwell with Leesthorpe",
                 "lng": -0.83987599611282,
@@ -37669,7 +37701,7 @@
                 }
             }
         ],
-        "thorpe-arnold": [
+        "thorpe arnold": [
             {
                 "placename": "Thorpe Arnold",
                 "lng": -0.85254800319672,
@@ -37749,7 +37781,7 @@
                 }
             }
         ],
-        "brentingby-and-wyfordby": [
+        "brentingby and wyfordby": [
             {
                 "placename": "Brentingby and Wyfordby",
                 "lng": -0.83820497989655,
@@ -37877,7 +37909,7 @@
                 }
             }
         ],
-        "kirby-bellars": [
+        "kirby bellars": [
             {
                 "placename": "Kirby Bellars",
                 "lng": -0.94212901592255,
@@ -37917,7 +37949,7 @@
                 }
             }
         ],
-        "ashby-folville": [
+        "ashby folville": [
             {
                 "placename": "Ashby Folville",
                 "lng": -0.95801401138306,
@@ -38237,7 +38269,7 @@
                 }
             }
         ],
-        "east-leicester-forest": [
+        "east leicester forest": [
             {
                 "placename": "East Leicester Forest",
                 "lng": -1.211040019989,
@@ -38285,7 +38317,7 @@
                 }
             }
         ],
-        "kirkby-mallory": [
+        "kirkby mallory": [
             {
                 "placename": "Kirkby Mallory",
                 "lng": -1.3296300172806,
@@ -38565,7 +38597,7 @@
                 }
             }
         ],
-        "thorpe-next-norwich": [
+        "thorpe next norwich": [
             {
                 "placename": "Thorpe next Norwich",
                 "lng": 1.345929980278,
@@ -38605,7 +38637,7 @@
                 }
             }
         ],
-        "burnham-thorpe": [
+        "burnham thorpe": [
             {
                 "placename": "Burnham Thorpe",
                 "lng": 0.75898200273514,
@@ -38661,7 +38693,7 @@
                 }
             }
         ],
-        "burnham-westgate": [
+        "burnham westgate": [
             {
                 "placename": "Burnham Westgate",
                 "lng": 0.72982197999954,
@@ -38725,7 +38757,7 @@
                 }
             }
         ],
-        "runcton-holme": [
+        "runcton holme": [
             {
                 "placename": "Runcton Holme",
                 "lng": 0.38641399145126,
@@ -38773,7 +38805,7 @@
                 }
             }
         ],
-        "stoke-ferry": [
+        "stoke ferry": [
             {
                 "placename": "Stoke Ferry",
                 "lng": 0.51470798254013,
@@ -38813,7 +38845,7 @@
                 }
             }
         ],
-        "wallington-with-thorpland": [
+        "wallington with thorpland": [
             {
                 "placename": "Wallington with Thorpland",
                 "lng": 0.40069299936295,
@@ -38877,7 +38909,7 @@
                 }
             }
         ],
-        "shouldham-thorpe": [
+        "shouldham thorpe": [
             {
                 "placename": "Shouldham Thorpe",
                 "lng": 0.44499599933624,
@@ -38997,7 +39029,7 @@
                 }
             }
         ],
-        "kirby-cane": [
+        "kirby cane": [
             {
                 "placename": "Kirby Cane",
                 "lng": 1.4974399805069,
@@ -39037,7 +39069,7 @@
                 }
             }
         ],
-        "thorpe-next-haddiscoe": [
+        "thorpe next haddiscoe": [
             {
                 "placename": "Thorpe next Haddiscoe",
                 "lng": 1.5885699987411,
@@ -39205,7 +39237,7 @@
                 }
             }
         ],
-        "carleton-rode": [
+        "carleton rode": [
             {
                 "placename": "Carleton Rode",
                 "lng": 1.1137900352478,
@@ -39387,7 +39419,7 @@
                 }
             }
         ],
-        "morning-thorpe": [
+        "morning thorpe": [
             {
                 "placename": "Morning Thorpe",
                 "lng": 1.2608300447464,
@@ -39571,7 +39603,7 @@
                 }
             }
         ],
-        "thorpe-abbotts": [
+        "thorpe abbotts": [
             {
                 "placename": "Thorpe Abbotts",
                 "lng": 1.2228900194168,
@@ -39777,7 +39809,7 @@
                 }
             }
         ],
-        "thorpe-market": [
+        "thorpe market": [
             {
                 "placename": "Thorpe Market",
                 "lng": 1.3342200517654,
@@ -40389,7 +40421,7 @@
                 }
             }
         ],
-        "ormesby-st-margaret-st-michael": [
+        "ormesby st margaret & st michael": [
             {
                 "placename": "Ormesby St Margaret & St Michael",
                 "lng": 1.6896500587463,
@@ -40437,7 +40469,7 @@
                 }
             }
         ],
-        "stokesby-with-herringby": [
+        "stokesby with herringby": [
             {
                 "placename": "Stokesby with Herringby",
                 "lng": 1.5973900556564,
@@ -40525,7 +40557,7 @@
                 }
             }
         ],
-        "ashby-with-oby": [
+        "ashby with oby": [
             {
                 "placename": "Ashby with Oby",
                 "lng": 1.5715500116348,
@@ -40693,7 +40725,7 @@
                 }
             }
         ],
-        "repps-with-bastwick": [
+        "repps with bastwick": [
             {
                 "placename": "Repps with Bastwick",
                 "lng": 1.5730199813843,
@@ -40869,7 +40901,7 @@
                 }
             }
         ],
-        "morton-on-the-hill": [
+        "morton on the hill": [
             {
                 "placename": "Morton on the Hill",
                 "lng": 1.1445399522781,
@@ -41021,7 +41053,7 @@
                 }
             }
         ],
-        "carleton-forehoe": [
+        "carleton forehoe": [
             {
                 "placename": "Carleton Forehoe",
                 "lng": 1.0925799608231,
@@ -41392,7 +41424,7 @@
                 }
             }
         ],
-        "gayton-thorpe": [
+        "gayton thorpe": [
             {
                 "placename": "Gayton Thorpe",
                 "lng": 0.58318901062012,
@@ -41560,7 +41592,7 @@
                 }
             }
         ],
-        "fulmodeston-cum-croxton": [
+        "fulmodeston cum croxton": [
             {
                 "placename": "Fulmodeston cum Croxton",
                 "lng": 0.96089297533035,
@@ -41864,7 +41896,7 @@
                 }
             }
         ],
-        "holme-hale": [
+        "holme hale": [
             {
                 "placename": "Holme Hale",
                 "lng": 0.78400099277496,
@@ -41904,7 +41936,7 @@
                 }
             }
         ],
-        "newton-by-castle-acre": [
+        "newton by castle acre": [
             {
                 "placename": "Newton by Castle Acre",
                 "lng": 0.68509197235107,
@@ -42260,7 +42292,7 @@
                 }
             }
         ],
-        "kirby-bedon": [
+        "kirby bedon": [
             {
                 "placename": "Kirby Bedon",
                 "lng": 1.3726700544357,
@@ -42300,7 +42332,7 @@
                 }
             }
         ],
-        "rockland-st-mary": [
+        "rockland st. mary": [
             {
                 "placename": "Rockland St. Mary",
                 "lng": 1.4161900281906,
@@ -42348,7 +42380,7 @@
                 }
             }
         ],
-        "saxlingham-thorpe": [
+        "saxlingham thorpe": [
             {
                 "placename": "Saxlingham Thorpe",
                 "lng": 1.2788699865341,
@@ -42388,7 +42420,7 @@
                 }
             }
         ],
-        "bracon-ash": [
+        "bracon ash": [
             {
                 "placename": "Bracon Ash",
                 "lng": 1.2213200330734,
@@ -42476,7 +42508,7 @@
                 }
             }
         ],
-        "east-carleton": [
+        "east carleton": [
             {
                 "placename": "East Carleton",
                 "lng": 1.2085599899292,
@@ -42644,7 +42676,7 @@
                 }
             }
         ],
-        "ashby-st-mary": [
+        "ashby st. mary": [
             {
                 "placename": "Ashby St. Mary",
                 "lng": 1.4295200109482,
@@ -42700,7 +42732,7 @@
                 }
             }
         ],
-        "carleton-st-peter": [
+        "carleton st. peter": [
             {
                 "placename": "Carleton St. Peter",
                 "lng": 1.458969950676,
@@ -42908,7 +42940,7 @@
                 }
             }
         ],
-        "rockland-all-saints": [
+        "rockland all saints": [
             {
                 "placename": "Rockland All Saints",
                 "lng": 0.9396989941597,
@@ -43242,7 +43274,7 @@
                 }
             }
         ],
-        "sco-ruston": [
+        "sco ruston": [
             {
                 "placename": "Sco Ruston",
                 "lng": 1.3837599754333,
@@ -43290,7 +43322,7 @@
                 }
             }
         ],
-        "ranworth-with-panxworth": [
+        "ranworth with panxworth": [
             {
                 "placename": "Ranworth with Panxworth",
                 "lng": 1.4822499752045,
@@ -43498,7 +43530,7 @@
                 }
             }
         ],
-        "rockland-st-peter": [
+        "rockland st. peter": [
             {
                 "placename": "Rockland St. Peter",
                 "lng": 0.94029897451401,
@@ -43578,7 +43610,7 @@
                 }
             }
         ],
-        "blore-with-swinscoe": [
+        "blore with swinscoe": [
             {
                 "placename": "Blore with Swinscoe",
                 "lng": -1.8000799417496,
@@ -43626,7 +43658,7 @@
                 }
             }
         ],
-        "chartley-holme": [
+        "chartley holme": [
             {
                 "placename": "Chartley Holme",
                 "lng": -1.9939999580383,
@@ -43889,7 +43921,7 @@
                 }
             }
         ],
-        "thorpe-constantine": [
+        "thorpe constantine": [
             {
                 "placename": "Thorpe Constantine",
                 "lng": -1.6243000030518,
@@ -44287,7 +44319,7 @@
                 }
             }
         ],
-        "knight-thorpe": [
+        "knight thorpe": [
             {
                 "placename": "Knight Thorpe",
                 "lng": -1.223109960556,
@@ -44439,7 +44471,7 @@
                 }
             }
         ],
-        "algar-kirk": [
+        "algar kirk": [
             {
                 "placename": "Algar Kirk",
                 "lng": -0.061660401523113,
@@ -44615,7 +44647,7 @@
                 }
             }
         ],
-        "skirbeck-quarter": [
+        "skirbeck quarter": [
             {
                 "placename": "Skirbeck Quarter",
                 "lng": -0.028688099235296,
@@ -45117,7 +45149,7 @@
                 }
             }
         ],
-        "kirkby-la-thorpe": [
+        "kirkby la thorpe": [
             {
                 "placename": "Kirkby la Thorpe",
                 "lng": -0.36994498968124,
@@ -45165,7 +45197,7 @@
                 }
             }
         ],
-        "silk-willoughby": [
+        "silk willoughby": [
             {
                 "placename": "Silk Willoughby",
                 "lng": -0.43016999959946,
@@ -45533,7 +45565,7 @@
                 }
             }
         ],
-        "kirkby-underwood": [
+        "kirkby underwood": [
             {
                 "placename": "Kirkby Underwood",
                 "lng": -0.40568301081657,
@@ -46185,7 +46217,7 @@
                 }
             }
         ],
-        "toft-and-lound": [
+        "toft and lound": [
             {
                 "placename": "Toft and Lound",
                 "lng": -0.42377200722694,
@@ -46273,7 +46305,7 @@
                 }
             }
         ],
-        "boothby-graffoe": [
+        "boothby graffoe": [
             {
                 "placename": "Boothby Graffoe",
                 "lng": -0.52950000762939,
@@ -46329,7 +46361,7 @@
                 }
             }
         ],
-        "carlton-le-moorland": [
+        "carlton le moorland": [
             {
                 "placename": "Carlton le Moorland",
                 "lng": -0.64957302808762,
@@ -46657,7 +46689,7 @@
                 }
             }
         ],
-        "thorpe-on-the-hill": [
+        "thorpe on the hill": [
             {
                 "placename": "Thorpe on the Hill",
                 "lng": -0.64731699228287,
@@ -46729,7 +46761,7 @@
                 }
             }
         ],
-        "ashby-de-la-launde": [
+        "ashby de la launde": [
             {
                 "placename": "Ashby de la Launde",
                 "lng": -0.42624899744987,
@@ -46873,7 +46905,7 @@
                 }
             }
         ],
-        "haverholme-priory": [
+        "haverholme priory": [
             {
                 "placename": "Haverholme Priory",
                 "lng": -0.35368499159813,
@@ -46921,7 +46953,7 @@
                 }
             }
         ],
-        "north-and-south-rauceby": [
+        "north and south rauceby": [
             {
                 "placename": "North and South Rauceby",
                 "lng": -0.47388300299644,
@@ -47113,7 +47145,7 @@
                 }
             }
         ],
-        "kirkby-green": [
+        "kirkby green": [
             {
                 "placename": "Kirkby Green",
                 "lng": -0.3808020055294,
@@ -47193,7 +47225,7 @@
                 }
             }
         ],
-        "thorpe-tilney": [
+        "thorpe tilney": [
             {
                 "placename": "Thorpe Tilney",
                 "lng": -0.33601200580597,
@@ -47399,7 +47431,7 @@
                 }
             }
         ],
-        "carlton-scroop": [
+        "carlton scroop": [
             {
                 "placename": "Carlton Scroop",
                 "lng": -0.59364998340607,
@@ -47487,7 +47519,7 @@
                 }
             }
         ],
-        "great-gonerby": [
+        "great gonerby": [
             {
                 "placename": "Great Gonerby",
                 "lng": -0.66976898908615,
@@ -47663,7 +47695,7 @@
                 }
             }
         ],
-        "manthorpe-cum-little-gonerby": [
+        "manthorpe cum little gonerby": [
             {
                 "placename": "Manthorpe cum Little Gonerby",
                 "lng": -0.64030200242996,
@@ -47973,7 +48005,7 @@
                 }
             }
         ],
-        "boothby-pagnell": [
+        "boothby pagnell": [
             {
                 "placename": "Boothby Pagnell",
                 "lng": -0.55317401885986,
@@ -48261,7 +48293,7 @@
                 }
             }
         ],
-        "east-and-west-firsby": [
+        "east and west firsby": [
             {
                 "placename": "East and West Firsby",
                 "lng": -0.49143099784851,
@@ -48341,7 +48373,7 @@
                 }
             }
         ],
-        "normanby-by-spital": [
+        "normanby by spital": [
             {
                 "placename": "Normanby by Spital",
                 "lng": -0.49047800898552,
@@ -48517,7 +48549,7 @@
                 }
             }
         ],
-        "east-and-west-keal": [
+        "east and west keal": [
             {
                 "placename": "East and West Keal",
                 "lng": 0.054661501199007,
@@ -48549,7 +48581,7 @@
                 }
             }
         ],
-        "east-kirkby": [
+        "east kirkby": [
             {
                 "placename": "East Kirkby",
                 "lng": -0.0046954802237451,
@@ -48621,7 +48653,7 @@
                 }
             }
         ],
-        "halton-holegate": [
+        "halton holegate": [
             {
                 "placename": "Halton Holegate",
                 "lng": 0.11531499773264,
@@ -48797,7 +48829,7 @@
                 }
             }
         ],
-        "mavis-enderby": [
+        "mavis enderby": [
             {
                 "placename": "Mavis Enderby",
                 "lng": 0.040996998548508,
@@ -49005,7 +49037,7 @@
                 }
             }
         ],
-        "thorpe-st-peter": [
+        "thorpe st. peter": [
             {
                 "placename": "Thorpe St. Peter",
                 "lng": 0.21763099730015,
@@ -49124,7 +49156,7 @@
                 }
             }
         ],
-        "great-grimsby": [
+        "great grimsby": [
             {
                 "placename": "Great Grimsby",
                 "lng": -0.076253600418568,
@@ -49282,7 +49314,7 @@
                 }
             }
         ],
-        "clee-with-weelsby": [
+        "clee with weelsby": [
             {
                 "placename": "Clee with Weelsby",
                 "lng": -0.061574198305607,
@@ -49330,7 +49362,7 @@
                 }
             }
         ],
-        "aby-with-greenfield": [
+        "aby with greenfield": [
             {
                 "placename": "Aby with Greenfield",
                 "lng": 0.12107899785042,
@@ -49434,7 +49466,7 @@
                 }
             }
         ],
-        "beesby-in-the-marsh": [
+        "beesby in the marsh": [
             {
                 "placename": "Beesby in the Marsh",
                 "lng": 0.19694200158119,
@@ -49816,7 +49848,7 @@
                 }
             }
         ],
-        "gayton-le-marsh": [
+        "gayton le marsh": [
             {
                 "placename": "Gayton le Marsh",
                 "lng": 0.1387609988451,
@@ -49864,7 +49896,7 @@
                 }
             }
         ],
-        "hannah-cum-hagnaby": [
+        "hannah cum hagnaby": [
             {
                 "placename": "Hannah cum Hagnaby",
                 "lng": 0.25644299387932,
@@ -49976,7 +50008,7 @@
                 }
             }
         ],
-        "little-cawthorpe": [
+        "little cawthorpe": [
             {
                 "placename": "Little Cawthorpe",
                 "lng": 0.033274699002504,
@@ -50056,7 +50088,7 @@
                 }
             }
         ],
-        "maltby-le-marsh": [
+        "maltby le marsh": [
             {
                 "placename": "Maltby le Marsh",
                 "lng": 0.19740399718285,
@@ -50191,7 +50223,7 @@
                 }
             }
         ],
-        "rigsby-with-ailby": [
+        "rigsby with ailby": [
             {
                 "placename": "Rigsby with Ailby",
                 "lng": 0.14970399439335,
@@ -50239,7 +50271,7 @@
                 }
             }
         ],
-        "saleby-with-thoresthorpe": [
+        "saleby with thoresthorpe": [
             {
                 "placename": "Saleby with Thoresthorpe",
                 "lng": 0.18103300035,
@@ -50287,7 +50319,7 @@
                 }
             }
         ],
-        "south-thoresby": [
+        "south thoresby": [
             {
                 "placename": "South Thoresby",
                 "lng": 0.10520700365305,
@@ -50327,7 +50359,7 @@
                 }
             }
         ],
-        "strubby-with-woodthorpe": [
+        "strubby with woodthorpe": [
             {
                 "placename": "Strubby with Woodthorpe",
                 "lng": 0.18286499381065,
@@ -50423,7 +50455,7 @@
                 }
             }
         ],
-        "theddlethorpe-all-saints-ans-st-helen": [
+        "theddlethorpe all saints ans st. helen": [
             {
                 "placename": "Theddlethorpe All Saints ans St. Helen",
                 "lng": 0.20063899457455,
@@ -50511,7 +50543,7 @@
                 }
             }
         ],
-        "ulceby-with-fordington": [
+        "ulceby with fordington": [
             {
                 "placename": "Ulceby with Fordington",
                 "lng": 0.13338400423527,
@@ -50567,7 +50599,7 @@
                 }
             }
         ],
-        "willoughby-with-sloothby": [
+        "willoughby with sloothby": [
             {
                 "placename": "Willoughby with Sloothby",
                 "lng": 0.20776799321175,
@@ -50623,7 +50655,7 @@
                 }
             }
         ],
-        "withern-with-stain": [
+        "withern with stain": [
             {
                 "placename": "Withern with Stain",
                 "lng": 0.15286299586296,
@@ -50719,7 +50751,7 @@
                 }
             }
         ],
-        "ashby-by-partney": [
+        "ashby by partney": [
             {
                 "placename": "Ashby by Partney",
                 "lng": 0.13070799410343,
@@ -50935,7 +50967,7 @@
                 }
             }
         ],
-        "irby-in-the-marsh": [
+        "irby in the marsh": [
             {
                 "placename": "Irby in the Marsh",
                 "lng": 0.20407900214195,
@@ -51199,7 +51231,7 @@
                 }
             }
         ],
-        "kirton-in-lindsey": [
+        "kirton in lindsey": [
             {
                 "placename": "Kirton in Lindsey",
                 "lng": -0.59271901845932,
@@ -51629,7 +51661,7 @@
                 }
             }
         ],
-        "kirkby-on-bain": [
+        "kirkby on bain": [
             {
                 "placename": "Kirkby on Bain",
                 "lng": -0.14000399410725,
@@ -51837,7 +51869,7 @@
                 }
             }
         ],
-        "tattershall-thorpe": [
+        "tattershall thorpe": [
             {
                 "placename": "Tattershall Thorpe",
                 "lng": -0.1859689950943,
@@ -51933,7 +51965,7 @@
                 }
             }
         ],
-        "ashby-cum-fenby": [
+        "ashby cum fenby": [
             {
                 "placename": "Ashby cum Fenby",
                 "lng": -0.110037997365,
@@ -51997,7 +52029,7 @@
                 }
             }
         ],
-        "barnoldby-le-beck": [
+        "barnoldby le beck": [
             {
                 "placename": "Barnoldby le Beck",
                 "lng": -0.13898199796677,
@@ -52085,7 +52117,7 @@
                 }
             }
         ],
-        "east-and-west-ravendale": [
+        "east and west ravendale": [
             {
                 "placename": "East and West Ravendale",
                 "lng": -0.14055499434471,
@@ -52173,7 +52205,7 @@
                 }
             }
         ],
-        "hawerby-cum-beesby": [
+        "hawerby cum beesby": [
             {
                 "placename": "Hawerby cum Beesby",
                 "lng": -0.096182800829411,
@@ -52213,7 +52245,7 @@
                 }
             }
         ],
-        "north-thoresby": [
+        "north thoresby": [
             {
                 "placename": "North Thoresby",
                 "lng": -0.050615299493074,
@@ -52253,7 +52285,7 @@
                 }
             }
         ],
-        "ashby-puerorum": [
+        "ashby puerorum": [
             {
                 "placename": "Ashby Puerorum",
                 "lng": -0.016742099076509,
@@ -52357,7 +52389,7 @@
                 }
             }
         ],
-        "bag-enderby": [
+        "bag enderby": [
             {
                 "placename": "Bag Enderby",
                 "lng": 0.013617100194097,
@@ -52405,7 +52437,7 @@
                 }
             }
         ],
-        "claxby-pluckacre": [
+        "claxby pluckacre": [
             {
                 "placename": "Claxby Pluckacre",
                 "lng": -0.049537401646376,
@@ -52669,7 +52701,7 @@
                 }
             }
         ],
-        "south-ormsby-cum-ketsby": [
+        "south ormsby cum ketsby": [
             {
                 "placename": "South Ormsby cum Ketsby",
                 "lng": 0.059825301170349,
@@ -52867,7 +52899,7 @@
                 }
             }
         ],
-        "mareham-le-fen": [
+        "mareham le fen": [
             {
                 "placename": "Mareham le Fen",
                 "lng": -0.095574297010899,
@@ -52955,7 +52987,7 @@
                 }
             }
         ],
-        "west-ashby": [
+        "west ashby": [
             {
                 "placename": "West Ashby",
                 "lng": -0.1061640009284,
@@ -53051,7 +53083,7 @@
                 }
             }
         ],
-        "wood-enderby": [
+        "wood enderby": [
             {
                 "placename": "Wood Enderby",
                 "lng": -0.094779096543789,
@@ -53283,7 +53315,7 @@
                 }
             }
         ],
-        "grange-de-lings": [
+        "grange de lings": [
             {
                 "placename": "Grange de Lings",
                 "lng": -0.5239520072937,
@@ -53355,7 +53387,7 @@
                 }
             }
         ],
-        "saxilby-with-ingleby": [
+        "saxilby with ingleby": [
             {
                 "placename": "Saxilby with Ingleby",
                 "lng": -0.65947198867798,
@@ -53491,7 +53523,7 @@
                 }
             }
         ],
-        "thorpe-in-the-fallows": [
+        "thorpe in the fallows": [
             {
                 "placename": "Thorpe in the Fallows",
                 "lng": -0.628054022789,
@@ -53571,7 +53603,7 @@
                 }
             }
         ],
-        "castle-carlton": [
+        "castle carlton": [
             {
                 "placename": "Castle Carlton",
                 "lng": 0.10830199718475,
@@ -53659,7 +53691,7 @@
                 }
             }
         ],
-        "gayton-le-wold": [
+        "gayton le wold": [
             {
                 "placename": "Gayton le Wold",
                 "lng": -0.14603400230408,
@@ -53891,7 +53923,7 @@
                 }
             }
         ],
-        "raithby-cum-maltby": [
+        "raithby cum maltby": [
             {
                 "placename": "Raithby cum Maltby",
                 "lng": -0.026336399838328,
@@ -54099,7 +54131,7 @@
                 }
             }
         ],
-        "little-grimbsy": [
+        "little grimbsy": [
             {
                 "placename": "Little Grimbsy",
                 "lng": -0.0083946902304888,
@@ -54147,7 +54179,7 @@
                 }
             }
         ],
-        "north-ormsby": [
+        "north ormsby": [
             {
                 "placename": "North Ormsby",
                 "lng": -0.052670899778605,
@@ -54227,7 +54259,7 @@
                 }
             }
         ],
-        "wyham-cum-cadeby": [
+        "wyham cum cadeby": [
             {
                 "placename": "Wyham cum Cadeby",
                 "lng": -0.081940300762653,
@@ -54497,7 +54529,7 @@
                 }
             }
         ],
-        "burton-upon-stather": [
+        "burton upon stather": [
             {
                 "placename": "Burton upon Stather",
                 "lng": -0.67777901887894,
@@ -54823,7 +54855,7 @@
                 }
             }
         ],
-        "roxby-cum-risby": [
+        "roxby cum risby": [
             {
                 "placename": "Roxby cum Risby",
                 "lng": -0.60216397047043,
@@ -55039,7 +55071,7 @@
                 }
             }
         ],
-        "kirkby-cum-osgodby": [
+        "kirkby cum osgodby": [
             {
                 "placename": "Kirkby cum Osgodby",
                 "lng": -0.3989599943161,
@@ -55087,7 +55119,7 @@
                 }
             }
         ],
-        "normanby-le-wold": [
+        "normanby le wold": [
             {
                 "placename": "Normanby le Wold",
                 "lng": -0.30764999985695,
@@ -55135,7 +55167,7 @@
                 }
             }
         ],
-        "north-and-south-owersby": [
+        "north and south owersby": [
             {
                 "placename": "North and South Owersby",
                 "lng": -0.39828398823738,
@@ -55343,7 +55375,7 @@
                 }
             }
         ],
-        "gate-burton": [
+        "gate burton": [
             {
                 "placename": "Gate Burton",
                 "lng": -0.74730998277664,
@@ -55463,7 +55495,7 @@
                 }
             }
         ],
-        "east-and-west-barkwith": [
+        "east and west barkwith": [
             {
                 "placename": "East and West Barkwith",
                 "lng": -0.25261399149895,
@@ -55559,7 +55591,7 @@
                 }
             }
         ],
-        "kirmond-le-mire": [
+        "kirmond le mire": [
             {
                 "placename": "Kirmond le Mire",
                 "lng": -0.21848799288273,
@@ -55871,7 +55903,7 @@
                 }
             }
         ],
-        "barrow-upon-humber": [
+        "barrow upon humber": [
             {
                 "placename": "Barrow upon Humber",
                 "lng": -0.37396198511124,
@@ -55919,7 +55951,7 @@
                 }
             }
         ],
-        "cadney-cum-howsham": [
+        "cadney cum howsham": [
             {
                 "placename": "Cadney cum Howsham",
                 "lng": -0.4706149995327,
@@ -56015,7 +56047,7 @@
                 }
             }
         ],
-        "east-halton": [
+        "east halton": [
             {
                 "placename": "East Halton",
                 "lng": -0.26877298951149,
@@ -56055,7 +56087,7 @@
                 }
             }
         ],
-        "glanford-brigg": [
+        "glanford brigg": [
             {
                 "placename": "Glanford Brigg",
                 "lng": -0.48440799117088,
@@ -56239,7 +56271,7 @@
                 }
             }
         ],
-        "saxby-all-saints": [
+        "saxby all saints": [
             {
                 "placename": "Saxby All Saints",
                 "lng": -0.49663001298904,
@@ -56287,7 +56319,7 @@
                 }
             }
         ],
-        "searby-cum-owmby": [
+        "searby cum owmby": [
             {
                 "placename": "Searby cum Owmby",
                 "lng": -0.37947499752045,
@@ -56334,7 +56366,7 @@
                 }
             }
         ],
-        "south-ferriby": [
+        "south ferriby": [
             {
                 "placename": "South Ferriby",
                 "lng": -0.51048099994659,
@@ -56454,7 +56486,7 @@
                 }
             }
         ],
-        "ashby-st-ledgers": [
+        "ashby st. ledgers": [
             {
                 "placename": "Ashby St. Ledgers",
                 "lng": -1.15797996521,
@@ -56638,7 +56670,7 @@
                 }
             }
         ],
-        "canons-ashby": [
+        "canon's ashby": [
             {
                 "placename": "Canon's Ashby",
                 "lng": -1.1610399484634,
@@ -56702,7 +56734,7 @@
                 }
             }
         ],
-        "thorpe-mandeville": [
+        "thorpe mandeville": [
             {
                 "placename": "Thorpe Mandeville",
                 "lng": -1.2204300165176,
@@ -56750,7 +56782,7 @@
                 }
             }
         ],
-        "cold-ashby": [
+        "cold ashby": [
             {
                 "placename": "Cold Ashby",
                 "lng": -1.0390900373459,
@@ -56814,7 +56846,7 @@
                 }
             }
         ],
-        "long-buckby": [
+        "long buckby": [
             {
                 "placename": "Long Buckby",
                 "lng": -1.0848300457001,
@@ -57371,7 +57403,7 @@
                 }
             }
         ],
-        "thorpe-lubenham": [
+        "thorpe lubenham": [
             {
                 "placename": "Thorpe Lubenham",
                 "lng": -0.96354097127914,
@@ -57411,7 +57443,7 @@
                 }
             }
         ],
-        "thorpe-malsor": [
+        "thorpe malsor": [
             {
                 "placename": "Thorpe Malsor",
                 "lng": -0.7739520072937,
@@ -57547,7 +57579,7 @@
                 }
             }
         ],
-        "mears-ashby": [
+        "mears ashby": [
             {
                 "placename": "Mears Ashby",
                 "lng": -0.7771800160408,
@@ -57611,7 +57643,7 @@
                 }
             }
         ],
-        "castle-ashby": [
+        "castle ashby": [
             {
                 "placename": "Castle Ashby",
                 "lng": -0.73499798774719,
@@ -57715,7 +57747,7 @@
                 }
             }
         ],
-        "east-carlton": [
+        "east carlton": [
             {
                 "placename": "East Carlton",
                 "lng": -0.77145302295685,
@@ -58099,7 +58131,7 @@
                 }
             }
         ],
-        "thorpe-achurch": [
+        "thorpe achurch": [
             {
                 "placename": "Thorpe Achurch",
                 "lng": -0.49382600188255,
@@ -58155,7 +58187,7 @@
                 }
             }
         ],
-        "deeping-gate": [
+        "deeping gate": [
             {
                 "placename": "Deeping Gate",
                 "lng": -0.30809998512268,
@@ -58559,7 +58591,7 @@
                 }
             }
         ],
-        "mottram-in-longendale": [
+        "mottram in longendale": [
             {
                 "placename": "Mottram in Longendale",
                 "lng": -2.0089800357819,
@@ -58679,7 +58711,7 @@
                 }
             }
         ],
-        "knutsford-nether-and-overton": [
+        "knutsford nether and overton": [
             {
                 "placename": "Knutsford Nether and Overton",
                 "lng": -2.3690800666809,
@@ -58855,7 +58887,7 @@
                 }
             }
         ],
-        "goostrey-cum-barnshaw": [
+        "goostrey cum barnshaw": [
             {
                 "placename": "Goostrey cum Barnshaw",
                 "lng": -2.3384299278259,
@@ -58943,7 +58975,7 @@
                 }
             }
         ],
-        "newbold-astbury": [
+        "newbold astbury": [
             {
                 "placename": "Newbold Astbury",
                 "lng": -2.2332000732422,
@@ -59079,7 +59111,7 @@
                 }
             }
         ],
-        "mickle-trafford": [
+        "mickle trafford": [
             {
                 "placename": "Mickle Trafford",
                 "lng": -2.8326499462128,
@@ -59447,7 +59479,7 @@
                 }
             }
         ],
-        "west-kirkby": [
+        "west kirkby": [
             {
                 "placename": "West Kirkby",
                 "lng": -3.1812500953674,
@@ -59479,7 +59511,7 @@
                 }
             }
         ],
-        "great-meols": [
+        "great meols": [
             {
                 "placename": "Great Meols",
                 "lng": -3.1526598930359,
@@ -59511,7 +59543,7 @@
                 }
             }
         ],
-        "little-meols": [
+        "little meols": [
             {
                 "placename": "Little Meols",
                 "lng": -3.1669600009918,
@@ -59543,7 +59575,7 @@
                 }
             }
         ],
-        "newton-cum-larton": [
+        "newton cum larton": [
             {
                 "placename": "Newton cum Larton",
                 "lng": -3.1514399051666,
@@ -59599,7 +59631,7 @@
                 }
             }
         ],
-        "claughton-with-grange": [
+        "claughton with grange": [
             {
                 "placename": "Claughton with Grange",
                 "lng": -3.0464498996735,
@@ -59863,7 +59895,7 @@
                 }
             }
         ],
-        "barnacre-with-bonds": [
+        "barnacre with bonds": [
             {
                 "placename": "Barnacre with Bonds",
                 "lng": -2.7397999763489,
@@ -59959,7 +59991,7 @@
                 }
             }
         ],
-        "bryning-with-kellamergh": [
+        "bryning with kellamergh": [
             {
                 "placename": "Bryning with Kellamergh",
                 "lng": -2.9039399623871,
@@ -60283,7 +60315,7 @@
                 }
             }
         ],
-        "goosnarch-or-goosnargh": [
+        "goosnarch (or goosnargh)": [
             {
                 "placename": "Goosnarch (or Goosnargh)",
                 "lng": -2.6774599552155,
@@ -60323,7 +60355,7 @@
                 }
             }
         ],
-        "grimsargh-with-brockholes": [
+        "grimsargh with brockholes": [
             {
                 "placename": "Grimsargh with Brockholes",
                 "lng": -2.6316199302673,
@@ -60419,7 +60451,7 @@
                 }
             }
         ],
-        "inskip-with-sowerby": [
+        "inskip with sowerby": [
             {
                 "placename": "Inskip with Sowerby",
                 "lng": -2.8145101070404,
@@ -60475,7 +60507,7 @@
                 }
             }
         ],
-        "layton-with-warbreck": [
+        "layton with warbreck": [
             {
                 "placename": "Layton with Warbreck",
                 "lng": -3.0272400379181,
@@ -60531,7 +60563,7 @@
                 }
             }
         ],
-        "little-eccleston-with-larbreck": [
+        "little eccleston with larbreck": [
             {
                 "placename": "Little Eccleston with Larbreck",
                 "lng": -2.8908700942993,
@@ -60587,7 +60619,7 @@
                 }
             }
         ],
-        "medlar-with-wesham": [
+        "medlar with wesham": [
             {
                 "placename": "Medlar with Wesham",
                 "lng": -2.8741700649261,
@@ -60683,7 +60715,7 @@
                 }
             }
         ],
-        "nether-wyresdale": [
+        "nether wyresdale": [
             {
                 "placename": "Nether Wyresdale",
                 "lng": -2.7404398918152,
@@ -60723,7 +60755,7 @@
                 }
             }
         ],
-        "out-rawcliffe": [
+        "out rawcliffe": [
             {
                 "placename": "Out Rawcliffe",
                 "lng": -2.9064600467682,
@@ -60771,7 +60803,7 @@
                 }
             }
         ],
-        "preesall-with-hackinsall": [
+        "preesall with hackinsall": [
             {
                 "placename": "Preesall with Hackinsall",
                 "lng": -2.9683299064636,
@@ -60835,7 +60867,7 @@
                 }
             }
         ],
-        "ribby-with-wrea": [
+        "ribby with wrea": [
             {
                 "placename": "Ribby with Wrea",
                 "lng": -2.9195001125336,
@@ -60883,7 +60915,7 @@
                 }
             }
         ],
-        "stalmine-with-staynall": [
+        "stalmine with staynall": [
             {
                 "placename": "Stalmine with Staynall",
                 "lng": -2.9526998996735,
@@ -60939,7 +60971,7 @@
                 }
             }
         ],
-        "treales-roseacre-and-wharles": [
+        "treales roseacre and wharles": [
             {
                 "placename": "Treales Roseacre and Wharles",
                 "lng": -2.8440001010895,
@@ -61011,7 +61043,7 @@
                 }
             }
         ],
-        "upper-rawcliffe-with-tarnacre": [
+        "upper rawcliffe with tarnacre": [
             {
                 "placename": "Upper Rawcliffe with Tarnacre",
                 "lng": -2.8458099365234,
@@ -61067,7 +61099,7 @@
                 }
             }
         ],
-        "westby-with-plumptons": [
+        "westby with plumptons": [
             {
                 "placename": "Westby with Plumptons",
                 "lng": -2.9346699714661,
@@ -61291,7 +61323,7 @@
                 }
             }
         ],
-        "reedley-hallows-filly-close-and-new-laund-booth": [
+        "reedley hallows filly close and new laund booth": [
             {
                 "placename": "Reedley Hallows Filly Close and New Laund Booth",
                 "lng": -2.2368800640106,
@@ -61403,7 +61435,7 @@
                 }
             }
         ],
-        "walton-le-dale": [
+        "walton le dale": [
             {
                 "placename": "Walton le Dale",
                 "lng": -2.6761600971222,
@@ -61507,7 +61539,7 @@
                 }
             }
         ],
-        "hesketh-with-becconsall": [
+        "hesketh with becconsall": [
             {
                 "placename": "Hesketh with Becconsall",
                 "lng": -2.8422000408173,
@@ -61659,7 +61691,7 @@
                 }
             }
         ],
-        "ulnes-walton": [
+        "ulnes walton": [
             {
                 "placename": "Ulnes Walton",
                 "lng": -2.7508399486542,
@@ -61755,7 +61787,7 @@
                 }
             }
         ],
-        "arkholme-with-cawood": [
+        "arkholme with cawood": [
             {
                 "placename": "Arkholme with Cawood",
                 "lng": -2.6366701126099,
@@ -61803,7 +61835,7 @@
                 }
             }
         ],
-        "barrow-in-furness": [
+        "barrow in furness": [
             {
                 "placename": "Barrow in Furness",
                 "lng": -3.2329499721527,
@@ -61931,7 +61963,7 @@
                 }
             }
         ],
-        "cartmell-fell": [
+        "cartmell fell": [
             {
                 "placename": "Cartmell Fell",
                 "lng": -2.900160074234,
@@ -62043,7 +62075,7 @@
                 }
             }
         ],
-        "dalton-in-furness": [
+        "dalton in furness": [
             {
                 "placename": "Dalton in Furness",
                 "lng": -3.1730399131775,
@@ -62091,7 +62123,7 @@
                 }
             }
         ],
-        "dunnerdale-with-seathwaite": [
+        "dunnerdale with seathwaite": [
             {
                 "placename": "Dunnerdale with Seathwaite",
                 "lng": -3.2240200042725,
@@ -62147,7 +62179,7 @@
                 }
             }
         ],
-        "hawkshead-and-monk-coniston-with-skelwith": [
+        "hawkshead and monk coniston with skelwith": [
             {
                 "placename": "Hawkshead and Monk Coniston with Skelwith",
                 "lng": -2.9944798946381,
@@ -62219,7 +62251,7 @@
                 }
             }
         ],
-        "hornby-with-farleton": [
+        "hornby with farleton": [
             {
                 "placename": "Hornby with Farleton",
                 "lng": -2.6362600326538,
@@ -62323,7 +62355,7 @@
                 }
             }
         ],
-        "kirkby-ireleth": [
+        "kirkby ireleth": [
             {
                 "placename": "Kirkby Ireleth",
                 "lng": -3.1755900382996,
@@ -62411,7 +62443,7 @@
                 }
             }
         ],
-        "lower-allithwiate": [
+        "lower allithwiate": [
             {
                 "placename": "Lower Allithwiate",
                 "lng": -2.9437699317932,
@@ -62451,7 +62483,7 @@
                 }
             }
         ],
-        "lower-and-upper-holker": [
+        "lower and upper holker": [
             {
                 "placename": "Lower and Upper Holker",
                 "lng": -2.9746201038361,
@@ -62587,7 +62619,7 @@
                 }
             }
         ],
-        "melling-with-wrayton": [
+        "melling with wrayton": [
             {
                 "placename": "Melling with Wrayton",
                 "lng": -2.6060600280762,
@@ -62651,7 +62683,7 @@
                 }
             }
         ],
-        "nether-and-over-kellet": [
+        "nether and over kellet": [
             {
                 "placename": "Nether and Over Kellet",
                 "lng": -2.7586200237274,
@@ -62731,7 +62763,7 @@
                 }
             }
         ],
-        "over-wyresdale": [
+        "over wyresdale": [
             {
                 "placename": "Over Wyresdale",
                 "lng": -2.725830078125,
@@ -62771,7 +62803,7 @@
                 }
             }
         ],
-        "poulton-bare-and-torrisholme": [
+        "poulton bare and torrisholme": [
             {
                 "placename": "Poulton Bare and Torrisholme",
                 "lng": -2.8343598842621,
@@ -63107,7 +63139,7 @@
                 }
             }
         ],
-        "upper-allithwaite": [
+        "upper allithwaite": [
             {
                 "placename": "Upper Allithwaite",
                 "lng": -2.9437699317932,
@@ -63147,7 +63179,7 @@
                 }
             }
         ],
-        "wray-with-botton": [
+        "wray with botton": [
             {
                 "placename": "Wray with Botton",
                 "lng": -2.6055400371552,
@@ -63479,7 +63511,7 @@
                 }
             }
         ],
-        "tottington-higher-and-lower-end": [
+        "tottington higher and lower end": [
             {
                 "placename": "Tottington Higher and Lower End",
                 "lng": -2.3415200710297,
@@ -63831,7 +63863,7 @@
                 }
             }
         ],
-        "croxteth-park": [
+        "croxteth park": [
             {
                 "placename": "Croxteth Park",
                 "lng": -2.8976299762726,
@@ -63935,7 +63967,7 @@
                 }
             }
         ],
-        "great-and-little-crosby": [
+        "great and little crosby": [
             {
                 "placename": "Great and Little Crosby",
                 "lng": -3.0187499523163,
@@ -63967,7 +63999,7 @@
                 }
             }
         ],
-        "huyton-with-roby": [
+        "huyton with roby": [
             {
                 "placename": "Huyton with Roby",
                 "lng": -2.8365099430084,
@@ -64199,7 +64231,7 @@
                 }
             }
         ],
-        "newton-in-makerfield": [
+        "newton in makerfield": [
             {
                 "placename": "Newton in Makerfield",
                 "lng": -2.6566600799561,
@@ -64255,7 +64287,7 @@
                 }
             }
         ],
-        "north-meols": [
+        "north meols": [
             {
                 "placename": "North Meols",
                 "lng": -2.9774799346924,
@@ -64559,7 +64591,7 @@
                 }
             }
         ],
-        "toxteth-park": [
+        "toxteth park": [
             {
                 "placename": "Toxteth Park",
                 "lng": -2.9712901115417,
@@ -64663,7 +64695,7 @@
                 }
             }
         ],
-        "west-derby": [
+        "west derby": [
             {
                 "placename": "West Derby",
                 "lng": -2.9121100902557,
@@ -64719,7 +64751,7 @@
                 }
             }
         ],
-        "winwick-with-hulme": [
+        "winwick with hulme": [
             {
                 "placename": "Winwick with Hulme",
                 "lng": -2.5959100723267,
@@ -64767,7 +64799,7 @@
                 }
             }
         ],
-        "st-agnes-scilly-isles": [
+        "st. agnes (scilly isles)": [
             {
                 "placename": "St. Agnes (Scilly Isles)",
                 "lng": -6.3381900787354,
@@ -64903,7 +64935,7 @@
                 }
             }
         ],
-        "tranwell-and-high-church": [
+        "tranwell and high church": [
             {
                 "placename": "Tranwell and High Church",
                 "lng": -1.7112799882889,
@@ -65055,7 +65087,7 @@
                 }
             }
         ],
-        "high-and-low-trewhitt": [
+        "high and low trewhitt": [
             {
                 "placename": "High and Low Trewhitt",
                 "lng": -1.9778800010681,
@@ -65645,7 +65677,7 @@
                 }
             }
         ],
-        "little-west-and-kirkharle": [
+        "little west and kirkharle": [
             {
                 "placename": "Little West and Kirkharle",
                 "lng": -1.9780000448227,
@@ -65701,7 +65733,7 @@
                 }
             }
         ],
-        "barnby-upon-don": [
+        "barnby upon don": [
             {
                 "placename": "Barnby upon Don",
                 "lng": -1.0726100206375,
@@ -65741,7 +65773,7 @@
                 }
             }
         ],
-        "thorpe-in-balne": [
+        "thorpe in balne": [
             {
                 "placename": "Thorpe in Balne",
                 "lng": -1.1026200056076,
@@ -65781,7 +65813,7 @@
                 }
             }
         ],
-        "kirk-sandall": [
+        "kirk sandall": [
             {
                 "placename": "Kirk Sandall",
                 "lng": -1.0728100538254,
@@ -65829,7 +65861,7 @@
                 }
             }
         ],
-        "bentley-with-arksey": [
+        "bentley with arksey": [
             {
                 "placename": "Bentley with Arksey",
                 "lng": -1.1488399505615,
@@ -66189,7 +66221,7 @@
                 }
             }
         ],
-        "wath-upon-dearne": [
+        "wath upon dearne": [
             {
                 "placename": "Wath upon Dearne",
                 "lng": -1.3456900119781,
@@ -66229,7 +66261,7 @@
                 }
             }
         ],
-        "brampton-bierlow": [
+        "brampton bierlow": [
             {
                 "placename": "Brampton Bierlow",
                 "lng": -1.3757100105286,
@@ -66365,7 +66397,7 @@
                 }
             }
         ],
-        "thorpe-salvin": [
+        "thorpe salvin": [
             {
                 "placename": "Thorpe Salvin",
                 "lng": -1.2131899595261,
@@ -66485,7 +66517,7 @@
                 }
             }
         ],
-        "ecclesall-bierlow": [
+        "ecclesall bierlow": [
             {
                 "placename": "Ecclesall Bierlow",
                 "lng": -1.5131499767303,
@@ -66533,7 +66565,7 @@
                 }
             }
         ],
-        "havercroft-with-cold-hiendley": [
+        "havercroft with cold hiendley": [
             {
                 "placename": "Havercroft with Cold Hiendley",
                 "lng": -1.4043500423431,
@@ -67165,7 +67197,7 @@
                 }
             }
         ],
-        "kirk-bramwith": [
+        "kirk bramwith": [
             {
                 "placename": "Kirk Bramwith",
                 "lng": -1.057109951973,
@@ -67213,7 +67245,7 @@
                 }
             }
         ],
-        "south-kirkby": [
+        "south kirkby": [
             {
                 "placename": "South Kirkby",
                 "lng": -1.314090013504,
@@ -67293,7 +67325,7 @@
                 }
             }
         ],
-        "kirk-smeaton": [
+        "kirk smeaton": [
             {
                 "placename": "Kirk Smeaton",
                 "lng": -1.2224700450897,
@@ -67381,7 +67413,7 @@
                 }
             }
         ],
-        "thorpe-audling": [
+        "thorpe audling": [
             {
                 "placename": "Thorpe Audling",
                 "lng": -1.2829699516296,
@@ -67509,7 +67541,7 @@
                 }
             }
         ],
-        "oulton-with-woodlesford": [
+        "oulton with woodlesford": [
             {
                 "placename": "Oulton with Woodlesford",
                 "lng": -1.447939991951,
@@ -67821,7 +67853,7 @@
                 }
             }
         ],
-        "lindley-cum-quarmby": [
+        "lindley cum quarmby": [
             {
                 "placename": "Lindley cum Quarmby",
                 "lng": -1.8274300098419,
@@ -68005,7 +68037,7 @@
                 }
             }
         ],
-        "elland-with-greetland": [
+        "elland with greetland": [
             {
                 "placename": "Elland with Greetland",
                 "lng": -1.8273199796677,
@@ -68373,7 +68405,7 @@
                 }
             }
         ],
-        "thorpe-willoughby": [
+        "thorpe willoughby": [
             {
                 "placename": "Thorpe Willoughby",
                 "lng": -1.1291300058365,
@@ -68509,7 +68541,7 @@
                 }
             }
         ],
-        "huddleston-cum-lumby": [
+        "huddleston cum lumby": [
             {
                 "placename": "Huddleston cum Lumby",
                 "lng": -1.2955499887466,
@@ -68565,7 +68597,7 @@
                 }
             }
         ],
-        "church-fenton": [
+        "church fenton": [
             {
                 "placename": "Church Fenton",
                 "lng": -1.2191499471664,
@@ -68613,7 +68645,7 @@
                 }
             }
         ],
-        "ryther-cum-ozendyke": [
+        "ryther cum ozendyke": [
             {
                 "placename": "Ryther cum Ozendyke",
                 "lng": -1.1578500270844,
@@ -68701,7 +68733,7 @@
                 }
             }
         ],
-        "kirkby-wharfe-north-milford": [
+        "kirkby wharfe & north milford": [
             {
                 "placename": "Kirkby Wharfe & North Milford",
                 "lng": -1.2336800098419,
@@ -68757,7 +68789,7 @@
                 }
             }
         ],
-        "saxton-with-scarthingwell": [
+        "saxton with scarthingwell": [
             {
                 "placename": "Saxton with Scarthingwell",
                 "lng": -1.2798999547958,
@@ -68877,7 +68909,7 @@
                 }
             }
         ],
-        "stutton-with-hazlewood": [
+        "stutton with hazlewood": [
             {
                 "placename": "Stutton with Hazlewood",
                 "lng": -1.2639299631119,
@@ -68941,7 +68973,7 @@
                 }
             }
         ],
-        "bramham-cum-oglethorpe": [
+        "bramham cum oglethorpe": [
             {
                 "placename": "Bramham cum Oglethorpe",
                 "lng": -1.3548899888992,
@@ -68997,7 +69029,7 @@
                 }
             }
         ],
-        "brightside-bierlow": [
+        "brightside bierlow": [
             {
                 "placename": "Brightside Bierlow",
                 "lng": -1.4374400377274,
@@ -69093,7 +69125,7 @@
                 }
             }
         ],
-        "alverthorpe-with-thornes": [
+        "alverthorpe with thornes": [
             {
                 "placename": "Alverthorpe with Thornes",
                 "lng": -1.5244699716568,
@@ -69141,7 +69173,7 @@
                 }
             }
         ],
-        "thorpe-stapleton": [
+        "thorpe stapleton": [
             {
                 "placename": "Thorpe Stapleton",
                 "lng": -1.5239599943161,
@@ -69301,7 +69333,7 @@
                 }
             }
         ],
-        "burley-in-wharfedale": [
+        "burley in wharfedale": [
             {
                 "placename": "Burley in Wharfedale",
                 "lng": -1.7502800226212,
@@ -69357,7 +69389,7 @@
                 }
             }
         ],
-        "acaster-malbis": [
+        "acaster malbis": [
             {
                 "placename": "Acaster Malbis",
                 "lng": -1.0959000587463,
@@ -69565,7 +69597,7 @@
                 }
             }
         ],
-        "thorp-arch": [
+        "thorp arch": [
             {
                 "placename": "Thorp Arch",
                 "lng": -1.339390039444,
@@ -69677,7 +69709,7 @@
                 }
             }
         ],
-        "kirby-hall": [
+        "kirby hall": [
             {
                 "placename": "Kirby Hall",
                 "lng": -1.3065700531006,
@@ -69709,7 +69741,7 @@
                 }
             }
         ],
-        "thorpe-underwood": [
+        "thorpe underwood": [
             {
                 "placename": "Thorpe Underwood",
                 "lng": -1.2458100318909,
@@ -69757,7 +69789,7 @@
                 }
             }
         ],
-        "kirk-hammerton": [
+        "kirk hammerton": [
             {
                 "placename": "Kirk Hammerton",
                 "lng": -1.292209982872,
@@ -69885,7 +69917,7 @@
                 }
             }
         ],
-        "kirk-deighton": [
+        "kirk deighton": [
             {
                 "placename": "Kirk Deighton",
                 "lng": -1.3996200561523,
@@ -69973,7 +70005,7 @@
                 }
             }
         ],
-        "kirkby-overblow": [
+        "kirkby overblow": [
             {
                 "placename": "Kirkby Overblow",
                 "lng": -1.5063799619675,
@@ -70013,7 +70045,7 @@
                 }
             }
         ],
-        "kearby-with-netherby": [
+        "kearby with netherby": [
             {
                 "placename": "Kearby with Netherby",
                 "lng": -1.4913699626923,
@@ -70165,7 +70197,7 @@
                 }
             }
         ],
-        "bilton-park-with-harrogate": [
+        "bilton park with harrogate": [
             {
                 "placename": "Bilton Park with Harrogate",
                 "lng": -1.5207899808884,
@@ -70221,7 +70253,7 @@
                 }
             }
         ],
-        "haverah-park": [
+        "haverah park": [
             {
                 "placename": "Haverah Park",
                 "lng": -1.6431699991226,
@@ -70589,7 +70621,7 @@
                 }
             }
         ],
-        "newby-with-mulwith": [
+        "newby with mulwith": [
             {
                 "placename": "Newby with Mulwith",
                 "lng": -1.4738800525665,
@@ -70669,7 +70701,7 @@
                 }
             }
         ],
-        "markington-with-wallerthwaite": [
+        "markington with wallerthwaite": [
             {
                 "placename": "Markington with Wallerthwaite",
                 "lng": -1.5505299568176,
@@ -70829,7 +70861,7 @@
                 }
             }
         ],
-        "kirkby-malzeard": [
+        "kirkby malzeard": [
             {
                 "placename": "Kirkby Malzeard",
                 "lng": -1.6415499448776,
@@ -70869,7 +70901,7 @@
                 }
             }
         ],
-        "aismunderby-with-bondgate": [
+        "aismunderby with bondgate": [
             {
                 "placename": "Aismunderby with Bondgate",
                 "lng": -1.5194400548935,
@@ -71293,7 +71325,7 @@
                 }
             }
         ],
-        "kirkby-malham": [
+        "kirkby malham": [
             {
                 "placename": "Kirkby Malham",
                 "lng": -2.1618499755859,
@@ -71381,7 +71413,7 @@
                 }
             }
         ],
-        "malham-moor": [
+        "malham moor": [
             {
                 "placename": "Malham Moor",
                 "lng": -2.0702700614929,
@@ -71885,7 +71917,7 @@
                 }
             }
         ],
-        "aldringham-with-thorpe": [
+        "aldringham with thorpe": [
             {
                 "placename": "Aldringham with Thorpe",
                 "lng": 1.5756200551987,
@@ -72005,7 +72037,7 @@
                 }
             }
         ],
-        "carlton-colville": [
+        "carlton colville": [
             {
                 "placename": "Carlton Colville",
                 "lng": 1.7002199888229,
@@ -72349,7 +72381,7 @@
                 }
             }
         ],
-        "ilketshall-st-andrew": [
+        "ilketshall st andrew": [
             {
                 "placename": "Ilketshall St Andrew",
                 "lng": 1.4924600124359,
@@ -72389,7 +72421,7 @@
                 }
             }
         ],
-        "ilketshall-st-john": [
+        "ilketshall st john": [
             {
                 "placename": "Ilketshall St John",
                 "lng": 1.4777799844742,
@@ -72429,7 +72461,7 @@
                 }
             }
         ],
-        "ilketshall-st-lawrence": [
+        "ilketshall st lawrence": [
             {
                 "placename": "Ilketshall St Lawrence",
                 "lng": 1.4770699739456,
@@ -72469,7 +72501,7 @@
                 }
             }
         ],
-        "ilketshall-st-margaret": [
+        "ilketshall st margaret": [
             {
                 "placename": "Ilketshall St Margaret",
                 "lng": 1.4470100402832,
@@ -72509,7 +72541,7 @@
                 }
             }
         ],
-        "ixworth-thorpe": [
+        "ixworth thorpe": [
             {
                 "placename": "Ixworth Thorpe",
                 "lng": 0.80818200111389,
@@ -72549,7 +72581,7 @@
                 }
             }
         ],
-        "kelsale-cum-carlton": [
+        "kelsale cum carlton": [
             {
                 "placename": "Kelsale cum Carlton",
                 "lng": 1.4915399551392,
@@ -72965,7 +72997,7 @@
                 }
             }
         ],
-        "oulton-broad": [
+        "oulton broad": [
             {
                 "placename": "Oulton Broad",
                 "lng": 1.7024799585342,
@@ -73237,7 +73269,7 @@
                 }
             }
         ],
-        "thorpe-morieux": [
+        "thorpe morieux": [
             {
                 "placename": "Thorpe Morieux",
                 "lng": 0.84121799468994,
@@ -73469,7 +73501,7 @@
                 }
             }
         ],
-        "whitton-cum-thurleston": [
+        "whitton cum thurleston": [
             {
                 "placename": "Whitton cum Thurleston",
                 "lng": 1.1147199869156,
@@ -73525,7 +73557,7 @@
                 }
             }
         ],
-        "wickham-skeith": [
+        "wickham skeith": [
             {
                 "placename": "Wickham Skeith",
                 "lng": 1.0700099468231,
@@ -73629,7 +73661,7 @@
                 }
             }
         ],
-        "upper-langwith": [
+        "upper langwith": [
             {
                 "placename": "Upper Langwith",
                 "lng": -1.2301399707794,
@@ -73717,7 +73749,7 @@
                 }
             }
         ],
-        "eskdaleside-cum-ugglebarnby": [
+        "eskdaleside cum ugglebarnby": [
             {
                 "placename": "Eskdaleside cum Ugglebarnby",
                 "lng": -0.63643401861191,
@@ -73821,7 +73853,7 @@
                 }
             }
         ],
-        "whitcliffe-with-thorpe": [
+        "whitcliffe with thorpe": [
             {
                 "placename": "Whitcliffe with Thorpe",
                 "lng": -1.5042500495911,
@@ -73909,7 +73941,7 @@
                 }
             }
         ],
-        "langthwaite-with-tilts": [
+        "langthwaite with tilts": [
             {
                 "placename": "Langthwaite with Tilts",
                 "lng": -1.1330100297928,
@@ -73956,7 +73988,7 @@
                 }
             }
         ],
-        "stancill-wellingley-and-wilsic": [
+        "stancill wellingley and wilsic": [
             {
                 "placename": "Stancill Wellingley and Wilsic",
                 "lng": -1.1504600048065,
@@ -74052,7 +74084,7 @@
                 }
             }
         ],
-        "acaster-selby": [
+        "acaster selby": [
             {
                 "placename": "Acaster Selby",
                 "lng": -1.1270799636841,
@@ -74100,7 +74132,7 @@
                 }
             }
         ],
-        "thingoe-hundred": [
+        "thingoe hundred": [
             {
                 "placename": "Thingoe Hundred",
                 "lng": 0.70177900791168,
@@ -74148,7 +74180,7 @@
                 }
             }
         ],
-        "colneis-hundred": [
+        "colneis hundred": [
             {
                 "placename": "Colneis Hundred",
                 "lng": 1.3536499738693,
@@ -74196,7 +74228,7 @@
                 }
             }
         ],
-        "carlford-hundred": [
+        "carlford hundred": [
             {
                 "placename": "Carlford Hundred",
                 "lng": 1.2915400266647,
@@ -74260,7 +74292,7 @@
                 }
             }
         ],
-        "alstoe-hundred": [
+        "alstoe hundred": [
             {
                 "placename": "Alstoe Hundred",
                 "lng": -0.69221699237823,
@@ -74316,7 +74348,7 @@
                 }
             }
         ],
-        "witchley-hundred": [
+        "witchley hundred": [
             {
                 "placename": "Witchley Hundred",
                 "lng": -0.61968898773193,
@@ -74372,7 +74404,7 @@
                 }
             }
         ],
-        "martinsley-hundred": [
+        "martinsley hundred": [
             {
                 "placename": "Martinsley Hundred",
                 "lng": -0.7233669757843,
@@ -74428,7 +74460,7 @@
                 }
             }
         ],
-        "broxtowe-wapentake": [
+        "broxtowe wapentake": [
             {
                 "placename": "Broxtowe Wapentake",
                 "lng": -1.2197300195694,
@@ -74476,7 +74508,7 @@
                 }
             }
         ],
-        "rushcliffe-wapentake": [
+        "rushcliffe wapentake": [
             {
                 "placename": "Rushcliffe Wapentake",
                 "lng": -1.206650018692,
@@ -74524,7 +74556,7 @@
                 }
             }
         ],
-        "hamston-hundred": [
+        "hamston hundred": [
             {
                 "placename": "Hamston Hundred",
                 "lng": -1.7702000141144,
@@ -74588,7 +74620,7 @@
                 }
             }
         ],
-        "east-goscote-hundred": [
+        "east goscote hundred": [
             {
                 "placename": "East Goscote Hundred",
                 "lng": -1.0621800422668,
@@ -74652,7 +74684,7 @@
                 }
             }
         ],
-        "west-goscote-hundred": [
+        "west goscote hundred": [
             {
                 "placename": "West Goscote Hundred",
                 "lng": -1.0621800422668,
@@ -74716,7 +74748,7 @@
                 }
             }
         ],
-        "guthlaxton-hundred": [
+        "guthlaxton hundred": [
             {
                 "placename": "Guthlaxton Hundred",
                 "lng": -1.1975899934769,
@@ -74772,7 +74804,7 @@
                 }
             }
         ],
-        "gartree-hundred": [
+        "gartree hundred": [
             {
                 "placename": "Gartree Hundred",
                 "lng": -0.94882202148438,
@@ -74828,7 +74860,7 @@
                 }
             }
         ],
-        "framland-hundred": [
+        "framland hundred": [
             {
                 "placename": "Framland Hundred",
                 "lng": -0.88242000341415,
@@ -74884,7 +74916,7 @@
                 }
             }
         ],
-        "knightlow-hundred": [
+        "knightlow hundred": [
             {
                 "placename": "Knightlow Hundred",
                 "lng": -1.4359699487686,
@@ -74940,7 +74972,7 @@
                 }
             }
         ],
-        "amounderness-hundred": [
+        "amounderness hundred": [
             {
                 "placename": "Amounderness Hundred",
                 "lng": -3.0232911109924,
@@ -74996,7 +75028,7 @@
                 }
             }
         ],
-        "north-greenhoe-hundred": [
+        "north greenhoe hundred": [
             {
                 "placename": "North Greenhoe Hundred",
                 "lng": 0.89153099060059,
@@ -75044,7 +75076,7 @@
                 }
             }
         ],
-        "clackclose-hundred": [
+        "clackclose hundred": [
             {
                 "placename": "Clackclose Hundred",
                 "lng": 0.45825201272964,
@@ -75092,7 +75124,7 @@
                 }
             }
         ],
-        "wayland-hundred": [
+        "wayland hundred": [
             {
                 "placename": "Wayland Hundred",
                 "lng": 0.8242250084877,
@@ -75140,7 +75172,7 @@
                 }
             }
         ],
-        "forehoe-hundred": [
+        "forehoe hundred": [
             {
                 "placename": "Forehoe Hundred",
                 "lng": 1.0925799608231,
@@ -75187,7 +75219,7 @@
                 }
             }
         ],
-        "langbargh-wapentake": [
+        "langbargh wapentake": [
             {
                 "placename": "Langbargh Wapentake",
                 "lng": -1.1291699409485,
@@ -75251,7 +75283,7 @@
                 }
             }
         ],
-        "hang-wapentake": [
+        "hang wapentake": [
             {
                 "placename": "Hang Wapentake",
                 "lng": -1.7326400279999,
