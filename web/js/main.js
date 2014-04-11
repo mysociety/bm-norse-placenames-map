@@ -221,6 +221,10 @@ _.templateSettings = {
         alert("Sorry, we couldn't find your position automatically, perhaps try searching instead?");
     };
 
+    var isTouchDevice = function() {
+        return 'ontouchstart' in window || !!(navigator.msMaxTouchPoints);
+    };
+
     $(function() {
         // Cache some selectors
         var $map = $('#map-canvas');
@@ -330,7 +334,9 @@ _.templateSettings = {
                     $(document).trigger('mySociety.popupOpen');
                     // Remove mouseover handlers for now so we don't get two
                     // popups showing
-                    google.maps.event.clearListeners(marker, 'mouseover');
+                    if(!isTouchDevice()) {
+                        google.maps.event.clearListeners(marker, 'mouseover');
+                    }
 
                     // Show the main popup
                     infoWindow.setContent(markerInfo);
@@ -349,21 +355,25 @@ _.templateSettings = {
 
                     // When this window is closed, re-register the hover popup
                     // handler
-                    google.maps.event.addListenerOnce(infoWindow, 'closeclick', function() {
-                        google.maps.event.addListener(marker, 'mouseover', function() {
-                            titleWindow.setContent(markerTitle);
-                            titleWindow.open(map, marker);
+                    if(!isTouchDevice()) {
+                        google.maps.event.addListenerOnce(infoWindow, 'closeclick', function() {
+                            google.maps.event.addListener(marker, 'mouseover', function() {
+                                titleWindow.setContent(markerTitle);
+                                titleWindow.open(map, marker);
+                            });
                         });
+                    }
+                });
+                // Show a small popup when it's hovered on non-touch devices
+                if(!isTouchDevice()) {
+                    google.maps.event.addListener(marker, 'mouseover', function() {
+                        titleWindow.setContent(markerTitle);
+                        titleWindow.open(map, marker);
                     });
-                });
-                // Show a small popup when it's hovered
-                google.maps.event.addListener(marker, 'mouseover', function() {
-                    titleWindow.setContent(markerTitle);
-                    titleWindow.open(map, marker);
-                });
-                google.maps.event.addListener(marker, 'mouseout', function() {
-                    titleWindow.close();
-                });
+                    google.maps.event.addListener(marker, 'mouseout', function() {
+                        titleWindow.close();
+                    });
+                }
                 markers.push(marker);
                 markersBySlug[place.slug] = marker;
             });
