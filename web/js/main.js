@@ -221,8 +221,24 @@ _.templateSettings = {
         alert("Sorry, we couldn't find your position automatically, perhaps try searching instead?");
     };
 
+    // Is the current browser a touch-screen device?
+    // From: http://stackoverflow.com/questions/4817029/whats-the-best-way-to-detect-a-touch-screen-device-using-javascript
     var isTouchDevice = function() {
         return 'ontouchstart' in window || !!(navigator.msMaxTouchPoints);
+    };
+
+    // Check if the currently shown info window is far enough from the top
+    // of the map to not be hidden under the search box
+    var adjustInfoWindowPosition = function($map) {
+        var marginNeeded = 100;
+        var mapOffset = Math.round($map.offset().top);
+        var infoWindowOffset = Math.round($('.map-marker').parent().parent().offset().top);
+        var difference = infoWindowOffset - mapOffset;
+        if (difference < marginNeeded) {
+            // We want to move the map down to show more window
+            var movementNeeded = (marginNeeded - difference) * -1;
+            mySociety.map.panBy(0, movementNeeded);
+        }
     };
 
     $(function() {
@@ -363,6 +379,13 @@ _.templateSettings = {
                             });
                         });
                     }
+
+                    // When the info window is in place, make sure it's not
+                    // under the search box
+                    google.maps.event.addListenerOnce(map, 'idle', function(){
+                        adjustInfoWindowPosition($map);
+                    });
+
                 });
                 // Show a small popup when it's hovered on non-touch devices
                 if(!isTouchDevice()) {
