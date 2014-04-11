@@ -10,6 +10,7 @@ var argv = require('minimist')(process.argv.slice(2), {'boolean': 'welsh', 'defa
 // each place removed.
 var processKepn = function(data) {
     var processedData = {};
+    var slugCounts = {};
     console.log("Parsed data, total places: " + data.length);
     // console.log(data[0]);
     _.each(data, function(place, index) {
@@ -19,18 +20,25 @@ var processKepn = function(data) {
         delete processedPlace['county'];
         delete processedPlace['placeno'];
         delete processedPlace['comment'];
+        // Work out the search string
+        var searchString = processedPlace.placename.trim().toLowerCase();
         // Add a slug
-        var sluggableName = processedPlace.placename;
-        if(index > 0) {
-            sluggableName = processedPlace.placename + (index + 1).toString();
+        var slug = _.slugify(processedPlace.placename);
+        if (_.isUndefined(slugCounts[slug])) {
+            slugCounts[slug] = 0;
         }
-        processedPlace['slug'] = _.slugify(sluggableName);
+        var slugCount =  slugCounts[slug];
+        slugCounts[slug] = slugCount + 1;
+        if(slugCount > 0) {
+            slug = slug + (slugCount + 1).toString();
+        }
+        processedPlace['slug'] = slug;
         // Add the new place into the result object, creating the entry
         // for this slug if it doesn't exist already
-        if(_.isUndefined(processedData[processedPlace['slug']])) {
-            processedData[processedPlace['slug']] = [];
+        if(_.isUndefined(processedData[searchString])) {
+            processedData[searchString] = [];
         }
-        processedData[processedPlace['slug']].push(processedPlace);
+        processedData[searchString].push(processedPlace);
     });
     return processedData;
 };
@@ -50,16 +58,19 @@ var processWelshKepn = function(data) {
         // Filter out the information we don't want
         delete processedPlace['comment'];
 
+        // Work out the search string
+        var searchString = processedPlace.placename.trim().toLowerCase();
+
         // Location is given as strings not floats
         processedPlace['lat'] = parseFloat(processedPlace['lat']);
         processedPlace['lng'] = parseFloat(processedPlace['lng']);
 
         // Add the new place into the result object, creating the entry
         // for this slug if it doesn't exist already
-        if(_.isUndefined(processedData[processedPlace['slug']])) {
-            processedData[processedPlace['slug']] = [];
+        if(_.isUndefined(processedData[searchString])) {
+            processedData[searchString] = [];
         }
-        processedData[processedPlace['slug']].push(processedPlace);
+        processedData[searchString].push(processedPlace);
     });
     return processedData;
 };
