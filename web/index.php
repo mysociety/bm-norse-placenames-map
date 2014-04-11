@@ -93,7 +93,7 @@
             <@ }); @>
             </ul>
             <@ if(showNearestCinema) { @>
-                <div class="map-marker__cinema-name tight">
+                <div class="map-marker__cinema-name map-marker__cinema-name--desktop tight">
                     <h3>
                         Vikings Live showing at a cinema near <@= place.placename @>
                     </h3>
@@ -111,8 +111,18 @@
                     </p>
                     <p><a class="highlight" href="">See all cinemas showing Vikings Live<i class="link-arrow"></i></a></p>
                 </div>
+                <div class="map-marker__cinema-name map-marker__cinema-name--mobile tight">
+                    <p>
+                    <@ if(place.cinema.cinemaurl !== "") { @>
+                        <a href="<@= place.cinema.cinemaurl @>">Nearest showing of Vikings Live &gt;</a>
+                    <@ } else if (place.cinema.cinemaemail !== "") { @>
+                        <a href="mailto:<@= place.cinema.cinemaemail @>">Nearest showing of Vikings Live &gt;</a>
+                    <@ } else { @>
+                        Nearest showing of Vikings Live &gt;
+                    <@ } @>
+                    </p>
+                </div>
             <@ } @>
-            <h4>Talk about this place</h4>
             <ul class="map-marker__social-buttons">
                 <li>
                     <a href="https://www.facebook.com/sharer/sharer.php?u=<@=shareUrl@>"

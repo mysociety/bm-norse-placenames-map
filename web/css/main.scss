@@ -180,6 +180,18 @@
 
     .map-marker__header {
         margin-bottom: 7px;
+        font-size: 18px;
+        @media screen and (min-width: 768px) {
+            font-size: 23px;
+        }
+    }
+
+    .map-marker__elements-header {
+        // Hidden on mobile
+        display: none;
+        @media screen and (min-width: 768px) {
+            display: block;
+        }
     }
 
     .map-marker__elements__item {
@@ -187,6 +199,19 @@
         .map-marker__elements__item__headword,
         .map-marker__elements__item__hword {
             font-weight: bold;
+        }
+    }
+
+    .map-marker__cinema-name--desktop {
+        display: none;
+        @media screen and (min-width: 768px) {
+            display: block;
+        }
+    }
+    .map-marker__cinema-name--mobile {
+        display: block;
+        @media screen and (min-width: 768px) {
+            display: none;
         }
     }
 
