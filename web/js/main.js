@@ -113,7 +113,7 @@ _.templateSettings = {
     };
 
     // Show a specific Norse place on the map
-    // Takes a google.maps.Marker object and a google.maps.Map object
+    // Takes a google.maps.Marker object
     var showNorsePlace = function(marker) {
         if(!marker.getPosition().equals(mySociety.map.getCenter()) || mySociety.map.getZoom() !== mySociety.placeZoomLevel) {
             // The map will need to pan and/or zoom, which will cause marker
@@ -124,12 +124,22 @@ _.templateSettings = {
             google.maps.event.addListenerOnce(mySociety.map, 'idle', function() {
                 // This is an easy way to open the InfoWindow for the marker
                 google.maps.event.trigger(marker, 'click');
+                // This is a bit of hack, but in some cases the adjustment
+                // that happens to the window when we click it doesn't happen
+                // in this case because the map is already idle, and if the
+                // marker will fit fully on the screen the map doesn't have to
+                // move anywhere so is never "idle" again to trigger it.
+                // Instead we fire it immediately.
+                adjustInfoWindowPosition(mySociety.$map);
             });
         }
         else {
             // We're probably already centred on the marker, so make sure it's
             // open
             google.maps.event.trigger(marker, 'click');
+            // This is another hack, The map never moves and so is never
+            // "idle" to trigger it. We fire it immediately instead.
+            adjustInfoWindowPosition(mySociety.$map);
         }
     };
 
@@ -229,9 +239,9 @@ _.templateSettings = {
 
     // Check if the currently shown info window is far enough from the top
     // of the map to not be hidden under the search box
-    var adjustInfoWindowPosition = function($map) {
+    var adjustInfoWindowPosition = function() {
         var marginNeeded = 100;
-        var mapOffset = Math.round($map.offset().top);
+        var mapOffset = Math.round(mySociety.$map.offset().top);
         var infoWindowOffset = Math.round($('.map-marker').parent().parent().offset().top);
         var difference = infoWindowOffset - mapOffset;
         if (difference < marginNeeded) {
@@ -322,6 +332,8 @@ _.templateSettings = {
         mySociety.watlingStreet.setMap(map);
         mySociety.watlingStreetShadow.setMap(map);
 
+        mySociety.$map = $map;
+
         // Add the markers to the map
         _.each(mySociety.kepnData, function(placelist, name) {
             _.each(placelist, function(place) {
@@ -381,9 +393,9 @@ _.templateSettings = {
                     }
 
                     // When the info window is in place, make sure it's not
-                    // under the search box
+                    // under the search box.
                     google.maps.event.addListenerOnce(map, 'idle', function(){
-                        adjustInfoWindowPosition($map);
+                        adjustInfoWindowPosition();
                     });
 
                 });
